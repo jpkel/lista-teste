@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades", Nature Tv [HD] Brasil
+#EXTINF:-1 tvg-logo="https://i0.wp.com/birdwatchinghq.com/wp-content/uploads/2017/10/nature-pbs.jpeg" group-title="Variedades", Nature Tv [HD] Brasil
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/birdwatchinghq.com/wp-content/uploads/2017/10/nature-pbs.jpeg" group-title="Variedades", Nature Tv [HD] Brasil
+#EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades", Nature Tv [HD] Brasil
 https://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingtvof.png" group-title="Variedades", Loading
 https://centurylink.br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingtvof.png" group-title="Variedades", Loading
+https://aws-br.cdn.booyah.live/hls/1000003/master_34850987.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="Variedades", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -21,14 +24,14 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_06/large.lifechannelbr.png.ac20f1c000dd3af951f9e8abe30b4190.png" group-title="||", Life Channel Brasil [HD/ Variedades/ Documentários]
 https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="RELIGIOSO", Rede Boas Novas [Evangélica]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="RELIGIOSO", Rede Boas Novas [Evangélica] -logo- esse sim
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/w1200-h630-p-k-no-nu/Rede_Boas_Novas.png" group-title="RELIGIOSO", Rede Boas Novas [Evangélica]
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/w1200-h630-p-k-no-nu/Rede_Boas_Novas.png" group-title="RELIGIOSO", Rede Boas Novas [Evangélica] -logo- esse não
 https://0.0.0.1
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f323b96a01b3fc9a0c5902bd616213b.png" group-title="RELIGIOSO", Rede Gênesis de TV [Evangélica] embed - m3u8?
-https://video.ibm.com/embed/23971225
+https://video.ibm.com/embed/23971225.m3u8
 
 
 
@@ -84,7 +87,7 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://tvaberta.xyz/wp-content/uploads/2020/09/kronostv.png" group-title=" grupo do canal ", Kronos Movie WEB TV [Filmes]
 https://livefocamundo.com:8081/8588/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title=" grupo do canal ", Kronos Movie WEB TV [Filmes] CX - BA - Vitória da Conquista
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LlgvAopiSFI/Xu-Jyoc4xiI/AAAAAAABY-k/EsjFYOGFIM45NXgYh3JQ0oocjg39cQQJwCK4BGAYYCw/s1600/Kr%25C3%25B3nos%2BMovie%2BWeb%2BTV.jpg" group-title=" grupo do canal ", Kronos Movie WEB TV [Filmes] CX - BA - Vitória da Conquista = OK
 https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LlgvAopiSFI/Xu-Jyoc4xiI/AAAAAAABY-k/EsjFYOGFIM45NXgYh3JQ0oocjg39cQQJwCK4BGAYYCw/s1600/Kr%25C3%25B3nos%2BMovie%2BWeb%2BTV.jpg" group-title=" grupo do canal ", Kronos Movie WEB TV [Filmes] site - BA - Vitória da Conquista
@@ -113,6 +116,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title=” grupo do canal ”, Top TV | Tv Estado-Rede NGT [Clipes| Variedades]
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="109853" tvg-name="Top TV" tvg-logo="https://lh3.googleusercontent.com/-UXc734ztZfU/X0KOOvmuZAI/AAAAAAAA440/6ngQMIIe7Ukh8ugZlXJwxSnlbiiVz-bZQCK8BGAsYHg/s0/2020-08-23.png", Top TV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bab0b4120cd8fd44d8de71e5767ea959.png" group-title=” grupo do canal ”, Tv Viva De Confissão Reformada [Evangélica/ Documentários]
 https://stmv2.voxtvhd.com.br/12009/12009/playlist.m3u8
@@ -190,19 +196,22 @@ https://596639ebdd89b.streamlock.net:443/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title=”CE”, Tv Aracati
 https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title=”[Filmes/ Desenhos/ Seriados]”, Tv Aracati
-https://jquery-1.12.4.min.js
-
 #EXTINF:-1 tvg-logo="https://focamundo.com/media/com_allvideoshare/videos/2020-10/whatsappimage20201028at21.16.255f9a2b19ba416.png" group-title="CE", Tv V.M (Madalena) fora do ar
 https://livefocamundo.com:8081/8606/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="CE", Tv V.M (Fortaleza)
+https://5e36c064a2f6a.streamlock.net:1936/8296/8296/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”CE”, Tv Latina Sat Web (Fortaleza)
 https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”CE”, Tv Latina Sat Web (Fortaleza) CX-ok
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”CE”, Tv Latina Sat Web (Fortaleza) CX-ok - site?
 https://5e36c064a2f6a.streamlock.net:1936/8432/8432/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”CE”, Tv Latina Sat Web (Fortaleza) site
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”CE”, Tv Latina Sat Web (Fortaleza) CX-ok
+https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”CE”, Tv Latina Sat Web (Fortaleza)[Filmes/ Desenhos/ HD] site-ok
 https://livefocamundo.com:8081/8470/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V4wy4iIDVzotDz9jeKnTZzcijzsBkg5DcupbeVTWH4_ZxnL7NalJvMPzOg4TTm-FvAn-=s200" group-title="CE", Tv Camocim Web 
@@ -231,9 +240,6 @@ http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5e249472f83e34e44979ae5e82cbe9ed.jpg" group-title="CE", Tv W.M (Fortaleza)
 https://stmv2.voxtvhd.com.br/tvwm/tvwm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="CE", Tv W.M (Fortaleza)
-https://5e36c064a2f6a.streamlock.net:1936/8296/8296/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/9-KZrshFxi8qkSoGb-oQnBIenvMWMF5bz3rxSJaziZx1vuMwtEjmPQLM3V4C98WVjlgPVKVW6w_xg2GxjT75JFifoyJgMrAQU94YpNA0OfJSjdL25s0a-1rLu66aIsnz" group-title="CE", Rede Encauca (Fortaleza)
 https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
@@ -833,6 +839,12 @@ https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pe.png" group-title=” ”, ### CANAIS de Pernambuco ###
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://tvnova.com.br/wp-content/uploads/2020/07/rede-nova-nordeste-colorida.png" group-title=” grupo do canal ”, TV Nova Nordeste (Cultura PE) [Educativos/ (HD)/ Variedades]
+https://player.comets.com.br/?video=https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da8fecf959f730dd05d649b46fa80298.png" group-title=” grupo do canal ”, TV Nova Nordeste (Cultura PE) [Educativos/ (HD)/ Variedades]
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6b1ce5889bd3f1b4cc540cb1595f2880.png" group-title=” grupo do canal ”, Tv Vitoria PE/ Tv evangelizar [Variedades| Católica]
 https://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/playlist.m3u8
 
@@ -1054,6 +1066,9 @@ https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rn.png" group-title=” ”, <<< CANAIS do Rio Grande do Norte >>>
 http://0.0.0.0
+
+#EXTINF:-1 tvg-id="111633" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db99fa9edaa26956790f577b63d21e61.png" group-title=” grupo do canal ”, TV Tropical (RecordTV RN) [Variedades]
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
@@ -2022,86 +2037,3 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bdb8624712ed607877388dc76d175572.png" group-title=” grupo do canal ”, Araguaia Tv [Variedades| Filmes]
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/add42dfe258754b7c02eb3485f3fcb3f.jpg" group-title=” grupo do canal ”, TV Jornal (SBT PE) [Variedades] sbt-pe 
-http://www.cxtv.com.br/tv-ao-vivo/tv-jornal-sbt-pe
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/add42dfe258754b7c02eb3485f3fcb3f.jpg" group-title=” grupo do canal ”, TV Jornal (SBT PE) [Variedades] css
-https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/skin/skin.min.css
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/add42dfe258754b7c02eb3485f3fcb3f.jpg" group-title=” grupo do canal ”, TV Jornal (SBT PE) [Variedades] js
-https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/flowplayer.min.js
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/add42dfe258754b7c02eb3485f3fcb3f.jpg" group-title=” grupo do canal ”, TV Jornal (SBT PE) [Variedades] js
-http://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/add42dfe258754b7c02eb3485f3fcb3f.jpg" group-title=” grupo do canal ”, TV Jornal (SBT PE) [Variedades] you tube
-"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613940692/ei/dHMyYL7KBIi_wgSqyI_oDw/ip/45.70.64.202/id/59cCjWUXgrU.1/source/yt_live_broadcast/requiressl/yes/tx/23980482/txs/23980480%2C23980481%2C23980482/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHqNE-__cqC9M50PErPwdKIMKM31aui4ArQM3pdAnT9gCIFyplbuEqDMZVse_B96E7apUWcoDcIxQMtGyu88RJoZY/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvnova.com.br/wp-content/uploads/2020/07/rede-nova-nordeste-colorida.png" group-title=” grupo do canal ”, TV Nova Nordeste (Cultura PE) [Educativos/ (HD)/ Variedades]
-https://player.comets.com.br/?video=https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da8fecf959f730dd05d649b46fa80298.png" group-title=” grupo do canal ”, TV Nova Nordeste (Cultura PE) [Educativos/ (HD)/ Variedades]
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cd28bd9c1feedb974e4abc8bd0a08576.jpg" group-title=” grupo do canal ”, Rede Meio Norte [Variedades]
-https://static-fastly.livestream.com/unsupported.mp4","m3u8_url"
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cd28bd9c1feedb974e4abc8bd0a08576.jpg" group-title=” grupo do canal ”, Rede Meio Norte [Variedades]
-https://static-fastly.livestream.com/unsupported.mp4
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cd28bd9c1feedb974e4abc8bd0a08576.jpg" group-title=” grupo do canal ”, Rede Meio Norte [Variedades]
-http://api.new.livestream.com/accounts/3332377/events/9532430/videos/217587885.m3u8?token=6032c72b_e2ac257222e1617e7aaec6f33537c380ec7edbfb
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cd28bd9c1feedb974e4abc8bd0a08576.jpg" group-title=” grupo do canal ”, Rede Meio Norte [Variedades]
-https://api.new.livestream.com/accounts/3332377/events/9532430/videos/217587885.secure.m3u8?token=6032c72b_54febba315d6402a9ef13238cdf0619cab142a78
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title=” grupo do canal ”, TV Jornal Meio Norte [Notícias]
-https://api.new.livestream.com/accounts/3332377/events/9511941/broadcasts/217812948.secure.m3u8?dw=80&hdnea=st=1613940981~exp=1613942781~acl=/i/3332377_9511941_lsijdcikmfdzwtr59fn_1@687975/*~hmac=7175f7b07d7383e48c653306c69302e8170954b1fd8e9abb12594cdd68a7f258&token=6032ca21_7a6fdff2e6962b38d9c6b7b1d19308f732ccf847
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title=” grupo do canal ”, TV Jornal Meio Norte [Notícias]
-https://api.new.livestream.com/accounts/3332377/events/9511941/broadcasts/217812948.secure.smil","m3u8_url"
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title=” grupo do canal ”, TV Jornal Meio Norte [Notícias]
-https://api.new.livestream.com/accounts/3332377/events/9511941/broadcasts/217812948.secure.smil.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title=” grupo do canal ”, TV Jornal Meio Norte [Notícias]
-http://api.new.livestream.com/accounts/3332377/events/9511941/broadcasts/217812948.m3u8?dw=80&hdnea=st=1613941681~exp=1613943481~acl=/i/3332377_9511941_lsijdcikmfdzwtr59fn_1@687975/*~hmac=6509cfa2a09e39c3ec8665a53cd731e0c8281254b2115c23549cde71ced830ca&token=6032ccdd_88108f45e10566ddac0fa7d21c082997ecb744e7
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title=” grupo do canal ”, TV Jornal Meio Norte [Notícias]
-https://api.new.livestream.com/accounts/3332377/events/9511941/broadcasts/217812948.secure.m3u8?dw=80&hdnea=st=1613941681~exp=1613943481~acl=/i/3332377_9511941_lsijdcikmfdzwtr59fn_1@687975/*~hmac=6509cfa2a09e39c3ec8665a53cd731e0c8281254b2115c23549cde71ced830ca&token=6032ccdd_8d0b8bc99a6dd57a1926ef3bf7f69965b06db382
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title=” grupo do canal ”, TV Jornal Meio Norte [Notícias]
-http://cdn.livestream.com/deploy/apps/production/events/5.2.37/stylesheets/events.css
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf3668e84211c88762609d7bc1851c82.png" group-title=” grupo do canal ”, TV Jenipapo [Variedades] ERRO
-https://playerv.voxtvhd.com.br/28e58d97-c2f2-407b-8acf-3db89e5515b5
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf3668e84211c88762609d7bc1851c82.png" group-title=” grupo do canal ”, TV Jenipapo [Variedades] ERRO
-https://www.googletagmanager.com/gtag/js?id=UA-1640743-18
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf3668e84211c88762609d7bc1851c82.png" group-title=” grupo do canal ”, TV Jenipapo [Variedades] ERRO
-https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/skin/skin.min.css
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf3668e84211c88762609d7bc1851c82.png" group-title=” grupo do canal ”, TV Jenipapo [Variedades] ERRO
-https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/flowplayer.min.js
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf3668e84211c88762609d7bc1851c82.png" group-title=” grupo do canal ”, TV Jenipapo [Variedades] ERRO
-http://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="Variedades", Globo SP
-https://v.pinimg.com/videos/mc/hls/f8/03/69/f803692b0c42fe1e3974cd8634e0d516.m3u8

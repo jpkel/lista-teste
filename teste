@@ -6,6 +6,9 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades", Nature Tv [HD] Brasil
 https://0.0.0.0
 
+#EXTINF:-1 tvg-logo="" group-title="Variedades", - - - LOADING'
+https://aws-br.cdn.booyah.live/hls/1000003/master_34850987.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingtvof.png" group-title="Variedades", Loading
 https://centurylink.br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
 

@@ -222,11 +222,30 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ” , CANAIS do Ceará ::::::.
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, =CANAIS do Ceará=
+https://video.rnp.br:443/portal/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |==\CANAIS do Ceará/==|
+http://0.0.0.2
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |=\CANAIS do Ceará/=|
+http://0.0.0.3
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |=|CANAIS do Ceará|=|
+http://0.0.0.4
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |=CANAIS do Ceará=|
+http://0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/TV_Assembleia_%28Cear%C3%A1%29.png" group-title="Publicos", Tv Assembleia-CE (Fortaleza)
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Logotipo_da_TV_O_Povo.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza)
+http://
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="Variedades",Tv Metrópole/ Tv Escola (Fortaleza)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -240,8 +259,14 @@ https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sistemamaior.com.br/midias/static/logos/sertao_tv.png" group-title="Variedades", Sertão Tv (Quixeramobim)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c70c8f8099730a84bf271395381692e.png" group-title="Variedades", Sertão Tv (Quixeramobim)
+http://
+
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="Variedades", Tv Centro Sul (Iguatu)
 https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c0ec00ce28d7569714d1872af6245dc5.png" group-title="Variedades", Tv Centro Sul (Iguatu)
+http://
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Variedades", Tv Padre Cicero (Juazeiro do Norte)
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
@@ -250,7 +275,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvjaguar.com.br/images/logo.png" group-title="HD/ Esportes/ Notícias", Tv Jaguar (Limoeiro do Norte) logo-azul
+https://
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99bbf1505fd8b9347d1551de1f02ef78.png" group-title="HD/ Esportes/ Notícias", Tv Jaguar (Limoeiro do Norte) logo-cx
+https://
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_X4Ym2GruIgA_Fd5rdfGzGAVGz_cVz4OFSF7Jqh5Bf0MBllPH7xstqVQyeIOWVrrZ4JK" group-title="Variedades", Tv Iracema
 https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
@@ -258,15 +286,23 @@ https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a9a8f01189ff6702182975edb02bab0.jpg" group-title="Variedades", Tv Iracema -logo-cx-
 https://
 
-#EXTINF:-1 tvg-logo="https://litoraltv.org/wp-content/uploads/2017/01/litoral-3.png" group-title="Variedades", Litoral Tv (Fortaleza) fora do ar
+#EXTINF:-1 tvg-logo="https://litoraltv.org/wp-content/uploads/2017/01/litoral-3.png" group-title="Variedades", Litoral Tv (Fortaleza)
 https://596639ebdd89b.streamlock.net:443/8048/8048/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cdc401151b4d1ea25fb507210d09036e.png" group-title="Variedades", Litoral Tv (Fortaleza)
+https://
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) CX-
 https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) site-
+https://livefocamundo.com:8081/8470/index.m3u8
 
-https:// livefocamundo.com:8081/8470/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
+https://
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza)
+https://
 
 #EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza)
 https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
@@ -275,8 +311,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
 https://5e36c064a2f6a.streamlock.net:1936/8296/8296/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="Seriados/ Música", Tv V.M (Madalena) -logo-CX-
-
-https:// livefocamundo.com:8081/8606/index.m3u8
+https://livefocamundo.com:8081/8606/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b624eb8a5f75f1b38618c537114e7172.jpg" group-title="[Variedades/ Cultural/ Entretenimento]", Tv Ibiapabana (São Benedito)
 https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
@@ -288,7 +323,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3a52ba9e9fac75423d678ea2f9294f7.jpg" group-title="Variedades", Tv Liberdade (Pacajus)
-http://
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://img.apksum.com/cf/com.liveonhosting.liberdadetveradio/4.2.2/icon.png" group-title="Variedades", Tv Liberdade (Pacajus)
 http://
@@ -316,6 +351,9 @@ https://srv1.zcast.com.br/webtvprecabura/webtvprecabura/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e60182cb891f5a4ad9e1b7c78572269e.jpg" group-title="Variedades/ Evangélica", Tv Precabura (Fortaleza) cx
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y6T30CLCPHqGI5O-FY2JPmX87PvJ6fplEjIdnFuhUcVrR4_nWwS7o35nlo42JTOrcO4" group-title="Variedades/ Evangélica", Tv Precabura (Fortaleza) logo-google
+http://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5e249472f83e34e44979ae5e82cbe9ed.jpg" group-title="Evangélica/ Filmes/ Documentários", Tv W.M (Fortaleza)
 https://stmv2.voxtvhd.com.br/tvwm/tvwm/playlist.m3u8

@@ -8,7 +8,7 @@ https://0.0.0.0
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=” ”, \\\\ CANAIS do Acre ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=” - ”, Canais do Acre
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c5b936bdd4962ac6b16d023a2cf8f2b.png" group-title=”Variedades/ Músicas”, TV rádio BNO (AC) Rio Branco -cx-
@@ -22,7 +22,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/al.png" group-title=” ”, //// CANAIS de Alagoas \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/al.png" group-title=” - ”, CANAIS DE ALAGOAS ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aff07db61f3543036647a2ee7e21a528.jpg" group-title=”Variedades”, TV Maceió (AL) Maceió
@@ -66,7 +66,7 @@ https://stmv1.srvif.com/tvriolargo/tvriolargo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ap.png" group-title=” ”, \\\\ CANAIS do Amapá \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ap.png" group-title=” - ”, CANAIS do Amapá \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://www.diariofmmacapa.com.br/wp-content/themes/diariofm/images/logo.png" group-title=”[HD/ Publicos/ Educativos]”, TV Diário Fm Macapá - AP - Macapá -cx-
@@ -80,7 +80,7 @@ https://livefocamundo.com:8081/8236/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/am.png" group-title=” ”, //// CANAIS do Amazonas ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/am.png" group-title=” - ”, CANAIS do Amazonas ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c50659beeacb05f3655fabb042cd8331.png" group-title=”Evangélica”, Tv Web Adorador Gospel (AM) Manaus
@@ -94,7 +94,7 @@ https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ba.png" group-title=” ”, \\\\ CANAIS da Bahia \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ba.png" group-title=” - ”, CANAIS da Bahia \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://tvaberta.xyz/wp-content/uploads/2020/09/kronostv.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista
@@ -218,24 +218,10 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” - ”, CANAIS do Ceará /////
+http://0.0.0.1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ” , CANAIS do Ceará ::::::.
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, =CANAIS do Ceará=
-https://video.rnp.br:443/portal/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |==\CANAIS do Ceará/==|
-http://0.0.0.2
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |=\CANAIS do Ceará/=|
-http://0.0.0.3
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |=|CANAIS do Ceará|=|
-http://0.0.0.4
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” ”, |=CANAIS do Ceará=|
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” - ”, CANAIS do Ceará
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/TV_Assembleia_%28Cear%C3%A1%29.png" group-title="Publicos", Tv Assembleia-CE (Fortaleza)
@@ -252,6 +238,9 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V4wy4iIDVzotDz9jeKnTZzcijzsBkg5DcupbeVTWH4_ZxnL7NalJvMPzOg4TTm-FvAn-=s200" group-title="Variedades/ Clipes", Tv Camocim Web
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/74eeb2765564dd79d85e4d9c11431a87.jpg" group-title="Variedades/ Clipes", Tv Camocim Web
+http://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33c7fc7f10a545696fecb96bd6fe15e1.png" group-title=”Variedades/ Notícias/ Clipes”, TV União/ Rede União (Fortaleza)
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
@@ -299,7 +288,16 @@ https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 https://livefocamundo.com:8081/8470/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
-https://
+https://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/images/q_auto/v1587776840/cropped-LogoLatinaSatLg-1/cropped-LogoLatinaSatLg-1.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
+https://0.0.0.1
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0MG1uCJQfSU/X_iMwuP8yBI/AAAAAAAAEGg/6DMx8gw6BzYc6mapeQABIj3ZBOdlvUZkQCLcBGAsYHQ/s0/TV%2BLATINASAT.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
+https://0.0.0.2
+
+#EXTINF:-1 tvg-logo="" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
+https://0.0.0.3
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza)
 https://
@@ -376,7 +374,7 @@ http://ad.mysisli.com/live/13verdevalelive13/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/df.png" group-title=” ”, \\\\ CANAIS do Distrito Federal \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/df.png" group-title=” - ”, CANAIS do Distrito Federal \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title=” grupo do canal ”, All Sports TV [Esportes]
@@ -408,7 +406,7 @@ https://livefocamundo.com:8081/8766/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/es.png" group-title=” ”, //// CANAIS do Espírito Santo ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/es.png" group-title=” - ”, CANAIS do Espírito Santo ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title=” grupo do canal ”, SIM TV (Record News - ES) [Notícias] 1 -
@@ -446,7 +444,7 @@ https://5c483b9d1019c.streamlock.net/8030/8030/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/go.png" group-title=” ”, \\\\ CANAIS de Goiás \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/go.png" group-title=” - ”, CANAIS de Goiás \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" group-title=” grupo do canal ”, TV Serra Dourada (SBT GO) [Variedades]
@@ -499,7 +497,7 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ma.png" group-title=” ”, //// CANAIS do Maranhão ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ma.png" group-title=” - ”, CANAIS do Maranhão ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd082a2640b45935b4d9fed13af5a966.png" group-title=” grupo do canal ”, TV Difusora-SBT [Variedades]
@@ -540,7 +538,7 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/play
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/mt.png" group-title=” ”, \\\\ CANAIS do Mato Grosso \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/mt.png" group-title=” - ”, CANAIS do Mato Grosso \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/13c521cefbb5fde40d549a9d66891530.png" group-title=” grupo do canal ”, Web Tv Agua Boa (Cidade Verde-MT) [Notícias/ Católica]
@@ -575,7 +573,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvcentro/tvcentro/playlist.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ms.png" group-title=” ”, //// CANAIS do Mato Grosso do Sul ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ms.png" group-title=” - ”, CANAIS do Mato Grosso do Sul ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa2d79aa1de837e717638a2f88268e12.png" group-title=” grupo do canal ”, TV Pantanal [Variedades| Filmes]
@@ -613,7 +611,7 @@ https://stmv6.srvstm.com/novatvn/novatvn/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/mg.png" group-title=” ”, \\\\ CANAIS de Minas Gerais \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/mg.png" group-title=” - ”, CANAIS de Minas Gerais \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a7bcc803390b08473d347197729c75b1.jpg" group-title=” grupo do canal ”, Rede Super [Evangélica] nao 
@@ -720,7 +718,7 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pa.png" group-title=” ”, //// CANAIS do Pará ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pa.png" group-title=” - ”, CANAIS do Pará ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://rbatv.diarioonline.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png" group-title=” grupo do canal ”, RBATV (Band PA) [Variedades] .
@@ -749,7 +747,7 @@ https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pb.png" group-title=” ”, \\\\ CANAIS da Paraíba \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pb.png" group-title=” - ”, CANAIS da Paraíba \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/tvmanchete.png" group-title=” grupo do canal ”, Tv Manchete [Variedades]
@@ -805,7 +803,7 @@ https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/playlist.m
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pr.png" group-title=” ”, //// CANAIS do Paraná ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pr.png" group-title=” - ”, CANAIS do Paraná ////
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/themes/padre/images/logo.png" group-title=” grupo do canal ”, TV Evangelizar [Católica] SD
@@ -933,7 +931,7 @@ https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pe.png" group-title=” ”, \\\\ CANAIS de Pernambuco \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pe.png" group-title=” - ”, CANAIS de Pernambuco \\\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://tvnova.com.br/wp-content/uploads/2020/07/rede-nova-nordeste-colorida.png" group-title=” grupo do canal ”, TV Nova Nordeste (Cultura PE) [Educativos/ (HD)/ Variedades]
@@ -968,7 +966,7 @@ https://stmv3.samcast.com.br/redercc/redercc/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pi.png" group-title=” ”, /// CANAIS do Piauí ///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pi.png" group-title=” - ”, CANAIS do Piauí ///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title=” grupo do canal ”, TV Cidade Verde (SBT PI) [Variedades]
@@ -1000,7 +998,7 @@ https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rj.png" group-title=” ”, \\\ CANAIS do Rio de Janeiro \\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rj.png" group-title=” - ”, CANAIS do Rio de Janeiro \\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title=” grupo do canal ”, TV MAX [Variedades/ Shows/ Clipes] Regional
@@ -1165,9 +1163,12 @@ https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17bae5c1c823ecfd3c0a627432f8afd0.png" group-title=” grupo do canal ”, Luau TV [Variedades] RJ - Nova Friburgo - ERRO
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1f31ec94b01e2800a706d90585efe278.png" group-title=” [Variedades Cultura Filmes ”, Aish Tv Brasil - Israel perto de você! - RJ - Cabo Frio
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rn.png" group-title=” ”, /// CANAIS do Rio Grande do Norte ///
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rn.png" group-title=” - ”, CANAIS do Rio Grande do Norte ///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="111633" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV
@@ -1220,7 +1221,7 @@ http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rs.png" group-title=” ”, \\\ CANAIS do Rio Grande do Sul \\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rs.png" group-title=” - ”, CANAIS do Rio Grande do Sul \\\
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://estado.rs.gov.br/upload/recortes/201707/18004259_999471_GDO.jpg" group-title=” grupo do canal ”, TVE RS (tv Brasil) [Publicos/ Educativos] RS - Santa Tereza
@@ -1387,7 +1388,7 @@ http://k2tvmobile.ios.internapcdn.net/k2tvmobile/live_1/lagoa_tv/lagoa_tv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ro.png" group-title=” ”, /// CANAIS de Rondônia ///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ro.png" group-title=” - ”, CANAIS de Rondônia ///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/737138161e02090fb61d4e60ec069464.png" group-title=” grupo do canal ”, SIC TV (Rede Record RO) [Variedades]
@@ -1413,12 +1414,12 @@ https://usb1.ninacdn.com/ssh101/sgc17/sgc17/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rr.png" group-title=” ”, \\\ CANAIS de Roraima \\\  ||não tem||
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rr.png" group-title=” - ”, \\\ CANAIS de Roraima \\\         |não tem|
 http://0.0.0.0
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/sc.png" group-title=” ”, /// CANAIS de Santa Catarina ///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/sc.png" group-title=” - ”, /// CANAIS de Santa Catarina ///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4a5e9c9d0cb42ba42262b6aa9edba2de.png" group-title=” grupo do canal ”, Premier TV [Variedades| Regional] SC - São José
@@ -1546,7 +1547,7 @@ https://novo.bitstreaming.info:1936/8278/8278/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/sp.png" group-title=” ”, \\\ CANAIS de São Paulo \\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/sp.png" group-title=” - ”, - CANAIS de São Paulo -
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title=” grupo do canal ”, Rede TV! [Variedades/ HD] SP - São Paulo
@@ -2127,10 +2128,7 @@ http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/se.png" group-title=” ”, /// CANAIS do Sergipe ///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/se.png" group-title=” - ”, | CANAIS do Sergipe |
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://www.futebolquarentoes.aju.br/home2/images/imagens/logofqtransparente.png" group-title=” grupo do canal ”, TV ADQS [Futebol]
@@ -2147,7 +2145,7 @@ http://midia.aperipetv.infonet.com.br:1949/live/aperipetv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/to.png" group-title=” ”, \\\ CANAIS de Tocantins \\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/to.png" group-title=” - ”, ||| CANAIS de Tocantins |||
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c79fc304ff76d49891b2c7eff0099f1.png" group-title=” grupo do canal ”, Rede TV! Tocantins [Variedades]
@@ -2155,5 +2153,3 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bdb8624712ed607877388dc76d175572.png" group-title=” grupo do canal ”, Araguaia Tv [Variedades| Filmes]
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
-
-

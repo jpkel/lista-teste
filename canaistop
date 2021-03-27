@@ -8,7 +8,7 @@ https://0.0.0.0
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=”-”, Canais do Acre
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=”-”, -Canais do Acre-
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c5b936bdd4962ac6b16d023a2cf8f2b.png" group-title=”Variedades/ Músicas”, TV rádio BNO (AC) Rio Branco -cx-
@@ -22,7 +22,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/al.png" group-title=”- -”, CANAIS DE ALAGOAS ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/al.png" group-title=”-”, - CANAIS de Alagoas -
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aff07db61f3543036647a2ee7e21a528.jpg" group-title=”Variedades”, TV Maceió (AL) Maceió
@@ -66,7 +66,7 @@ https://stmv1.srvif.com/tvriolargo/tvriolargo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ap.png" group-title=”-/-”, CANAIS do Amapá \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ap.png" group-title=”-”, |CANAIS do Amapá|
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://www.diariofmmacapa.com.br/wp-content/themes/diariofm/images/logo.png" group-title=”[HD/ Publicos/ Educativos]”, TV Diário Fm Macapá - AP - Macapá -cx-
@@ -80,7 +80,7 @@ https://livefocamundo.com:8081/8236/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/am.png" group-title=”-|-”, CANAIS do Amazonas ////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/am.png" group-title=”-”, | CANAIS do Amazonas |
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c50659beeacb05f3655fabb042cd8331.png" group-title=”Evangélica”, Tv Web Adorador Gospel (AM) Manaus
@@ -94,7 +94,7 @@ https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ba.png" group-title=” - ”, CANAIS da Bahia \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ba.png" group-title=”-”, | CANAIS da Bahia |
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://tvaberta.xyz/wp-content/uploads/2020/09/kronostv.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista
@@ -228,7 +228,7 @@ http://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=” - ”, -CANAIS do Ceará /////
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=”-”, |CANAIS do Ceará|
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/TV_Assembleia_%28Cear%C3%A1%29.png" group-title="Publicos", Tv Assembleia-CE (Fortaleza)
@@ -381,35 +381,47 @@ http://ad.mysisli.com/live/13verdevalelive13/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/df.png" group-title=” - ”, CANAIS do Distrito Federal \\\\
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/df.png" group-title=”-”, | CANAIS do Distrito Federal |
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title=” grupo do canal ”, All Sports TV [Esportes]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title=” grupo do canal ”, All Sports TV [Esportes] DF - Brasília
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cg2UrEWoKPI/X--FI_YAedI/AAAAAAAAEEo/ekYtPrZrIgITJ298AdkAg2_sV6bA1aqFgCLcBGAsYHQ/s0/CORNO%2BTV.png" group-title=” grupo do canal ”, Corno Tv - O CHIFRE QUE VOCÊ VÊ [MÚSICAS| CLIPES| VARIEDADES]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1334cc9d017c352142a824679947cb40.png" group-title=”Agronegócio”, Agro Mais - DF - Brasília
+//evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1334cc9d017c352142a824679947cb40.png" group-title=”Agronegócio”, Agro Mais - DF - Brasília
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cg2UrEWoKPI/X--FI_YAedI/AAAAAAAAEEo/ekYtPrZrIgITJ298AdkAg2_sV6bA1aqFgCLcBGAsYHQ/s0/CORNO%2BTV.png" group-title=” grupo do canal ”, Corno Tv - O CHIFRE QUE VOCÊ VÊ [Variedades| MÚSICAS| CLIPES] DF - Brasília
 https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eef65a9389ec284e851ea05617537506.png" group-title=” grupo do canal ”, REDE ESTAÇÃO 26 [Variedades]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eef65a9389ec284e851ea05617537506.png" group-title=” grupo do canal ”, REDE ESTAÇÃO 26 [Variedades] DF - Brasília
 https://novo.bitstreaming.info:1936/redeestacao26tv/redeestacao26tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5f33f7ec5deba04ed06cb0aa82bda5fa.png" group-title=” grupo do canal ”, TVN Brasil [Variedades]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5f33f7ec5deba04ed06cb0aa82bda5fa.png" group-title=” grupo do canal ”, TVN Brasil [Variedades] DF - Brasília
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3164f442867991978299da9684b6b44b.jpg" group-title=” grupo do canal ”, TV Câmara [Publicos/ Cultura]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3164f442867991978299da9684b6b44b.jpg" group-title=” grupo do canal ”, TV Câmara [Publicos/ Cultura] DF - Brasília
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4e58712f10b3d9219c4207cc82f20dcd.png" group-title=” grupo do canal ”, Tv União Brasília [Música| clipes| Variedades] 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4e58712f10b3d9219c4207cc82f20dcd.png" group-title=” grupo do canal ”, Tv União Brasília [Música| clipes| Variedades] DF - Brasília
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1120b1db0ea19e4065aaa9e5f488806a.png" group-title=” grupo do canal ”, Entorno Sul Web Tv [Variedades| Músicas]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1120b1db0ea19e4065aaa9e5f488806a.png" group-title=” grupo do canal ”, Entorno Sul Web Tv [Variedades| Músicas] DF - Brasília
 https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/391c4963508fd1eb9feb04029697a113.jpg" group-title=” grupo do canal ”, TV Comunitária de Brasília DF [Variedades] .
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/391c4963508fd1eb9feb04029697a113.jpg" group-title=” grupo do canal ”, TV Comunitária de Brasília DF [Variedades] DF - Brasília .
 https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b38b273453ed758db6a5978c4ba832ae.png" group-title=” grupo do canal ”, Adorar TV [Evangélica/ Música/ Filmes] .
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b38b273453ed758db6a5978c4ba832ae.png" group-title=” grupo do canal ”, Adorar TV [Evangélica/ Música/ Filmes] DF - Brasília .
 https://livefocamundo.com:8081/8766/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b38b273453ed758db6a5978c4ba832ae.png" group-title=” grupo do canal ”, Adorar TV [Evangélica/ Música/ Filmes] DF - Brasília .
+https://5e36c064a2f6a.streamlock.net:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/04efd4383c6dc4b05b896d2a0a9fc500.jpg" group-title=”Variedades”, TV Radial - DF - Brasília
+http://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 
 
 

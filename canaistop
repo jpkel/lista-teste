@@ -461,8 +461,14 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a90fb69ec4a661155aaae18242135af.png" group-title=” grupo do canal ”, TV Guarapari (tv Brasil/rede minas) [Educativo| Notícias]
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5673cee68ac13e9823b9cb2759fa510f.jpg" group-title=” grupo do canal ”, REDE TV ES [Variedades] .
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5673cee68ac13e9823b9cb2759fa510f.jpg" group-title=” grupo do canal ”, REDE TV ES [Variedades] - ES - Vila Velha
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Redetvespiritosanto.png/revision/latest/scale-to-width-down/340?cb=20210212231430" group-title=” grupo do canal ”, REDE TV! ES [Variedades] - ES - Vila Velha
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/RedeTV%21ES.jpg" group-title=” grupo do canal ”, REDE TV! ES [Variedades] - ES - Vila Velha -logo-
+https://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV SIM SÃO MATEUS (tv Brasil) [Variedades/ Notícias] 1-
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
@@ -616,7 +622,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvcentro/tvcentro/playlist.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ms.png" group-title=”-”, //CANAIS do Mato Grosso do Sul///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ms.png" group-title=”-”, ///CANAIS do Mato Grosso do Sul///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa2d79aa1de837e717638a2f88268e12.png" group-title=” grupo do canal ”, TV Pantanal [Variedades| Filmes]
@@ -1229,7 +1235,7 @@ https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rn.png" group-title=”-”, //CANAIS do Rio Grande do Norte///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rn.png" group-title=”-”, ///CANAIS do Rio Grande do Norte///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="111633" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV
@@ -1282,7 +1288,7 @@ http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rs.png" group-title=”-”, //CANAIS do Rio Grande do Sul///
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rs.png" group-title=”-”, ///CANAIS do Rio Grande do Sul///
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://estado.rs.gov.br/upload/recortes/201707/18004259_999471_GDO.jpg" group-title=” grupo do canal ”, TVE RS (tv Brasil) [Publicos/ Educativos] RS - Santa Tereza
@@ -2220,7 +2226,7 @@ http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="-", |||Canais de Testes|||
+#EXTINF:-1 tvg-logo="" group-title="-", |||Canais em Testes|||
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Seriados", TV Chaves -YouTube-

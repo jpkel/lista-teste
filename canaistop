@@ -12,8 +12,35 @@ https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f57a9beaaa83cbdce4d9512730333d21.jpg" group-title="Agronegócio", Canal do Criador - Brasil
 https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries -Brasil-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22f3a969d2397bff78f2684767dce752.png" group-title="Católica", TV SÉCULO 21 - Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries - Brasil
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180531/yx/kisspng-television-show-kodi-download-film-series-5b0fe35e078815.8490676015277679020309.jpg" group-title="Seriados", TV Séries 2 - Brasil
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Filmes", Classique TV - Brasil -cx-
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="Filmes", Classique Western TV - Brasil -site-
+https://stmv1.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -cx-
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-
+https://StmV1.srvstm.com/classique2/classique2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Desenhos", Retro Cartoon 2 - Brasil
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Desenhos", Retro Cartoon 2 - Brasil -logo-site-
+https://
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e4f123e379b7211da296c21c9c6837a.png" group-title="Variedades", ISTV HD - Brasil
+https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
 
 
 

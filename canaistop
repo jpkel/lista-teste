@@ -4,7 +4,7 @@
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades/ HD", Nature TV HD - Brasil
-https://0.0.0.0
+https: //0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b5fef447f62d556b33598a4abcfbf60.jpg" group-title="Agronegócio", Canal Rural - Brasil
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
@@ -372,13 +372,13 @@ https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc313ddd3bc4d8de0f5939ee8410a56e.jpg" group-title="Cultura/ Filmes/ Variedades", Tv Tremembé (Itarema)
 https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAERxDQm1SQWArGnFJREnp-wfkGGFJjpiOg&usqp=CAU" group-title="Variedades", Tv Liberdade (Pacajus)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAERxDQm1SQWArGnFJREnp-wfkGGFJjpiOg&usqp=CAU" group-title="Variedades", Tv Liberdade (Pacajus) ok
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3a52ba9e9fac75423d678ea2f9294f7.jpg" group-title="Variedades", Tv Liberdade (Pacajus)
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3a52ba9e9fac75423d678ea2f9294f7.jpg" group-title="Variedades", Tv Liberdade (Pacajus) logo-cx
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://img.apksum.com/cf/com.liveonhosting.liberdadetveradio/4.2.2/icon.png" group-title="Variedades", Tv Liberdade (Pacajus)
+#EXTINF:-1 tvg-logo="https://img.apksum.com/cf/com.liveonhosting.liberdadetveradio/4.2.2/icon.png" group-title="Variedades", Tv Liberdade (Pacajus) logo
 http://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/670b916b607af258b7a62dccce8aba95.png" group-title=”Variedades”, TV Guarany (Pacajus)
@@ -850,7 +850,7 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title=” grupo do canal ”, Tv Jornal do Nordeste [Filmes/ Variedades]
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvarapuan.com.br/2019/images/site/logo.png" group-title=” grupo do canal ”, Tv Arapuan (Rede TV PB) [Variedades]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title=” grupo do canal ”, Tv Arapuan (Rede TV PB) [Variedades]
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45ffad7c9e49217ab2e38abcf37196bd.jpg" group-title=” grupo do canal ”, Web Tv Nova Paraiba [Desenhos/ Documentários/ Espírita] Filmes
@@ -862,13 +862,13 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png" group-title=” grupo do canal ”, TV Master [Variedades] Regional 
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7d974ff78b437d7389923b224747a90d.png" group-title=” grupo do canal ”, TV SOL [Variedades] 1 -
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7d974ff78b437d7389923b224747a90d.png" group-title=” grupo do canal ”, TV SOL [Variedades] - PB - Patos 01-
 http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title=” grupo do canal ”, Tv Sol [Variedades] 2 +
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b26c86446e2624ace8c4de654518ec1.png" group-title=” grupo do canal ”, Tv Portal Sol [Variedades] - PB - Patos 02+
 https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1a01ffae865f784fccb39a3bef405949.png" group-title=” grupo do canal ”, Tv Alagoinha [Variedades| Clipes]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1a01ffae865f784fccb39a3bef405949.png" group-title=” grupo do canal ”, Tv Alagoinha/ Evangelizar [Variedades| Clipes]
 http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0cb3fc00ec2adfd013415da064c681bd.png" group-title=” grupo do canal ”, TV Portal Midia [Notícias| Variedades]
@@ -880,8 +880,11 @@ https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/13666d2ae7cb1537bd9eb4c8bcbfb818.png" group-title=” grupo do canal ”, Tv Interativa [Variedades]
 http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/017fd721088105092c54513b07ac61d0.png" group-title=” grupo do canal ”, SRTV PB <Sua Web Tv> [Variedades]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/017fd721088105092c54513b07ac61d0.png" group-title=” grupo do canal ”, SRTV PB -Sua Web Tv- [Variedades]
 https://livefocamundo.com:8081/8694/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/017fd721088105092c54513b07ac61d0.png" group-title=” grupo do canal ”, SRTV PB -Sua Web Tv- [Variedades] novo
+https://5e36c064a2f6a.streamlock.net:1936/8194/8194/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3a1adf7e7ed4aaf908e1bbb4dab3f16b.png" group-title=” grupo do canal ”, TV Cidade Viva [Evangélica]
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8

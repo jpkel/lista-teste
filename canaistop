@@ -21,24 +21,6 @@ https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180531/yx/kisspng-television-show-kodi-download-film-series-5b0fe35e078815.8490676015277679020309.jpg" group-title="Seriados", TV Séries 2 - Brasil
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Filmes", Classique TV - Brasil -cx-
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="Filmes", Classique Western TV - Brasil -site-
-https://stmv1.srvstm.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -cx-
-https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-
-https://StmV1.srvstm.com/classique2/classique2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Desenhos", Retro Cartoon 2 - Brasil
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Desenhos", Retro Cartoon 2 - Brasil -logo-site-
-https://
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e4f123e379b7211da296c21c9c6837a.png" group-title="Variedades", ISTV HD - Brasil
 https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
 
@@ -345,14 +327,11 @@ https://livefocamundo.com:8081/8470/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/images/q_auto/v1587776840/cropped-LogoLatinaSatLg-1/cropped-LogoLatinaSatLg-1.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/images/q_auto/v1587776840/cropped-LogoLatinaSatLg-1/cropped-LogoLatinaSatLg-1.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo
 https://0.0.0.1
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0MG1uCJQfSU/X_iMwuP8yBI/AAAAAAAAEGg/6DMx8gw6BzYc6mapeQABIj3ZBOdlvUZkQCLcBGAsYHQ/s0/TV%2BLATINASAT.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0MG1uCJQfSU/X_iMwuP8yBI/AAAAAAAAEGg/6DMx8gw6BzYc6mapeQABIj3ZBOdlvUZkQCLcBGAsYHQ/s0/TV%2BLATINASAT.png" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo
 https://0.0.0.2
-
-#EXTINF:-1 tvg-logo="" group-title=”Filmes/ Desenhos/ HD”, Tv Latina Sat Web (Fortaleza) logo-cx
-https://0.0.0.3
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza)
 https://
@@ -365,6 +344,12 @@ https://5e36c064a2f6a.streamlock.net:1936/8296/8296/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="Seriados/ Música", Tv V.M (Madalena) -logo-CX-
 https://livefocamundo.com:8081/8606/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ecd19d55a209e3212be60d5b7ee8462.jpg" group-title="Variedades", Tv Nacional News [Icapuí]
+https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tv.nacionalnews.radionline.top/admin/assets/img/logo.png" group-title="Variedades", Tv Nacional News -Icapuí- -logo-
+https://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b624eb8a5f75f1b38618c537114e7172.jpg" group-title="Variedades/ Cultural/ Entretenimento", Tv Ibiapabana (São Benedito)
 https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
@@ -479,15 +464,6 @@ http://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/es.png" group-title=”-”, ///CANAIS do Espírito Santo///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title=” grupo do canal ”, SIM TV (Record News - ES) [Notícias] 1 -
-https://5cf4a2c2512a2.streamlock.net:443/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title=” grupo do canal ”, SIM TV (Record News - ES) [Notícias] 2 +
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a90fb69ec4a661155aaae18242135af.png" group-title=” grupo do canal ”, TV Guarapari (tv Brasil/rede minas) [Educativo| Notícias]
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5673cee68ac13e9823b9cb2759fa510f.jpg" group-title=” grupo do canal ”, REDE TV ES [Variedades] - ES - Vila Velha
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
@@ -497,20 +473,38 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/RedeTV%21ES.jpg" group-title=” grupo do canal ”, REDE TV! ES [Variedades] - ES - Vila Velha -logo-
 https://
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV SIM SÃO MATEUS (tv Brasil) [Variedades/ Notícias] 1-
-https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a90fb69ec4a661155aaae18242135af.png" group-title=” grupo do canal ”, TV Guarapari (tv Brasil/rede minas) [Educativo| Notícias]
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV SIM SÃO MATEUS (tv Brasil) [Variedades/ Notícias] 2+
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title=” grupo do canal ”, SIM TV (Record News - ES) [Notícias] ES - Colatina -CX-01
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV Sim Colatina (tv Brasil) [Variedades/ Notícias/ Educativos]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b560b8e90359b5fea4b59226d138ad5c.jpg" group-title=” grupo do canal ”, SIM TV (Record News - ES) [Notícias] ES - Colatina -SITE-02
+https://5cf4a2c2512a2.streamlock.net:443/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV Sim Colatina (tv Brasil/Tv Cultura) [Variedades/ Notícias/ Educativos] ES - Colatina -cx-01-
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title=” grupo do canal ”, Tv Ambiental [Educativos]
-https://59e4b6c1beddc.streamlock.net/8168/8168/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV Sim Colatina (tv Brasil/Tv Cultura) [Variedades/ Notícias/ Educativos] ES - Colatina -site-02-
+https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV SIM SÃO MATEUS (tv Brasil/Tv Cultura) [Variedades/ Notícias] ES - São Mateus -CX-01
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title=” grupo do canal ”, TV SIM SÃO MATEUS (tv Brasil/Tv Cultura) [Variedades/ Notícias] ES - São Mateus -SITE-02
+https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title=” grupo do canal ”, TV SIM LINHARES [Notícias/ Variedades] ES - Linhares -CX-01
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title=” grupo do canal ”, TV SIM LINHARES [Notícias/ Variedades] ES - Linhares -SITE-02
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8334a5a69175c204436dae453bf633a.png" group-title=” grupo do canal ”, TV Educativa-ES (RBC) [Evangélica| Educativos]
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title=” grupo do canal ”, Tv Ambiental [Educativos]
+https://59e4b6c1beddc.streamlock.net/8168/8168/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0599880a0eaf64bc257d12bc34f01a06.jpg" group-title=” grupo do canal ”, GV NEWS [Variedades/ Notícias] erro 
 https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8
@@ -2256,11 +2250,23 @@ http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="-", |||Canais em Testes|||
+#EXTINF:-1 tvg-logo="" group-title="-", |||Canais em Testes Variados|||
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Seriados", TV Chaves -YouTube-
-https://www.youtube.com/playlist?list=UUrDex11_VS0ye_0GfYQD7KA&playnext=1&index=1
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Filmes", Classique TV - Brasil -cx-
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6d738376d63207eacd6a71322895a60.png" group-title="Seriados", TV Chaves - YouTube
-https://www.youtube.com/watch?v=bESwsrQzgeI&list=UUrDex11_VS0ye_0GfYQD7KA&index=2
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="Filmes", Classique Western TV - Brasil -site-
+https://stmv1.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -cx-
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-
+https://StmV1.srvstm.com/classique2/classique2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Desenhos", Retro Cartoon 2 - Brasil
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Desenhos", Retro Cartoon 2 - Brasil -logo-site-
+https://

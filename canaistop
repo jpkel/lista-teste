@@ -169,8 +169,8 @@ https://stmv1.mestrestreamvideo.xyz/amodelo/amodelo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aab1d14178a0f45aec1c21e1407d30dd.png" group-title="Variedades/ Músicas", rádio m2o/ TV Feira de Santana - BA - Feira de Santana - TV Brasil 2 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Variedades/ Clipes", Tv Estado/ Top TV/ NGT - BA - Salvador
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Variedades/ Clipes", Tv Estado/ Top TV/ NGT - BA - Salvador -.-
+http://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="Católica/ Cultura", Tv Novo Milênio - BA - Salvador
 https://stmv3.samcast.com.br/jaguaraci8037/jaguaraci8037/playlist.m3u8
@@ -957,7 +957,7 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f36b32941e0d5c63c4771dcea3fdae5.png" group-title="Variedades/ Música", Top Tv Paraná - PR - Curitiba
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Clipes .Variedades", Top TV Bahia/ Tv Estado-Rede NGT -
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Clipes .Variedades", Top TV Bahia/ Tv Estado-Rede NGT -.-
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo-small.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba
@@ -975,35 +975,50 @@ https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f50cbf88b83e261740d68fba907a6dd.jpg" group-title="Notícias/ Variedades .Filmes", Londrina TV - PR - Londrina -erro?-site-
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title=" grupo do canal ", MundoTV HD [Música/ Variedades/ Alta Definição (HD)] - cx
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="Variedades .Educativos", Master TV| Tv Educação - PR - Cascavel
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title="Música/ Variedades/ HD", MundoTV HD - PR - Francisco Beltrão - cx
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title=" grupo do canal ", MundoTV SD [Música/ Variedades/ Alta Definição (HD)] - site
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title="Música/ Variedades/ HD", MundoTV SD - PR - Francisco Beltrão - site
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cd9b9788829bcef4a6692b4ff86cf3a.png" group-title=" grupo do canal ", RTV Canal 38 (TV Cultura-PR) [Variedades] Regional
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/95b87ff88cf146e5fac1f609cc0fa419.png" group-title=" grupo do canal ", TV Evangelizar Maringá [Católica] SD
 http://5fb29de4928ea.streamlock.net/id2252/id2252/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title=" grupo do canal ", Master TV| Tv Educação [Variedades| Educativos] .
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6788ade239f63ac5f8262c188729285c.jpg" group-title=" grupo do canal ", TV Paraná Turismo (Cultura PR) [Educativos/ Cultura]
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title=" grupo do canal ", Canal 10 Foz do Iguaçu [Variedades| Filmes| Séries| Clipes]
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png" group-title=" grupo do canal ", 1001 Noites [Televendas]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title=" grupo do canal ", TV CATVE (Cultura PR) [Variedades/ Alta Definição (HD)]
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/catve_fm_crop_200x200.jpg" group-title=" grupo do canal ", Catve FM Cascavel 91.7 - Estúdio Ao Vivo [Estúdios de rádio]
+#EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/catve_fm_crop_200x200.jpg" group-title=" grupo do canal ", Catve FM Cascavel 91.7 - Estúdio Ao Vivo [Estúdios de rádio]-ok
 http://wowza4.catve.com.br:1935/radiocamera/livestream/chunklist_w752834162.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df388cea00993608e0217025e30ef516.png" group-title=" grupo do canal ", Catve FM Foz 91.9 - Estúdio Ao Vivo [Estúdios de rádio] .
 http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6788ade239f63ac5f8262c188729285c.jpg" group-title=" grupo do canal ", TV Paraná Turismo (Cultura PR) [Educativos/ Cultura]
-http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR)
+https://5b33b873179a2.streamlock.net:1443/"+app+"/"+stream+"/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png" group-title=" grupo do canal ", 1001 Noites [Televendas]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR)
+https://5b33b873179a2.streamlock.net:1443/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cd9b9788829bcef4a6692b4ff86cf3a.png" group-title=" grupo do canal ", RTV Canal 38 (TV Cultura-PR) [Variedades] Regional
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR)
+https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2F"+app+"%2F"+stream+"%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Adiana (PR)
+https://5b33b873179a2.streamlock.net:1443/"+app+"/"+stream+"/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa9192705c846cd7ff70ea9176bceecc.png" group-title=" grupo do canal ", TV Transamérica [Variedades] ERRO 
 http://5953e7f9ae845.streamlock.net/ponto2/transamerica2/playlist.m3u8
@@ -1016,9 +1031,6 @@ https://srv1.uaihost.video/tvviana/tvviana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cbceeee0c3bccb4adc9437c0df63cd4a.jpg" group-title=" grupo do canal ", CEF WEB TV [Variedades| Filmes]
 https://5e36c064a2f6a.streamlock.net:1936/8010/8010/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title=" grupo do canal ", Canal 10 Foz do Iguaçu [Variedades| Filmes| Séries| Clipes]
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dfc2cda465307e3040ffe29d4849e87.jpg" group-title=" grupo do canal ", CWB TV - O Canal Comunitário de Curitiba [Variedades| Clipes]
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8

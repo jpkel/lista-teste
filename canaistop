@@ -975,7 +975,7 @@ https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f50cbf88b83e261740d68fba907a6dd.jpg" group-title="Notícias/ Variedades .Filmes", Londrina TV - PR - Londrina -erro?-site-
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="Variedades .Educativos", Master TV| Tv Educação - PR - Cascavel
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="Variedades .Educativos", Master TV/ Tv Educação - PR - Cascavel
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title="Música/ Variedades/ HD", MundoTV HD - PR - Francisco Beltrão - cx
@@ -984,43 +984,49 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title="Música/ Variedades/ HD", MundoTV SD - PR - Francisco Beltrão - site
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cd9b9788829bcef4a6692b4ff86cf3a.png" group-title=" grupo do canal ", RTV Canal 38 (TV Cultura-PR) [Variedades] Regional
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cd9b9788829bcef4a6692b4ff86cf3a.png" group-title="Variedades", RTV Canal 38 (TV Cultura-PR) - PR - Apucarana
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/95b87ff88cf146e5fac1f609cc0fa419.png" group-title=" grupo do canal ", TV Evangelizar Maringá [Católica] SD
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/95b87ff88cf146e5fac1f609cc0fa419.png" group-title="Católica", TV Evangelizar Maringá SD - PR - Maringá
 http://5fb29de4928ea.streamlock.net/id2252/id2252/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6788ade239f63ac5f8262c188729285c.jpg" group-title=" grupo do canal ", TV Paraná Turismo (Cultura PR) [Educativos/ Cultura]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6788ade239f63ac5f8262c188729285c.jpg" group-title="Educativos/ Cultura", TV Paraná Turismo (Cultura PR) - PR - Curitiba
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title=" grupo do canal ", Canal 10 Foz do Iguaçu [Variedades| Filmes| Séries| Clipes]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/356eff7139d36ea60f5952cac203f51c.jpg" group-title="Variedades .Filmes .Séries .Clipes", Canal 10 Foz do Iguaçu - PR - Foz do Iguaçu
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png" group-title=" grupo do canal ", 1001 Noites [Televendas]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png" group-title="Televendas", 1001 Noites - PR - Curitiba
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title=" grupo do canal ", TV CATVE (Cultura PR) [Variedades/ Alta Definição (HD)]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3559796c3af8698f1de6163c34454cb.jpg" group-title="Variedades/ HD", TV CATVE (Cultura PR) - PR - Cascavel
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/catve_fm_crop_200x200.jpg" group-title=" grupo do canal ", Catve FM Cascavel 91.7 - Estúdio Ao Vivo [Estúdios de rádio]-ok
+#EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/catve_fm_crop_200x200.jpg" group-title="Estúdios de rádio", Catve FM Cascavel 91.7 - Estúdio Ao Vivo - PR - Cascavel 01-cx
 http://wowza4.catve.com.br:1935/radiocamera/livestream/chunklist_w752834162.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df388cea00993608e0217025e30ef516.png" group-title=" grupo do canal ", Catve FM Foz 91.9 - Estúdio Ao Vivo [Estúdios de rádio] .
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df388cea00993608e0217025e30ef516.png" group-title="Estúdios de rádio", Catve FM Foz 91.9 - Estúdio Ao Vivo -PR- Foz do Iguaçu 02-cx
 http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR)
-https://5b33b873179a2.streamlock.net:1443/"+app+"/"+stream+"/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR)
+#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR) -erro?-
 https://5b33b873179a2.streamlock.net:1443/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Ponte da Amizade (PR)
-https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2F"+app+"%2F"+stream+"%2Fplaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ee125aec08a755820f95505820d3119.jpg" group-title="Agronegócio .Seriados", Canal da Pecuária - PR - Palmital
+https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Câmeras ao vivo", Câmeras ao vivo - Adiana (PR)
-https://5b33b873179a2.streamlock.net:1443/"+app+"/"+stream+"/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3273e6ac3e1898fe443ef9182133054a.png" group-title="Espírita", Tv Espírita Do Paraná - PR - Curitiba
+https://srv4.zcast.com.br/rodney2576/rodney2576/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa9192705c846cd7ff70ea9176bceecc.png" group-title=" grupo do canal ", TV Transamérica [Variedades] ERRO 
+#EXTINF:-1 tvg-logo="https://ieadcvilaverde.com.br/images/logo-ieadc-congregacao-vila-verde-1.png" group-title="Evangélica/ Filmes/ Desenhos", Tv Web Igreja Evangélica Assembleia de Deus em Curitiba (TV IEADC Vila Verde) - PR - Curitiba
+https://srv1.uaihost.video/ieadcvilaverde/ieadcvilaverde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e04f979165272737655076e1f7093073.png" group-title="Evangélica/ Filmes/ Desenhos", Tv Web Igreja Evangélica Assembleia de Deus em Curitiba (TV IEADC Vila Verde) - PR - Curitiba -logo-cx-
+http://srv1.uaihost.video/ieadcvilaverde/ieadcvilaverde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e46b6957a4c9e7cabdefbeb8cf7f7fbb.png" group-title="Notícias/ Música/ Cultura", TV A Folha (TVA) - PR - Palmas -cx-site-erro?-
+https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa9192705c846cd7ff70ea9176bceecc.png" group-title=" grupo do canal ", TV Transamérica [Variedades] ERRO
 http://5953e7f9ae845.streamlock.net/ponto2/transamerica2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/38f1a6d7cbee0c2ad50deaa3d80efafc.png" group-title=" grupo do canal ", Virtual TV [Variedades| Clipes]
@@ -1047,14 +1053,8 @@ https://5cf4a2c2512a2.streamlock.net:443/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33cdeadfe59117412cb6280100809075.png" group-title=" grupo do canal ", Tv Beltrão 2 (tv Brasil) [Variedades]
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ieadcvilaverde.com.br/images/logo-ieadc-congregacao-vila-verde-1.png" group-title=" grupo do canal ", Tv Web Igreja Evangélica Assembleia de Deus em Curitiba [Evangélica/ Filmes/ Desenhos] ERRO 
-https://srv1.uaihost.video/ieadcvilaverde/ieadcvilaverde/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6c784ddabfeb6d5db24c78b6092082e4.png" group-title=" grupo do canal ", Web Tv Paraná [Variedades| Evangélica| Eventos]
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ee125aec08a755820f95505820d3119.jpg" group-title=" grupo do canal ", Canal da Pecuária [Agronegócio| Seriados] PR - Palmital
-https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng0n-6ZMCZCpYo3qR-L18Lc9pm7Q9bgoeCYyhOw=s900-c-k-c0x00ffffff-no-rj" group-title=" grupo do canal ", Alternativa Web Tv-Ivaí [Variedades| Clipes] Sertanejo
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
@@ -1067,9 +1067,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/ch
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7d7f8363c1788b1e6edea795993e291e.png" group-title=" grupo do canal ", Tenda TV [Evangélica| Variedades]
 https://stmv1.srvstm.com/9696/9696/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e46b6957a4c9e7cabdefbeb8cf7f7fbb.png" group-title=" grupo do canal ", TV A Folha (TVA) [Notícias/ Música/ Clipes/ Cultura]
-https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/tvwebagrotour.com.br/images/logo/logo_1876101395.png" group-title=" grupo do canal ", Nova TV Agrotour [Variedades/ Clipes]
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8

@@ -1209,175 +1209,178 @@ https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rj.png" group-title=”-”, ///CANAIS do Rio de Janeiro///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title=" grupo do canal ", TV CARIOCA.NET [HD/ Filmes/ Música] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="HD/ Filmes/ Música", TV CARIOCA.NET - RJ - Rio de Janeiro
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title=" grupo do canal ", TV MAX [Variedades| Shows| Clipes] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="Variedades .Shows .Clipes", TV MAX - RJ - Rio de Janeiro
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40b8a2a4154e2c07fc3585c1ca1aeee5.png" group-title=" grupo do canal ", Rede TV! Rio [Variedades] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40b8a2a4154e2c07fc3585c1ca1aeee5.png" group-title="Variedades", Rede TV! Rio - RJ - Rio de Janeiro
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/bdbc7e811e1bf6959255a27c666c54d0.png" group-title=" grupo do canal ", Rede TV! Rio [Variedades] - RJ - Rio de Janeiro -logo-
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/bdbc7e811e1bf6959255a27c666c54d0.png" group-title="Variedades", Rede TV! Rio - RJ - Rio de Janeiro -logo-
 http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title=" grupo do canal ", Tv Metropolitana Rio [Variedades/ Cultura/ Filmes/ Clipes] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Variedades/ Cultura/ Filmes .Clipes", Tv Metropolitana Rio - RJ - Rio de Janeiro
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4c24ac0f22000469a51f62eebae66ffb.png" group-title=" grupo do canal ", Rede NGT [Variedades] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4c24ac0f22000469a51f62eebae66ffb.png" group-title="Variedades", Rede NGT - RJ - Rio de Janeiro
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ef1e165d6e3dc7cb5fe6fdc193b9ef04.png" group-title=" grupo do canal ", Rede Boas Novas [Evangélica] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ef1e165d6e3dc7cb5fe6fdc193b9ef04.png" group-title="Evangélica", Rede Boas Novas - RJ - Rio de Janeiro
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="RELIGIOSO", Rede Boas Novas [Evangélica] -logo- grande
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="[Evangélica]", Rede Boas Novas -logo- grande
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/w1200-h630-p-k-no-nu/Rede_Boas_Novas.png" group-title="RELIGIOSO", Rede Boas Novas [Evangélica] -logo- pequeno
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/w1200-h630-p-k-no-nu/Rede_Boas_Novas.png" group-title="[Evangélica]", Rede Boas Novas -logo- pequeno
 https://0.0.0.1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee32135a0ae4307048d3b24d0891738f.png" group-title=" grupo do canal ", Tela Viva Tv [Variedades/ Filmes| Desenhos| Séries] RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee32135a0ae4307048d3b24d0891738f.png" group-title="Variedades/ Filmes .Desenhos .Séries.", Tela Viva Tv - RJ - Rio de Janeiro
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/043f14943bd28c969a53abfd08ad8145.jpg" group-title=" grupo do canal ", TV ALERJ [Publicos] RJ - Rio de Janeiro -YOUTUBE-teste
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/043f14943bd28c969a53abfd08ad8145.jpg" group-title="Publicos", TV ALERJ - RJ - Rio de Janeiro -YOUTUBE-teste
 https://www.youtube.com/embed/live_stream?channel=UCH1a8t5cikU9cYa69BLVfbQ&autoplay=1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42162d6ff6427662b1c4e05689e9f8d1.png" group-title=" grupo do canal ", PlayTV [Música] - RJ - Cabo Frio -ERRO-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42162d6ff6427662b1c4e05689e9f8d1.png" group-title="Música", PlayTV - RJ - Cabo Frio -ERRO-
 http://161.97.141.246:8080/hls/playtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40310039540944a5c70fa514a028a399.jpg" group-title=" grupo do canal ", Rede Tv Mais [Variedades/ Filmes] - RJ - Cachoeiras de Macacu
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40310039540944a5c70fa514a028a399.jpg" group-title="Variedades .Filmes", Rede Tv Mais - RJ - Cachoeiras de Macacu
 https://novo.bitstreaming.info:1936/8010/8010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6dbfc1b32a9cb5e754792710fa1e6c1.jpg" group-title=" grupo do canal ", Rede Caxias Tv [Variedades] RJ - Duque de Caxias
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6dbfc1b32a9cb5e754792710fa1e6c1.jpg" group-title="Variedades", Rede Caxias Tv - RJ - Duque de Caxias
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bcbccf746b61a71e20d87f8b52a077e9.png" group-title=" grupo do canal ", Tv Recreio [Desenhos/ Filmes/ Música/ Notícias] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bcbccf746b61a71e20d87f8b52a077e9.png" group-title="Filmes/ Música/ Notícias .Desenhos", Tv Recreio - RJ - Rio de Janeiro
 https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title=" grupo do canal ", GENIALL STUDIO TV [Desenhos/ Variedades/ Filmes] - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title="Desenhos/ Variedades .Filmes", GENIALL STUDIO TV - RJ - Rio de Janeiro
 https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c395ee4019fcd2bcacc342b09d3c9ff7.png" group-title=" grupo do canal ", Diário TV [Variedades] RJ - Teresópolis -youtube-teste
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c395ee4019fcd2bcacc342b09d3c9ff7.png" group-title="Variedades", Diário TV - RJ - Teresópolis -youtube-teste
 https://www.youtube.com/embed/live_stream?channel=UCYA_8op4pkwqWxbmcW-pzzQ&autoplay=1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/741a5eabf6ad9c736f5f9e9527bd1f1a.png" group-title=" grupo do canal ", Ricos TV [Cultura/ Culinária/ Variedades/ Músicas] - RJ - Cabo Frio
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/741a5eabf6ad9c736f5f9e9527bd1f1a.png" group-title="Cultura/ Culinária/ Variedades .Músicas", Ricos TV - RJ - Cabo Frio
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fb03ff6ebe5b890551fe417103bb8d77.jpg" group-title=" grupo do canal ", Rede Litoral News [Variedades] - RJ - Cabo Frio .
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fb03ff6ebe5b890551fe417103bb8d77.jpg" group-title="Variedades", Rede Litoral News - RJ - Cabo Frio .
 https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a64ea45490e42dfa04a4b8acc710323a.png" group-title=" grupo do canal ", TVC 16 - Tv Cidade - Petrópolis [Variedades] - RJ - Petrópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a64ea45490e42dfa04a4b8acc710323a.png" group-title="Variedades", TVC 16 - Tv Cidade Petrópolis - RJ - Petrópolis
 https://stmv1.srvstm.com/tvc162/tvc162/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b143cbe6b0102fa886c2a70af6ded312.png" group-title=" grupo do canal ", Tv Cidade Canal 9 [Variedades] RJ - Teresópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b143cbe6b0102fa886c2a70af6ded312.png" group-title="Variedades", Tv Cidade Canal 9 - RJ - Teresópolis
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1f31ec94b01e2800a706d90585efe278.png" group-title="Variedades/ Cultura/ Filmes", Aish Tv Brasil - Israel perto de você! - RJ - Cabo Frio
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title=" grupo do canal ", VILA TV [Variedades] RJ - Petrópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="Variedades", VILA TV - RJ - Petrópolis
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c78488cc30eda0cedafcf6c5344f0f7.png" group-title=" grupo do canal ", TV Vila Imperial [Variedades] RJ - Petrópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c78488cc30eda0cedafcf6c5344f0f7.png" group-title="Variedades", TV Vila Imperial - RJ - Petrópolis
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a48c648f83403b6f04492ecc69268ca9.png" group-title=" grupo do canal ", TV Turfe - Jockey Club Brasileiro [Esportes] RJ - Rio de Janeiro -youtube-teste-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a48c648f83403b6f04492ecc69268ca9.png" group-title="Esportes", TV Turfe - Jockey Club Brasileiro - RJ - Rio de Janeiro -youtube-teste-
 https://www.youtube.com/embed/live_stream?channel=UCQla7pKe2GX2vp0oMrRbtSw&autoplay=1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70f393e86f50422f044d976256dc0125.png" group-title=" grupo do canal ", Terê Tv [Variedades] RJ - Teresópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70f393e86f50422f044d976256dc0125.png" group-title="Variedades", Terê Tv - RJ - Teresópolis
 https://5b7f3c45ab7c2.streamlock.net/8158/8158/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://igrejacristovive.com.br/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title=" grupo do canal ", Igreja Evangélica Cristo Vive [Evangélica] RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="https://igrejacristovive.com.br/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title="Evangélica", Igreja Evangélica Cristo Vive - RJ - Rio de Janeiro
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3332f4a3f31efb3b808957eac3458616.png" group-title=" grupo do canal ", Igreja Evangélica Cristo Vive [Evangélica] RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3332f4a3f31efb3b808957eac3458616.png" group-title="Evangélica", Igreja Evangélica Cristo Vive - RJ - Rio de Janeiro
 http://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title=" grupo do canal ", Canal Tv Rio [Variedades] RJ - Rio de Janeiro -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="Variedades", Canal Tv Rio - RJ - Rio de Janeiro -cx-
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title=" grupo do canal ", Canal Tv Rio [Variedades] RJ - Rio de Janeiro -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="Variedades", Canal Tv Rio - RJ - Rio de Janeiro -site-
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9e29405fcb5d0ea24baa173a953c256.jpg" group-title=" grupo do canal ", Tv Zoom [Variedades] RJ - Nova Friburgo -novo-link
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9e29405fcb5d0ea24baa173a953c256.jpg" group-title="Variedades", Tv Zoom - RJ - Nova Friburgo -novo-link
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/716650aa93ef58866121f4da175d40f4.jpg" group-title=" grupo do canal ", TV CANAL 3 [Variedades] RJ - Três Rios
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/716650aa93ef58866121f4da175d40f4.jpg" group-title="Variedades", TV CANAL 3 - RJ - Três Rios
 https://59f1cbe63db89.streamlock.net:1443/gabotv3/_definst_/gabotv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/476c03f3d73f224b95acf6d89119ea01.jpg" group-title=" grupo do canal ", Canal CJC [Evangélica/ Variedades] RJ - Rio de Janeiro -site- fora do ar
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/476c03f3d73f224b95acf6d89119ea01.jpg" group-title="Evangélica/ Variedades", Canal CJC - RJ - Rio de Janeiro -site- fora do ar
 http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/127317dae9e3fcaab55eebf684c8f78e.jpg" group-title=" grupo do canal ", Multi Rio Tv [Educativos/ Cultura] RJ - Angra dos Reis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/127317dae9e3fcaab55eebf684c8f78e.jpg" group-title="Educativos/ Cultura", Multi Rio Tv - RJ - Angra dos Reis
 http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title=" grupo do canal ", Tv Mega Brasil [HD/ Notícias/ Cultura] RJ - São João da Barra -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title="HD/ Notícias/ Cultura", Tv Mega Brasil (Tv Metropolitana) - RJ - São João da Barra -cx-
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title=" grupo do canal ", Tv Mega Brasil [HD/ Notícias/ Cultura] RJ - São João da Barra -site-não seguro? Coelhão
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title="HD/ Notícias/ Cultura", Tv Mega Brasil (Tv Metropolitana) - RJ - São João da Barra -site-não seguro? Coelhão
 https://5e36c064a2f6a.streamlock.net:1936/8556/8556/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/41eec6fc7eb20ea68fbcea0031f15db6.jpg" group-title="Variedades", Capital Rio WEB TV - RJ - Rio de Janeiro -cx-Erro
 https://stmv4.srvstm.com/carlosalberto6658/carlosalberto6658/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/245d0e1a9266a0570fde3621c804a2d3.jpg" group-title=" grupo do canal ", Canal Saúde [Publicos/ Educativos] - RJ - Rio de Janeiro -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/245d0e1a9266a0570fde3621c804a2d3.jpg" group-title="Publicos/ Educativos", Canal Saúde - RJ - Rio de Janeiro -cx-
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvopcao.com.br/admin/assets/img/logo.png" group-title=" grupo do canal ", Tv Opção [Variedades/ Músicas/ Desenhos/ Séries/ Filmes Clássicos] RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="https://tvopcao.com.br/admin/assets/img/logo.png" group-title="Variedades .Músicas .Desenhos .Séries .Filmes Clássicos", Tv Opção - RJ - Rio de Janeiro
 https://stmv1.srvstm.com/wladimyr5849/wladimyr5849/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/59b4434dfed5d8797d5c8a8975911f34.jpg" group-title=" grupo do canal ", Tv Radio Avela Web [Evangélica/ Filmes/ Música/ Igrejas] RJ - Campos dos Goytacazes -apenas 1 min-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/59b4434dfed5d8797d5c8a8975911f34.jpg" group-title="Evangélica/ Filmes/ Música/ Igrejas", Tv Radio Avela Web - RJ - Campos dos Goytacazes -cx-apenas 1 min-
 https://video1.earthcam.com/myearthcamclips/_definst_/MP4:20180920/d76371d13cdb1eee7a8d4198272b23cd.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/19059fa71872709ecee1941951475bd3.png" group-title=" grupo do canal ", Caxias TV Comunitária [Variedades] RJ - Duque de Caxias
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/19059fa71872709ecee1941951475bd3.png" group-title="Variedades", Caxias TV Comunitária - RJ - Duque de Caxias
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/34afdf0657bf5883ad46b496fadd2541.png" group-title=" grupo do canal ", Tv Rádio Litoral [Música] RJ - Cabo Frio
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/34afdf0657bf5883ad46b496fadd2541.png" group-title="Música .Clipes", Tv Rádio Litoral - RJ - Cabo Frio
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title=" grupo do canal ", Bem Mais Tv [Variedades/ Publicos] RJ - Petrópolis -site-erro-m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-erro-m3u8-
 http:\/\/iphone-streaming.ustream.tv\/uhls\/23603848\/streams\/live\/iphone\/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title=" grupo do canal ", Bem Mais Tv [Variedades/ Publicos] RJ - Petrópolis -site-teste
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-teste-não func-
 https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23603848/1616937941383/plain/uhs/
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title=" grupo do canal ", Bem Mais Tv [Variedades/ Publicos] RJ - Petrópolis -site-teste
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-teste-embed?-
 http://www.ustream.tv/embed/23603848?html5ui&autoplay=true
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e89f6b604e3913302b885a775f92066.png" group-title=" grupo do canal ", TV INES [Educativos] RJ - Rio de Janeiro -site-erro?
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e89f6b604e3913302b885a775f92066.png" group-title="Educativos", TV INES - RJ - Rio de Janeiro -site-erro?
 https://video.rnp.br:443/portal/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ae7c60f3a49d238afa0204687eb13fd.png" group-title=" grupo do canal ", Ashow! Tv |Bem+TV| [Evangélica/ Educativos] RJ - Petrópolis -site-mesmo endereço-teste
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ae7c60f3a49d238afa0204687eb13fd.png" group-title="Evangélica/ Educativos", Ashow! Tv (Bem+TV) - RJ - Petrópolis -site-mesmo endereço-teste-embed-
 https://www.ustream.tv/embed/23603848?html5ui&autoplay=true
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/10d43ce979a9d6679c4856c7ee7f8d58.png" group-title=" grupo do canal ", Master TV [Variedades] RJ - Angra dos Reis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/10d43ce979a9d6679c4856c7ee7f8d58.png" group-title="Variedades", Master TV - RJ - Angra dos Reis
 http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.redepositivagospel.com.br/admin/assets/img/logo.png" group-title=" grupo do canal ", Rede Positiva Gospel [Evangélica] RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="https://www.redepositivagospel.com.br/admin/assets/img/logo.png" group-title="Evangélica", Rede Positiva Gospel - RJ - Rio de Janeiro
 http://stmv2.voxtvhd.com.br/8090/8090/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8386301562490817220f885286d197db.png" group-title=" grupo do canal ", Rede Positiva Gospel [Evangélica] RJ - Rio de Janeiro -logo-cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8386301562490817220f885286d197db.png" group-title="Evangélica", Rede Positiva Gospel - RJ - Rio de Janeiro -logo-cx-
 https://stmv2.voxtvhd.com.br/8090/8090/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/144f3bedae97025515cb6bc781170753.jpg" group-title=" grupo do canal ", Tv Mais Maricá [Variedades] RJ - Maricá
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/144f3bedae97025515cb6bc781170753.jpg" group-title="Variedades", Tv Mais Maricá - RJ - Maricá
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5b0b07_41d4255f96d04a7d9c03d69a1b44da68~mv2.png/v1/fill/w_210,h_217,al_c,q_85,usm_0.66_1.00_0.01/LOGOMARCA%20TV%20LIBERDADE_edited.webp" group-title=" grupo do canal ", Tv Liberdade [Variedades] RJ - Campos dos Goytacazes -cx-site-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/5b0b07_41d4255f96d04a7d9c03d69a1b44da68~mv2.png/v1/fill/w_210,h_217,al_c,q_85,usm_0.66_1.00_0.01/LOGOMARCA%20TV%20LIBERDADE_edited.webp" group-title="Variedades", Tv Liberdade - RJ - Campos dos Goytacazes -cx-site-
 https://5c483b9d1019c.streamlock.net:443/8238/8238/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7BS-Yo50XGu3Y-HR3AO1aGfC4_WI-JCUfd_ErtX3jVIk3ryylZ6lQNiYvtbWI2oTUfM=s200" group-title=" grupo do canal ", Tv Liberdade Online [Variedades] RJ - Campos dos Goytacazes
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7BS-Yo50XGu3Y-HR3AO1aGfC4_WI-JCUfd_ErtX3jVIk3ryylZ6lQNiYvtbWI2oTUfM=s200" group-title="Variedades", Tv Liberdade Online - RJ - Campos dos Goytacazes -logo google-
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c0b7eb69c9f45379e93a509c0fe62f78.png" group-title=" grupo do canal ", Tv Liberdade Online [Variedades] RJ - Campos dos Goytacazes -logo-cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c0b7eb69c9f45379e93a509c0fe62f78.png" group-title="Variedades", Tv Liberdade Online - RJ - Campos dos Goytacazes -logo-cx-
 https://0.0.0.1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe2e0d701fc497874548b3409a9b9329.png" group-title=" grupo do canal ", Terceira Via TV [Variedades] RJ - Campos dos Goytacazes
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe2e0d701fc497874548b3409a9b9329.png" group-title="Variedades", Terceira Via TV - RJ - Campos dos Goytacazes
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/423124d5c6c21ef24553145ac0701e1e.jpg" group-title=" grupo do canal ", TVC Rio/ TVT [Variedades] RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/423124d5c6c21ef24553145ac0701e1e.jpg" group-title="Variedades", TVC Rio/ TVT - RJ - Rio de Janeiro
 http://206.189.110.55:8080/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17bae5c1c823ecfd3c0a627432f8afd0.png" group-title=" grupo do canal ", Luau TV [Variedades] RJ - Nova Friburgo -cx-site-ERRO-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f854efda0176be238588a55c401fbb3e.png" group-title="Variedades", TVI Petropolis - RJ - Petrópolis
+https://596639ebdd89b.streamlock.net/8038/8038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17bae5c1c823ecfd3c0a627432f8afd0.png" group-title="Variedades", Luau TV - RJ - Nova Friburgo -cx-site-ERRO-
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
 
 
@@ -2031,7 +2034,7 @@ https://59e4b6c1beddc.streamlock.net/8138/8138/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvguaruja.com.br/wp-content/uploads/2016/06/logo1.png" group-title=" grupo do canal ", Tv Guarujá [Variedades] SP - Guarujá -site-
 https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvguaruja.com.br/wp-content/uploads/2016/06/logo1.png" group-title=" grupo do canal ", Tv Mais Brasil [Variedades] SP - Jundiaí
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99952bc10e0b9a0eeb6f47cbf054a87e.png" group-title=" grupo do canal ", Tv Mais Brasil [Variedades] SP - Jundiaí
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ecb685d9040abe3211d5306f863131b5.png" group-title=" grupo do canal ", TV ONIX [Variedades] SP - São Carlos
@@ -2199,7 +2202,7 @@ https://5b7f3c45ab7c2.streamlock.net:443/8016/ngrp:8016/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://novatvvale.com/wp-content/uploads/2020/04/cropped-NovaTVVale-logo2-1.png" group-title=" grupo do canal ", Nova Tv Vale [Variedades] SP - Guaratinguetá -logo-
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQTAnQD9HuuQ1Rtvd9jm6KzokFt5Q2znJIQ&usqp=CAU" group-title=” grupo do canal ”, TV Câmara Campinas [Publicos] SP - Campinas -cx-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQTAnQD9HuuQ1Rtvd9jm6KzokFt5Q2znJIQ&usqp=CAU" group-title=" grupo do canal ", TV Câmara Campinas [Publicos] SP - Campinas -cx-
 https://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.campinas.sp.leg.br/comunicacao/tv-camara/assista-online/logo_campinas.png" group-title=" grupo do canal ", TV Câmara Campinas [Publicos] SP - Campinas -site-
@@ -2256,7 +2259,7 @@ https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0050f27791c72bd68a096db4c3d42fae.png" group-title=" grupo do canal ", CEAK Campinas [Espírita] SP - Campinas
 http://stmv3.srvstm.com/ceak/ceak/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eff5abf6698eb18a0c0beb3ef87abb4a.jpg" group-title=” grupo do canal ”, VV8 TV [Variedades] SP - Valinhos e VInhedo
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eff5abf6698eb18a0c0beb3ef87abb4a.jpg" group-title=" grupo do canal ", VV8 TV [Variedades] SP - Valinhos e VInhedo
 https://hls.brasilstream.com.br/live/can/can/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://vv8.tv.br/img/vv8-logo-header.png" group-title=" grupo do canal ", V V 8 TV [Variedades] SP - Valinhos e VInhedo -logo-
@@ -2428,20 +2431,23 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 https://StmV1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title=" grupo do canal ", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus!
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio106_1481540036.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus!
+http://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus!
+http://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title=" grupo do canal ", Rádio Trapiá - 103.3 FM - A Voz do povo!
-http://get.adobe.com/flashplayer/
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo!
+https://player.srvaudio.com.br/player-ssl/9458/
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title=" grupo do canal ", Rádio Trapiá - 103.3 FM - A Voz do povo!
-https://player.css?cache=625125
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14927_1483969841.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo!
+https://player.srvaudio.com.br/player-ssl/9458/
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title=" grupo do canal ", Rádio Trapiá - 103.3 FM - A Voz do povo!
-https://www.cxradio.com.br/assets/plugins/player/cx.play.j.css?cache=62513625
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27669_1489422943.png" group-title="Rádios", Rádio Opção FM 87.9 - A voz de Pedra Branca!
+http://stm8.srvaudio.com.br:9066/stream
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title=" grupo do canal ", Rádio Trapiá - 103.3 FM - A Voz do povo!
-https://www.cxradio.com.br/assets/plugins/player/playerIncorp.css?cache=658ded454
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio40753_1490873599.png" group-title="Rádios", Rádio São Francisco FM 94.9 - A rádio da paz e do bem!
+http://stm23.srvaudio.com.br:9976/stream
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title=" grupo do canal ", Rádio Trapiá - 103.3 FM - A Voz do povo!
-https://www.cxradio.com.br/radio/trapia-pedra-branca
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1572888021.png" group-title="Rádios", Rádio Verdinha AM 810 - A rádio do meu coração!
+http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8

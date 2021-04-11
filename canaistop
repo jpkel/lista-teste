@@ -1477,7 +1477,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618104272/ei/c
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c97376c5011223b08762664c3c865bb.jpg" group-title="Variedades", SBT Rio Grande do Sul - RS - Porto Alegre -youtube-
 https://www.youtube.com/embed/live_stream?channel\u003dUCHDfPYXReWt5EVIzBA6TzOQ\u0026autoplay\u003d1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c97376c5011223b08762664c3c865bb.jpg" group-title="Variedades", SBT Rio Grande do Sul - RS - Porto Alegre -youtube-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c97376c5011223b08762664c3c865bb.jpg" group-title="Variedades", SBT Rio Grande do Sul - RS - Porto Alegre -youtube-embed
 https://www.youtube.com/embed/live_stream?channel=UCHDfPYXReWt5EVIzBA6TzOQ&autoplay=1
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="Notícias/ Variedades", TV Pampa (Rede TV! RS) - RS - Porto Alegre
@@ -1498,16 +1498,16 @@ https://livefocamundo.com:8081/8166/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/tvwebagrotour.com.br/images/pubs/user_518721482.jpg" group-title="Agronegócio/ Cultura", Nova TV Agrotour - RS - Porto Alegre -site-ok-
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f82ee45edb65723754fe32dff6417c30.jpg" group-title="Agronegócio/ Cultura", TV Web Agrotour - RS - Porto Alegre -cxlogo-site-ok
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f82ee45edb65723754fe32dff6417c30.jpg" group-title="Agronegócio/ Cultura", TV Web Agrotour - RS - Porto Alegre -cxLogo-site-ok
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg" group-title="Esportes/ Notícias/ Cultura", TV Cidade 10 (tv Brasil) - RS - Santana do Livramento - JS-erro-
 https://googletagmanager.com/gtag/js?id=UA-1640743-18
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg" group-title="Esportes/ Notícias/ Cultura", TV Cidade 10 (tv Brasil) - RS - Santana do Livramento -m3u8-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg" group-title="Esportes/ Notícias/ Cultura", TV Cidade 10 (tv Brasil) - RS - Santana do Livramento -m3u8-dividido
 https://video.rnp.br:443/portal/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg" group-title="Esportes/ Notícias/ Cultura", TV Cidade 10 (tv Brasil) - RS - Santana do Livramento -m3u8-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg" group-title="Esportes/ Notícias/ Cultura", TV Cidade 10 (tv Brasil) - RS - Santana do Livramento -m3u8-dividido
 https://video.rnp.br:443/portal.index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f34cc0ae9117b4c0d25facdb42246b24.png" group-title="Variedades .Filmes .Séries .Futebol .Eventos", TV A Platéia - RS - Santana do Livramento - cx
@@ -1519,151 +1519,163 @@ https://srv-hls-dash.sisdera.com/radio/rccfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/badc4347a2a304083a5bd11e6576d7e2.png" group-title="Variedades", Bah TV! - RS - Porto Alegre
 https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.bahtv.com.br/wp-content/themes/bahtv/assets/images/bah.png" group-title="Variedades", Bah TV! - RS - Porto Alegre
+#EXTINF:-1 tvg-logo="http://www.bahtv.com.br/wp-content/themes/bahtv/assets/images/bah.png" group-title="Variedades", Bah TV! - RS - Porto Alegre -logoSite-
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f7559f70f34efd4e6c3a5cdef912a1f0.png" group-title=" grupo do canal ", Tv Ponta da Serra/ Metropele Tv [Variedades| Filmes| Séries| Animes| Tokusatsus] RS - Canoas
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f7559f70f34efd4e6c3a5cdef912a1f0.png" group-title="Variedades .Filmes .Séries .Animes .Tokusatsus", Tv Ponta da Serra/ Metropele Tv - RS - Canoas -erro?-
 http://187.33.200.235:9000/hls/pontadaserra.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33cb8be22fbdd7fa8ef1a062f7f70465.jpg" group-title=" grupo do canal ", Studio TV [Música| Studio] RS - Veranópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33cb8be22fbdd7fa8ef1a062f7f70465.jpg" group-title="Música .Studio", Studio TV (Rádio Studio 87.7 FM) - RS - Veranópolis
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33cb8be22fbdd7fa8ef1a062f7f70465.jpg" group-title="Música .Studio", Studio TV (Rádio Studio 87.7 FM) - RS - Veranópolis -erro-
 https://aws.studio.tv.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd4910e7dda4217277792b1281952065.png" group-title=" grupo do canal ", Sul Tv [Variedades] RS - Torres
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fd4910e7dda4217277792b1281952065.png" group-title="Variedades", Sul Tv - RS - Torres
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.camaracaxias.rs.gov.br/images/tvcamara_branco.jpg" group-title=" grupo do canal ", TV Câmara Caxias do Sul [Publicos/ HD] RS - Caxias do Sul -m3u8-site- terças. quartas e quintas. a partir das 08h30.
+#EXTINF:-1 tvg-logo="http://www.camaracaxias.rs.gov.br/images/tvcamara_branco.jpg" group-title="Publicos/ HD", TV Câmara Caxias do Sul - RS - Caxias do Sul -cx-m3u8-site- terças. quartas e quintas. a partir das 08h30.
 http://187.63.179.171:1935/live/smil:multibitrate.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title=" grupo do canal ", TV Câmara Caxias do Sul [Publicos/ HD] RS - Caxias do Sul -logo- 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg" group-title="Publicos/ HD", TV Câmara Caxias do Sul [Publicos/ HD] RS - Caxias do Sul -logo-cx-
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2b70c2d8836eb80628ed6c474fab72a.png" group-title=" grupo do canal ", RS TV SUL [Variedades| Filmes] RS - Capão da Canoa
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2b70c2d8836eb80628ed6c474fab72a.png" group-title="Variedades .Filmes", RS TV SUL - RS - Capão da Canoa
 http://video01.kshost.com.br/rede4451/rede4451/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55ddd5503687757fef20d35b37d3c823.png" group-title=" grupo do canal ", Vale TV Play [Variedades] RS - Novo Hamburgo
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55ddd5503687757fef20d35b37d3c823.png" group-title="Variedades", Vale TV Play - RS - Novo Hamburgo -cx-logo-
 https://cdn-valetv.ciclano.io:1443/valetv/valetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.valetvplay.com/conteudo/logo_topo2(1).png" group-title=" grupo do canal ", Vale TV Play [Variedades] RS - Novo Hamburgo
+#EXTINF:-1 tvg-logo="https://www.valetvplay.com/conteudo/logo_topo2(1).png" group-title="Variedades", Vale TV Play - RS - Novo Hamburgo -logo-site-
 https://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/021892b11d9126ac3ab19f643cff0760.jpg" group-title=" grupo do canal ", Conecta + Web Tv [Variedades] RS - Nova Prata - cx
 http://189.14.233.254:1935/WebTV/WebTV.stream/playlist-480P.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.conectamais.com.br/images/logo-small.png" group-title=" grupo do canal ", Conecta + Web Tv [Variedades] RS - Nova Prata - site
+#EXTINF:-1 tvg-logo="http://www.conectamais.com.br/images/logo-small.png" group-title="Variedades", Conecta + Web Tv - RS - Nova Prata - site
 http://189.14.233.254:1935/WebTV/WebTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be062d76223bf6b8b12f89cd2161eb4b.png" group-title="Variedades/ Notícias", Adesso Tv - RS - Garibaldi --
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be062d76223bf6b8b12f89cd2161eb4b.png" group-title="Variedades/ Notícias", Adesso Tv - RS - Garibaldi
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/696725018718400514/1sgtDGhC_400x400.png" group-title=" grupo do canal ", Tv Cidade Farroupilha [Variedades] RS - Farroupilha
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/696725018718400514/1sgtDGhC_400x400.png" group-title="Variedades", Tv Cidade Farroupilha - RS - Farroupilha
 https://virtues.es:1936/tvcidade/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/793814abc6038d4dea58cdad64ca3255.png" group-title=" grupo do canal ", UNITV [Educativos/ Cultura] RS - Porto Alegre - OGG
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/793814abc6038d4dea58cdad64ca3255.png" group-title="Educativos/ Cultura", UNITV - RS - Porto Alegre - OGG
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 
-#EXTINF:-1 tvg-logo="http://www.unitv.tv.br/images/logo.png" group-title=" grupo do canal ", UNITV [Educativos/ Cultura] RS - Porto Alegre - JS
-https://www.googletagmanager.com/gtag/js?id=UA-1640743-18
+#EXTINF:-1 tvg-logo="http://www.unitv.tv.br/images/logo.png" group-title="Educativos/ Cultura", UNITV - RS - Porto Alegre - html
+http://www.unitv.tv.br/aovivo.html
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title=" grupo do canal ", CD TV Comunicação Digital [Música| Clipes] RS - Cachoeira do Sul
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/00550c7b7eee6db32fd996dc54518b75.jpg" group-title="Música .Clipes", CD TV Comunicação Digital - RS - Cachoeira do Sul
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title=" grupo do canal ", TV MON [Variedades| Séries] RS - Montenegro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png" group-title="Variedades .Séries", TV MON - RS - Montenegro
 https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/baa975c63dd48c691ea812753445ad85.jpg" group-title=" grupo do canal ", TV Cachoeira (Novo Tempo) [Variedades] RS - Cachoeira do Sul
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/baa975c63dd48c691ea812753445ad85.jpg" group-title="Variedades .Evangélica", TV Cachoeira (Novo Tempo) - RS - Cachoeira do Sul
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/469c6996ec447689e60bdc4b6a8d5f18.png" group-title=" grupo do canal ", Luna10 Web Tv [Cultura/ Variedades] RS - Bento Gonçalves - erro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/469c6996ec447689e60bdc4b6a8d5f18.png" group-title="Cultura/ Variedades", Luna10 Web Tv - RS - Bento Gonçalves - erro
 https://srv5.zcast.com.br/alcindo3068/alcindo3068/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/854d2a3fcc32d69d437234e7321a697c.jpg" group-title=" grupo do canal ", TV Santa Maria [Variedades] RS - Santa Maria - erro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/854d2a3fcc32d69d437234e7321a697c.jpg" group-title="Variedades", TV Santa Maria - RS - Santa Maria - erro
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/820ff31142ac1da59b89cde670cef79e.png" group-title="Educativos", TV Campus UFSM - RS - Santa Maria -cx-site-tela preta?-
 https://farol.ufsm.br/conteudo/hls/wnd2h0c_record1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f18accc047f43bdee6ba75aa3da7f0a1.png" group-title=" grupo do canal ", UNISC TV/ Futura [Educativos] RS - Santa Cruz do Sul
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f18accc047f43bdee6ba75aa3da7f0a1.png" group-title="Educativos", UNISC TV/ Futura - RS - Santa Cruz do Sul -cx-
 http://tv.unisc.br:80/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.unisc.br/images/unisctv/002.png" group-title=" grupo do canal ", UNISC TV/ Futura [Educativos] RS - Santa Cruz do Sul
+#EXTINF:-1 tvg-logo="https://www.unisc.br/images/unisctv/002.png" group-title="Educativos", UNISC TV/ Futura - RS - Santa Cruz do Sul -site-
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45f8ba2c7202bf6ef4c68381dc80d347.jpg" group-title=" grupo do canal ", UPF TV (Cultura RS) [Educativos] RS - Passo Fundo - JS
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45f8ba2c7202bf6ef4c68381dc80d347.jpg" group-title="Educativos", UPF TV (Cultura RS) - RS - Passo Fundo - JS
 https://www.googletagmanager.com/gtag/js?id=UA-1640743-18
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title=" grupo do canal ", Rede TVC Brasil [Variedades] RS - São Leopoldo
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45f8ba2c7202bf6ef4c68381dc80d347.jpg" group-title="Educativos", UPF TV (Cultura RS) - RS - Passo Fundo -embed-01-true
+https://video.rnp.br:443/portal/embed-channel?idItem=51214&autostart=true
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45f8ba2c7202bf6ef4c68381dc80d347.jpg" group-title="Educativos", UPF TV (Cultura RS) - RS - Passo Fundo -embed-02-false
+https://video.rnp.br:443/portal/embed-channel?idItem=51214&amp;autostart=false
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/feea098d37b40f151f8c8d64993edcff.png" group-title="Variedades", Rede TVC Brasil - RS - São Leopoldo
 https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1b6f20e5d91830f22c781450f1d0e777.png" group-title=" grupo do canal ", TV Litoral [Variedades] RS - Capão da Canoa
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1b6f20e5d91830f22c781450f1d0e777.png" group-title="Variedades", TV Litoral - RS - Capão da Canoa
 http://104.156.58.3:1935/8010/8010/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c90a98e507f257c578d8bdf6973556d.png" group-title=" grupo do canal ", FURG TV [Educativos/ Cultura] RS - Rio Grande
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c90a98e507f257c578d8bdf6973556d.png" group-title="Educativos/ Cultura", FURG TV - RS - Rio Grande
 https://stream.furg.br/hls/furgtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ded8cab279fea4e5459bb317debdc62f.png" group-title=" grupo do canal ", TV UP! Essência [Televendas] RS - Porto Alegre - cx
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ded8cab279fea4e5459bb317debdc62f.png" group-title="Televendas", TV UP! Essência - RS - Porto Alegre - cx
 https://stmv3.samcast.com.br/tvup/tvup/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6233/cabecalho-6233-20201130084830.png" group-title=" grupo do canal ", TV UP! Essência [Televendas] RS - Porto Alegre - site
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6233/cabecalho-6233-20201130084830.png" group-title="Televendas", TV UP! Essência - RS - Porto Alegre - site
 https://player.xcast.com.br/player/8920/iphone.m3u
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6233/cabecalho-6233-20201130084830.png" group-title=" grupo do canal ", TV UP! Essência [Televendas] RS - Porto Alegre - JS
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6233/cabecalho-6233-20201130084830.png" group-title="Televendas", TV UP! Essência - RS - Porto Alegre - JS
 https://pa-def.srvsite.com/scripts/bootstrap/jquery-1.11.1.min.js
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c43a8d1c5187a85992a4533173db1d7.png" group-title=" grupo do canal ", TV PLANETA WEB [Variedades| Filmes] RS - Santana do Livramento
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7c43a8d1c5187a85992a4533173db1d7.png" group-title="Variedades .Filmes", TV PLANETA WEB - RS - Santana do Livramento
 https://novo.bitstreaming.info:1936/8128/8128/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66b9721bf5fc0f965c198d4dffc0bb10.png" group-title=" grupo do canal ", Tv Escola da Bíblia [Evangélica] RS - Pelotas
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66b9721bf5fc0f965c198d4dffc0bb10.png" group-title="Evangélica", Tv Escola da Bíblia - RS - Pelotas
 https://video01.kshost.com.br/valdizan7907/valdizan7907/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a28b88329cd46eadf3b81a3072ab4e6.jpg" group-title=" grupo do canal ", TV Lider do Vale [Variedades] RS - Sapucaia do Sul - cx - coelhão
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a28b88329cd46eadf3b81a3072ab4e6.jpg" group-title="Variedades", TV Lider do Vale - RS - Sapucaia do Sul -cx- coelhão
 https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title=" grupo do canal ", TV Lider do Vale [Variedades] RS - Sapucaia do Sul - site - coelhão
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9a28b88329cd46eadf3b81a3072ab4e6.jpg" group-title="Variedades", TV Lider do Vale - RS - Sapucaia do Sul -site- coelhão
+https://5d82644094cc0.streamlock.net:443/liderdovaletv/liderdovaletv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title="Variedades", TV Lider do Vale - RS - Sapucaia do Sul -site-m3u-audio- coelhão
 https://painel.srvaudio.com.br/player/mc9990.m3u
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5aa74d477014357424998f78094e85ad.jpg" group-title=" grupo do canal ", Tv Menorah [Evangélica] RS - Cachoeira do Sul -playerCanal-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5aa74d477014357424998f78094e85ad.jpg" group-title="Evangélica", Tv Menorah - RS - Cachoeira do Sul -playerCanal-
 http://www.voxelz.tv/componentes/playerCanal?canal=101
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5aa74d477014357424998f78094e85ad.jpg" group-title=" grupo do canal ", Tv Menorah [Evangélica] RS - Cachoeira do Sul - css 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5aa74d477014357424998f78094e85ad.jpg" group-title="Evangélica", Tv Menorah - RS - Cachoeira do Sul - css 
 https://cdnjs.cloudflare.com/ajax/libs/flowplayer/7.2.7/skin/skin.min.css
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/648333260128461d056c64bdbc541f3f.png" group-title=" grupo do canal ", TV Assembleia Legislativa de Porto Alegre [Publicos] RS - Porto Alegre - site
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/648333260128461d056c64bdbc541f3f.png" group-title="Publicos", TV Assembleia Legislativa de Porto Alegre - RS - Porto Alegre - site
 http://ott.al.rs.gov.br/stream01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/38239.v5.png" group-title=" grupo do canal ", TV Novos Horizontes [Música| Stúdios] RS - Santo Ângelo
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/9/38239.v5.png" group-title="Música .Stúdios", TV Novos Horizontes - RS - Santo Ângelo
 https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/689d6c48ae0a32f264b79100435725a5.png" group-title=" grupo do canal ", TV Novos Horizontes [Música| Stúdios] RS - Santo Ângelo
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/689d6c48ae0a32f264b79100435725a5.png" group-title="Música .Stúdios", TV Novos Horizontes - RS - Santo Ângelo
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5035bde7d08462271f20431b8856676b.png" group-title=" grupo do canal ", TV Câmara de Porto Alegre [Publicos] RS - Porto Alegre - mms-01
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5035bde7d08462271f20431b8856676b.png" group-title="Publicos", TV Câmara de Porto Alegre - RS - Porto Alegre - mms-01
 https://mms://www3.camarapoa.rs.gov.br/tvcamara
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5035bde7d08462271f20431b8856676b.png" group-title=" grupo do canal ", TV Câmara de Porto Alegre [Publicos] RS - Porto Alegre - mms-02
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5035bde7d08462271f20431b8856676b.png" group-title="Publicos", TV Câmara de Porto Alegre - RS - Porto Alegre - mms-02
 https://www3.camarapoa.rs.gov.br/tvcamara
 
-#EXTINF:-1 tvg-logo="http://lagoatv.com.br/wp-content/uploads/2014/06/lagoatv-logotipo.png" group-title=" grupo do canal ", Lagoa TV [Variedades] RS - Lagoa Vermelha -cx-
+#EXTINF:-1 tvg-logo="http://lagoatv.com.br/wp-content/uploads/2014/06/lagoatv-logotipo.png" group-title="Variedades", Lagoa TV - RS - Lagoa Vermelha -cx-
 https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d41b3b92e3c84123290f5f928565f04.png" group-title=" grupo do canal ", Lagoa TV [Variedades] RS - Lagoa Vermelha -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d41b3b92e3c84123290f5f928565f04.png" group-title="Variedades", Lagoa TV - RS - Lagoa Vermelha -site-
 http://k2tvmobile.ios.internapcdn.net/k2tvmobile/live_1/lagoa_tv/lagoa_tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4f3fcec508d01eb722e6a3c3ff7db62a.jpg" group-title="Evangélica", Unimídia Tv - RS - Caxias do Sul --
 https://streaming03.zas.media/advilamary/advilamary/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title=" grupo do canal ", RDC TV [Variedades] RS - Porto Alegre -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af54ed561ef9246c6db4cc8c13e5e309.png" group-title="Variedades", RDC TV - RS - Porto Alegre -cx-
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png?fit=97%2C140&ssl=1" group-title=" grupo do canal ", RDC TV [Variedades] RS - Porto Alegre -site-
+#EXTINF:-1 tvg-logo="https://i1.wp.com/rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png?fit=97%2C140&ssl=1" group-title="Variedades", RDC TV - RS - Porto Alegre -site-
 https://596639ebdd89b.streamlock.net:443/datavideo01/datavideo01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f53f92b9e96ec40a8c143407e6ed13a.jpg" group-title="Variedades", Rede RCT - RS - Canoas -cx-site-erro?-
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f91359ccba726fb29cf7f461c35005e.jpg" group-title=" grupo do canal ", TV Univates (Futura) [Variedades] RS - Lajeado -site- erro?
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f91359ccba726fb29cf7f461c35005e.jpg" group-title="Variedades", TV Univates (Futura) - RS - Lajeado -site- erro?
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f91359ccba726fb29cf7f461c35005e.jpg" group-title=" grupo do canal ", TV Univates (Futura) [Variedades] RS - Lajeado -cx- erro?
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f91359ccba726fb29cf7f461c35005e.jpg" group-title="Variedades", TV Univates (Futura) - RS - Lajeado -cx- erro?
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/live.m3u8
 
 
@@ -1671,31 +1683,34 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ro.png" group-title=”-”, ///CANAIS de Rondônia///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/737138161e02090fb61d4e60ec069464.png" group-title=" grupo do canal ", SIC TV (Rede Record RO) [Variedades]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/737138161e02090fb61d4e60ec069464.png" group-title="Variedades", SIC TV (Rede Record RO) - RO - Porto Velho
 http://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title=" grupo do canal ", TV Do Povo (Rede Meio Norte) [Variedades] cx
+#EXTINF:-1 tvg-logo="https://www.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title="Variedades", TV Do Povo (Rede Meio Norte) - RO - JiParaná -cx-
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c088211e8a00bde78a8c8d0ef89f315b.png" group-title=" grupo do canal ", TV Do Povo (Rede Meio Norte) [Variedades] site
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c088211e8a00bde78a8c8d0ef89f315b.png" group-title="Variedades", TV Do Povo (Rede Meio Norte) - RO - JiParaná -site-
 https://5cf4a2c2512a2.streamlock.net:443/tvdopovo1/tvdopovo1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ccf6e7c8a1cd21165ad355cd2bc6d58c.png" group-title=" grupo do canal ", TV Rio Madeira [Variedades] cx
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ccf6e7c8a1cd21165ad355cd2bc6d58c.png" group-title="Variedades", TV Rio Madeira - RO - Porto Velho -cx-
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/6934/cabecalho-6934-20190715183518.png" group-title=" grupo do canal ", TV Rio Madeira [Variedades] site
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/6934/cabecalho-6934-20190715183518.png" group-title="Variedades", TV Rio Madeira - RO - Porto Velho -site-
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canticodevitoria.com.br/home//images/Logotipos/logotipogood.png" group-title=" grupo do canal ", Tv Cântico de Vitória [Evangélica]
+#EXTINF:-1 tvg-logo="http://www.canticodevitoria.com.br/home//images/Logotipos/logotipogood.png" group-title="Evangélica", Tv Cântico de Vitória - RO - Cerejeiras
 https://stmv1.srvstm.com/pastoramarli/pastoramarli/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d757fd37a2d1989ce2663340a38a8bd.jpg" group-title=" grupo do canal ", Rede TV! Rondônia [Variedades] erro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d757fd37a2d1989ce2663340a38a8bd.jpg" group-title="Variedades", Rede TV! Rondônia - RO - Porto Velho -erro-
 https://usb1.ninacdn.com/ssh101/sgc17/sgc17/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rr.png" group-title=”-”, ///CANAIS de Roraima///|não tem|
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/rr.png" group-title=”-”, ///CANAIS de Roraima/// não tem
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://rbtv.com.br/upload_arquivos/2021/04/2021040643656001617289862.png" group-title="Variedades", REDE BRASIL (RBTV) São Paulo/ SP -site-
+https://player.logicahost.com.br/player.php?player=2
 
 
 
@@ -2420,30 +2435,45 @@ https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/se.png" group-title=”-”, ///CANAIS de Sergipe///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://www.futebolquarentoes.aju.br/home2/images/imagens/logofqtransparente.png" group-title=" grupo do canal ", TV ADQS [Futebol]
-https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7acc2ed352b08126b259ca9f48c25fa.jpg" group-title=" grupo do canal ", Cine Trianon TV [CLÁSSICOS/ FAROESTES/ FILMES]
-https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/08ec68e01c8c7858aeb0adb513d618cf.png" group-title=" grupo do canal ", Tv Itabaianinha-SE (Rede Brasil) [Variedades]
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/435332dbd722b755f94a987934027d57.png" group-title="Filmes/ Documentários/ Desenhos", TV VelhaCap - SE - São Cristóvão
 https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bed0037466cf75a142c7b8cad9c56bc.png" group-title=" grupo do canal ", TV Aperipê (TV Cultura SE) [Educativos] fora do ar
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f19a098164c4eadac75d866bd9e59a64.png" group-title="Música/ Documentários/ Filmes", OrbTV - SE - Nossa Senhora do Socorro
+https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.futebolquarentoes.aju.br/home2/images/imagens/logofqtransparente.png" group-title="Futebol", TV ADQS - SE - Aracaju
+https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7acc2ed352b08126b259ca9f48c25fa.jpg" group-title="Variedades", Cine Trianon TV - SE - São Cristóvão
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/08ec68e01c8c7858aeb0adb513d618cf.png" group-title="Variedades", Tv Itabaianinha-SE (Rede Brasil) - SE - Itabaianinha
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bed0037466cf75a142c7b8cad9c56bc.png" group-title="Educativos", TV Aperipê (TV Cultura SE) fora do ar?
 http://midia.aperipetv.infonet.com.br:1949/live/aperipetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bed0037466cf75a142c7b8cad9c56bc.png" group-title="Educativos", TV Aperipê (TV Cultura SE) site-erro?
+http://player.comets.com.br/?video=//cdn.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c2a3c8a4f1a2a69dc937b6e12166d98f.png" group-title="Evangélica", TV Liberdade -cx-?
+http://hls.fm1.com.br:8080/hls/tvliberdade.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c2a3c8a4f1a2a69dc937b6e12166d98f.png" group-title="Evangélica", TV Liberdade -site-?
+https://videodj.fm5.com.br:19360/tvliberdade/tvliberdade.m3u8
+
+#EXTINF:-1 tvg-logo="http://liberdadefmaju.com.br/admin/assets/img/locutores/padrao.png?img=April+11%2C+2021%2C+6%3A17+pm+43" group-title="Rádio Evangélica", Liberdade FM -site-
+https://stream.liberdadefmaju.com.br:8520/stream.mp3
 
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/to.png" group-title=”-”, ///CANAIS de Tocantins///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c79fc304ff76d49891b2c7eff0099f1.png" group-title=" grupo do canal ", Rede TV! Tocantins [Variedades]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c79fc304ff76d49891b2c7eff0099f1.png" group-title="Variedades", Rede TV! Tocantins - TO - Palmas
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bdb8624712ed607877388dc76d175572.png" group-title=" grupo do canal ", Araguaia Tv [Variedades| Filmes]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bdb8624712ed607877388dc76d175572.png" group-title="Variedades .Filmes .Desrnhos", Araguaia Tv - TO - Palmas
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 
 
@@ -2492,7 +2522,7 @@ https://StmV1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo! cx
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo! cx-esse
 http://player.srvaudio.com.br/player-ssl/9458/
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14927_1483969841.jpg" group-title="Rádios", Rádio Trapiá FM 103.3 - A Voz do povo! radionet
@@ -2507,17 +2537,20 @@ http://stm23.srvaudio.com.br:9976/stream
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/98ff49fe0ab1fe78bc070620b53db067.jpg" group-title="Rádios", Rádio Esperança FM 106.1 - A sintonia do povo de Deus.
 http://51.222.56.196:6230/stream
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus!
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Azul
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio106_1481540036.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus!
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio106_1481540036.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Branco
 http://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1de7e23dab2cf519c94de05df013ee01.jpg" group-title="Rádios", Rádio Verdes Mares 810 AM (Fortaleza)
-https://api.webrad.io/data/streams/8/verdes-fortaleza
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1de7e23dab2cf519c94de05df013ee01.jpg" group-title="Rádios", Rádio Verdes Mares 810 AM (Fortaleza) logo-verde01
+https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1572888021.png" group-title="Rádios", Rádio Verdinha AM 810 - A rádio do meu coração!
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s97760/images/logoq.png?t=155791" group-title="Rádios", Rádio Verdes Mares AM 810 | A rádio do meu coração! logo-verde02
+http://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1572888021.png" group-title="Rádios", Rádio Verdinha AM 810 | A rádio do meu coração! logo-radios.com
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b8ed7ddfe1096a51774e476ce61d23d7.jpg" group-title="Rádios", Rádio Verdinha AM 810 - A rádio do meu coração! logo-cx
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b8ed7ddfe1096a51774e476ce61d23d7.jpg" group-title="Rádios", Rádio Verdinha AM 810 | A rádio do meu coração! logo-cx
 http://

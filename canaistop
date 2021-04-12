@@ -1,31 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/birdwatchinghq.com/wp-content/uploads/2017/10/nature-pbs.jpeg" group-title="Variedades/ HD", Nature TV HD - Brasil
-https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades/ HD", Nature TV HD - Brasil
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b5fef447f62d556b33598a4abcfbf60.jpg" group-title="Agronegócio", Canal Rural - Brasil
-https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f57a9beaaa83cbdce4d9512730333d21.jpg" group-title="Agronegócio", Canal do Criador - Brasil
-https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22f3a969d2397bff78f2684767dce752.png" group-title="Católica", TV SÉCULO 21 - Brasil
-https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e4f123e379b7211da296c21c9c6837a.png" group-title="Variedades", ISTV HD - Brasil
-https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Filmes/ Desenhos", Web Tv Cine - Brasil -cx-
-https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e4a0b69984c0ae798f990f8a62173fa.png" group-title="Música", Mix TV - Brasil
-https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=”-”, ///Canais do Acre///
 http://0.0.0.0
 
@@ -36,7 +10,7 @@ https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558
 https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/62d1005e2469670449197192e65ec529.png" group-title="Variedades", TV Rio Branco (AC) Rio Branco -Erro-cx-logo-
-http://
+
 
 
 
@@ -1717,128 +1691,137 @@ https://player.logicahost.com.br/player.php?player=2
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/sc.png" group-title=”-”, ///CANAIS de Santa Catarina///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4a5e9c9d0cb42ba42262b6aa9edba2de.png" group-title=" grupo do canal ", Premier TV [Variedades| Regional] SC - São José
-http://200.194.238.229:8383/live/primer/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc05e35fbe70efd0138259e2474aa92c.png" group-title=" grupo do canal ", Premier TV [Variedades] SC - São José -logo-cx
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.primertv.com.br/img/logo.png" group-title=" grupo do canal ", Premier TV [Variedades] SC - São José -logo-site
-http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.canal24horastv.com/layout_default/img/logo.png" group-title=" grupo do canal ", Canal 24 horas [Variedades| Filmes] SC - Brusque
-https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e5e79ce09bcfad63f9d4b075f44f7c72.jpg" group-title=" grupo do canal ", Canal 24 horas [Variedades] SC - Brusque -logo-
-https://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/97adec7fda9fe405dbfe80745d07ec9b.png" group-title=" grupo do canal ", Wham Tv [Música| Clipes Retrô] SC - São José
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/97adec7fda9fe405dbfe80745d07ec9b.png" group-title="Música .Clipes Retrô", Wham Tv - SC - São José
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa9fd58fa6a914bea25f3b3ee885e132.png" group-title=" grupo do canal ", TVBE - Tv Brasil Esperança [Variedades] SC - Joinville
+#EXTINF:-1 tvg-logo="http://www.canal24horastv.com/layout_default/img/logo.png" group-title="Variedades. Filmes", Canal 24 horas - SC - Brusque
+https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e5e79ce09bcfad63f9d4b075f44f7c72.jpg" group-title="Variedades .Filmes", Canal 24 horas - SC - Brusque -logo-
+https://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4a5e9c9d0cb42ba42262b6aa9edba2de.png" group-title="Variedades", Premier TV - SC - São José
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc05e35fbe70efd0138259e2474aa92c.png" group-title="Variedades", Premier TV - SC - São José -logo-cx
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.primertv.com.br/img/logo.png" group-title="Variedades", Premier TV - SC - São José -logo-site
+http://0.0.0.1
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa9fd58fa6a914bea25f3b3ee885e132.png" group-title="Variedades", TVBE (Tv Brasil Esperança) - SC - Joinville
 https://5c483b9d1019c.streamlock.net:443/8022/8022/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f6171c551bfebb0226b4f7d526a8e6f.jpg" group-title=" grupo do canal ", TV Gideões [Evangélica] SC - Camboriú - cx
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f6171c551bfebb0226b4f7d526a8e6f.jpg" group-title="Evangélica", TV Gideões - SC - Camboriú - cx
 https://streaming01.zas.media/gideoes/tv.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title=" grupo do canal ", TV Gideões [Evangélica] SC - Camboriú - site
+#EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="Evangélica", TV Gideões - SC - Camboriú - site
 https://streaming01.zas.media:443/gideoes/tv.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://www.radiovozmissionaria.com.br/wp-content/uploads/sites/2/2019/11/logotipo.png" group-title=" grupo do canal ", TV Rádio Voz Missionária [Evangélica] SC - Camboriú - site
+#EXTINF:-1 tvg-logo="https://www.radiovozmissionaria.com.br/wp-content/uploads/sites/2/2019/11/logotipo.png" group-title="Evangélica", Rádio Voz Missionária - SC - Camboriú - site
 https://streaming01.zas.media:443/gideoes/radio.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title=" grupo do canal ", TV Galega [Notícias| Filmes] SC - Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title=" grupo do canal ", TV Galega [Notícias| Filmes] SC - Blumenau -logo-
-https://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12da3aa22277f0d63f827d0fce4de59d.jpg" group-title=" grupo do canal ", TV Litoral Panorama (Cultura SC)[Educativos/ Cultura/ Notícias] SC - Balneário Camboriú - cx
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12da3aa22277f0d63f827d0fce4de59d.jpg" group-title="Educativos/ Cultura/ Notícias", TV Litoral Panorama (Cultura SC) - SC - Balneário Camboriú - cx
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/8/2020/02/logotipo-flat.png" group-title=" grupo do canal ", TV Litoral Panorama (Cultura SC)[Educativos/ Cultura/ Notícias] SC - Balneário Camboriú - site
+#EXTINF:-1 tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/8/2020/02/logotipo-flat.png" group-title="Educativos/ Cultura/ Notícias", TV Litoral Panorama (Cultura SC) - SC - Balneário Camboriú - site
 https://streaming03.zas.media:443/panorama/panorama/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/643b706ca145dc55cf4f64634509f51c.png" group-title=" grupo do canal ", TV Tubá [Católica| Rádio] SC - Tubarão - site-erro?
-https://s2you.com.br:8082/gctvaparecida/gctvaparecida/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Notícias .Filmes", TV Galega - SC - Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/643b706ca145dc55cf4f64634509f51c.png" group-title=" grupo do canal ", TV Tubá [Católica| Rádio] SC - Tubarão - cx-erro
-https://caikron.com.br:8082/rcr_tuba/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="Notícias .Filmes", TV Galega - SC - Blumenau -logo-
+https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/30bfd4e74aeb1ffcaf1f81c297d99d23.jpg" group-title=" grupo do canal ", TV Brusque (RBTV) [Variedades] SC - Brusque
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/30bfd4e74aeb1ffcaf1f81c297d99d23.jpg" group-title="Variedades", TV Brusque (RBTV) - SC - Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvbrusque.com.br/img/1c51abd9024ea3b4f64768c009ae6a17.png" group-title=" grupo do canal ", TV Brusque (RBTV) [Variedades] SC - Brusque -logo-
+#EXTINF:-1 tvg-logo="https://www.tvbrusque.com.br/img/1c51abd9024ea3b4f64768c009ae6a17.png" group-title="Variedades", TV Brusque (RBTV) - SC - Brusque -logo-
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/47a46b11fa3c0c73e04b0256a30095e2.png" group-title=" grupo do canal ", RTV [Variedades] SC - Criciúma
-https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://portalrtv.com.br/wp-content/uploads/2019/08/nova-logo-rtv.png" group-title=" grupo do canal ", RTV [Variedades] SC - Criciúma -logo-
-https://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5abc02f9358d5f9c3c68f26fcc1f3a5.png" group-title=" grupo do canal ", Nova Gazeta Tv [Variedades] SC - Presidente Getúlio
-https://video01.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/novagazetatv.com.br/images/logo/logo_2136330169.png" group-title=" grupo do canal ", Nova Gazeta Tv [Variedades] SC - Presidente Getúlio -logo-grande
-https://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3869114419955e0e5194a66f58f6cbe2.png" group-title=" grupo do canal ", Rede TV Sul [Variedades| Séries| Filmes] SC - São Lourenço do Oeste
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3869114419955e0e5194a66f58f6cbe2.png" group-title="Variedades/ Filmes", Rede TV Sul - SC - São Lourenço do Oeste
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20190419152834.png" group-title=" grupo do canal ", Rede TV Sul [Variedades] SC - São Lourenço do Oeste -logo-
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20190419152834.png" group-title="Variedades/ Filmes", Rede TV Sul - SC - São Lourenço do Oeste -logo-
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8beb9f24c539ff0a79fdafc042ab1403.png" group-title=" grupo do canal ", Unisul TV [Educativos] SC - Tubarão
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/47a46b11fa3c0c73e04b0256a30095e2.png" group-title="Variedades", RTV - SC - Criciúma
+https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://portalrtv.com.br/wp-content/uploads/2019/08/nova-logo-rtv.png" group-title="Variedades", RTV - SC - Criciúma -logo-
+https://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8beb9f24c539ff0a79fdafc042ab1403.png" group-title="Educativos", Unisul TV - SC - Tubarão
 https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e53971e2790e68a7b2737b1be4ca7a70.jpg" group-title=" grupo do canal ", Joaçaba WEB TV [Variedades/ Filmes] SC - Joaçaba -erro-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e53971e2790e68a7b2737b1be4ca7a70.jpg" group-title="Variedades/ Filmes", Joaçaba WEB TV - SC - Joaçaba -erro-
 http://tv01.logicahost.com.br:1935/joacaba/_definst_/joacaba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2f482da2bd0fadbff4843b5734ca1c9a.png" group-title=" grupo do canal ", Fala Litoral WEB TV [Notícias] SC - Balneário Camboriú - cx
-http://webtv.bitstreaming.info:1935/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5abc02f9358d5f9c3c68f26fcc1f3a5.png" group-title="Variedades", Nova Gazeta Tv - SC - Presidente Getúlio
+https://video01.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2f482da2bd0fadbff4843b5734ca1c9a.png" group-title=" grupo do canal ", Fala Litoral WEB TV [Notícias] SC - Balneário Camboriú - site
-https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/novagazetatv.com.br/images/logo/logo_2136330169.png" group-title="Variedades", Nova Gazeta Tv - SC - Presidente Getúlio -logo-grande
+https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9910c09c5a205cc3e6cee0b3b97ac6c6.png" group-title=" grupo do canal ", TV Comunidade Restauração [Católica] SC - Joinville -site-erro??-
-https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f73e12cb4cbae1bdd17f44c51f4ea3f.png" group-title=" grupo do canal ", TV Litoral Sul [Variedades] SC - Criciúma .
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f73e12cb4cbae1bdd17f44c51f4ea3f.png" group-title="Variedades", TV Litoral Sul - SC - Criciúma .
 https://5b7f3c45ab7c2.streamlock.net/canal20criciuma/canal20criciuma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://portallitoralsul.com.br/wp-content/uploads/2021/02/canal-20.jpg" group-title=" grupo do canal ", TV Litoral Sul [Variedades] SC - Criciúma -logo-01
+#EXTINF:-1 tvg-logo="https://portallitoralsul.com.br/wp-content/uploads/2021/02/canal-20.jpg" group-title="Variedades", TV Litoral Sul - SC - Criciúma -logo-01
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://canal20criciuma.com.br/ws/media-library/1ce52404a14e465f84eeba75bf3fc4b8/whatsapp-image-2020-10-22-at-10.48.52.jpeg" group-title=" grupo do canal ", TV Litoral Sul [Variedades] SC - Criciúma -logo-02
-https://0.0.0.0
+#EXTINF:-1 tvg-logo="https://canal20criciuma.com.br/ws/media-library/1ce52404a14e465f84eeba75bf3fc4b8/whatsapp-image-2020-10-22-at-10.48.52.jpeg" group-title="Variedades", TV Litoral Sul - SC - Criciúma -logo-02
+https://0.0.0.1
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title=" grupo do canal ", Nova Era TV [Variedades] SC - Lages
-http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db3223cdf5f09d829140e2103a7eec58.png" group-title="Variedades", Rede Web Tv - SC - Taió -
+https://stmv1.srvif.com/redewebtv/redewebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b1f86bcf2e8376405b9ea53ba8839dcc.png" group-title=" grupo do canal ", Urban TV Brasil [Variedades| Séries| Arte| Cultura] SC - Florianópolis
-https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/logotipo.png" group-title=" grupo do canal ", Urban TV Brasil [Variedades| Séries| Arte| Cultura] SC - Florianópolis
-https://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa66ca264fbe5369e31e347d4a2229ed.png" group-title=" grupo do canal ", TVAL - TV Assembleia| SC [Publicos] SC - Florianópolis - youtube
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa66ca264fbe5369e31e347d4a2229ed.png" group-title="Publicos", TVAL - TV Assembleia SC - SC - Florianópolis - youtube
 https://www.youtube.com/embed/live_stream?channel=UCeBR3fhWb-Jyt8i7Hy6_mjA&autoplay=1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dd48071f78f034b914a5eb9d02062e58.jpg" group-title=" grupo do canal ", SC WEB TV [Variedades] SC - Balneário Camboriú - ERRO
-https://5eaa6849d0971.streamlock.net:443/scwebtv/scwebtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2f482da2bd0fadbff4843b5734ca1c9a.png" group-title="Notícias", Fala Litoral WEB TV - SC - Balneário Camboriú - cx
+http://webtv.bitstreaming.info:1935/falalitoraltv/falalitoraltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4c933dfab023e2eea432cfd61479b1e.jpg" group-title=" grupo do canal ", TV UFSC (tv Brasil) [Cultura/ Educativos] SC - Florianópolis
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2f482da2bd0fadbff4843b5734ca1c9a.png" group-title="Notícias", Fala Litoral WEB TV - SC - Balneário Camboriú - site
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9910c09c5a205cc3e6cee0b3b97ac6c6.png" group-title="Católica", TV Comunidade Restauração - SC - Joinville -cx-site-tela-Colorida
+https://video01.kshost.com.br/associacao9573/associacao9573/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b1f86bcf2e8376405b9ea53ba8839dcc.png" group-title="Variedades", Urban TV Brasil - SC - Florianópolis
+https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/logotipo.png" group-title="Variedades", Urban TV Brasil - SC - Florianópolis -logo-site-
+https://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Variedades", Nova Era TV - SC - Lages
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4c933dfab023e2eea432cfd61479b1e.jpg" group-title="Cultura/ Educativos", TV UFSC (tv Brasil) - SC - Florianópolis
 http://150.162.188.10:8080/hls/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6120ba569efe5fe7118f81566b35d4f.jpg" group-title=" grupo do canal ", Gen Tv [Variedades| Regional] SC - Chapecó
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6120ba569efe5fe7118f81566b35d4f.jpg" group-title="Variedades", Gen Tv - SC - Chapecó -cx-erro-
 https://serv3.videovox.pw/iltoetaty3005/iltoetaty3005/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://canalgentv.com.br/img/logo-small.png" group-title=" grupo do canal ", Conheça a Gen TV - mp4
+#EXTINF:-1 tvg-logo="http://canalgentv.com.br/img/logo-small.png" group-title="Variedades", Conheça a Gen TV - mp4
 http://player.vimeo.com/external/235409498.sd.mp4
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/406677e12cc02775a2bffe9a7f7ef0fb.png" group-title=" grupo do canal ", NGP TV [Evangélica| Variedades] SC - Blumenau
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/406677e12cc02775a2bffe9a7f7ef0fb.png" group-title="Evangélica", NGP TV - SC - Blumenau
 https://novo.bitstreaming.info:1936/8278/8278/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/643b706ca145dc55cf4f64634509f51c.png" group-title="Católica .Rádio", TV rádio Tubá - SC - Tubarão - site-erro?-
+https://s2you.com.br:8082/gctvaparecida/gctvaparecida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/643b706ca145dc55cf4f64634509f51c.png" group-title="Católica .Rádio", TV Tubá - SC - Tubarão - cx-erro-
+https://caikron.com.br:8082/rcr_tuba/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dd48071f78f034b914a5eb9d02062e58.jpg" group-title="Variedades", SC WEB TV - SC - Balneário Camboriú -ERRO-
+https://5eaa6849d0971.streamlock.net:443/scwebtv/scwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3aff0ea839c3d1e935980347f1c4b51.png" group-title="Variedades .Clipes", Tv Portal MH - SC - Maravilha -site-ok
+https://srv4.zcast.com.br/ivo8888/ivo8888/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3aff0ea839c3d1e935980347f1c4b51.png" group-title="Variedades .Clipes", Tv Portal MH - SC - Maravilha -cx-fora do ar-
+https://stmv6.srvstm.com/digitaltvweb/digitaltvweb/playlist.m3u8
 
 
 
@@ -1848,7 +1831,7 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title=" grupo do canal ", Rede TV! [Variedades/ HD] SP - São Paulo
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06738f892b030766e23561716f330734.png" group-title=" grupo do canal ", CNN BRASIL [Notícias] SP - São Paulo
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06738f892b030766e23561716f330734.png" group-title=" grupo do canal ", CNN BRASIL [Notícias] SP - São Paulo -fora do ar-
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title=" grupo do canal ", TV Igreja Mundial do Poder de Deus - IMPD TV [Evangélica] SP - São Paulo
@@ -2478,8 +2461,32 @@ http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="-",|||Em Testes Variados|||
+#EXTINF:-1 tvg-logo="" group-title="-",|||Canais Brasil-CXtv|||
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/birdwatchinghq.com/wp-content/uploads/2017/10/nature-pbs.jpeg" group-title="Variedades/ HD", Nature TV HD - Brasil
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades/ HD", Nature TV HD - Brasil
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b5fef447f62d556b33598a4abcfbf60.jpg" group-title="Agronegócio", Canal Rural - Brasil
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f57a9beaaa83cbdce4d9512730333d21.jpg" group-title="Agronegócio", Canal do Criador - Brasil
+https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22f3a969d2397bff78f2684767dce752.png" group-title="Católica", TV SÉCULO 21 - Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e4f123e379b7211da296c21c9c6837a.png" group-title="Variedades", ISTV HD - Brasil
+https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Filmes/ Desenhos", Web Tv Cine - Brasil -cx-
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e4a0b69984c0ae798f990f8a62173fa.png" group-title="Música", Mix TV - Brasil
+https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries - As Panteras - Brasil
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
@@ -2522,10 +2529,10 @@ https://StmV1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo! cx-esse
-http://player.srvaudio.com.br/player-ssl/9458/
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios",Rádio Trapiá FM 103.3| A Voz do povo! cx-esse
+https://player.srvaudio.com.br/player-ssl/9458/
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14927_1483969841.jpg" group-title="Rádios", Rádio Trapiá FM 103.3 - A Voz do povo! radionet
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14927_1483969841.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo! radionet 150X150logo
 https://player.srvaudio.com.br/player-ssl/9458/
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27669_1489422943.png" group-title="Rádios", Rádio Opção FM 87.9 - A voz de Pedra Branca!
@@ -2537,11 +2544,11 @@ http://stm23.srvaudio.com.br:9976/stream
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/98ff49fe0ab1fe78bc070620b53db067.jpg" group-title="Rádios", Rádio Esperança FM 106.1 - A sintonia do povo de Deus.
 http://51.222.56.196:6230/stream
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Azul
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio106_1481540036.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Branco
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio106_1481540036.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Branco
-http://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Azul
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1de7e23dab2cf519c94de05df013ee01.jpg" group-title="Rádios", Rádio Verdes Mares 810 AM (Fortaleza) logo-verde01
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
@@ -2549,8 +2556,8 @@ https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s97760/images/logoq.png?t=155791" group-title="Rádios", Rádio Verdes Mares AM 810 | A rádio do meu coração! logo-verde02
 http://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1572888021.png" group-title="Rádios", Rádio Verdinha AM 810 | A rádio do meu coração! logo-radios.com
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1572888021.png" group-title="Rádios", Rádio Verdinha AM 810 | A rádio do meu coração! logo-radios.com-Branco
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b8ed7ddfe1096a51774e476ce61d23d7.jpg" group-title="Rádios", Rádio Verdinha AM 810 | A rádio do meu coração! logo-cx
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b8ed7ddfe1096a51774e476ce61d23d7.jpg" group-title="Rádios", Rádio Verdinha AM 810 | A rádio do meu coração! logo-cx-Branco-
 http://

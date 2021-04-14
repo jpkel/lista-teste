@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="Variedades", SOUL TV - Propaganda
+https://5f1ce9c7dc62b.streamlock.net:443/soultv/soultv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=”-”, ///Canais do Acre///
 http://0.0.0.0
 
@@ -90,25 +93,25 @@ https://video01.kshost.com.br/ronildo6110/ronildo6110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.manausmix.com/assets/images/LogoMMWebTV.png" group-title="Música/ Clipes", Manaus Mix Web TV (AM) Manaus -Erro-cx-
 https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", SOUL TV - Propaganda (Amazon Sat -AM- Manaus)
-https://5f1ce9c7dc62b.streamlock.net:443/soultv/soultv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx-
+https://
 
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ba.png" group-title=”-”, ///CANAIS da Bahia///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png" group-title="Filmes", Kronos Movie WEB TV -CX- BA - Vitória da Conquista -cx-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -cx-logo-listaiptv-
 https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LlgvAopiSFI/Xu-Jyoc4xiI/AAAAAAABY-k/EsjFYOGFIM45NXgYh3JQ0oocjg39cQQJwCK4BGAYYCw/s1600/Kr%25C3%25B3nos%2BMovie%2BWeb%2BTV.jpg" group-title="Filmes", Kronos Movie WEB TV -site-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LlgvAopiSFI/Xu-Jyoc4xiI/AAAAAAABY-k/EsjFYOGFIM45NXgYh3JQ0oocjg39cQQJwCK4BGAYYCw/s1600/Kr%25C3%25B3nos%2BMovie%2BWeb%2BTV.jpg" group-title="Filmes", Kronos Movie WEB TV -site-logo-
 https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -logo-cx-
-https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://tvaberta.xyz/wp-content/uploads/2020/09/kronostv.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -logo-xyz-
-https://0.0.0.1
+
+#EXTINF:-1 tvg-logo="http://tvaberta.xyz/wp-content/uploads/2020/09/kronostv.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -logo-xyz-Branco
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bf29296ede8db8b9c502fba9c05cb7f.png" group-title="Seriados/ Filmes/ Desenhos", Bons Tempos TV - BA - Várzea da Roça -CX-site-
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
@@ -128,23 +131,26 @@ https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-duOWD-VVfgU/YDW4a7PjYxI/AAAAAAAAA4o/GHSrXURg0KEE3TCS-zSgDheKCUxkBLANQCK4BGAYYCw/s1600/Nova%2BTV%2BTUPI%2BHD.png" group-title="Variedades", TV TUPI HD - BA - Salvador -logo-site-
 https://
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8c74147a638f668fff898eed14f1dc39.png" group-title="Variedades/ Músicas", TV A Cara da Bahia - BA - Salvador
+#EXTINF:-1 tvg-logo="http://tvacaradabahia.com.br/wp-content/uploads/2021/03/sfgnbdgsf.png" group-title="Variedades/ Músicas", TV A Cara da Bahia - BA - Salvador -site-1
+https://stmv1.painelvideo.top/jatoba/jatoba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8c74147a638f668fff898eed14f1dc39.png" group-title="Variedades/ Músicas", TV A Cara da Bahia - BA - Salvador -site-2-fora do ar-
+https://stmv.video.expressolider.com.br/tvacaradabahia/tvacaradabahia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8c74147a638f668fff898eed14f1dc39.png" group-title="Variedades/ Músicas", TV A Cara da Bahia - BA - Salvador -cx-fora do ar-
 https://stmv1.mestrestreamvideo.xyz/jatoba/jatoba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31b06827552515993ef20d5608ef5735.png" group-title="Variedades", Tv Caravelas web - BA - Caravelas
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31b06827552515993ef20d5608ef5735.png" group-title="Variedades", Tv Caravelas web - BA - Caravelas -Apresentação-
 https://srv2.zcast.com.br/demosrv2/demosrv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31b06827552515993ef20d5608ef5735.png" group-title="Variedades", Tv Caravelas web - BA - Caravelas -site-Olhos na TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31b06827552515993ef20d5608ef5735.png" group-title="Variedades", Tv Caravelas web - BA - Caravelas -cx-site-OlhosNaTV
 https://srv1.video.xradios.com.br/carlos/carlos/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31b06827552515993ef20d5608ef5735.png" group-title="Variedades", Tv Caravelas web - BA - Caravelas -cx-erro?
-https://stmv1.mestrestreamvideo.xyz/amodelo/amodelo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aab1d14178a0f45aec1c21e1407d30dd.png" group-title="Variedades/ Músicas", rádio m2o/ TV Feira de Santana - BA - Feira de Santana - TV Brasil 2 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Variedades/ Clipes", Tv Estado/ Top TV/ NGT - BA - Salvador -.-
-http://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Variedades/ Clipes", Tv Estado / Top TV / NGT - BA - Salvador
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="Católica/ Cultura", Tv Novo Milênio - BA - Salvador
 https://stmv3.samcast.com.br/jaguaraci8037/jaguaraci8037/playlist.m3u8
@@ -940,7 +946,7 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f36b32941e0d5c63c4771dcea3fdae5.png" group-title="Variedades/ Música", Top Tv Paraná - PR - Curitiba
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Clipes .Variedades", Top TV Bahia/ Tv Estado-Rede NGT -.-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Clipes .Variedades", Top TV Bahia/ Tv Estado-Rede NGT
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo-small.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba
@@ -1834,8 +1840,8 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="Variedades/ HD", Rede TV! - SP - São Paulo
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="Variedades", SBT - SP - São Paulo -logo-cx-
-http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="Variedades", SBT - SP - São Paulo -logo-cx-youtube-m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618444554/ei/qix3YO6YH4qWwwTxpKaoDA/ip/45.70.64.202/id/ABVQXgr2LW4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPNhPmOKqhP3jtkWD8QFfrhDIrw-JT3ntpDRG8lpNJD1AiB2xpVk6ibsGzSkbJgtjzXpZVzS360Df3enF0UkdYv3zw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Cultura/ Educativos/ Desenhos", TV Cultura/ Tv Futuro-RN - SP =São Paulo= cx-ok-
 http://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
@@ -1930,7 +1936,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d08352f33c92124373d9f3b0fcf2ef8.png" group-title="Desenhos/ Seriados/ Filmes", Tv Loading - SP - São Paulo  -cx-logo-listaiptv-
 https://centurylink.br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bd1d2e18c2e6c9ca027b4dc639b3b02.png" group-title="Televendas", Mega TV - SP - São Paulo -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bd1d2e18c2e6c9ca027b4dc639b3b02.png" group-title="Televendas", Mega TV - SP - São Paulo -site-erro
 http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e203baa61a997851f879286d0e262b59.png" group-title=" Variedades/ HD", TV Gazeta (Rede Gazeta) - SP - São Paulo -cx-logo-listaiptv-
@@ -1942,59 +1948,56 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -cx-logo-erro-
 https://5a1c76baf08c0.streamlock.net/sbtinterior/08afeeqyvzzwtd2ulrwvstydob6zb8x8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe290cfa853a15cfac44bb1bf2e924af.png" group-title=" grupo do canal ", Tv Clássicos [Filmes/ Variedades/ Seriados] SP - São Paulo
-https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1aa1966ec3fc17b974e9f98d139c5b.png" group-title=" grupo do canal ", Canal Esportes Online [Esportes/ Futebol] SP - Campinas
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1aa1966ec3fc17b974e9f98d139c5b.png" group-title="Esportes/ Futebol", Canal Esportes Online - SP - Campinas -erro?-
 https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title=" grupo do canal ", Gospel Movie TV [Evangélica/ Filmes] SP - São Paulo
-https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7aa4d69d868651e45190d52845387434.png" group-title=" grupo do canal ", TV Aparecida [Católica] SP - Aparecida - site
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7aa4d69d868651e45190d52845387434.png" group-title="Católica", TV Aparecida - SP - Aparecida -site-
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png" group-title=" grupo do canal ", Sexy K-popTV [Música] SP - São Paulo
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title="Desenhos/ Esportes/ Variedades", TV Digital Birigui - SP - Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="Evangélica/ Filmes", Gospel Movie TV - SP - São Paulo
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg" group-title="Música", K pop TV (Clipes Koreano) -logo-jp-
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/570684b39f1b4362b87aeb98fccfa3b6.png" group-title="Música", Sexy K-popTV - SP - São Paulo -cx-
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpopsexy.png" group-title="Música", Sexy KpopTV -logo-
 https://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title=" grupo do canal ", TV8 HD [Variedades] SP - São Paulo
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png" group-title="Variedades/ Seriados", Vintage Tv - A sua TV anos 80 - SP - Cotia
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title=" grupo do canal ", TV Digital Birigui [Desenhos/ Esportes/ Variedades] SP - Birigui
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="Variedades", TV Santa Cecilia - SP - Santos
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4df6d535c389a4c82f840cbf01ff5399.jpg" group-title=" grupo do canal ", PPTV Channel [Filmes] SP - São Paulo -fora do ar- site
-https://5cf4a2c2512a2.streamlock.net:443/felipemello/felipemello/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/084299119e2cf7e1b863489165dd5af3.jpg" group-title=" grupo do canal ", TV Teen Net [Música/ Filmes/ Seriados] SP - Pompéia - cx
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/084299119e2cf7e1b863489165dd5af3.jpg" group-title="Música/ Filmes/ Seriados", TV Teen Net - SP - Pompéia -cx-logo-preto-
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title=" grupo do canal ", TV Teen Net| YEEAAH TV [Música/ Filmes/ Seriados] SP - Pompéia - site
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-LCiqVpP8E4M/YBgkIROUyyI/AAAAAAAAQ14/i9NvOq4tPRI9298_4d_Dix27UeufXrclQCK4BGAYYCw/w800/TOPO%2BSITE%2BTV%2BTEEN%2BNET%2B2021%2B-%2BYEEAAH%2BREGIONAL.jpg" group-title="Música/ Filmes/ Seriados", TV Teen Net - SP - Pompéia -cx-sitelogo-
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Música/ Filmes/ Seriados", TV Teen Net| YEEAAH TV - SP - Pompéia -site-
 http://srv5.zcast.com.br/canalmix/canalmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="Variedades", YEEAAH TV | -listaiptv-site-
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7522250fb2d03b2b22c9e1e54254a371.jpg" group-title=" ", Yeeah! TV [Música] Brasil -logo-CX-e-Site
-http://
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7522250fb2d03b2b22c9e1e54254a371.jpg" group-title="Música", Yeeah! TV - Brasil -cx-logo-
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4df6d535c389a4c82f840cbf01ff5399.jpg" group-title=" grupo do canal ", PPTV Channel [Filmes] SP - São Paulo -fora do ar- site
+https://5cf4a2c2512a2.streamlock.net:443/felipemello/felipemello/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.iaptd.com.br/images/logo.png" group-title=" grupo do canal ", Rede Plenitude TV [Evangélica] SP - São Paulo - site
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b1ea269f673bbd4459aa53f2b78ff14.png" group-title=" grupo do canal ", Rede Plenitude TV [Evangélica] SP - São Paulo -logo-
 https://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title=" grupo do canal ", TV Santa Cecilia [Variedades] SP - Santos
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e7e289ab5c66e67ad623c5a1bec9f75.png" group-title=" grupo do canal ", Vintage Tv - A sua TV anos 80 [Variedades/ Seriados] SP - Cotia
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title=" grupo do canal ", Rede Família HD [Notícias/ Variedades] SP - Campinas
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
@@ -2463,6 +2466,12 @@ https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="Notícias", Band News HD - SP - São Paulo -fora do ar-
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe290cfa853a15cfac44bb1bf2e924af.png" group-title="Filmes/ Variedades/ Seriados", Tv Clássicos - SP - São Paulo -fora do ar-pago agora
+https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title="Variedades", TV8 HD - SP - São Paulo -cx-erro-fora do ar-
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 
 
 

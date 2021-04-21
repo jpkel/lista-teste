@@ -1,22 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="",Bem vindos sua lista IPTV Streaming
-http://0.0.0.1
-
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/5b/de/75/cb/cf/imagen-premium-iptv-tv-box-0big.jpg" group-title="",Bem vindos sua lista IPTV Streaming
+#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/5b/de/75/cb/cf/imagen-premium-iptv-tv-box-0big.jpg" group-title="",Bem vindos sua lista IPTV Streaming 
 http://0.0.0.2
 
-#EXTINF:-1 tvg-logo="https://www.reliablecounter.com/blog/wp-content/uploads/2018/06/iptv.png" group-title="",Bem vindos sua lista IPTV Streaming
+#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="",Bem vindos sua lista IPTV - Streaming 
+http://0.0.0.1
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="",Bem vindos sua lista IPTV 
 http://0.0.0.3
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/vetores-gratis/iptv-distintivo-icone-logotipo-ilustracao_100456-1447.jpg" group-title="",Bem vindos sua lista IPTV Streaming
-http://0.0.0.4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyRPnCd7a4iQNWRhGdnGa8L5vaso5XmXl7bGL2gNN_w4fOqqxtbuzt2ppIM3U4nWHowY&usqp=CAU" group-title="",Bem vindos sua lista IPTV Streaming
-http://0.0.0.5
-
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181124/rep/kisspng-idman-azerbaijan-tv-television-logo-iptv-smart-tv-p-tv-server-sat-en-uygun-ptv-fiyat-t-5bf911d6081378.8149541415430496860331.jpg" group-title="",Bem vindos sua lista IPTV Streaming
-http://0.0.0.6
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=”-”, ///Canais do Acre///
 http://0.0.0.0
@@ -2775,11 +2766,11 @@ http://
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="", Rede TV! SP ou ES
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sJjvlG8gOr4/XuQS8PqgtRI/AAAAAAAAC_0/-XEes5rflGoCwz7T6AgKhKcMvsyblSRsACLcBGAsYHQ/s320/Screenshot_2020-06-12-20-38-21.png" group-title="", REDE TV! ES
+http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sJjvlG8gOr4/XuQS8PqgtRI/AAAAAAAAC_0/-XEes5rflGoCwz7T6AgKhKcMvsyblSRsACLcBGAsYHQ/s320/Screenshot_2020-06-12-20-38-21.png" group-title="", REDE TV! PB (TV Arapuan)
 https://5b7f3c45ab7c2.streamlock.net:443/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sJjvlG8gOr4/XuQS8PqgtRI/AAAAAAAAC_0/-XEes5rflGoCwz7T6AgKhKcMvsyblSRsACLcBGAsYHQ/s320/Screenshot_2020-06-12-20-38-21.png" group-title="", REDE TV! ES
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sJjvlG8gOr4/XuQS8PqgtRI/AAAAAAAAC_0/-XEes5rflGoCwz7T6AgKhKcMvsyblSRsACLcBGAsYHQ/s320/Screenshot_2020-06-12-20-38-21.png" group-title="", REDE TV! RS (TV Pampa)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8

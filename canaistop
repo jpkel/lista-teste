@@ -411,6 +411,24 @@ http://ad.mysisli.com/live/13verdevalelive13/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/df.png" group-title=”-”, ///CANAIS do Distrito Federal///
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura" , TV Brasil - DF - Brasília
+https://video.rnp.br/portal/embed-channel?idItem=39285&autostart=true
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura," , TV Brasil - DF - Brasília
+https://aovivo.ebc.com.br/embed-tvbrasil.html
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura," , TV Brasil - DF - Brasília
+https://tvbrasil.ebc.com.br/sites/all/libraries/mediaelementjs/build/mediaelement-and-player.min.js?qqa6mm
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
+https://video.rnp.br:443/portal/embed-channel?idItem=39285&autostart=false
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
+https://portal/vms-commons-web/player/videojs/video-js.swf
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
+https://video.rnp.br:443/portal/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title="Esportes" , All Sports TV - DF - Brasília
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
@@ -839,6 +857,9 @@ https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5bb766795cbeeaaae3a2cae9cfafa8e.png" group-title="Variedades", Mam News WEB TV -MG- Monte Alegre de Minas -Propaganda-
 http://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/620bd3bf05f15367e738d7be74d4a939.png" group-title="Música/ Estúdios de rádio", Q FM - MG - Viçosa
+https://qfm.ddns.net/hlsq/index.m3u8
 
 
 
@@ -2402,19 +2423,19 @@ https://5e36c064a2f6a.streamlock.net:1936/8342/8342/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a36370d0facd85b08f61d4d9414ba2a5.png" group-title="Variedades", Canal Smart - SP - Osasco -cx- |Parte de sua programação também é apresentada na Tv Cidade de Brusque e Blumenau SC. na NGP TV. também de Blumenau. na TV Nova Esperança – Caruaru PE e WJT TV de Belo Horizonte (MG).
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalsmart.com.br/imagens/logo.png" group-title="Variedades", Canal Smart - SP - Osasco -site-
-http://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canalsmart.com.br/imagens/logo.png" group-title="Variedades", Canal Smart - SP - Osasco -site- ===???logo???
+https://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0bcb9b633147b0f1e0d6f940c2260a.png" group-title="Variedades", Rede Premium Tv - SP - Osasco -logo-
 https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyofbJTC1iCpf3_Hxu6_eUAwU7Ou2qa3fFg&usqp=CAU" group-title="Educativos", TV PREVE - SP - Bauru
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyofbJTC1iCpf3_Hxu6_eUAwU7Ou2qa3fFg&usqp=CAU" group-title="Educativos", TV PREVE (tv Brasil 2) - SP - Bauru
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7rzcIVJgaNiEUv6XIY7bb1vSlreu04hbAcw&usqp=CAU" group-title="Educativos", TV PREVE - SP - Bauru -logo-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7rzcIVJgaNiEUv6XIY7bb1vSlreu04hbAcw&usqp=CAU" group-title="Educativos", TV PREVE (tv Brasil 2) - SP - Bauru -logo-
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a714427ea7a433b5dc027873ff6afcfc.png" group-title="Educativos", TV PREVE - SP - Bauru -logo-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a714427ea7a433b5dc027873ff6afcfc.png" group-title="Educativos", TV PREVE (tv Brasil 2) - SP - Bauru -logo-
 http://0.0.0.1
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7dcc757ed5cca8519925e60919fbdbbe.png" group-title="Evangélica .Clipes", Gostei Gospel Tv - SP - São Paulo -site-01-fica carregando!?
@@ -2671,6 +2692,9 @@ https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Filmes/ Desenhos", Web Tv Cine - Brasil -cx-
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e1c515ec353cb03545f409372154bda0.png" group-title="Filmes/ Desenhos", CTV - Brasil -cx-
+https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e4a0b69984c0ae798f990f8a62173fa.png" group-title="Música", Mix TV - Brasil
 https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8

@@ -345,6 +345,15 @@ https://5e36c064a2f6a.streamlock.net:1936/8296/8296/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="Seriados/ Música", Tv V.M (Madalena) -logo-CX-
 https://livefocamundo.com:8081/8606/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3c250c5e51462fb5111b10cc2374ea5.png" group-title="Variedades", TV América - CE - Icapuí -logo-cx-
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/data/img/gallery/Slider/1616711626614.png" group-title="Variedades",  TV América - CE - Icapuí -logo-site-
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/assets/img/logo.png" group-title="Variedades",  TV América - CE - Icapuí logo-site-
+http://
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ecd19d55a209e3212be60d5b7ee8462.jpg" group-title="Variedades", Tv Nacional News (Icapuí)
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 
@@ -369,13 +378,19 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/670b916b607af258b7a62dccce8aba95.png" group-title="Variedades", TV Guarany (Pacajus)
 https://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f42f76db35b114255012a25cbe113942.png" group-title="Música/ Variedades", Tv Nordeste (Fortaleza)
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f42f76db35b114255012a25cbe113942.png" group-title="Música/ Variedades", Tv Nordeste (Fortaleza) -cx-
 http://stmv1.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc8d11a2f28d597643226a5d03519c58.png" group-title="Variedades/ Educativos", Tv Serra Verde (Frecheirinha)
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc8d11a2f28d597643226a5d03519c58.png" group-title="Variedades/ Educativos", Tv Serra Verde (Frecheirinha) -cx-
 https://stmv1.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7YlXRtu9uUU/Xql1N-6MXUI/AAAAAAAABb0/LxWbBSoEJZg3i8joXatRWK9g9UGOF__dwCLcBGAsYHQ/s1600/oie_transparent.png" group-title="Variedades/ Desenhos/ Filmes", TV Serra Verde (Frecheirinha)
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-SWmUnnu8OR0/XuvglYFH-GI/AAAAAAAADBo/sJl61PITyb0eDDO6qjeyH_3PRytTzwvLACLcBGAsYHQ/s320/2020-06-18%2B18.42.11.png" group-title="Variedades/ Desenhos/ Filmes", TV Serra Verde (Frecheirinha) -site-Olhosnatv-logo-01
+http://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-DApr_TZTtqM/Xvi5SHxkMjI/AAAAAAAABgA/qUXXzTVORBU8Rtma7aBW3ubgJAWQYDMugCK4BGAYYCw/s150/download%2B-%2BCopia%2B%25282%2529%2B%25281%2529.png" group-title="Variedades/ Desenhos/ Filmes", TV Serra Verde (Frecheirinha) -site-Olhosnatv-logo-02
+http://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7YlXRtu9uUU/Xql1N-6MXUI/AAAAAAAABb0/LxWbBSoEJZg3i8joXatRWK9g9UGOF__dwCLcBGAsYHQ/s1600/oie_transparent.png" group-title="Variedades/ Desenhos/ Filmes", TV Serra Verde (Frecheirinha) -site-Olhosnatv-logo-03
 https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa94db57fcdaceb89e0edff5f6e05f09.jpg" group-title="Variedades", Rede Encauca (Fortaleza)
@@ -2598,6 +2613,9 @@ https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d06479fe8f0dccd76c2a1d7e025f718.png" group-title="Variedades", TV Jornal de Limeira (TV Cultura) - SP - Limeira -fora do ar-
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bc3e30ce03fc1d8dc50e6f1aee453c51.png" group-title="Estúdios de rádio", Rádio Globo 1100 AM SP - SP - São Paulo
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboSP.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/se.png" group-title=”-”, ///CANAIS de Sergipe///
@@ -2702,13 +2720,13 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-
 https://StmV1.srvstm.com/classique2/classique2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rbtv.com.br/upload_arquivos/2021/04/2021040643656001617289862.png" group-title="Variedades", REDE BRASIL (RBTV) São Paulo/ SP -logo-preto-site-
+#EXTINF:-1 tvg-logo="https://rbtv.com.br/upload_arquivos/2021/04/2021040643656001617289862.png" group-title="Variedades", REDE BRASIL (RBTV) São Paulo/ SP -logo-preto-site-m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP) -logo.iptv.transparente-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP) -logo.iptv.transparente|site-player
 https://player.logicahost.com.br/player.php?player=2
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Cultura/ Variedades",RBTV |Rede Brasil de Televisão - Brasil -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Cultura/ Variedades",RBTV |Rede Brasil de Televisão - Brasil -cx-m3u8
 https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil -cx-site-
@@ -2748,7 +2766,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="-",/// RÁDIOS ///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios",Rádio Trapiá FM 103.3| A Voz do povo! cx-esse
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d70c49b0c18bbb3f92f22cff77b5f250.jpg" group-title="Rádios",Rádio Trapiá FM 103.3 |A Voz do povo! cx-esse
 https://player.srvaudio.com.br/player-ssl/9458/
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14927_1483969841.jpg" group-title="Rádios", Rádio Trapiá - 103.3 FM - A Voz do povo! radionet 150X150logo
@@ -2786,7 +2804,7 @@ http://
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="-",=====CANAIS OLHOS NA TV SITE=====
+#EXTINF:-1 tvg-logo="" group-title="-",===CANAIS OLHOS NA TV SITE===
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="" group-title="", REDE TV! ES
@@ -2801,7 +2819,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 tvg-logo="" group-title="", REDE TV! TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TV CULTURA MG (TVU Uberlândia) ?
+#EXTINF:-1 tvg-logo="" group-title="", TV CULTURA MG (TVU Uberlândia).
 https://video.rnp.br:443/portal/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", TV CULTURA PR (Catve)
@@ -2828,7 +2846,7 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", SBT GO (TV Serra Dourada)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", RECORD NEWS ES (TV Sim) erro?
+#EXTINF:-1 tvg-logo="" group-title="", RECORD NEWS ES (TV Sim).
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", RECORD NEWS MA (TV Guará)
@@ -3610,3 +3628,5 @@ http://flash32k.crossdigital.com.br/evangelizar/tv/playlist-480p.m3u8?PlaylistM3
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal  | BR
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8

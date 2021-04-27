@@ -429,6 +429,9 @@ http://ad.mysisli.com/live/13verdevalelive13/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/df.png" group-title=”-”, ///CANAIS do Distrito Federal///
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura" , TV Brasil Web HD - DF - Brasília -cx-m3u8-
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura" , TV Brasil - DF - Brasília
 https://video.rnp.br/portal/embed-channel?idItem=39285&autostart=true
 
@@ -494,6 +497,18 @@ http://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/es.png" group-title=”-”, ///CANAIS do Espírito Santo///
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31bd8f4b067abf5765e8792d0b1ed479.jpg" group-title="Variedades", TV Vitória (Record ES) - ES - Vitória -logocx-
+http://0.0.0.1
+
+#EXTINF:-1 tvg-logo="https://www.portalredevitoria.com.br/wp-content/themes/redevitoria/img/tv-vitoria-icone.png" group-title="Variedades", TV Vitória (Record ES) - ES - Vitória -logosite-
+http://0.0.0.2
+
+#EXTINF:-1 tvg-logo="https://www.portalredevitoria.com.br/wp-content/themes/redevitoria/img/tv-vitoria-logo.png" group-title="Variedades", TV Vitória (Record ES) - ES - Vitória -logosite-
+http://0.0.0.3
+
+#EXTINF:-1 tvg-logo="https://www.portalredevitoria.com.br/wp-content/themes/redevitoria/img/rede-vitoria-logo.png" group-title="Variedades", TV Vitória (Record ES) - ES - Vitória -logosite-
+http://0.0.0.4
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5673cee68ac13e9823b9cb2759fa510f.jpg" group-title="Variedades", REDE TV! ES - ES - Vila Velha
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
@@ -547,7 +562,7 @@ https://5c483b9d1019c.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/go.png" group-title=”-”, ///CANAIS de Goiás///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" group-title="Variedades", TV Serra Dourada (SBT GO) - GO - Goiânia
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" group-title="Variedades", TV Serra Dourada HD (SBT GO) - GO - Goiânia -cx-
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6ea19e674e731e9eef76b96ab954e4b1.png" group-title="Católica", TV Pai Eterno - GO - Trindade
@@ -1437,6 +1452,18 @@ https://596639ebdd89b.streamlock.net/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://portalgiro.com/wp-content/uploads/2020/05/Logo-Branco.png" group-title="Variedades", TVI Petropolis - RJ - Petrópolis -site-
 https://596639ebdd89b.streamlock.net:443/8038/8038/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7c2b64597645408003c7ad408e23931.png" group-title="Variedades", Web Tv Escriba do Amapá - RJ - Duque de Caxias -cx-
+https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvescribadoamapa.noar24horas.com.br/images/Logotipos/oie_cdB0zCLyQ3qd_1.png" group-title="Variedades", Web Tv Escriba do Amapá - RJ - Duque de Caxias -site-
+https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d697ec8c1724e5dc37d8999e9aa71ac3.jpg" group-title="Música", Catedral do Rock TV - RJ - Petrópolis -cx-
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" group-title="Música", Catedral do Rock TV - RJ - Petrópolis -site-
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17bae5c1c823ecfd3c0a627432f8afd0.png" group-title="Variedades", Luau TV - RJ - Nova Friburgo -cx-site-ERRO-
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
 
@@ -2010,8 +2037,11 @@ http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e203baa61a997851f879286d0e262b59.png" group-title=" Variedades/ HD", TV Gazeta (Rede Gazeta) - SP - São Paulo -cx-logo-listaiptv-
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -cx-OlhosNatv-ok-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -cx-OlhosNatv-ok-?
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5gormsu7qderx4z0coz5281hehosfp2f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -cx-ok-
+https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzfe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1aa1966ec3fc17b974e9f98d139c5b.png" group-title="Esportes/ Futebol", Canal Esportes Online - SP - Campinas -erro-
 https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8

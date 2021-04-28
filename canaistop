@@ -1237,6 +1237,9 @@ http://api.new.livestream.com/accounts/3332377/events/9608773/broadcasts/2197221
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title="Notícias", TV Jornal Meio Norte (Tv Cultura) - PI - Teresina -cx02-
 https://api.new.livestream.com/accounts/3332377/events/9608773/broadcasts/219722178.secure.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7900edd4a1a590ed05ad23318361b81.jpg" group-title="Notícias", TV Jornal Meio Norte (Tv Cultura) - PI - Teresina cx02-nv-
+http://api.new.livestream.com/accounts/3332377/events/9608773/broadcasts/220486797.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4b58ef201606f587775ff8ad6620b1b9.png" group-title="Educativos", Tv Canal Vinte.2 (Rural) - PI - Teresina -cx01-
 http://api.new.livestream.com/accounts/3332377/events/9569056/broadcasts/219711722.m3u8
 
@@ -1269,6 +1272,9 @@ https://player.voxhd.com.br/player-barra/7018/FF0000
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53d91293b5c5cef84ac28e3894b4a20e.png" group-title="Evangélica", Semear Tv - PI - Teresina
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db3dc3899d07841cc8c5b65293a1ea7a.png" group-title="Católica", Tv Guadalupe HD. - PI - Guadalupe
+https://stmv.video.expressolider.com.br/tvguadalupe/tvguadalupe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ecb6638b7e7c4c298b54b6bbe8b2fe7.jpg" group-title="Variedades", Web Tv Castelo Do Piauí - PI - Castelo do Piauí -fora do ar-
 https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
@@ -3658,5 +3664,3 @@ http://flash32k.crossdigital.com.br/evangelizar/tv/playlist-480p.m3u8?PlaylistM3
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal  | BR
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="", Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8

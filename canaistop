@@ -441,6 +441,12 @@ https://aovivo.ebc.com.br/embed-tvbrasil.html
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura," , TV Brasil - DF - Brasília
 https://tvbrasil.ebc.com.br/sites/all/libraries/mediaelementjs/build/mediaelement-and-player.min.js?qqa6mm
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília -cx-nv-
+https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel39285/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília -cx-nv-
+https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9lZHVwbGF5LW1lZGlhLnByZC5hcHBzLmtsb3VkLnJucC5ici9tZWRpYS9jaGFubmVsMzkyODUvaW5kZXgubTN1OD94PTEmbT1EVENVbXoySkpyZHYzWTRMdFRBUkZn&x=1&p=0&m=dmQv0N5ot8x4CLD5QUMxMQ
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
 https://video.rnp.br:443/portal/embed-channel?idItem=39285&autostart=false
 
@@ -3664,3 +3670,5 @@ http://flash32k.crossdigital.com.br/evangelizar/tv/playlist-480p.m3u8?PlaylistM3
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal  | BR
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/Jasmin_TV_(18).png" group-title="", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8

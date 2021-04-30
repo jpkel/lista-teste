@@ -1511,7 +1511,7 @@ https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="111633" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV -site-
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5032ba84f13d4f30a9920195fc474a7e.png" group-title="Católica/ Música", Tv Grande Natal - RN - Natal -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5032ba84f13d4f30a9920195fc474a7e.png" group-title="Católica/ Música", Tv Grande Natal - RN - Natal -cx-ok-m3u8-
 https://edge1o.live.opencaster.com/caster/iwryaujuiHbh.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/850e6dd3d2750e126feff1e5d342ed15.png" group-title="Variedades", Livre TV - RN - Parnamirim
@@ -2202,7 +2202,7 @@ https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a743a9cd82ae55c8aa1188def4be6e5.jpg" group-title="Filmes/ Educativos/ Documentários", Tv Capital 777 - SP - Lucélia
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e10957de60dafe9e218d10e577a2b7e0.png" group-title="Desenhos", Tv Montanha - SP - São Paulo
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e10957de60dafe9e218d10e577a2b7e0.png" group-title="Desenhos", Tv Montanha - SP - São Paulo -erro-
 https://srv2.zcast.com.br/oney7654/oney7654/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/de/98/dc/de98dc41d59137db27a5c2c0fcc0f10d.jpg" group-title="Variedades", Rede Live TV - SP - São Paulo -erro?-
@@ -2720,6 +2720,9 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.azpm.org/master/image/2018/5/3/show-logos/nature-transparent.png" group-title="Variedades/ HD", Nature TV HD - Brasil
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/52e6992c6d28c2c510e6899699411dcf.png" group-title="Variedades .Agronegócio", TV Terra Viva - Brasil -cx-site-
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b5fef447f62d556b33598a4abcfbf60.jpg" group-title="Agronegócio", Canal Rural - Brasil
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 
@@ -2737,6 +2740,9 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e1c515ec353cb03545f409372154bda0.png" group-title="Filmes/ Desenhos", CTV - Brasil -cx-
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f8985503925046268e40af97d2f175f8.jpg" group-title="Desenhos", Aguiar B-TV - Brasil -cx-
+https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e4a0b69984c0ae798f990f8a62173fa.png" group-title="Música", Mix TV - Brasil
 https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
@@ -2776,6 +2782,9 @@ https://player.logicahost.com.br/player.php?player=2
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Cultura/ Variedades",RBTV |Rede Brasil de Televisão - Brasil -cx-m3u8
 https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Cultura/ Variedades",RBTV |Rede Brasil de Televisão - Brasil -cx-m3u8-nv-
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil -cx-site-
 https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8

@@ -238,10 +238,10 @@ https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49951a1c4a03aa757121f8c9da9caf40.png" group-title="Variedades", TV Manchete Bahia - BA -  Santo Antônio de Jesus -logo-CX-
 http://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TQs9kEF1NCk/X4HkGl2DCcI/AAAAAAAAAQc/Sa_8f1KU6OIuB78hVeK0CpeFvJ6hq9KmACNcBGAsYHQ/w240-h98/mega%2Bcine%2B2.png" group-title="Filmes", TV Mega Cine - BA -
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TQs9kEF1NCk/X4HkGl2DCcI/AAAAAAAAAQc/Sa_8f1KU6OIuB78hVeK0CpeFvJ6hq9KmACNcBGAsYHQ/w240-h98/mega%2Bcine%2B2.png" group-title="Filmes", TV Mega Cine - BA -erro-
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9041c4d45dad6a26191ecba9fd2edf48.png" group-title="Filmes", TV Mega Cine - Brasil
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9041c4d45dad6a26191ecba9fd2edf48.png" group-title="Filmes", TV Mega Cine - Brasil -erro-
 http://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 
 
@@ -1032,8 +1032,11 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Clipes .Variedades", Top TV Bahia/ Tv Estado-Rede NGT
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo-small.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/646ee5304b659c7c667285357508fc07.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba -logo-cx-erro-
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo-small.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba -cx-nv-
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" group-title="Católica", TVCI (PR) Pai Eterno HD - PR - Paranaguá - site
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
@@ -1774,6 +1777,9 @@ https://596639ebdd89b.streamlock.net:443/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bd8252b6329a148a9ad807ddce74f84.jpg" group-title="Cultura/ Filmes/ Seriados", Tv Osório News - RS - Osório -cx-fora do ar?-
 https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40d7d18ac1b8c2e6b87ecf0e3410cad7.png" group-title="Cultura/ Filmes/ Seriados", Tv Osório News - RS - Osório -cx-site-nv-
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f53f92b9e96ec40a8c143407e6ed13a.jpg" group-title="Variedades", Rede RCT - RS - Canoas -cx-site-erro?-
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
 
@@ -1998,7 +2004,7 @@ https://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Desenhos", Retro Cartoon - SP - São Paulo -cx-
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Desenhos", Retro Cartoon 2 - Brasil -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/deaee7a4d7ef1c38e84da23cfeee16ff.png" group-title="Desenhos", Retro Cartoon 2 - Brasil -cx-
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/retrocartoontv/imagens/logo_retrocartoon_site.png" group-title="Desenhos", Retro Cartoon 2 - Brasil -logo-site-
@@ -2735,19 +2741,19 @@ https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3e4a0b69984c0ae798f990f8a62173fa.png" group-title="Música", Mix TV - Brasil
 https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries -As Panteras- Brasil
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries As Panteras - Brasil
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries 2 -Mulher Biônica- Brasil
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries 2 Mulher Biônica - Brasil
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries 3 -Star Trek- Brasil -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f78ba83a1010b3d8fc8c98ca564aa7bf.png" group-title="Seriados", TV Séries 3 Star Trek - Brasil -site-cx-
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries 4 -Chips- Brasil -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries 4 Chips - Brasil -site-cx-
 https://StmV1.srvstm.com/tvserie4/tvserie4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png" group-title="Seriados", TV Séries 5 -Guerra Sombra e Água Fresca- Brasil -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bbf68ab6be6c58903b3f0737ce6eed5.jpg" group-title="Seriados", TV Séries 5 Guerra Sombra e Água Fresca - Brasil -site-cx-
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Filmes", Classique TV - Brasil -cx-
@@ -3670,5 +3676,3 @@ http://flash32k.crossdigital.com.br/evangelizar/tv/playlist-480p.m3u8?PlaylistM3
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal  | BR
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/Jasmin_TV_(18).png" group-title="", Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8

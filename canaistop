@@ -1968,6 +1968,12 @@ https://stmv6.srvstm.com/digitaltvweb/digitaltvweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/sp.png" group-title=”-”, ///CANAIS de São Paulo///
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="Variedades/ HD", Rede TV! - SP - São Paulo -site-1-m3u8
+https://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="Variedades/ HD", Rede TV! - SP - São Paulo -site-2-m3u8
+https://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="Variedades/ HD", Rede TV! - SP - São Paulo
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 

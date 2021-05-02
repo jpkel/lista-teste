@@ -2598,7 +2598,7 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQTAnQD9HuuQ1Rtvd9jm6KzokFt5Q2znJIQ&usqp=CAU" group-title="Publicos", TV Câmara Campinas - SP - Campinas -cx-
 https://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.campinas.sp.leg.br/comunicacao/tv-camara/assista-online/logo_campinas.png" group-title="Publicos", TV Câmara Campinas - SP - Campinas -site-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQTAnQD9HuuQ1Rtvd9jm6KzokFt5Q2znJIQ&usqp=CAU" group-title="Publicos", TV Câmara Campinas - SP - Campinas -site-
 https://5cf4a2c2512a2.streamlock.net:443/tvcamara/tvcamara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094dd6bf2c34150cd341e31dec9f69db.png" group-title="Variedades", TVC Araçatuba - SP - Araçatuba
@@ -2675,6 +2675,12 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2f2023f84a48acd14849f660a7960a4d.jpg" group-title="Estúdios de rádio", Mundial FM Pirassununga - SP - Pirassununga -cx-site-erro-
 https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/38625bf93125111e4b587ef5ff9a5dbb.png" group-title="Variedades", VRT Channel - SP - Guarulhos -cx-site-
+https://5f1ce9c7dc62b.streamlock.net:443/vrtchannel/vrtchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Variedades", VRT Channel - SP - Guarulhos -logo-site- novo canal de TV Interativa!
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="Notícias", Band News HD - SP - São Paulo -fora do ar-
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
@@ -2816,7 +2822,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil -cx-site-
 https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Estilo.tv - Brasil -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/35e8e4388d626c8d78408238024867b4.png" group-title="Variedades", Tv Estilo - Brasil -cx-
 https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvestilo.tv/wa_images/tvestilo.tv%205.png?v=1edgjjb" group-title="Variedades", Tv Estilo.tv - Brasil - SP - Guarulhos -site-
@@ -2978,9 +2984,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qqy4e9lGLdg/XcndYEhvmjI/AAAAAAAACPY/GdPoauhgxIYXHwR5RzwPfFUkkK2nOxrjgCLcBGAsYHQ/s320/Screenshot_2019-11-11-19-06-48.png" group-title="", TV8 BRASIL
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bGE648csrKk/X8Kciu6W4JI/AAAAAAAAD3o/e8tm2Fh8MjgaUEb_ksd9A9FBFljjlZsjQCLcBGAsYHQ/s0/TV%2BCL%25C3%2581SSICOS.png" group-title="", TV CLÁSSICOS - erro?logo-erro?
-http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="", LONDRINA TV (Filmes 24h)
 http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 
@@ -3013,6 +3016,18 @@ https://5f1ce9c7dc62b.streamlock.net:443/vrtchannel/vrtchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UlWyu7204xI/XYRVgKW0OOI/AAAAAAAAB-Y/qjlfDlc3j789grEBBD_mHaV0_5sCW2LIwCPcBGAYYCw/s0/2019-09-20%2B01.19.36.png" group-title="", TV PONTA DA SERRA
 https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png" group-title="", TV Manchete Web -PB-
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xhHL7ueSWHI/X9ozrULdlFI/AAAAAAAAD_4/7aOvz4stANM8ei-f5zgHftVwGADSaiLUgCLcBGAsYHQ/s0/TV%2BMANCHETE%2BBAHIA.png" group-title="", TV Manchete Bahia
+https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2tY1krVNzUw/YHB_9gOOY6I/AAAAAAAAEhA/o5gqA7uJP2EcnhUSelZEYDOtlEggEA37wCLcBGAsYHQ/s0/MANCHETE%2BTV%2BGOI%25C3%2581S.png" group-title="", Manchete TV Goiás
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9FwGjXYXQWg/YGIEunXbjRI/AAAAAAAAEdY/SGUWe9c-CsUiMBnl-JJBKJZjERbZPeHEQCLcBGAsYHQ/s0/TV%2BMANCHETE%2B2.png" group-title="", TV Manchete 2
+https://stmv1.srvif.com/tvmanchete1/tvmanchete1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 

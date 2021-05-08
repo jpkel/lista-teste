@@ -130,7 +130,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8262/8262/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png" group-title="Educativos", TVE BAHIA (tv Brasil) - BA - Salvador
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ab63e7555de7628ae92ed04fe25ff35.jpg" group-title="Variedades", TV TUPI HD - BA - Vera Cruz -cx-logoerro-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ab63e7555de7628ae92ed04fe25ff35.jpg" group-title="Variedades", TV TUPI HD - BA - Vera Cruz -cx-=logoerro=
 https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/03ab0c563cc53333ffdcb0f06442955c.png" group-title="Variedades", TV TUPI HD - BA - Vera Cruz -cx-
@@ -2828,6 +2828,12 @@ https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvestilo.tv/wa_images/tvestilo.tv%205.png?v=1edgjjb" group-title="Variedades", Tv Estilo.tv - Brasil - SP - Guarulhos -site-
 https://596639ebdd89b.streamlock.net:443/estilo/estilo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="Educativos/ Cultura", TV Escola - Brasil -site-eduplay
+https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel57936/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="Educativos/ Cultura", TV Escola - Brasil -site-eduplay
+https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel57936/index.m3u8?s=aHR0cHM6Ly9yZXBvLW5mcy1wcmQuZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDU3OTM2L2luZGV4Lm0zdTg_eD0xJm09OWNxVmZneExiRnhzS1hmT05YRU9UZw&x=1&p=0&m=D1kvX42B_BHBTFhk0xK2gA
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2ac9ceedeebd16762d08118f9fc39ab.jpg" group-title="Variedades", TV BRICS - Português - Brasil -cx-
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
@@ -2854,14 +2860,89 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8&source_type=appl
 #EXTINF:-1 tvg-logo="" group-title="-",|||Canais Internacionais-cxtv|||
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9fe845cd9712092b91454b965439f667.png" group-title="Música/ Notícias", WEB TV Paixao FM - Portugal - Aveiro
+https://stmv3.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiopaixaofm.online/admin/assets/img/logo.png" group-title="Música/ Notícias", WEB TV Paixao FM - Portugal - Aveiro -logo-site-
+https://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc4cd15f95807d0d3c794fa75b574ac3.png" group-title="Música", ON FM Portugal 93.8 - Portugal - Torres Vedras
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8b4774a12ecb9843affeb4c817a3c0f.jpg" group-title="Variedades", Porto Canal - Portugal - Lisboa -cx- ?-m3u8-
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8b4774a12ecb9843affeb4c817a3c0f.jpg" group-title="Variedades", Porto Canal - Portugal - Lisboa -site- ?-
+https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/4JUGzdDcLt2yiCPPUZnm/mov/24&relatedVideos=none&autoStart=1
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8b4774a12ecb9843affeb4c817a3c0f.jpg" group-title="Variedades", Porto Canal - Portugal - Lisboa -site- ?.
+https://rd3.videos.sapo.pt/4JUGzdDcLt2yiCPPUZnm/mov/24&relatedVideos=none&autoStart=1
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/467691868df05a4035d5b6e8d361e79f.jpg" group-title="Variedades", TVI - Portugal
+https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/92babb231a823985779b8b2252720195.jpg" group-title="Notícias", TVI 24 - Portugal
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/703b45579dbcec6cd29ca8b56cb544a7.jpg" group-title="Variedades/ Esportes", RTP 1 - Portugal - Lisboa
+https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b78e598f3078af338cd3828679f1a2b6.jpg" group-title="Cultura/ Variedades", RTP 2 - Portugal - Lisboa
+https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a5d7ea439c007b72dcfe89c523c4388b.png" group-title="Notícias", RTP 3 - Portugal - Lisboa
+https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f4f0f165a154e1a57ac483ad28e9872.jpg" group-title="Variedades", RTP Internacional - Portugal - Lisboa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/225e1af3d9fcc10722be2b41edfcfc61.jpg" group-title="Variedades/ Notícias", RTP Africa - Portugal - Lisboa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/225e1af3d9fcc10722be2b41edfcfc61.jpg" group-title="Variedades/ Notícias", RTP Africa - Portugal - Lisboa
+https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/19fed8c6cdf9bfddaba120308bcdc3ab.jpg" group-title="Variedades", RTP Madeira - Portugal - Lisboa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee92ed2d2dea194c7bd5955f90cd20cb.jpg" group-title="Variedades", RTP Memória - Portugal - Lisboa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/618a1025bb2937b880cb6c68953215f8.png" group-title="Variedades", RTP Açores - Portugal - Lisboa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d5e881c97b312df382164b7b7e5f5509.png" group-title="Evangélica/ Filmes", Kuriakos Cine - Portugal
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a58d463781649692e75a8f13b05c64d.jpg" group-title="Evangélica/ Música", Kuriakos Music - Portugal
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/05ad1060b11abe78c4958ca305b2d168.png" group-title="Desenhos", Kuriakos Kids - Portugal
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be908a654dd4c6705a0d6d663c4e853e.png" group-title="Evangélica", Kuriakos TV - Portugal
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b55ab9d9297a3534a32090bf8631d0ff.jpg" group-title="Evangélica/ Música", ADB TV - Portugal - Lisboa
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1178538717.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.stvplay.org/uploads/3/0/1/1/30114993/published/logoadbtv.png?1603144133" group-title="Evangélica/ Música", ADB TV - Portugal - Lisboa -logo-site-
+http://0.0.0.0
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/37f63ae8bad61ab5cbfd8acf5bd3e67d.png" group-title="Evangélica/ Documentários/ Música", Sobrenatural TV - Portugal - Aveiro
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4b1e51fbd41aec36ee43de62d9a0ceb0.png" group-title="Evangélica", Canal Vida/ Sobrenatural TV - Portugal - Aveiro -mesmolink-
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/52fcdda5cbfc92b83c0ee7f1a142519b.jpg" group-title="Evangélica", ies TV - Igreja do Espírito Santo - Portugal - Faro -m3u8-
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.espiritosanto.cc/images/images/testewithout.png" group-title="Evangélica", ies TV - Igreja do Espírito Santo - Portugal - Faro -logo-site-mpd-
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://www.espiritosanto.cc/images/images/testewithout.png" group-title="Evangélica", ies TV - Igreja do Espírito Santo - Portugal - Faro -logo-site-smil-
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/jwplayer.smil
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4b67ca71e1ac21c3a9481cda15a461d4.png" group-title="Evangélica/ HD", Assembleia De Deus Almada TV - Portugal
 http://88.198.22.8:1935/adalmada_tv/ngrp:adalmada_tv_all/manifest.m3u8
@@ -2878,8 +2959,44 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" group-title="Variedades/ Evangélica", Extrema TV - Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da1ac6a713ea63fa16f8cdf6f0571e4d.jpg" group-title="Evangélica", Amor i Vida TV - Estados Unidos - Miami - FL
+https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ee2b2ea9b1af3211e9f51ab1d8f87c2.jpg" group-title="Evangélica", Tv CRET - El Salvador - San Miguel
+https://radiocret.net:8082/hls/tvcret.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a0872e6e198720627e1a13752b097ac.png" group-title="Étnicos/ Evangélica/ Música", Puruwa - Equador - Riobamba -cx-erro-
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a0872e6e198720627e1a13752b097ac.png" group-title="Étnicos/ Evangélica/ Música", Puruwa - Equador - Riobamba -site-1
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a0872e6e198720627e1a13752b097ac.png" group-title="Étnicos/ Evangélica/ Música", Puruwa - Equador - Riobamba -site-2
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b91d6d5f5f614249045850c18dd06277.jpg" group-title="Étnicos", TPA Internacional - Angola -
+http://api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/220821432.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b91d6d5f5f614249045850c18dd06277.jpg" group-title="Étnicos", TPA Internacional - Angola
+http://api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/220821432.m3u8?dw=80&hdnea=st=1620397016~exp=1620398816~acl=/i/30360708_9496693_lsi5qk5rophez3th6le_1@688620/*~hmac=cb0dedd2ae84a6be8ec26460495b57f3a8352791e01775c25a462755e88bb289&token=60954d04_c42cc9e49e10a5a2e1e6e2dc5ad3f8c6b01c32d8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b91d6d5f5f614249045850c18dd06277.jpg" group-title="Étnicos", TPA Internacional - Angola -
+https://api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/220821432.secure.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b91d6d5f5f614249045850c18dd06277.jpg" group-title="Étnicos", TPA Internacional - Angola
+https://api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/220821432.secure.m3u8?dw=80&hdnea=st=1620397016~exp=1620398816~acl=/i/30360708_9496693_lsi5qk5rophez3th6le_1@688620/*~hmac=cb0dedd2ae84a6be8ec26460495b57f3a8352791e01775c25a462755e88bb289&token=60954d04_fb4b56745f79be292b944c0f4176569e835643df
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0ad17cee2ecc5963268d9ad1f328719.jpg" group-title="Documentários/ Notícias/ Variedades", Telecondor - Argentina - Los Condores
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Variedades/ HD", Canal 26 - Argentina - Buenos Aires
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="Música/ Filmes/ HD", Retro Plus TV - Peru - Lima
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c871bb969e8076f811e7f7522ba7e545.png" group-title="Futebol", Real Madrid TV - Espanha
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?cp=en
 
 
 
@@ -3131,8 +3248,8 @@ https://stmv1.rwlivetv.com/tvrezende/tvrezende/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-67F0xY4MrEc/X1fUFgErZTI/AAAAAAAADP8/vyq1QGSQWgwWdsP0M9ZPKmeINn0SsYXTgCLcBGAsYHQ/s320/Screenshot_2020-09-08-15-54-23.png" group-title="", Resende Web TV ?
 https://5d82644094cc0.streamlock.net/resendetv/resendetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", 
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="", Web TV Progresso
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 

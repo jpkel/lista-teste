@@ -247,6 +247,15 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9041c4d45dad6a26191ecba9fd2edf48.png" group-title="Filmes", TV Mega Cine - Brasil -erro-
 http://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/58ef6f711bd4731bc5f0095f223b0fe0.jpg" group-title="Variedades", TV Aratu - BA - Salvador -m3u8-site-Olhosnatv-
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/58ef6f711bd4731bc5f0095f223b0fe0.jpg" group-title="Variedades", TV Aratu - BA - Salvador -site-mp4-
+https://video-atl3-1.cdninstagram.com/v/t50.2886-16/184334638_294689535480100_1372904743379380276_n.mp4
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/58ef6f711bd4731bc5f0095f223b0fe0.jpg" group-title="Variedades", TV Aratu - BA - Salvador -site-mp4-
+https://video-atl3-1.cdninstagram.com/v/t50.2886-16/184334638_294689535480100_1372904743379380276_n.mp4?_nc_cat=106\u0026vs=18228220363033008_2330165862\u0026_nc_vs=HBksFQAYJEdDNjUtQW9rMFJUQkJBd0JBRFNva3hPWGlRMFRia1lMQUFBRhUAAsgBABUAGCRHQzVmOUFvTlFvTDZNQUVEQUF2QlFmbjc3N0E0YmtZTEFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAACbg9dWnhZ7hQBUCKAJDMywXQE2zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMl92MREAdeoHAA%3D%3D\u0026ccb=1-3\u0026_nc_sid=59939d\u0026efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5mZWVkIn0%3D\u0026_nc_ohc=HVIFvV-sqVsAX_ppi6_\u0026_nc_ht=video-atl3-1.cdninstagram.com\u0026oh=f77fb995e7c5cba7b5d1c535cf9063c4\u0026oe=60BFA7A3\u0026_nc_rid=143217cba0
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ce.png" group-title=”-”, ///CANAIS do Ceará///
@@ -284,6 +293,12 @@ http://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33c7fc7f10a545696fecb96bd6fe15e1.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (Fortaleza)
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo
+https://playerv.ifantasy.com.br/video/admin/1/true/false/V1hwT1UyUkhVbkZTV0ZacVRUQnZlVmxXWkZwa1ZtdDVUMWhSUFE9PStS/16:9/
+
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://www.sistemamaior.com.br/midias/static/logos/sertao_tv.png" group-title="Variedades", Sertão Tv (Quixeramobim)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
@@ -345,6 +360,9 @@ https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://focamundo.com/media/com_allvideoshare/videos/2020-10/whatsappimage20201028at21.16.255f9a2b19ba416.png" group-title="Seriados/ Música", Tv V.M (Madalena)
 https://5e36c064a2f6a.streamlock.net:1936/8296/8296/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://focamundo.com/media/com_allvideoshare/videos/2020-10/whatsappimage20201028at21.16.255f9a2b19ba416.png" group-title="Seriados/ Música", Tv V.M (Madalena) +novo
+https://livefocamundo.com:8081/tvvm/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="Seriados/ Música", Tv V.M (Madalena) -logo-CX-
 https://livefocamundo.com:8081/8606/index.m3u8
 
@@ -373,15 +391,15 @@ https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3a52ba9e9fac75423d678ea2f9294f7.jpg" group-title="Variedades", Tv Liberdade (Pacajus) logo-cx
-
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://img.apksum.com/cf/com.liveonhosting.liberdadetveradio/4.2.2/icon.png" group-title="Variedades", Tv Liberdade (Pacajus) logo-transparente
-
+http://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/670b916b607af258b7a62dccce8aba95.png" group-title="Variedades", TV Guarany (Pacajus)
 https://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f42f76db35b114255012a25cbe113942.png" group-title="Música/ Variedades", Tv Nordeste (Fortaleza) -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f42f76db35b114255012a25cbe113942.png" group-title="Música/ Variedades", Tv Nordeste (Fortaleza) -cx-site-
 http://stmv1.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc8d11a2f28d597643226a5d03519c58.png" group-title="Variedades/ Educativos", Tv Serra Verde (Frecheirinha) -cx-
@@ -697,6 +715,12 @@ https://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/08bb2dcf3ec4ceeb988d9a6b19270047.png" group-title="Variedades", TV Vila Real (Record MT) - MT - Cuiabá -fora do ar-
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/08bb2dcf3ec4ceeb988d9a6b19270047.png" group-title="Variedades", TV Vila Real (Record MT) - MT - Cuiabá -cx-m3u8-1
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/08bb2dcf3ec4ceeb988d9a6b19270047.png" group-title="Variedades", TV Vila Real (Record MT) - MT - Cuiabá -cx-m3u8-2
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8?wowzatokenstarttime=1620777238&wowzatokenendtime=1620784438&wowzatokencustomparameter=eJUnWwB3d0gC&wowzatokenhash=R6uBhyitlHJfGeV7cevumhcMPv924xZ2mBFXygJ9YAY=
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1345e8f4702c5dedfb95652bcbbef19d.png" group-title="Variedades", Tv Centro Oeste (SBT MT) - MT - Pontes e Lacerda -fora do ar-
 https://5b7f3c45ab7c2.streamlock.net/tvcentro/tvcentro/playlist.m3u8?DVR
@@ -2082,8 +2106,14 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzf
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-m3u8-nv-
 https://5a1c76baf08c0.streamlock.net/sbtinterior/8hz90vowo5hml4fquhdnmu72bqnjpbyj/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-m3u8-nv-2
+https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-mpd-nv-
 https://5a1c76baf08c0.streamlock.net/sbtinterior/8hz90vowo5hml4fquhdnmu72bqnjpbyj/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-mpd-nv-2
+https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-player-nv-
 https://zoevideos.net/player/aovivo/971
@@ -2884,13 +2914,13 @@ https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/92babb231a823985779b8b2252720195.jpg" group-title="Notícias", TVI 24 - Portugal
 https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/703b45579dbcec6cd29ca8b56cb544a7.jpg" group-title="Variedades/ Esportes", RTP 1 - Portugal - Lisboa
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/703b45579dbcec6cd29ca8b56cb544a7.jpg" group-title="Variedades/ Esportes", RTP 1 - Portugal - Lisboa -mp4-
 https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b78e598f3078af338cd3828679f1a2b6.jpg" group-title="Cultura/ Variedades", RTP 2 - Portugal - Lisboa
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b78e598f3078af338cd3828679f1a2b6.jpg" group-title="Cultura/ Variedades", RTP 2 - Portugal - Lisboa -mp4-
 https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a5d7ea439c007b72dcfe89c523c4388b.png" group-title="Notícias", RTP 3 - Portugal - Lisboa
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a5d7ea439c007b72dcfe89c523c4388b.png" group-title="Notícias", RTP 3 - Portugal - Lisboa -mp4-
 https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f4f0f165a154e1a57ac483ad28e9872.jpg" group-title="Variedades", RTP Internacional - Portugal - Lisboa
@@ -2899,7 +2929,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/225e1af3d9fcc10722be2b41edfcfc61.jpg" group-title="Variedades/ Notícias", RTP Africa - Portugal - Lisboa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/225e1af3d9fcc10722be2b41edfcfc61.jpg" group-title="Variedades/ Notícias", RTP Africa - Portugal - Lisboa
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/225e1af3d9fcc10722be2b41edfcfc61.jpg" group-title="Variedades/ Notícias", RTP Africa - Portugal - Lisboa -mp4-
 https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p5449/preview/p5449_1_201901231263_videoprv.mp4
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/19fed8c6cdf9bfddaba120308bcdc3ab.jpg" group-title="Variedades", RTP Madeira - Portugal - Lisboa
@@ -2995,8 +3025,14 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="Música/ Filmes/ HD", Retro Plus TV - Peru - Lima
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c871bb969e8076f811e7f7522ba7e545.png" group-title="Futebol", Real Madrid TV - Espanha
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c871bb969e8076f811e7f7522ba7e545.png" group-title="Futebol", Real Madrid TV - Espanha -1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?cp=en
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c871bb969e8076f811e7f7522ba7e545.png" group-title="Futebol", Real Madrid TV - Espanha -2
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="Esportes", Red Bull TV - Estados Unidos - Santa Monica - CA
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 

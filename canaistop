@@ -13,6 +13,7 @@ https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558
 https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/62d1005e2469670449197192e65ec529.png" group-title="Variedades", TV Rio Branco - AC - Rio Branco -Erro-cx-logo-
+http://0.0.0.0
 
 
 
@@ -55,7 +56,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8648/8648/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tceal.tc.br/view/img/logo_main.png" group-title="Publicos", TV Cidadã-AL (AL) Maceió -logo-link-nv-cx-
 https://livefocamundo.com:8081/tvcidada/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.al.al.leg.br/imagens/tv_assembleia.jpg" group-title="Publicos", Tv Assembleia Legislativa (AL) Maceió -site-.
+#EXTINF:-1 tvg-logo="https://www.al.al.leg.br/imagens/tv_assembleia.jpg" group-title="Publicos", Tv Assembleia Legislativa (AL) Maceió -site-
 https://5c483b9d1019c.streamlock.net:443/staffvideotv/staffvideotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/beaac0518a176ad86e14ad97e87e1f14.jpg" group-title="Publicos", Tv Assembleia Legislativa (AL) Maceió -logo-
@@ -72,17 +73,14 @@ https://stmv1.srvif.com/tvriolargo/tvriolargo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ap.png" group-title=”-”, ///CANAIS do Amapá///
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9e62125afe944d348ab0b0721e5ed69f.png" group-title="HD/ Publicos/ Educativos", TV Diário Fm Macapá -AP- Macapá -cx-erro
-https://5e36c064a2f6a.streamlock.net:1936/8550/8550/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9e62125afe944d348ab0b0721e5ed69f.png" group-title="HD/ Publicos/ Educativos", TV Diário Fm Macapá - AP - Macapá -site-nv-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9e62125afe944d348ab0b0721e5ed69f.png" group-title="HD/ Publicos/ Educativos", TV Diário Fm Macapá - AP - Macapá -cx-site-
 https://livefocamundo.com:8081/tvdiariomacapa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diariofmmacapa.com.br/wp-content/themes/diariofm/images/logo.png" group-title="HD/ Publicos/ Educativos", FM Diário Macapá - AP - Macapá -site-áudio-
 https://5a57bda70564a.streamlock.net/diariomacapa/diariomacapa.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9e62125afe944d348ab0b0721e5ed69f.png" group-title="HD/ Publicos/ Educativos", TV Diário Macapá Fm - AP - Macapá -logo-cx-
-https://livefocamundo.com:8081/8236/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/8d5ae7e752300610d33bb4b00725a372.png" group-title="Música", Magic Box Radio Web - AP - Macapá
+https://serv3.videovox.pw/magicbox2021/magicbox2021/playlist.m3u8
 
 
 
@@ -2710,7 +2708,10 @@ https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u
 https://5f1ce9c7dc62b.streamlock.net:443/vrtchannel/vrtchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/dfeac9069e5a4ce4b2b69c132558b6eb.png" group-title="Variedades", VRT Channel - SP - Guarulhos -logo-site- novo canal de TV Interativa!
-http://0.0.0.0
+https://5f1ce9c7dc62b.streamlock.net:443/vrtchannel/vrtchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dbd11ea736693f7c36c61adbd18a2a85.png" group-title="Variedades", WTV Brasil - SP - São Paulo -cx-
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="Notícias", Band News HD - SP - São Paulo -fora do ar-
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
@@ -2992,6 +2993,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da1ac6a713ea63fa16f8cdf6f0571e4d.jpg" group-title="Evangélica", Amor i Vida TV - Estados Unidos - Miami - FL
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/60ea1051219c361231db28cdbde0b9ca.png" group-title="Evangélica", Koinonia Tv - Estados Unidos -cx-
+https://59825a54e4454.streamlock.net:8443/david632/david632/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ee2b2ea9b1af3211e9f51ab1d8f87c2.jpg" group-title="Evangélica", Tv CRET - El Salvador - San Miguel
 https://radiocret.net:8082/hls/tvcret.m3u8
 
@@ -3016,14 +3020,23 @@ https://api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/22082
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b91d6d5f5f614249045850c18dd06277.jpg" group-title="Étnicos", TPA Internacional - Angola
 https://api.new.livestream.com/accounts/30360708/events/9496693/broadcasts/220821432.secure.m3u8?dw=80&hdnea=st=1620397016~exp=1620398816~acl=/i/30360708_9496693_lsi5qk5rophez3th6le_1@688620/*~hmac=cb0dedd2ae84a6be8ec26460495b57f3a8352791e01775c25a462755e88bb289&token=60954d04_fb4b56745f79be292b944c0f4176569e835643df
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/91755f051c2778068efc2728f71989d6.jpg" group-title="Espírita/ Documentários/ Filmes", Milennio Tv - Argentina - Los condores - Cordoba
+https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0ad17cee2ecc5963268d9ad1f328719.jpg" group-title="Documentários/ Notícias/ Variedades", Telecondor - Argentina - Los Condores
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Variedades/ HD", Canal 26 - Argentina - Buenos Aires
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Variedades/ HD", Canal 26 - Argentina - Buenos Aires -cx-site-
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/06a04907d77f2b665531a5661e54c29b.png" group-title="Notícias", Diario 26 - Argentina - Buenos Aires -cx-
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="Música/ Filmes/ HD", Retro Plus TV - Peru - Lima
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/417ee46eba4fe6161a809d808fa8e053.png" group-title="Música", Portal Fox mix - Chile -site-
+https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c871bb969e8076f811e7f7522ba7e545.png" group-title="Futebol", Real Madrid TV - Espanha -1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?cp=en

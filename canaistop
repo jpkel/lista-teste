@@ -111,10 +111,10 @@ https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -logo-cx-
-
+https://
 
 #EXTINF:-1 tvg-logo="http://tvaberta.xyz/wp-content/uploads/2020/09/kronostv.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -logo-xyz-Branco
-
+https://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bf29296ede8db8b9c502fba9c05cb7f.png" group-title="Seriados/ Filmes/ Desenhos", Bons Tempos TV - BA - Várzea da Roça -CX-site-
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
@@ -195,7 +195,7 @@ https://livefocamundo.com:8081/8656/index.m3u8
 https://stmv1.srvif.com/washington/washington/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-oFo1OF_4aCI/X_I3ByVgMdI/AAAAAAACFnY/MDv2sK3HmmMIHM4nSIZxmroHR5qAVh1fgCK4BGAYYCw/s200/Untitled-2.fw.png" group-title="Variedades", Tv Liberdade -logo-site-
-https://
+https://stmv1.srvif.com/washington/washington/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/169bafe905c4c0c999e471b90238d871.png" group-title="Variedades", Web TV Capuxu - BA - Paulo Afonso
 https://5eaa6849d0971.streamlock.net:443/8012/8012/playlist.m3u8
@@ -282,6 +282,9 @@ https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/TV_Assembleia_%28Cear%C3%A1%29.png" group-title="Publicos", Tv Assembleia-CE (Fortaleza)
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/a4c1cd7cd2aed19582c775c1fbbe803f.jpg" group-title="Publicos", Tv Assembleia-CE (Fortaleza) -logo-
+http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V4wy4iIDVzotDz9jeKnTZzcijzsBkg5DcupbeVTWH4_ZxnL7NalJvMPzOg4TTm-FvAn-=s200" group-title="Variedades/ Clipes", Tv Camocim Web
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
@@ -629,8 +632,11 @@ https://stmv3.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ea01c97ae4b15c01c077fb8b64c9c268.jpg" group-title="Publicos", TV Assembléia Goiás - GO - Goiânia
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/702e3c0c552ccf91bc4b305da5236dc9.jpg" group-title="Música/ Variedades", Manchete TV Goiás - GO - Nazário -cx-site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/702e3c0c552ccf91bc4b305da5236dc9.jpg" group-title="Música/ Variedades", Manchete TV Goiás - GO - Nazário -cx-site-erro
 https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/702e3c0c552ccf91bc4b305da5236dc9.jpg" group-title="Música/ Variedades", Manchete TV Goiás - GO - Nazário -cx-site-nv-
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d4bdb68a85b31fdb5ab58d73fe88d22.png" group-title="Desenhos/ Variedades", TV Tokyo - Brasil -cx-
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
@@ -1030,6 +1036,24 @@ https://59f2354c05961.streamlock.net:1443/camarajp/_definst_/camarajp/playlist.m
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d8e0651e1ae0002e61daf919b2bcc853.png" group-title="Música", Cariri TV - PB - Boqueirão -fora do ar-
 https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/daaaab58503ae05fb7c89013a628c03f.jpg" group-title="Variedades", TV Borborema (SBT) - PB - Campina Grande -01-m3u8
+https://12vod-adaptive.akamaized.net/exp=1620951022~acl=%2F311279811%2F%2A~hmac=60ba1fbf8d697758925a7fed11275c2ffc03ae23e2ea53e3f950706a83ff3c52/311279811/sep/video/1198487260,1198487254/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/daaaab58503ae05fb7c89013a628c03f.jpg" group-title="Variedades", TV Borborema (SBT) - PB - Campina Grande -01-m3u8
+https://12vod-adaptive.akamaized.net/exp=1620951022~acl=%2F311279811%2F%2A~hmac=60ba1fbf8d697758925a7fed11275c2ffc03ae23e2ea53e3f950706a83ff3c52/311279811/sep/video/1198487260,1198487254/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/daaaab58503ae05fb7c89013a628c03f.jpg" group-title="Variedades", TV Borborema (SBT) - PB - Campina Grande -02-m3u8
+https://skyfire.vimeocdn.com/1620951022-0x479ad2c9b5f23525cb6a05a2df99f15d80b296a9/311279811/sep/video/1198487260,1198487254/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/daaaab58503ae05fb7c89013a628c03f.jpg" group-title="Variedades", TV Borborema (SBT) - PB - Campina Grande -02-m3u8
+https://skyfire.vimeocdn.com/1620951022-0x479ad2c9b5f23525cb6a05a2df99f15d80b296a9/311279811/sep/video/1198487260,1198487254/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/daaaab58503ae05fb7c89013a628c03f.jpg" group-title="Variedades", TV Borborema (SBT) - PB - Campina Grande -03-mp4
+https://vod-progressive.akamaized.net/exp=1620951022~acl=%2A%2F1198487260.mp4%2A~hmac=45cabe0e2ffaeec81a089c9de26789ea73d72eb118ff2245d011e0fd2a3b6f70/vimeo-prod-skyfire-std-us/01/2255/12/311279811/1198487260.mp4
+
+#EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/daaaab58503ae05fb7c89013a628c03f.jpg" group-title="Variedades", TV Borborema (SBT) - PB - Campina Grande -04-mp4
+https://vod-progressive.akamaized.net/exp=1620951022~acl=%2A%2F1198487254.mp4%2A~hmac=62d19e48151f9ba0f13fbe82d1d8b818ac83f8aea52fcc50c0578bf473632a87/vimeo-prod-skyfire-std-us/01/2255/12/311279811/1198487254.mp4
 
 
 

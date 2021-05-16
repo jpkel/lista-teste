@@ -90,6 +90,12 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c50659beeacb05f3655fabb042cd8331.png" group-title="Evangélica", Tv Web Adorador Gospel (AM) Manaus
 https://tv01.livemustv.com.br/jonasbarbosa6967/jonasbarbosa6967/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000f03ea764251cf5bda1a87c9545fee.webp" group-title="Educativos", TV Encontro das Águas (tv Brasil) - AM - Manaus -site-?
+https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
+
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="Educativos", Rádio Encontro das Águas FM 97.7 - AM - Manaus -logo-site-?
+https://manoweb.ip.tv/iframe/radioencontrodasaguas-p
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e493fd18607f5d4520a8267143f0d00d.png" group-title="Música/ Clipes", Manaus Mix Web TV - AM - Manaus -site-link
 https://video01.kshost.com.br/ronildo6110/ronildo6110/playlist.m3u8
 
@@ -284,22 +290,19 @@ https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/a4c1cd7cd2aed19582c775c1fbbe803f.jpg" group-title="Publicos", Tv Assembleia-CE (Fortaleza) -logo-
-http://0.0.0.0
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V4wy4iIDVzotDz9jeKnTZzcijzsBkg5DcupbeVTWH4_ZxnL7NalJvMPzOg4TTm-FvAn-=s200" group-title="Variedades/ Clipes", Tv Camocim Web
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/74eeb2765564dd79d85e4d9c11431a87.jpg" group-title="Variedades/ Clipes", Tv Camocim Web
-http://
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33c7fc7f10a545696fecb96bd6fe15e1.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (Fortaleza)
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo
-https://playerv.ifantasy.com.br/video/admin/1/true/false/V1hwT1UyUkhVbkZTV0ZacVRUQnZlVmxXWkZwa1ZtdDVUMWhSUFE9PStS/16:9/
-
-#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo
-http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo-
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sistemamaior.com.br/midias/static/logos/sertao_tv.png" group-title="Variedades", Sertão Tv (Quixeramobim)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
@@ -1363,8 +1366,11 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinehd.net/img/canais/bdbc7e811e1bf6959255a27c666c54d0.png" group-title="Variedades", Rede TV! Rio - RJ - Rio de Janeiro -logo-
 http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Variedades/ Cultura/ Filmes .Clipes", Tv Metropolitana Rio - RJ - Rio de Janeiro
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Variedades/ Cultura/ Filmes .Clipes", Tv Metropolitana Rio - RJ - Rio de Janeiro -cx-|caxiastv?
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Variedades/ Cultura/ Filmes .Clipes", Tv Metropolitana Rio - RJ - Rio de Janeiro -site-|canaltvrio?
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4c24ac0f22000469a51f62eebae66ffb.png" group-title="Variedades", Rede NGT - RJ - Rio de Janeiro
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
@@ -1390,7 +1396,7 @@ http://161.97.141.246:8080/hls/playtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40310039540944a5c70fa514a028a399.jpg" group-title="Variedades .Filmes", Rede Tv Mais - RJ - Cachoeiras de Macacu
 https://novo.bitstreaming.info:1936/8010/8010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6dbfc1b32a9cb5e754792710fa1e6c1.jpg" group-title="Variedades", Rede Caxias Tv - RJ - Duque de Caxias
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6dbfc1b32a9cb5e754792710fa1e6c1.jpg" group-title="Variedades", Rede Caxias Tv - RJ - Duque de Caxias -cx-
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bcbccf746b61a71e20d87f8b52a077e9.png" group-title="Filmes/ Música/ Notícias .Desenhos", Tv Recreio - RJ - Rio de Janeiro
@@ -1435,10 +1441,10 @@ https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3332f4a3f31efb3b808957eac3458616.png" group-title="Evangélica", Igreja Evangélica Cristo Vive - RJ - Rio de Janeiro
 http://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="Variedades", Canal Tv Rio - RJ - Rio de Janeiro -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="Variedades", Canal Tv Rio/ Tv Metropolitana - RJ - Rio de Janeiro -cx-ok-
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="Variedades", Canal Tv Rio - RJ - Rio de Janeiro -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="Variedades", Canal Tv Rio (Tv Metropolitana) - RJ - Rio de Janeiro -site-ok-CanalTvRio
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9e29405fcb5d0ea24baa173a953c256.jpg" group-title="Variedades", Tv Zoom - RJ - Nova Friburgo -novo-link
@@ -2892,9 +2898,6 @@ https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel57936/index.m3u8?s=aH
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2ac9ceedeebd16762d08118f9fc39ab.jpg" group-title="Variedades", TV BRICS - Português - Brasil -cx-
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2ac9ceedeebd16762d08118f9fc39ab.jpg" group-title="Variedades", TV BRICS - Português - Brasil -site-01
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8&source_type=application%2Fx-mpegURL&autoplay=autoplay&muted=muted&flash=1&poster=
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2ac9ceedeebd16762d08118f9fc39ab.jpg" group-title="Variedades", TV BRICS - Português - Brasil -site-02
  https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
@@ -3014,6 +3017,12 @@ http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" group-title="Variedades/ Evangélica", Extrema TV - Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/367dce69c71ae47d73ab92638794369e.webp" group-title="Evangélica", Ebenezer Tv - Honduras -cx-
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ebenezer.hn/2020/wp-content/uploads/2019/12/icono-web.png" group-title="Evangélica", Ebenezer Tv - Honduras -logosite150X154-
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da1ac6a713ea63fa16f8cdf6f0571e4d.jpg" group-title="Evangélica", Amor i Vida TV - Estados Unidos - Miami - FL
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
 
@@ -3059,7 +3068,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="Música/ Filmes/ HD", Retro Plus TV - Peru - Lima
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/417ee46eba4fe6161a809d808fa8e053.png" group-title="Música", Portal Fox mix - Chile -site-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/417ee46eba4fe6161a809d808fa8e053.png" group-title="Música", Portal Fox Mix TV - Chile -site-
 https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c871bb969e8076f811e7f7522ba7e545.png" group-title="Futebol", Real Madrid TV - Espanha -1
@@ -3070,6 +3079,9 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="Esportes", Red Bull TV - Estados Unidos - Santa Monica - CA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b726fcce4f82cc86af487444d3e8e6d.webp" group-title="Variedades", Channel 20 Israel - Israel
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 
 
 

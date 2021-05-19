@@ -1438,11 +1438,8 @@ http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/127317dae9e3fcaab55eebf684c8f78e.jpg" group-title="Educativos/ Cultura", Multi Rio Tv - RJ - Angra dos Reis
 http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title="HD/ Notícias/ Cultura", Tv Mega Brasil (Tv Metropolitana) - RJ - São João da Barra -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title="HD/ Notícias/ Cultura", Tv Mega Brasil (Tv Metropolitana) - RJ - São João da Barra -cx-|canaltvrio?-
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9377ffea26ec8397e8502cf6569ec24e.jpg" group-title="HD/ Notícias/ Cultura", Tv Mega Brasil (Tv Metropolitana) - RJ - São João da Barra -site-não seguro? Coelhão
-https://5e36c064a2f6a.streamlock.net:1936/8556/8556/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/41eec6fc7eb20ea68fbcea0031f15db6.jpg" group-title="Variedades", Capital Rio WEB TV - RJ - Rio de Janeiro -cx-Erro
 https://stmv4.srvstm.com/carlosalberto6658/carlosalberto6658/playlist.m3u8
@@ -3204,11 +3201,11 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qqy4e9lGLdg/XcndYEhvmjI/AAAAAAAACPY/GdPoauhgxIYXHwR5RzwPfFUkkK2nOxrjgCLcBGAsYHQ/s320/Screenshot_2019-11-11-19-06-48.png" group-title="", TV8 BRASIL
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qqy4e9lGLdg/XcndYEhvmjI/AAAAAAAACPY/GdPoauhgxIYXHwR5RzwPfFUkkK2nOxrjgCLcBGAsYHQ/s320/Screenshot_2019-11-11-19-06-48.png" group-title="", TV8 Brasil RO
+https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w862933903.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="", LONDRINA TV 
 http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DIel-15w_RA/XYQUDMew-3I/AAAAAAAAB9Y/g8ZgiEk-3BQt9t9LIsRr3pD3Yzj6zrcfgCLcBGAsYHQ/s320/Screenshot_2019-09-19-20-29-00.png" group-title="", REDE PREMIUM TV - erro
-https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DIel-15w_RA/XYQUDMew-3I/AAAAAAAAB9Y/g8ZgiEk-3BQt9t9LIsRr3pD3Yzj6zrcfgCLcBGAsYHQ/s320/Screenshot_2019-09-19-20-29-00.png" group-title="", REDE PREMIUM TV - ok
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
@@ -3222,8 +3219,11 @@ https://video01.kshost.com.br/natanael3635/natanael3635/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DbXlHmmTDyc/YAHb3oD_1rI/AAAAAAAAEJQ/xueRNqwjA98a6w6iceyb244cCgkIU2xiQCLcBGAsYHQ/s0/TV%2BWEB%2BGUAREI.png" group-title="", TV WEB GUAREI
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="", TV GAZETA BAHIA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="", TV GAZETA BAHIA -
 https://stmv1.srvif.com/tvgazeta/tvgazeta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="", TV GAZETA BAHIA - tv naza
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-o81LylntA/XY0lOf7XKsI/AAAAAAAACBA/QcJwIgbNIBwSaUu52mHlS9ytv9AWUIgLQCLcBGAsYHQ/s320/Screenshot_2019-09-26-17-51-19.png" group-title="", TV OMINDARÉ
 http://video01.kshost.com.br/lourdes52007/lourdes52007/playlist-480p.m3u8
@@ -3305,6 +3305,42 @@ https://5d82644094cc0.streamlock.net/resendetv/resendetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="", Web TV Progresso
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png" group-title="", Viva Web TV
+https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-V-qCt3v8rkE/YJlxCWOtKWI/AAAAAAAAEp0/RObhAY1JhjI5x-HVHqHZ2HdWfDdmaPc_gCLcBGAsYHQ/s0/SAT%2BTV%2BWEB.png" group-title="", Sat TV Web
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5WB9zvKT8ho/YJ646kL5voI/AAAAAAAAEqc/uApaIxwVCJ8icEyHGMppLMDASI6JKCdtgCLcBGAsYHQ/s0/WEB%2BTV%2BCIDADE%2BJANA%25C3%259ABA.png" group-title="", Web TV Cidade Janaúba
+https://StmV1.srvstm.com/cidade123/cidade123/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7eS-SLtN2dY/YKFAK2x031I/AAAAAAAAErI/WGsl-ffz8HEDXaaqqx9mYiCE-80EKttSACLcBGAsYHQ/s0/WEB%2BTV%2BJO%25C3%2583O%2BPINHEIRO.png" group-title="", Web TV João Pinheiro ?
+https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vp7tM4Gf0RM/YJ66OTu2zII/AAAAAAAAEqk/nupkblUJ9vAaGhxhxZ5wMQ8sIFAcNnYhwCLcBGAsYHQ/s0/JP%2BWEB%2BTV.png" group-title="", JP Web TV
+https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2LYbTyB-jKQ/XRF-sPN8agI/AAAAAAAABOI/N9gBA0Bu-n4GnbIuhhacXPxS9i_v_t5NgCPcBGAYYCw/s320/Screenshot_2019-06-24-16-24-47.png" group-title="", TV Capital 777
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-u2sUbsui264/YKPrilsIFAI/AAAAAAAAErw/1HyKvH0H9AsPbN4CljJoEOcbVWcRY6uGwCLcBGAsYHQ/s0/REDE%2BNOVA%2BTV.png" group-title="", Rede Nova TV
+https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_HoUexIkAg/YJ1C4xc89cI/AAAAAAAAEqM/9gNlgFDNg8AYDQqk-hRNIf5oc_NSANkMACLcBGAsYHQ/s0/TV%2BURUBURETAMA.png" group-title="", TV Uruburetama 
+https://stmv2.voxtvhd.com.br/tvuruburetama/tvuruburetama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zAkLY29evrw/YJLh4MvGKrI/AAAAAAAAEo0/i9wE2IZgJmcjh4-m5Tfl4AnCgW3wRkOBACLcBGAsYHQ/s0/CANAL%2BRICOS.png" group-title="", Canal Ricos
+https://stmv1.srvif.com/canalricos/canalricos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 

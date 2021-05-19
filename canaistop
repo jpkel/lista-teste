@@ -90,17 +90,17 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c50659beeacb05f3655fabb042cd8331.png" group-title="Evangélica", Tv Web Adorador Gospel (AM) Manaus
 https://tv01.livemustv.com.br/jonasbarbosa6967/jonasbarbosa6967/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000f03ea764251cf5bda1a87c9545fee.webp" group-title="Educativos", TV Encontro das Águas (tv Brasil) - AM - Manaus -site-?
-https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
-
-#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="Educativos", Rádio Encontro das Águas FM 97.7 - AM - Manaus -logo-site-?
-https://manoweb.ip.tv/iframe/radioencontrodasaguas-p
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e493fd18607f5d4520a8267143f0d00d.png" group-title="Música/ Clipes", Manaus Mix Web TV - AM - Manaus -site-link
 https://video01.kshost.com.br/ronildo6110/ronildo6110/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.manausmix.com/assets/images/LogoMMWebTV.png" group-title="Música/ Clipes", Manaus Mix Web TV (AM) Manaus -Erro-cx-
 https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000f03ea764251cf5bda1a87c9545fee.webp" group-title="Educativos", TV Encontro das Águas (tv Brasil) - AM - Manaus -site-?
+https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
+
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="Educativos", Rádio Encontro das Águas FM 97.7 - AM - Manaus -logo-site-?
+https://manoweb.ip.tv/iframe/radioencontrodasaguas-p
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx-
 https://
@@ -334,11 +334,11 @@ https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/image/upload/v1587768558/LogoLatinaSat.png" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) site-
 https://livefocamundo.com:8081/8470/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) logo-cx
-https://0.0.0.0
-
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/images/q_auto/v1587776840/cropped-LogoLatinaSatLg-1/cropped-LogoLatinaSatLg-1.png" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) logo
 https://0.0.0.1
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) logo-cx
+https://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0MG1uCJQfSU/X_iMwuP8yBI/AAAAAAAAEGg/6DMx8gw6BzYc6mapeQABIj3ZBOdlvUZkQCLcBGAsYHQ/s0/TV%2BLATINASAT.png" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) logo
 https://0.0.0.2
@@ -451,20 +451,11 @@ https://video.rnp.br/portal/embed-channel?idItem=39285&autostart=true
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura," , TV Brasil - DF - Brasília
 https://aovivo.ebc.com.br/embed-tvbrasil.html
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura," , TV Brasil - DF - Brasília
-https://tvbrasil.ebc.com.br/sites/all/libraries/mediaelementjs/build/mediaelement-and-player.min.js?qqa6mm
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília -cx-nv-
-https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel39285/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília -cx-nv-
 https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9lZHVwbGF5LW1lZGlhLnByZC5hcHBzLmtsb3VkLnJucC5ici9tZWRpYS9jaGFubmVsMzkyODUvaW5kZXgubTN1OD94PTEmbT1EVENVbXoySkpyZHYzWTRMdFRBUkZn&x=1&p=0&m=dmQv0N5ot8x4CLD5QUMxMQ
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
 https://video.rnp.br:443/portal/embed-channel?idItem=39285&autostart=false
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
-https://portal/vms-commons-web/player/videojs/video-js.swf
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília
 https://video.rnp.br:443/portal/index.m3u8
@@ -628,9 +619,6 @@ https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlis
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/702e3c0c552ccf91bc4b305da5236dc9.jpg" group-title="Música/ Variedades", Manchete TV Goiás - GO - Nazário -cx-site-nv-
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d4bdb68a85b31fdb5ab58d73fe88d22.png" group-title="Desenhos/ Variedades", TV Tokyo - Brasil -cx-
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8a0efa0c88f5d3915f18a614edd5950.png" group-title="Variedades", Tv Rio Novo - GO - Rubiataba -erro-fora do ar
 https://stmv1.srvstm.com/rionovotv/rionovotv/playlist.m3u8
@@ -1037,7 +1025,7 @@ http://0.0.0.0
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/themes/padre/images/logo.png" group-title="Católica", TV Evangelizar SD - PR - Curitiba -logo-site
-http://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://areadenegocios.redemassa.com.br/wp-content/uploads/2020/03/logo-redemassa.png" group-title="Variedades", Rede Massa -PR- (SBT) - PR - Curitiba
 http://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
@@ -1063,14 +1051,14 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png" group-title="Clipes .Variedades", Top TV Bahia/ Tv Estado-Rede NGT
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT (Central Nacional de Televisão) -site-
+https://596639ebdd89b.streamlock.net:443/redecnt02/smil:redecnt02.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/646ee5304b659c7c667285357508fc07.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - SP - Americana -logo-cx01-site-
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo-small.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba -cx02-nv-site-
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT (Central Nacional de Televisão) -site-
-https://596639ebdd89b.streamlock.net:443/redecnt02/smil:redecnt02.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Variedades/ Notícias/ Cidades", Rede CNT - PR - Curitiba -site-
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
@@ -2813,6 +2801,9 @@ https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e4f123e379b7211da296c21c9c6837a.png" group-title="Variedades", ISTV HD - Brasil
 https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d4bdb68a85b31fdb5ab58d73fe88d22.png" group-title="Desenhos/ Variedades", TV Tokyo / TV Manchete - Brasil -cx-
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Filmes/ Desenhos", Web Tv Cine - Brasil -cx-
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8

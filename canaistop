@@ -3117,6 +3117,9 @@ https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel33309/index.m3u8?s=aH
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA PR (Catve)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist-480p.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA PA (Portal Cultura)
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA RN (TV Futuro)
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist-480p.m3u8
 
@@ -3156,6 +3159,9 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/s320/Screenshot_2019-06-18-18-21-12.png" group-title="", SBT AM (TV Guajará)
 https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/s320/Screenshot_2019-06-18-18-21-12.png" group-title="", SBT AM (TV Guajará)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/s320/Screenshot_2019-06-18-18-21-12.png" group-title="", SBT MT (Bem TV)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
@@ -3177,16 +3183,19 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DX4sZA1pOZs/YEuT6XZVYBI/AAAAAAAAEY0/FMDgM_XegZUP1QX3_u0_NzTUmXY6Bi-eACLcBGAsYHQ/s0/TV%2BGAZETA.png" group-title="", TV GAZETA MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5lqetn3SOC0/XQlk4qYe6WI/AAAAAAAABGI/f0eIGideIOkIrruL1mB63GWWk_r1svCvACPcBGAYYCw/s320/Screenshot_2019-06-18-19-19-09.png" group-title="", REDE BRASIL
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5lqetn3SOC0/XQlk4qYe6WI/AAAAAAAABGI/f0eIGideIOkIrruL1mB63GWWk_r1svCvACPcBGAYYCw/s320/Screenshot_2019-06-18-19-19-09.png" group-title="", REDE BRASIL -fora-
 https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--cmD87I-b7w/YEuFi7ioDaI/AAAAAAAAEYk/vsgbMTzSmVwh6Ge3Pw0xs3-ABt99xCQNQCLcBGAsYHQ/s0/REDE%2BFAM%25C3%258DLIA.png" group-title="", REDE FAMÍLIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="", TV BRASIL web .
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="", tv Brasil web 
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="", TV BRASIL web .erro-
 https://video.rnp.br:443/portal/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="", TV BRASIL web ..
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="", TV BRASIL web ..erro-
 https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9lZHVwbGF5LW1lZGlhLnByZC5hcHBzLmtsb3VkLnJucC5ici9tZWRpYS9jaGFubmVsMzkyODUvaW5kZXgubTN1OD94PTEmbT1EVENVbXoySkpyZHYzWTRMdFRBUkZn&x=1&p=0&m=dmQv0N5ot8x4CLD5QUMxMQ
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ivyoxtDNwWY/WwJOQBoaskI/AAAAAAAAAEQ/2_65fX6ygHgvSkchCitUCyhZw_k7lociwCPcBGAYYCw/s320/20180521001439.jpg" group-title="", TV CÂMARA
@@ -3264,17 +3273,11 @@ http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-lTZ6LRamFqE/XZ6h0eJSuUI/AAAAAAAACG0/nX2rQrwhgzcWS_sBnvmnwjMc1zwxTON9QCLcBGAsYHQ/s320/2019-10-10%2B00.11.28.png" group-title="", TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UGp4n9RcbAU/YJF8S57BT4I/AAAAAAAAEn8/E4PpbX6McaQnbAbEkTuvM-kWnRsBomSZgCLcBGAsYHQ/s0/RSC%2BTV.png" group-title="", RSC TV Brasil
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UGp4n9RcbAU/YJF8S57BT4I/AAAAAAAAEn8/E4PpbX6McaQnbAbEkTuvM-kWnRsBomSZgCLcBGAsYHQ/s0/RSC%2BTV.png" group-title="", RSC TV Brasil (RBTV)
 http://177.11.96.110:9080/hls/sictv.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-neB3hAx3Xb4/XLuD2_uWklI/AAAAAAAAAyI/YQEfxilkuCcBNmuIrkUxQDCxWC5BIILygCPcBGAYYCw/s320/Screenshot_2019-04-20-17-02-17.png" group-title="", FM 98 LIVE
-https://www.dailymotion.com/video/x7zzmp4
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nS6e45ah_qw/X_oD2fPIpsI/AAAAAAAAEHg/Ev9zQ32nBw046cLwtK5-3NsPiH1IEY34ACLcBGAsYHQ/s0/REWIND%2BTV.png" group-title="", Rewind TV
-https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w313924660.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-uAUozDsnvEI/XVdw4gfMQjI/AAAAAAAABgw/ZWDuJ-_nvusEKif1gTtvLHSeKdFglRdpQCPcBGAYYCw/s320/Screenshot_2019-08-16-23-41-13.png" group-title="", TV Terceiro Anjo
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/chunklist_w1373785554.m3u8
@@ -3339,31 +3342,32 @@ https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vMWkUMMDiIk/YKVFpVdBshI/AAAAAAAAEr4/C88HgvdDKX0XLiwA3hXj4Dc29cNmt7_GgCLcBGAsYHQ/s0/RCB%2BTV.png" group-title="", RCB TV
 https://5d82644094cc0.streamlock.net/rcbtvstation/rcbtvstation/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AgKNr6zCWwc/XVMNM4t2w-I/AAAAAAAABdM/dLGjJG3xJ-45qGGVyUcnsd_3uPfoLsrhQCPcBGAYYCw/s320/Screenshot_2019-08-13-16-17-53.png" group-title="", TV Sete Lagoas
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8OWra_y9ZbA/YKaX3s4Uo4I/AAAAAAAAEsU/HuI-D7SroaMs8j_VKdEAAlqoopSoZH0vQCLcBGAsYHQ/s0/TV%2BRS%2BCIDADES.png" group-title="", TV RS Cdidades
+https://video01.kshost.com.br:4443/angelo4200/angelo4200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nS6e45ah_qw/X_oD2fPIpsI/AAAAAAAAEHg/Ev9zQ32nBw046cLwtK5-3NsPiH1IEY34ACLcBGAsYHQ/s0/REWIND%2BTV.png" group-title="", Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w313924660.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AsUyw2RQfw0/XO3naMauAAI/AAAAAAAAA7w/ERkD_SsFlCwQyfnBWlNb8-0WYAj4fBCFwCPcBGAYYCw/s320/Screenshot_2019-05-28-22-55-11.png" group-title="", Melody Channel TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qF9tklzGkfI/XQfBA3CnQaI/AAAAAAAABD0/XhhHQno9RzA88X86L8KOEtc_YCNOQ-02ACLcBGAs/s320/Screenshot_2019-06-17-13-29-49.png" group-title="", Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
 
 
 

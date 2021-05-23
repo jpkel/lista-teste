@@ -454,7 +454,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura" , TV Brasil - DF - Brasília
 https://video.rnp.br/portal/embed-channel?idItem=39285&autostart=true
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura," , TV Brasil - DF - Brasília
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Cultura" , TV Brasil - DF - Brasília
 https://aovivo.ebc.com.br/embed-tvbrasil.html
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="Educativos/ Notícias/ Publicos" , TV Brasil 2 - DF - Brasília -cx-nv-
@@ -945,6 +945,9 @@ https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7858a37ec72de29670e36bb32cdd20f6.png" group-title="Cultura .Variedades", Web TV Vale do Uruará - PA - Uruará
 https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Variedades", Rede Clone - PA - Belém
+https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3dcbe9f6b928b1abe4f4efb9afabb837.jpg" group-title="Filmes/ Variedades/ Música", THE FESTV - PA - Abaetetuba -erro-cx-
 https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
 
@@ -964,6 +967,9 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/621257bf486e5ad3003742d01adfdfd6.png" group-title="Variedades", Tv Arapuan (Rede TV PB) - PB - João Pessoa
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f563c177e1e58ba1c8b24528e0714f4.webp" group-title="Variedades", TV Angelim HD (Rede TV PB) - PB - Sousa
+https://stmv1.srvstm.com/rommel6055/rommel6055/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="Filmes/ Variedades", Tv Jornal do Nordeste - PB - Belém
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
@@ -1197,6 +1203,9 @@ http://177.11.96.110:9080/hls/sictv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d3e46253b41c7f5e76f31ca2444ac516.jpg" group-title="Variedades", Foz TV - PR - Foz do Iguaçu -site-
 https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf89173b6d922638e9372e52332a96a4.webp" group-title="Evangélica", Rede Mundial Interteve - PR - Curitiba
+https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f188adb3d067eaa7c709d51391e730f7.jpg" group-title="Variedades", TV Vila Velha - PR - Ponta Grossa -fora do ar-
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
@@ -1525,6 +1534,9 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" group-title="Música", Catedral do Rock TV - RJ - Petrópolis -site-
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="Filmes/ Seriados", Tv Nova Play - RJ - Rio de Janeiro
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17bae5c1c823ecfd3c0a627432f8afd0.png" group-title="Variedades", Luau TV - RJ - Nova Friburgo -cx-site-ERRO-
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
 
@@ -1825,6 +1837,12 @@ https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40d7d18ac1b8c2e6b87ecf0e3410cad7.png" group-title="Cultura/ Filmes/ Seriados", Tv Osório News - RS - Osório -cx-site-nv-
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5016db5eb9c236d6a82bf384e96cb781.webp" group-title="Variedades", JP WEB TV - RS - Santa Vitória do Palmar -cx-
+https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6520/cabecalho-6520-20210324143009.png" group-title="Variedades", JP WEB TV - RS - Santa Vitória do Palmar -site-
+https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f53f92b9e96ec40a8c143407e6ed13a.jpg" group-title="Variedades", Rede RCT - RS - Canoas -cx-site-erro?-
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
@@ -2722,6 +2740,9 @@ https://5f1ce9c7dc62b.streamlock.net:443/vrtchannel/vrtchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dbd11ea736693f7c36c61adbd18a2a85.png" group-title="Variedades", WTV Brasil - SP - São Paulo -cx-
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40e8ebd335ea69661fa6ac7f252671b0.webp" group-title="Evangélica", AE TV (Aliança Eterna) - SP - Mogi das Cruzes -cx-
+https://stmv2.vhcast.com/aetv/aetv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="Notícias", Band News HD - SP - São Paulo -fora do ar-
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 
@@ -3020,6 +3041,9 @@ https://59825a54e4454.streamlock.net:8443/david632/david632/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8ee2b2ea9b1af3211e9f51ab1d8f87c2.jpg" group-title="Evangélica", Tv CRET - El Salvador - San Miguel
 https://radiocret.net:8082/hls/tvcret.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29d0cae4c8fb8d971d3ff7b7df70f3ce.webp" group-title="Evangélica", Renuevo TV - República Dominicana - Santo Domingo -cx-
+https://ss3.domint.net:3130/rtv_str/renuevotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6a0872e6e198720627e1a13752b097ac.png" group-title="Étnicos/ Evangélica/ Música", Puruwa - Equador - Riobamba -cx-site-erro-
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 
@@ -3037,6 +3061,18 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/06a04907d77f2b665531a5661e54c29b.png" group-title="Notícias", Diario 26 - Argentina - Buenos Aires -cx-
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac32fe63580a7518eec2c91e1b6b0319.webp" group-title="Notícias", NPY - Noticias Paraguay - Paraguai - Asunción ?Servidor não compatível
+https://rds3.desdeparaguay.net/npy/npy_int_med/playlist.m3u8?k=b070f479a89b1fc50776666e19fe628e4450964cb554599027c68643dcfe6a4f&exp=1621787134
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac32fe63580a7518eec2c91e1b6b0319.webp" group-title="Notícias", NPY - Noticias Paraguay - Paraguai - Asunción ?Servidor não compatível
+https://rds3.desdeparaguay.net/npy/npy_int_med/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb41de706a8b6a9ce023a8a3bdd79495.webp" group-title="Variedades", LaTele - Paraguai - Asunción ?Servidor não compatível
+https://rds3.desdeparaguay.net/latele/latele_int_med/playlist.m3u8?k=27606241bfc3c7d62f99a19e91f4411b279715f2c8b2575f5f9f7ceb7bc9c804&exp=1621787619
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb41de706a8b6a9ce023a8a3bdd79495.webp" group-title="Variedades", LaTele - Paraguai - Asunción ?Servidor não compatível
+https://rds3.desdeparaguay.net/latele/latele_int_med/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="Música/ Filmes/ HD", Retro Plus TV - Peru - Lima
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -3123,7 +3159,7 @@ https://video.rnp.br:443/portal/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA MG (TVU Uberlândia) ?
 https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel33309/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA MG (TVU Uberlândia) ?
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA MG (TVU Uberlândia) ok
 https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel33309/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQuZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDMzMzA5L2luZGV4Lm0zdTg_eD0xJm09anVYcl9jN0JtVWZJbVVaRUFvMnZBdw&x=1&p=0&m=qyJKC5O9MKkwTjz2RyzrbA
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="", TV CULTURA PR (Catve)
@@ -3264,7 +3300,7 @@ http://video01.kshost.com.br/lourdes52007/lourdes52007/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GOve0gGfA5c/YIw0vl2FJpI/AAAAAAAAEmU/8Fb7xL4FSakFiBOlVITeRm-BPHU4oY-kgCLcBGAsYHQ/s0/REDE%2BCLONE%2BTV.png" group-title="", REDE CLONE TV
 https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="", ConecTV 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="", ConecTv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PttUYyS8xw/YImJkhHnrNI/AAAAAAAAEls/Upt69UCmOv01pKk2SRJfnMPhvKLVoCSuwCLcBGAsYHQ/s0/VRT%2BCHANNEL.png" group-title="", VRT CHANNEL

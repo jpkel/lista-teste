@@ -110,6 +110,9 @@ https://
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ba.png" group-title=”-”, ///CANAIS da Bahia///
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/58ef6f711bd4731bc5f0095f223b0fe0.jpg" group-title="Variedades", TV Aratu - BA - Salvador -m3u8-site-Olhosnatv -ok-programas ao vivo
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png" group-title="Filmes", Kronos Movie WEB TV - BA - Vitória da Conquista -cx-logo-listaiptv-
 https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 
@@ -244,9 +247,6 @@ https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49951a1c4a03aa757121f8c9da9caf40.png" group-title="Variedades", TV Manchete Bahia - BA -  Santo Antônio de Jesus -logo-CX-
 http://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/58ef6f711bd4731bc5f0095f223b0fe0.jpg" group-title="Variedades", TV Aratu - BA - Salvador -m3u8-site-Olhosnatv-erro
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 
 
@@ -913,6 +913,12 @@ http://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/620bd3bf05f15367e738d7be74d4a939.png" group-title="Música/ Estúdios de rádio", Q FM - MG - Viçosa
 https://qfm.ddns.net/hlsq/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3a7e62603bebaa8b6b453b3b69b948.webp" group-title="Variedades", Web Tv Cidade Janauba - MG - Janaúba
+https://stmv1.srvstm.com/cidade123/cidade123/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/977ba7b8e685ce5f2b456d68dab39479.webp" group-title="Variedades", Web Tv João Pinheiro - MG - João Pinheiro
+https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pa.png" group-title=”-”, ///CANAIS do Pará///
@@ -947,6 +953,9 @@ https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Variedades", Rede Clone - PA - Belém
 https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a5abfa3d010351e6775199459ceb34d.webp" group-title="Variedades", SAT TV - PA - Belém
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3dcbe9f6b928b1abe4f4efb9afabb837.jpg" group-title="Filmes/ Variedades/ Música", THE FESTV - PA - Abaetetuba -erro-cx-
 https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
@@ -1843,6 +1852,9 @@ https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6520/cabecalho-6520-20210324143009.png" group-title="Variedades", JP WEB TV - RS - Santa Vitória do Palmar -site-
 https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6f91ddfc1e343f86358fc1ea7d590aba.webp" group-title="Variedades", RN TV (rede nova web) - RS - São Marcos -cx-site-
+https://video01.kshost.com.br/moises1842/moises1842/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f53f92b9e96ec40a8c143407e6ed13a.jpg" group-title="Variedades", Rede RCT - RS - Canoas -cx-site-erro?-
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
@@ -2889,14 +2901,23 @@ https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Cultura/ Variedades",RBTV |Rede Brasil de Televisão - Brasil -cx-m3u8-nv-
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil -cx-site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil |SC| Santa Catarina -cx-site-
 https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil |SC| Santa Catarina -site-
+https://5ad482a77183d.streamlock.net/flaviagm1hotmail.com/flaviagm1hotmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/35e8e4388d626c8d78408238024867b4.png" group-title="Variedades", Tv Estilo - Brasil -cx-
 https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvestilo.tv/wa_images/tvestilo.tv%205.png?v=1edgjjb" group-title="Variedades", Tv Estilo.tv - Brasil - SP - Guarulhos -site-
+#EXTINF:-1 tvg-logo="http://www.tvestilo.tv/wa_images/tvestilo.tv%205.png?v=1edgjjb" group-title="Variedades", Tv Estilo.tv - Brasil |SP| Guarulhos -site-
 https://596639ebdd89b.streamlock.net:443/estilo/estilo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6593eac3c7a63a00abe03de62f063ac4.webp" group-title="Variedades", Rede Nova Tv - Brasil -cx-site-
+https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccf2a020e1c503b30a1d990f676d4282.webp" group-title="Variedades", Ely tv (A TV WEB PRA VOCÊ) - Brasil - SP -cx-site-
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="Educativos/ Cultura", TV Escola - Brasil -site-eduplay
 https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel57936/index.m3u8

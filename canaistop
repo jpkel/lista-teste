@@ -587,7 +587,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Educativos", TV Brasil Central (Tv Cultura Goias) - GO - Goiânia
 https://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c99ffdca1366ea084333c569452200e.jpg" group-title="Evangélica", Fonte TV - GO - Goiás
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c99ffdca1366ea084333c569452200e.jpg" group-title="Evangélica", Fonte TV - GO - Goiás -cx-
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c99ffdca1366ea084333c569452200e.jpg" group-title="Evangélica", Fonte TV - GO - Goiás -site-
@@ -596,8 +596,14 @@ https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f193ca15ba74e17faf22a99f38c16aab.png" group-title="Variedades/ Católica", PUC TV (TV Aparecida) - GO - Goiânia
 http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/618407ce4f290f62faa825ae54ce7d65.png" group-title="Esportes/ Cultura", TV BOM (tv Brasil) - GO - Bom Jesus de Goiás -erro?-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/618407ce4f290f62faa825ae54ce7d65.png" group-title="Esportes/ Cultura", TV BOM (tv Brasil) - GO - Bom Jesus de Goiás -cx-erro?-
 http://srvstreaming.wctecnologia.com.br/LiveApp/streams/400290085166414614175500.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/618407ce4f290f62faa825ae54ce7d65.png" group-title="Esportes/ Cultura", TV BOM (tv Brasil) - GO - Bom Jesus de Goiás -cx-nv-erro?-
+http://streaming.wcserver.com.br/LiveApp/streams/164232247811006497671478.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/618407ce4f290f62faa825ae54ce7d65.png" group-title="Esportes/ Cultura", TV BOM (tv Brasil) - GO - Bom Jesus de Goiás -site-erro?-
+http://streaming.wcserver.com.br/LiveApp/play.html?name=164232247811006497671478
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6f9b17d8f7077249de513a4941ec819.png" group-title="Música/ Clipes", BMTV-Web TV Brasil Music Television - GO - Goiânia
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
@@ -1856,6 +1862,9 @@ https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6f91ddfc1e343f86358fc1ea7d590aba.webp" group-title="Variedades", RN TV (rede nova web) - RS - São Marcos -cx-site-
 https://video01.kshost.com.br/moises1842/moises1842/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/18b91922f010049b9ef138ee36b18863.webp" group-title="Variedades", TV RS Cidades - RS - Bento Gonçalves -cx-
+https://video01.kshost.com.br/angelo4200/angelo4200/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f53f92b9e96ec40a8c143407e6ed13a.jpg" group-title="Variedades", Rede RCT - RS - Canoas -cx-site-erro?-
 http://173.236.10.10:1935/rederct/rederct/playlist.m3u8
 
@@ -3082,6 +3091,9 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/06a04907d77f2b665531a5661e54c29b.png" group-title="Notícias", Diario 26 - Argentina - Buenos Aires -cx-
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42915cc7b5d4219f9acabc29e41b8f9f.webp" group-title="Variedades", N24 TV - Argentina
+https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac32fe63580a7518eec2c91e1b6b0319.webp" group-title="Notícias", NPY - Noticias Paraguay - Paraguai - Asunción ?Servidor não compatível
 https://rds3.desdeparaguay.net/npy/npy_int_med/playlist.m3u8?k=b070f479a89b1fc50776666e19fe628e4450964cb554599027c68643dcfe6a4f&exp=1621787134

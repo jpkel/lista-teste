@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="",Bem vindos sua lista IPTV
-http://0.0.0.0
+https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/ac.png" group-title=”-”, ///Canais do Acre///
 http://0.0.0.1
@@ -358,6 +358,12 @@ https://livefocamundo.com:8081/tvvm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b030313e300f12840ec94a826d39f659.png" group-title="Seriados/ Música", Tv V.M (Madalena) -logo-CX-
 https://livefocamundo.com:8081/8606/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio142273_1587144188.png" group-title="Variedades", Web Tv Olho D'água - CE - Horizonte -cx-
+https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51d138657a1f9f28c8ca6610d49209a0.webp" group-title="Variedades", Web Tv Olho D'água - CE - Horizonte -site-
+https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3c250c5e51462fb5111b10cc2374ea5.png" group-title="Variedades", TV América - CE - Icapuí -logo-cx-
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
@@ -425,7 +431,6 @@ https://stmv2.voxtvhd.com.br/tvwm/tvwm/playlist.m3u8
 https://5eaa6849d0971.streamlock.net/playgospeltv/playgospeltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8708/cabecalho-8708-20210215083020.png" group-title="Evangélica/ Variedades", Rádio Play Gospel TV (Fortaleza-CE)
-
 https://stmv3.samcast.com.br/playgospel/playgospel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d890efe39471e948822ec802af2d769.png" group-title="Variedades", Tv Mais/ COM BRASIL (Fortaleza).
@@ -434,8 +439,14 @@ https://596639ebdd89b.streamlock.net/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_HoUexIkAg/YJ1C4xc89cI/AAAAAAAAEqM/9gNlgFDNg8AYDQqk-hRNIf5oc_NSANkMACLcBGAsYHQ/s0/TV%2BURUBURETAMA.png" group-title="Variedades", TV Uruburetama -Olhosnatv-
 https://stmv2.voxtvhd.com.br/tvuruburetama/tvuruburetama/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8fd4d7de84c649d1bf48fde12f600b84.webp" group-title="Variedades", TV Uruburetama - CE - Uruburetama -cx-site-nv-
+https://stmv2.voxtvhd.com.br/tvuruburetama/tvuruburetama/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8fd4d7de84c649d1bf48fde12f600b84.webp" group-title="Variedades", TV Uruburetama/ Web Tv Norte Ce -cx-erro-
 https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvuruburetama.noar.top/images/Logotipos/iiiiii.png" group-title="Variedades", TV Uruburetama - CE - Uruburetama -cx-site-nv-logosite-
+https://stmv2.voxtvhd.com.br/tvuruburetama/tvuruburetama/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8a195fca599933e0c7804a5cb0140616.png" group-title="Variedades", NOSSA. TV (Icapuí) fora do ar
 https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
@@ -630,6 +641,9 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/702e3c0c552ccf91bc4b305da5236dc9.jpg" group-title="Música/ Variedades", Manchete TV Goiás - GO - Nazário -cx-site-nv-
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc9a8a02d0a188153981f64b4bc1abb5.webp" group-title="Música", Animax Brasil - GO - Nazário -cx-site-
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8a0efa0c88f5d3915f18a614edd5950.png" group-title="Variedades", Tv Rio Novo - GO - Rubiataba -erro-fora do ar
@@ -2722,6 +2736,12 @@ https://stmv1.srvstm.com/tvmetropole/tvmetropole/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c4d815df07bfcc6e2f401a29510c810.jpg" group-title="Variedades", Elemental Channel - SP - São Paulo -cx-site-
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1adbd8812fb29f4d3e883381302329aa.webp" group-title="Variedades", GEG TV - SP - São Paulo -cx-
+https://5c483b9d1019c.streamlock.net/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6374/cabecalho-6374-20210215153658.png" group-title="Variedades", GEG TV - SP - São Paulo -site-
+https://5c483b9d1019c.streamlock.net:443/8064/8064/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7ae04cf56682c31b2894181fd4bc8175.png" group-title="Variedades", RBI TV - SP - São Paulo -cx-site-embed-erro-
 https://vimeo.com/event/733784/embed
 
@@ -2764,6 +2784,15 @@ https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40e8ebd335ea69661fa6ac7f252671b0.webp" group-title="Evangélica", AE TV (Aliança Eterna) - SP - Mogi das Cruzes -cx-
 https://stmv2.vhcast.com/aetv/aetv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/01e676c206c5981323b2020851fdf24d.webp" group-title="Estúdios de rádio/ Música", RCB TV - SP - Botucatu -cx-
+https://5d82644094cc0.streamlock.net/rcbtvstation/rcbtvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6015/cabecalho-6015-20200827154355.png" group-title="Estúdios de rádio/ Música", RCB TV - SP - Botucatu -site-
+https://5d82644094cc0.streamlock.net:443/rcbtvstation/rcbtvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d06479fe8f0dccd76c2a1d7e025f718.png" group-title="Variedades", TV Jornal de Limeira (TV Cultura) - SP - Limeira -
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="Notícias", Band News HD - SP - São Paulo -fora do ar-
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 
@@ -2772,12 +2801,6 @@ https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title="Variedades", TV8 HD - SP - São Paulo -cx-erro-fora do ar-
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d06479fe8f0dccd76c2a1d7e025f718.png" group-title="Variedades", TV Jornal de Limeira (TV Cultura) - SP - Limeira -fora do ar-
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bc3e30ce03fc1d8dc50e6f1aee453c51.png" group-title="Estúdios de rádio", Rádio Globo 1100 AM SP - SP - São Paulo
-https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboSP.m3u8
 
 
 
@@ -2886,16 +2909,19 @@ https://StmV1.srvstm.com/tvserie4/tvserie4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bbf68ab6be6c58903b3f0737ce6eed5.jpg" group-title="Seriados", TV Séries 5 |Guerra Sombra e Água Fresca - Brasil -site-cx-
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Filmes", Classique TV - Brasil -cx-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png" group-title="Filmes", Classique TV - Brasil -cx-01
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="Filmes", Classique TV - Brasil -site-
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="Filmes", Classique TV - Brasil -site-cx-01
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -cx-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/defbef096dfcaadf33b5108f84c4d867.webp" group-title="Filmes", Classique TV 2 - Brasil -cx-site-novo-1!
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -cx-2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-2
 https://StmV1.srvstm.com/classique2/classique2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rbtv.com.br/upload_arquivos/2021/04/2021040643656001617289862.png" group-title="Variedades", REDE BRASIL (RBTV) São Paulo/ SP -logo-preto-site-m3u8-ok
@@ -3153,6 +3179,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b5e1312a1777235ef41a8cae5595c73.png" group-title="Rádios", Rádio 93 FM - 93.3 FM - A rádio do povo de Deus! Azul
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bc3e30ce03fc1d8dc50e6f1aee453c51.png" group-title="Estúdios de rádio", Rádio Globo 1100 AM SP - SP - São Paulo
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboSP.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1de7e23dab2cf519c94de05df013ee01.jpg" group-title="Rádios", Rádio Verdes Mares 810 AM (Fortaleza) logo-verde01
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8

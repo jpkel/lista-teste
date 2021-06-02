@@ -2790,6 +2790,12 @@ https://5d82644094cc0.streamlock.net/rcbtvstation/rcbtvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6015/cabecalho-6015-20200827154355.png" group-title="Estúdios de rádio/ Música", RCB TV - SP - Botucatu -site-
 https://5d82644094cc0.streamlock.net:443/rcbtvstation/rcbtvstation/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/20969e10cd52ec0f69f306758c243b71.webp" group-title="Variedades", TV ACE - SP - Caraguatatuba -cx-
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9008/cabecalho-9008-20210507192816.png" group-title="Variedades", TV ACE - SP - Caraguatatuba -logo-site-
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3d06479fe8f0dccd76c2a1d7e025f718.png" group-title="Variedades", TV Jornal de Limeira (TV Cultura) - SP - Limeira -
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
@@ -3338,6 +3344,9 @@ http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DIel-15w_RA/XYQUDMew-3I/AAAAAAAAB9Y/g8ZgiEk-3BQt9t9LIsRr3pD3Yzj6zrcfgCLcBGAsYHQ/s320/Screenshot_2019-09-19-20-29-00.png" group-title="", REDE PREMIUM TV - ok
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cNYfHKZXUiU/YDFVyBs_nMI/AAAAAAAAEUI/c4PmAc-0Lw45ZzPUjx3nTp-WSDbkRCmYgCLcBGAsYHQ/s0/SUMMER%2BTV.png" group-title="", SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-05LrmPapUM4/YI1-_66-Y7I/AAAAAAAAEmk/cbrocJZ4pSIoEpmxuSgAI6RlrduC5yxDACLcBGAsYHQ/s0/TV%2BMEGA%2BCINE.png" group-title="", TV MEGA CINE
 https://stmv1.srvif.com/megacine/megacine/playlist.m3u8
 
@@ -3508,6 +3517,24 @@ https://streaming01.zas.media/gideoes/tv.smil/playlist-480p.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Sa-RsxzOHt8/XSDTpS-nonI/AAAAAAAABTw/Y-T0Lzl4fqogWJtqxAbXEzxNh_9ZfvAVgCPcBGAYYCw/s320/Screenshot_2019-07-06-13-18-55.png" group-title="", Santa Cecília TV
 http://5953e7f9ae845.streamlock.net/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eF5azadFvo4/YLRUfUgBRjI/AAAAAAAAExY/kZwIJSqMzuQAJbVx4QzEiRh_Urp9hVqYACLcBGAsYHQ/s0/CYNEMAX.png" group-title="", Cynemax -tv mix-
+https://srv1.painelvideo.com/tvmix/tvmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SBlPupLlDWo/YLUu-TcODCI/AAAAAAAAEx0/R6KYnL7VFEoimkbePgE-0W5kj8mE908dQCLcBGAsYHQ/s0/WTV%2BONLINE.png" group-title="", WTV Online
+https://stmv1.samcast.com.br/armandorosaneto6468/armandorosaneto6468/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qT0GaR9zoNU/YDUhGRZ_ceI/AAAAAAAAEVg/WHtIm_w1blMXmCVC1nvij1zqPhURn8fXACLcBGAsYHQ/s0/LIFE%2BCHANNEL%2BBRASIL.png" group-title="", Life Channel Brasil
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8?token=4365564105550557000
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8TIlI9PIGRo/YLEQeGpuN4I/AAAAAAAAEwg/RS8crNtlIl4yaSTXYP99J_lVIidHYDiNQCLcBGAsYHQ/s0/DUNAS%2BTV.png" group-title="", Dunas TV
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 

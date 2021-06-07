@@ -259,6 +259,9 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="Variedades", TV Diário -CE- Fortaleza -site.dailymotion-OK
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6C9WUtNQ13_N0eczAvx5dy0RS1Nz8X17qncdqBchxdzW3dgBkkrA5b_PGm48fR72A
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dffe68ccd34327b849583770cd368d0c.webp" group-title="Variedades", TV Jangadeiro - CE - Fortaleza
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
@@ -1565,6 +1568,9 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="Filmes/ Seriados", Tv Nova Play - RJ - Rio de Janeiro
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32958c8ea3b43d234531796cd6b254d6.webp" group-title="Variedades", Plena Tv - RJ - Campos dos Goytacazes -cx-telapreta?-
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17bae5c1c823ecfd3c0a627432f8afd0.png" group-title="Variedades", Luau TV - RJ - Nova Friburgo -cx-site-ERRO-
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8

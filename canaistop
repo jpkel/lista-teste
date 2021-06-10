@@ -256,11 +256,11 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário -CE- Fortaleza -site.dailymotion-logo-transparente-
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="Variedades", TV Diário -CE- Fortaleza -site.dailymotion-OK
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário -CE- Fortaleza -site.dailymotion-OK
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6C9WUtNQ13_N0eczAvx5dy0RS1Nz8X17qncdqBchxdzW3dgBkkrA5b_PGm48fR72A
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dffe68ccd34327b849583770cd368d0c.webp" group-title="Variedades", TV Jangadeiro - CE - Fortaleza
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dffe68ccd34327b849583770cd368d0c.webp" group-title="Variedades", TV Jangadeiro (Fortaleza) logo-cx-
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
@@ -367,26 +367,8 @@ https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51d138657a1f9f28c8ca6610d49209a0.webp" group-title="Variedades", Web Tv Olho D'água - CE - Horizonte -site-
 https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3c250c5e51462fb5111b10cc2374ea5.png" group-title="Variedades", TV América - CE - Icapuí -logo-cx-
-https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/data/img/gallery/Slider/1616711626614.png" group-title="Variedades",  TV América - CE - Icapuí -logo-site-
-https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/assets/img/logo.png" group-title="Variedades",  TV América - CE - Icapuí logo-site-
-http://
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ecd19d55a209e3212be60d5b7ee8462.jpg" group-title="Variedades", Tv Nacional News (Icapuí)
-https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tv.nacionalnews.radionline.top/admin/assets/img/logo.png" group-title="Variedades", Tv Nacional News (Icapuí) -logo-transparente
-http://
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b624eb8a5f75f1b38618c537114e7172.jpg" group-title="Variedades/ Cultural/ Entretenimento", Tv Ibiapabana (São Benedito)
 https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc313ddd3bc4d8de0f5939ee8410a56e.jpg" group-title="Cultura/ Filmes/ Variedades", Tv Tremembé (Itarema)
-https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAERxDQm1SQWArGnFJREnp-wfkGGFJjpiOg&usqp=CAU" group-title="Variedades", Tv Liberdade (Pacajus)
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
@@ -450,6 +432,24 @@ https://srv3.zcast.com.br/francisco4270/francisco4270/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvuruburetama.noar.top/images/Logotipos/iiiiii.png" group-title="Variedades", TV Uruburetama - CE - Uruburetama -cx-site-nv-logosite-
 https://stmv2.voxtvhd.com.br/tvuruburetama/tvuruburetama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc313ddd3bc4d8de0f5939ee8410a56e.jpg" group-title="Cultura/ Filmes/ Variedades", Tv Tremembé (Itarema) fora do ar
+https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3c250c5e51462fb5111b10cc2374ea5.png" group-title="Variedades", TV América - CE - Icapuí -logo-cx-
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/data/img/gallery/Slider/1616711626614.png" group-title="Variedades",  TV América - CE - Icapuí -logo-site-
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/assets/img/logo.png" group-title="Variedades",  TV América - CE - Icapuí logo-site-
+http://
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ecd19d55a209e3212be60d5b7ee8462.jpg" group-title="Variedades", Tv Nacional News (Icapuí)
+https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tv.nacionalnews.radionline.top/admin/assets/img/logo.png" group-title="Variedades", Tv Nacional News (Icapuí) -logo-transparente
+http://
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8a195fca599933e0c7804a5cb0140616.png" group-title="Variedades", NOSSA. TV (Icapuí) fora do ar
 https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
@@ -2172,14 +2172,14 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzf
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-m3u8-nv-
 https://5a1c76baf08c0.streamlock.net/sbtinterior/8hz90vowo5hml4fquhdnmu72bqnjpbyj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-m3u8-nv-2
-https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-mpd-nv-
 https://5a1c76baf08c0.streamlock.net/sbtinterior/8hz90vowo5hml4fquhdnmu72bqnjpbyj/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-mpd-nv-2
-https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/manifest.mpd
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-m3u8-nv-2 ===
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0gh8as9q0gkf7w0ij03rtulx041cwpn0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-mpd-nv-2 ---
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0gh8as9q0gkf7w0ij03rtulx041cwpn0/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="Variedades", SBT Interior - SP - São José do Rio Preto -site-player-nv-
 https://zoevideos.net/player/aovivo/971
@@ -3269,6 +3269,9 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vCGt6FQ9jZ4/XQlbSeitKSI/AAAAAAAABFs/ihgbZR6mpdMUUN3ZYOyxWpqHhJBO-bSdgCPcBGAYYCw/s320/Screenshot_2019-06-18-18-11-15.png" group-title="", RECORD TV GO
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-X7ZaqYCG4bI/XcneuIlhbLI/AAAAAAAACPo/vbpRcKi8HWw9gi3xTqD5FXHHwdO3g4qCQCLcBGAsYHQ/s320/Screenshot_2019-11-11-18-37-00.png" group-title="", SBT BA (TV Aratu) .
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/s320/Screenshot_2019-06-18-18-21-12.png" group-title="", SBT Interior SP - erro
 https://5a1c76baf08c0.streamlock.net/sbtinterior/8hz90vowo5hml4fquhdnmu72bqnjpbyj/playlist.m3u8
 
@@ -3535,6 +3538,21 @@ https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8?token=43
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8TIlI9PIGRo/YLEQeGpuN4I/AAAAAAAAEwg/RS8crNtlIl4yaSTXYP99J_lVIidHYDiNQCLcBGAsYHQ/s0/DUNAS%2BTV.png" group-title="", Dunas TV
 https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9xbCbbAcHSA/YLWLiExntEI/AAAAAAAAEx8/cWjNMaHMqusNmKa2V44EypqsVW6P4Nb_QCLcBGAsYHQ/s0/MEGACANAIS%2BTV.png" group-title="", Megacanais TV
+https://srv5.zcast.com.br/benswoodly1260/benswoodly1260/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fUMNwDqjor0/YL5kwllWCDI/AAAAAAAAE0k/h6cNyMPKY8sg7fwhhlplAsf7N3rTAVPKwCLcBGAsYHQ/s0/TV%2BDIVERSIDADE.png" group-title="", TV Diversidade
+https://5c483b9d1019c.streamlock.net/diversidadetv/diversidadetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZcY231MRak0/YLzv_GjrfBI/AAAAAAAAE0U/g19hhjInwl8dm29vZzJZIMMAjnmcU1TugCLcBGAsYHQ/s0/OESC%2BTV.png" group-title="", OESC TV
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HNDFj5myhbk/YLzp-KnJKHI/AAAAAAAAE0M/XwuJHNkT7qYQyYj7uHhnYy-w26Dgff3ygCLcBGAsYHQ/s0/RDTV%2BDIGITAL.png" group-title="", RDTV Digital
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", 
+
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 

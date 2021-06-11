@@ -2670,14 +2670,17 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6328cc665a1b38bea0afe6e518fbdca5.png" group-title="Variedades", Master Show Tv - SP - São Paulo
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9_VXxCDbDU0/YFTYQAZyVzI/AAAAAAAAEa0/kEcjl8SjdFM90EEIKQqwCwhm4khSWxDZwCLcBGAsYHQ/s0/WEB%2BTV%2BKATURRA.png" group-title="Variedades", Web Tv Katurra - SP - Franca -logo-olhosnatv-
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4b8794dc681cec201b5da45db15548d1.png" group-title="Variedades", Web Tv Katurra - SP - Franca -cx-logo-
+http://0.0.0.1
+
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/shoutcast/stm/tvkaturra/com.shoutcast.stm.tvkaturra_1.png" group-title="Variedades", Web Tv Katurra - SP - Franca -cx-Erro-não funciona-
 https://srv1.zcast.com.br/franca1/franca1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://webtvkaturra.francafm.com/images/Logotipos/TVNOTICIAS2.png" group-title="Variedades", Web Tv Katurra - SP - Franca -cx-site-
+#EXTINF:-1 tvg-logo="https://webtvkaturra.francafm.com/images/Logotipos/TVNOTICIAS2.png" group-title="Variedades", Web Tv Katurra - SP - Franca -cx-site-ok
 https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4b8794dc681cec201b5da45db15548d1.png" group-title="Variedades", Web Tv Katurra - SP - Franca -cx-logo-
-http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLndreWhvc3QuZ3VldHRvc3B3ZWJyYWRpb3NpdGVfaWNvbl8xNTg5MDU0NzIyXzA2Mw/icon.png?w=170&fakeurl=1" group-title="[Música .Clipes]", Web Tv Guetto - SP - São Paulo -cx-site-
 https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
@@ -3344,8 +3347,11 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ivyoxtDNwWY/WwJOQBoaskI/AAAAAAAAAEQ/2_65fX6ygHgvSkchCitUCyhZw_k7lociwCPcBGAYYCw/s320/20180521001439.jpg" group-title="", TV CÂMARA 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/s320/2020-06-02%2B18.41.50.png" group-title="", SESC TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/s320/2020-06-02%2B18.41.50.png" group-title="", SESC TV -erro-
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/s320/2020-06-02%2B18.41.50.png" group-title="", SESC TV -novo-
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qqy4e9lGLdg/XcndYEhvmjI/AAAAAAAACPY/GdPoauhgxIYXHwR5RzwPfFUkkK2nOxrjgCLcBGAsYHQ/s320/Screenshot_2019-11-11-19-06-48.png" group-title="", TV8 BRASIL
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
@@ -3353,8 +3359,11 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qqy4e9lGLdg/XcndYEhvmjI/AAAAAAAACPY/GdPoauhgxIYXHwR5RzwPfFUkkK2nOxrjgCLcBGAsYHQ/s320/Screenshot_2019-11-11-19-06-48.png" group-title="", TV8 Brasil RO
 https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w862933903.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="", LONDRINA TV 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="", LONDRINA TV -erro-
 http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="", LONDRINA TV -novo-
+https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DIel-15w_RA/XYQUDMew-3I/AAAAAAAAB9Y/g8ZgiEk-3BQt9t9LIsRr3pD3Yzj6zrcfgCLcBGAsYHQ/s320/Screenshot_2019-09-19-20-29-00.png" group-title="", REDE PREMIUM TV - ok
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
@@ -3371,7 +3380,7 @@ https://video01.kshost.com.br/natanael3635/natanael3635/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DbXlHmmTDyc/YAHb3oD_1rI/AAAAAAAAEJQ/xueRNqwjA98a6w6iceyb244cCgkIU2xiQCLcBGAsYHQ/s0/TV%2BWEB%2BGUAREI.png" group-title="", TV WEB GUAREI
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="", TV GAZETA BAHIA -
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="", TV GAZETA BAHIA - tv bahia - fora do ar
 https://stmv1.srvif.com/tvgazeta/tvgazeta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_xw25w-iAXw/YIBTS5j4hZI/AAAAAAAAEkA/oS1tUpa12IgUYNwHMfwnFNqtdc36z3-0QCLcBGAsYHQ/s0/TV%2BFAZETA%2BBAHIA.png" group-title="", TV GAZETA BAHIA - tv naza
@@ -3380,8 +3389,11 @@ https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J3bODLhF7ho/X0V13p6vFSI/AAAAAAAADMI/IV9dnQpelN8xohBPUNHXPfvWEqHicGPawCPcBGAYYCw/s0/Screenshot_2020-08-25-17-31-36.png" group-title="", TV Revista - tv naza
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-o81LylntA/XY0lOf7XKsI/AAAAAAAACBA/QcJwIgbNIBwSaUu52mHlS9ytv9AWUIgLQCLcBGAsYHQ/s320/Screenshot_2019-09-26-17-51-19.png" group-title="", TV OMINDARÉ
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-o81LylntA/XY0lOf7XKsI/AAAAAAAACBA/QcJwIgbNIBwSaUu52mHlS9ytv9AWUIgLQCLcBGAsYHQ/s320/Screenshot_2019-09-26-17-51-19.png" group-title="", TV OMINDARÉ -erro-
 http://video01.kshost.com.br/lourdes52007/lourdes52007/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-o81LylntA/XY0lOf7XKsI/AAAAAAAACBA/QcJwIgbNIBwSaUu52mHlS9ytv9AWUIgLQCLcBGAsYHQ/s320/Screenshot_2019-09-26-17-51-19.png" group-title="", TV OMINDARÉ -novo-
+https://video01.kshost.com.br:4443/lourdes52007/lourdes52007/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GOve0gGfA5c/YIw0vl2FJpI/AAAAAAAAEmU/8Fb7xL4FSakFiBOlVITeRm-BPHU4oY-kgCLcBGAsYHQ/s0/REDE%2BCLONE%2BTV.png" group-title="", REDE CLONE TV
 https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/playlist.m3u8
@@ -3394,6 +3406,9 @@ https://5f1ce9c7dc62b.streamlock.net:443/vrtchannel/vrtchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UlWyu7204xI/XYRVgKW0OOI/AAAAAAAAB-Y/qjlfDlc3j789grEBBD_mHaV0_5sCW2LIwCPcBGAYYCw/s0/2019-09-20%2B01.19.36.png" group-title="", TV PONTA DA SERRA
 https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eS9aSDFO1Mo/Xri6LbnMF0I/AAAAAAAACwk/x6L8ybxyB_ouRSwA_cTnQwrZSRpumbQ_QCPcBGAYYCw/s320/Screenshot_2020-05-10-23-26-19.png" group-title="", TV Litoral - TV Serramar -
+http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Enl7AUQBwxU/XlQOGaJ0MuI/AAAAAAAACg0/2Md-i_i8HcQW9yE1IEbU7cB100y_3ifzQCLcBGAsYHQ/s320/2020-02-24%2B14.51.15.png" group-title="", Rede CNT - Curitiba-PR
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
@@ -3572,14 +3587,14 @@ https://livefocamundo.com:8081/tvriopreto/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yEJxr8VeYFU/YMDV51Tjl4I/AAAAAAAAE1M/BqXAh_-fDRAFRTUYce-pPl4-cWRL4lohgCLcBGAsYHQ/s0/TV%2BOPINI%25C3%2583O%2BPLAY.png" group-title="", TV Opinião Play
 https://livefocamundo.com:8081/opiniaoplay/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t--_YRbY378/YMJX_TAEaGI/AAAAAAAAE2E/yn8MtY6ivC0py3JJ1P5z6J-Bm-nb9C9CgCLcBGAsYHQ/s0/TV%2BEMPIRE%2BNO%2BAR.png" group-title="", TV Empire no Ar
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UmEy65sUY1w/YMJXOBGZlII/AAAAAAAAE18/bvhkC-P1wfMaTK__ZLl50Jg6jn2moZJLQCLcBGAsYHQ/s0/LAVRAS%2BCE%2BTV%2BWEB.png" group-title="", Lavras CE TV Web
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="" group-title="", 
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-v4S08KEqCO0/XUDgZoB0fLI/AAAAAAAABYY/VF1Jl9FOAsINWLmGYNuJXDieFbdv_MCvgCPcBGAYYCw/s320/Screenshot_2019-07-30-21-10-44.png" group-title="", TV Andradas
+https://caikron.com.br:8082/tvandradas/tvandradas.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 

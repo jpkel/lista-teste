@@ -260,8 +260,9 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6C9WUtNQ13_N0eczAvx5dy0RS1Nz8X17qncdqBchxdzW3dgBkkrA5b_PGm48fR72A
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dffe68ccd34327b849583770cd368d0c.webp" group-title="Variedades", TV Jangadeiro (Fortaleza) logo-cx-
+http://0.0.0.1
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="", TVC |TV Ceará (Fortaleza)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="", TVC - TV Ceará (Fortaleza)
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza)
@@ -311,6 +312,9 @@ https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/pl
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="Variedades", Tv Centro Sul (Iguatu) logo-transparente
 http://
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Variedades", Tv Padre Cicero (Juazeiro do Norte)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Variedades", Tv Padre Cicero (Juazeiro do Norte)
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
@@ -381,8 +385,8 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3a52ba9e9fac75423d678ea2f9294f7.jpg" group-title="Variedades", Tv Liberdade (Pacajus) logo-cx
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://img.apksum.com/cf/com.liveonhosting.liberdadetveradio/4.2.2/icon.png" group-title="Variedades", Tv Liberdade (Pacajus) logo-transparente
-http://
+#EXTINF:-1 tvg-logo="https://img.apksum.com/cf/com.liveonhosting.liberdadetveradio/4.2.2/icon.png" group-title="Variedades", Tv Liberdade (Pacajus) logo-transparente -cx-nv-
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/670b916b607af258b7a62dccce8aba95.png" group-title="Variedades", TV Guarany (Pacajus)
 https://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
@@ -401,6 +405,9 @@ http://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7YlXRtu9uUU/Xql1N-6MXUI/AAAAAAAABb0/LxWbBSoEJZg3i8joXatRWK9g9UGOF__dwCLcBGAsYHQ/s1600/oie_transparent.png" group-title="Variedades/ Desenhos/ Filmes", TV Serra Verde (Frecheirinha) -site-Olhosnatv-logo-03
 https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa94db57fcdaceb89e0edff5f6e05f09.jpg" group-title="Variedades", Rede Encauca (Fortaleza) cx-nv
+https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa94db57fcdaceb89e0edff5f6e05f09.jpg" group-title="Variedades", Rede Encauca (Fortaleza)
 https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
@@ -1053,6 +1060,12 @@ https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="Variedades/ Notícias/ Esportes", TV Diário Do Sertão (PB) - PB - Cajazeiras
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2021/12/cropped-TV.png" group-title="Variedades", Tv Sul Cariri - Ce?
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8
+
+#EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2021/10/tvs.png" group-title="Variedades",  Tv Sul Cariri - Ce?
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ae91c4cf74883758ccfc13ad3830a44.png" group-title="Variedades", Tv Nordestina - PB - Campina Grande -youtube-teste-
 https://www.youtube.com/embed/live_stream?channel=UC1pXFbM6hPRkUUTeO3txrtw&autoplay=1
 
@@ -1091,6 +1104,12 @@ http://200.164.225.175/hls/tvalpb.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e1b1c4bec4d8b4f850b4650d84746fe3." group-title="Publicos", TV Câmara de João Pessoa - PB - João Pessoa
 https://59f2354c05961.streamlock.net:1443/camarajp/_definst_/camarajp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d8e0651e1ae0002e61daf919b2bcc853.png" group-title="Música", Cariri TV - PB - Boqueirão -cxtv-
+https://video01.logicahost.com.br/cariritv/cariritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d8e0651e1ae0002e61daf919b2bcc853.png" group-title="Música", Cariri TV - PB - Boqueirão -olhosnatv-
+https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d8e0651e1ae0002e61daf919b2bcc853.png" group-title="Música", Cariri TV - PB - Boqueirão -fora do ar-
 https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/playlist.m3u8
@@ -4487,3 +4506,48 @@ https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", TV União de Natal
 https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Brasil
+https:\u002F\u002Falanza.iptv2022.com\u002FRSCTV_Brasil\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Carioca Net
+https:\u002F\u002Falanza.iptv2022.com\u002FTV_CariocaNet\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Brusque
+https:\u002F\u002Falanza.iptv2022.com\u002FTV_Brusque\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Rede Familia
+https:\u002F\u002Falanza.iptv2022.com\u002FRede_Familia\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Fandom TV
+https:\u002F\u002Falanza.iptv2022.com\u002FFandom_TV\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Channel Network
+https:\u002F\u002Falanza.iptv2022.com\u002FTVChannelNetwork-ptbr\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", CLC 
+https:\u002F\u002Falanza.iptv2022.com\u002FCLC\u002Findex.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Brasil
+https://u002F/u002Falanza.iptv2022.com/u002FRSCTV_Brasil/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Carioca Net
+https://u002F/u002Falanza.iptv2022.com/u002FTV_CariocaNet/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Brusque
+https://u002F/u002Falanza.iptv2022.com/u002FTV_Brusque/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Rede Familia
+https://u002F/u002Falanza.iptv2022.com/u002FRede_Familia/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Fandom TV
+https://u002F/u002Falanza.iptv2022.com/u002FFandom_TV/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Channel Network
+https://u002F/u002Falanza.iptv2022.com/u002FTVChannelNetwork-ptbr/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", CLC 
+https://u002F/u002Falanza.iptv2022.com/u002FCLC/u002Findex.m3u8

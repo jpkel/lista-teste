@@ -102,8 +102,8 @@ https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="Educativos", Rádio Encontro das Águas FM 97.7 - AM - Manaus -logo-site-?
 https://manoweb.ip.tv/iframe/radioencontrodasaguas-p
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx-
-https://
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx- -teste-olhosnatv-
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 
 
 
@@ -260,9 +260,12 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6C9WUtNQ13_N0eczAvx5dy0RS1Nz8X17qncdqBchxdzW3dgBkkrA5b_PGm48fR72A
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dffe68ccd34327b849583770cd368d0c.webp" group-title="Variedades", TV Jangadeiro (Fortaleza) logo-cx-
-http://0.0.0.1
+https://0.0.0.1
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="", TVC - TV Ceará (Fortaleza)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0tvwLIjKFDI/YTt_a_ZIGPI/AAAAAAAAFfM/WD-iY0ogbJQtsVQIjkbOqcBVTUsuzZfQQCLcBGAsYHQ/s200/TV%2BCEAR%25C3%2581.webp" group-title="", TVC - TV Ceará (Fortaleza) -olhosnatv-
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aada6bfb708de57f0dff48ee1aaa7a64.webp" group-title="", TVC - TV Ceará (Fortaleza) -cxtv-
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza)
@@ -311,7 +314,7 @@ http://
 https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="Variedades", Tv Centro Sul (Iguatu) logo-transparente
-http://
+http://0.0.0.1
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="Variedades", Tv Padre Cicero (Juazeiro do Norte)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
@@ -1042,6 +1045,9 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/tvmanchete.png" group-title="Variedades", Tv Manchete -PB- Sousa
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="", Murilo TV -nv-olhosnatv
+https://stmv1.samcast.com.br/murilotv/murilotv/chunklist_w823620198.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="Variedades", Tv Manchete [Variedades] - PB - Sousa -logo-cx-
 http://0.0.0.0
 
@@ -1479,6 +1485,9 @@ https://0.0.0.0
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/w1200-h630-p-k-no-nu/Rede_Boas_Novas.png" group-title="[Evangélica]", Rede Boas Novas -logo- pequeno
 https://0.0.0.1
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee32135a0ae4307048d3b24d0891738f.png" group-title="Variedades/ Filmes .Desenhos .Séries.", Tela Viva Tv - RJ - Rio de Janeiro -nv-
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee32135a0ae4307048d3b24d0891738f.png" group-title="Variedades/ Filmes .Desenhos .Séries.", Tela Viva Tv - RJ - Rio de Janeiro
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
@@ -1496,6 +1505,9 @@ https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bcbccf746b61a71e20d87f8b52a077e9.png" group-title="Filmes/ Música/ Notícias .Desenhos", Tv Recreio - RJ - Rio de Janeiro
 https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title="Desenhos/ Variedades .Filmes", GENIALL STUDIO TV - RJ - Rio de Janeiro -nv-site
+https://tvgeniall.ovicostta.com.br/live/Stream1_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title="Desenhos/ Variedades .Filmes", GENIALL STUDIO TV - RJ - Rio de Janeiro
 https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
@@ -1675,6 +1687,9 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/60cde8a2fea5e7565f32f5e4e1172462.png" group-title="Espírita/ Cultura", TV Nacional HD - RN - Mossoró -cx-fora do ar-
 https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal -nv-
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal
 https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8
@@ -4498,58 +4513,46 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal  | BR
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="", Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
-
-#EXTINF:-1 tvg-logo="http://genialltv.epizy.com/logo.jpg" group-title="", Geniall TV
-https://tvgeniall.ovicostta.com.br/live/Stream1_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Geniall TV
-https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", TV União de Natal
-https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="", Bem vindos sua lista IPTV
 https://0.0.0.1
 
 #EXTINF:-1 tvg-logo="" group-title="", Record TV .
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="" group-title="", Record TV (DF) .
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="" group-title="", Record TV (GO) .
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-b.m3u8?sd=10&rebase=on
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="" group-title="", Record TV (RN) TV Tropical ..
-https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/chunklist_w1141734407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Record TV (RN) TV Tropical .
+http://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/chunklist_w1141734407.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Record News (ES) TV Sim - erro
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", SBT Interior (SP) .
-https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/playlist.m3u8
+http://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", SBT (PI) TV Cidade Verde .
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
+http://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", SBT (GO) TV Serra Dourada .
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323.m3u8
+http://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", SBT (PE) TV Jornal Caruaru ..
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", SBT (PE) TV Jornal Caruaru .
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", SBT (RJ) ..
-https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg
+#EXTINF:-1 tvg-logo="" group-title="", BAND .
+http://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TV BAND .
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", BAND (PA) RBATV .
+http://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TV BAND (PA) RBATV .
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", BAND (PR) TV Tarobá .
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Rede Brasil .
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8
@@ -4659,10 +4662,10 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", TV Faap .
 https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TV Unisantos .
+#EXTINF:-1 tvg-logo="" group-title="", TV Unisantos .1
 http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TV Unisantos .
+#EXTINF:-1 tvg-logo="" group-title="", TV Unisantos .2
 http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8?f95fad055a0c3a7836db3213ed2de13c
 
 #EXTINF:-1 tvg-logo="" group-title="", tv Brasil (TVE Bahia) .

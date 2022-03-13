@@ -4518,8 +4518,14 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?Play
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="", Bem vindos sua lista IPTV
 https://0.0.0.7
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Record TV . ok- ?erro servidor?
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Record TV . ok -erro servidor-
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Record TV -erro-teste-link-novo-1
+https://m3u9.tk:8443/a/hls1/recordsp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzozMTowMSBQTSZoYXNoX3ZhbHVlPXhleUgxOE1XZWVrOTRlQXpVRStGVUE9PSZ2YWxpZG1pbnV0ZXM9NDgwn
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Record TV -erro-teste-link-novo-2
+https://m3u9.tk:8443/a/hls1/recordsp.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Record TV (DF) . ok-
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
@@ -4542,8 +4548,8 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4j
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (AM) TV Guajará - ok-
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (BA) TV Aratu - ok - http- s
-http://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (BA) TV Aratu - ok--
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (PI) TV Cidade Verde . ok-
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
@@ -4554,25 +4560,19 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (PE) TV Jornal Caruaru . ok-
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND . ok-
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8 - site
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND . ok-site-
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . - site -?http?
-http://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV - site --?https?
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok-site-1-rbatv-
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV - radio99 - site - erro -
-https://streaming.gruporba.com.br/radio99.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV - rba - site - ok-
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -rba-site2-ok-gruporba-
 https://streaming.gruporba.com.br/rba.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND (PR) TV Tarobá . ok-
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV -radio99-site2-erro-gruporba-
+https://streaming.gruporba.com.br/radio99.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Tarobá (PR) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND (PR) TV Tarobá . ok-
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok-
@@ -4752,8 +4752,8 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", Web TV Água Boa - ok
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Aracati - ok -http- s
-http://livefocamundo.com:8081/tvaracati/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Aracati - ok--
+https://livefocamundo.com:8081/tvaracati/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H", TV Jornal do Nordeste - ok
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
@@ -4761,7 +4761,7 @@ https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklis
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV Mais Brasil - ok
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1682238439.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ SERIADOS/ TOKUSATSUS", TV Tokyo - erro?
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ SERIADOS/ TOKUSATSUS", TV Tokyo - erro -foradoar-
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FAROESTES/ FILMES/ SERIADOS", TV CEI - ok
@@ -4818,8 +4818,8 @@ https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", CTV PB - ok
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w2073358337.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMES/ DESENHOS", loading'TV (Anime Station) - OK -http- s
-http://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMES/ DESENHOS", loading'TV (Anime Station) - OK--
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="VARIEDADES", SIC Portugal - ok
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -4835,6 +4835,9 @@ https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ SERIADOS", Ely tv - ok
 https://stmv1.srvsite.com/ely/ely/chunklist_w1806833920.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS", DHT TV - ok
+https://video01.kshost.com.br:4443/alan1268/alan1268/chunklist_w1205982604.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ VARIEDADES", CW TV Clube Web - ok
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
@@ -4854,8 +4857,8 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1609421454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", BS TV - ok
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w88961879.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMES/ MÚSICAS", Murilo TV - ok -http- s
-http://stmv1.samcast.com.br/murilotv/murilotv/chunklist_w823620198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMES/ MÚSICAS", Murilo TV - ok--
+https://stmv1.samcast.com.br/murilotv/murilotv/chunklist_w823620198.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV Evangelizar - ok
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
@@ -4914,8 +4917,11 @@ https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2073176681.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ VARIEDADES", Rede QDM 2 (TV Que Demais) - ok
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ SERIADOS", Geniall Studio TV -Olhosnatv dá erro -
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ SERIADOS", Geniall Studio TV -Olhosnatv dá erro -edge1o-
 https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ SERIADOS", Geniall Studio TV -site- ok -ovicostta-
+https://tvgeniall.ovicostta.com.br/live/Stream1_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Rede Família - ok
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_1628000.m3u8
@@ -4923,7 +4929,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_1628000
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ VARIEDADES", Blits TV - ok
 https://video01.logicahost.com.br/blitstv/blitstv/chunklist_w1682531966.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", Demais TV - ok
+#EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", d+tv Demais TV - ok
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ VARIEDADES", X Plus TV (Antiga Aish TV Brasil) - ok
@@ -4962,7 +4968,7 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Alagoinha (TV evangelizar) - ok
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w2078204777.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede NGT - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede NGT - ok -olhosnatv-
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_3128000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede NGT -site- ok
@@ -4980,7 +4986,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Max Rio - ok
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w1692112557.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Nova Fase -erro servidor-
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Nova Fase -erro servidor-(saiu)
 https://stmv6.samcast.com.br/lucascardosodasilva8329/lucascardosodasilva8329/chunklist_w67715956.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", UP Web TV - ok
@@ -4988,6 +4994,9 @@ https://stmv5.samcast.com.br/paulo2703/paulo2703/chunklist_w1748288708.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Avant - ok
 https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w1328767658.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede Mais Família - ok
+https://video01.logicahost.com.br/redefamilia/redefamilia/chunklist_w2007108825.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ SERIADOS/ VARIEDADES", TV8 RO (AW TV) - ok
 https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w97015013.m3u8
@@ -5001,8 +5010,8 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", Red Bull TV - ok
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Amazon Sat - ok -http- s
-http://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Amazon Sat - ok--
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", TV Jundiaí Hoje - ok
 https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1281790634.m3u8
@@ -5103,11 +5112,8 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/pla
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ EVANGÉLICOS/ FILMES", TV Confiego Gospel - ok
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", US Brasil TV - ok ?carregando?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", US Brasil TV - ok -carregando-
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/chunklist_w1786797881.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Cachoeiro (tv Brasil) - ok
-https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist_w1290419355.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Livre (Com Brasil) - ok
 https://tvcidadelivre.com.br/programacao/Transmissao.m3u8?hls_ctx=24w67wui
@@ -5154,7 +5160,7 @@ https://stmv1.srvstm.com/gustavocampelo/gustavocampelo/chunklist_w716461492.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Rádio Itália TV - ok
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Empresários de Sucesso TV - ok -erro url-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Empresários de Sucesso TV - ok -carregando-
 https://liveempresarios.viaativa.com:8845/live/0tZ9iTAIg/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", VRT Channel - ok
@@ -5163,10 +5169,10 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Max 90 - ok
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Thathi - ok -site- playlist
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Thathi - ok -site- playlist - ok
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Thathi - ok -site- index
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Thathi - ok -site- index - não
 https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sol Comunidade - ok
@@ -5250,13 +5256,19 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w199228
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV BRICS Brasil - ok
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Master TV - ok ?carregando?
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Master TV (músicas) - ok ?carregando?
 http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RBI TV -site-(teste)-1 ?
+https://player.vimeo.com/video/687354347/config?autopause=0&amp;background=0&amp;badge=0&amp;byline=0&amp;bypass_privacy=1&amp;collections=0&amp;color=00adef&amp;context=embed_playlist.733784&amp;controls=1&amp;default_to_hd=0&amp;external_embed=1&amp;force_embed=1&amp;fullscreen=1&amp;h=85d5d7df69&amp;like=0&amp;logo=0&amp;loop=0&amp;outro_new=0&amp;playbar=1&amp;portrait=0&amp;referrer=https%3A%2F%2Fwww.olhosnatv.com.br%2F&amp;share=0&amp;title=0&amp;transparent=0&amp;volume=1&amp;watch_later=0&amp;s=9277bcab52a6e91c56001409b684c8fa50f010fb_1647214534
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RBI TV -site-(teste)-2 ?
+https://player.vimeo.com/video/687354347/config?autopause=0&amp
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Pioneira - ok
 https://livefocamundo.com:8081/tvpioneira/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Portal Mídia - ok ?carregando?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Portal Mídia - ok -carregando-
 https://video01.kshost.com.br/portalmidia/portalmidia/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Web TV Uai - ok
@@ -5391,7 +5403,7 @@ https://5a0c3936c25c8.streamlock.net/redeestacao26tv/redeestacao26tv/chunklist_w
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal Ricos - ok
 https://5d2c98775bafe.streamlock.net/8090/8090/chunklist_w1062785544.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Colina TV fm - ok
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Colina fm TV - ok
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/chunklist_w338484513.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Cidade Tiradentes - ok
@@ -5412,7 +5424,7 @@ https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/chunklist_w17434250
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", Tribuna Regional Web TV - ok
 https://5a0c3936c25c8.streamlock.net/8132/8132/chunklist_w2084415127.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS/ VARIEDADES", TV JA - ok
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS/ VARIEDADES", TV J.A - ok
 https://srv4.zcast.com.br/josineide7801/josineide7801/chunklist_w1888565426.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Lagos - ok
@@ -5427,7 +5439,7 @@ https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/chunklist_w
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede TV Mais - ok
 https://5a0c3936c25c8.streamlock.net/8010/8010/chunklist_w1760481484.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Brasil tv - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Brasil tv (mundotv) - ok
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w148491642.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SDB - ok
@@ -5445,7 +5457,7 @@ https://serv2.videovox.pw/lindon5124/lindon5124/chunklist_w1868816376.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sul de Minas - ok
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w1029048575.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Orb TV - ok -erro servidor-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Orb TV - -erro servidor-
 https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Liberdade (BA) Salvador - ok
@@ -5475,7 +5487,7 @@ https://digilab.cds.ebtcvd.net/live-tvalba/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Extremo Oriental - ok
 https://alanza.iptv2022.com/XTREMO_ORIENTAL/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CS TV - ?erro servidor?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CS TV - -erro servidor-
 https://stmv1.srvstm.com/sedenir6377/sedenir6377/chunklist_w448991688.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Urban TV Live - ok
@@ -5487,7 +5499,7 @@ https://livefocamundo.com:8081/tvcontroles/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede SPTV web - ok 
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV das Artes - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV das Artes - -erro servidor-
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Precabura - ok
@@ -5499,7 +5511,7 @@ https://video01.kshost.com.br:4443/igreja5720/igreja5720/chunklist_w1198677264.m
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Top Latino TV - ok
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RG TV - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RG TV - -erro servidor-
 https://stmv3.samcast.com.br/italo8170/italo8170/chunklist_w816911448.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Retro Plus TV - ok
@@ -5523,7 +5535,7 @@ https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Retro Plus TV 2 - ok
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS", UNI Web TV .fm. - ok
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS", UNI Web TV fm - ok
 https://stmv1.srvif.com/unifm/unifm/chunklist_w2088924163.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal Smart - ok
@@ -5553,10 +5565,10 @@ https://srv2.zcast.com.br/alertanoticia/alertanoticia/chunklist_w1485029310.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Avivando Nações (RN) - ok
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CATÓLICOS/ VARIEDADES", TV Santa - ?erro servidor?
+#EXTINF:-1 tvg-logo="" group-title="CATÓLICOS/ VARIEDADES", TV Santa - -carregando-
 https://596639ebdd89b.streamlock.net/8046/8046/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sul (tv Brasil/Rede Minas) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sul (Rede Minas/tv Brasil) - ok
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", web TV Olho D'Água - ok
@@ -5604,7 +5616,7 @@ https://video01.kshost.com.br:4443/paulo8859/paulo8859/chunklist_w813256249.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Pentecostal Inteligente - ok
 https://video01.kshost.com.br:4443/filipe1389/filipe1389/chunklist_w284333525.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", (tvi) TV Imagem de Caetano - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", tvi TV Imagem de Caetano - ok
 https://srv6.zcast.com.br/tvimagem/tvimagem/chunklist_w984848364.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Jacutinga Web -erro servidor-
@@ -5613,7 +5625,7 @@ https://stmv1.srvif.com/tvjacutinga/tvjacutinga/chunklist_w1170129956.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Tempo de Vitória - ok
 https://5cf4a2c2512a2.streamlock.net/tempodevitoria/tempodevitoria/chunklist_w333621650.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Canal Evangélica TV1 - ok
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Canal Evangélica TV 1 - ok
 https://video01.logicahost.com.br/evangelicatv1/evangelicatv1/chunklist_w1955525518.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", IMPD TV (Igreja Mundial do Poder de Deus) - ok
@@ -5676,13 +5688,22 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PÚBLICOS", TV Câmara 2 - ok
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Cachoeiro (tv Brasil) - ok
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist_w1290419355.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok--igual?
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok--igual?
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM Colatina (tv Brasil) - ok
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Jaguar - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM Mateus (tv Brasil) - ok -carregando-?
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlisT-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Jaguar - ok -sem funcionar-
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist_w783002578.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal FCV (TV Atividade) tv Brasil - ok
@@ -5712,25 +5733,25 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Carolina TV - ok
 https://redirector.dps.live/hls/carolinatv/playlist.m3u8?referer=www.carolina.cl
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Portal Fox mix - ok
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Portal Fox Mix - ok
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", La Mega Mundial - ok?
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", La Mega Mundial - ok
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w277273555.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV do Povo Porto Velho - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV do Povo (Porto Velho) - ok
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Rede Gênesis - site -?erro?
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Rede Gênesis - site -erro?(omega02-live)teste
 https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23971225/1646947164447/plain/uhs/
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Rede Gênesis - site -?erro?
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Rede Gênesis - site -erro?(ustream.tv)teste
 https://r64294940-1-23971225-channel-wss-omega.ums.ustream.tv
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Ouro Negro - ok
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Ouro Negro (CNT) - ok
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist_w349450407.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Power Turk TV -esportes?- - ok
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Power Turk TV - ok
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", TV 538 - ok
@@ -5748,7 +5769,7 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/chunklist_w1283373749.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Com Brasil TV - ok
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w371022092.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Master TV (TV educação) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", master tv (TV educação) - ok
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w634732431.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Ondas de Maricá - ok
@@ -5763,18 +5784,123 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w1521866
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Canal 9 (tv Brasil) - ok
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-player-erro?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-player-live-erro?(teste)
 https://player-ssl.kshost.com.br:9958/live
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-mediaelement-erro?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-mediaelement-erro-(teste)
 https://tvcidade10.com.br/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-mediaelement-erro?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-mediaelement-erro-(teste)
 https://tvcidade10.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-javascripts-erro?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-javascripts-erro-(teste)
 https://tvcidade10.com.br/wp-content/cache/min/1/wp-content/plugins/mod-auto-updates/assets/javascripts/front/built.js?ver=1646683880
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Osasco (Com Brasil) - ok
 https://596639ebdd89b.streamlock.net/8074/8074/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAH! TV - ok
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVC 16 - ok
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w2083294106.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok
+https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/chunklist_w1709098635.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES/ MÚSICAS", MultiTVA (TV Online) - ok
+https://livefocamundo.com:8081/multitva/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Boas Novas RJ - ok -YouTube-nãofuciona-teste-1
+https://youtu.be/tL3QT59XTOo
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Boas Novas RJ - ok -YouTube-nãofuciona-teste-2
+https://www.youtube.com/embed/live_stream?channel=UCopVMAEcdblYjF1-4Z7rcvw
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FMU TV - ok
+https://5a57bda70564a.streamlock.net/tvfmu/tvfmu.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Santa Maria - ok
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV UNIÃO BRASÍLIA - ok
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1482805562.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Rio Web - ok
+https://stmv1.srvstm.com/carlosaugusto1279/carlosaugusto1279/chunklist_w1715426089.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Sul TV - ok
+https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Alvorada Sertaneja - ok
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede TVC Brasil (tvc) - ok
+https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AGRONEGÓCIOS", Agro Mais - ok
+https//evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TDM Teledifusão de Macau Portugal -ok
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Top Mix TV - ok
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV Vianney - ok
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", MKK Web TV - ok
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Campo Grande RJ - ok
+https://livefocamundo.com:8081/tvcampogranderj/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Penaforte - ok -carregando-
+http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_w2442177990.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Polidoro TV (alxtv?) -erro servidor-
+https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w457420153.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Lagoa TV fm - ok
+https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w1041128837.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BS-TV Online - ok
+https://livefocamundo.com:8081/bs-tvonline/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", rádio TV Litoral Santos (RTL 91.7) - ok
+https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Zoom - ok
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", Canção Nova Portugal - ok
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Clic Brasil - ok
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="ESPIRITAS", TV Espaço Espírita - ok
+https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", TV Rádio Litoral 94.5 Região dos Lagos - ok
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Verdes Campos Sat - ok -carregando-
+https://caikron.com.br:8082/antv/antv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Tierra Mia TV - ok
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVi -YouTube-nãofunciona-teste-1
+https://youtu.be/lSrqUqRKxsY
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVi -YouTube-nãofunciona-teste-2
+https://www.youtube.com/embed/live_stream?channel=UC5E9dczJORMi_IQHZruJi1g
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Onix - ok
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV RP - ok
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w967863438_DVR.m3u8
 

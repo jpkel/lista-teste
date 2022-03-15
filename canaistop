@@ -4560,6 +4560,15 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (PE) TV Jornal Caruaru . ok-
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", SBT (MA) TV Difusora São Luis - ok
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (MA) TV Difusora Leste - ok
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (MA) TV Difusora Sul - ok
+https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND . ok-site-
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
@@ -5511,7 +5520,7 @@ https://livefocamundo.com:8081/tvcontroles/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede SPTV web - ok 
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV das Artes - -erro servidor-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV das Artes - ok--
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Precabura - ok
@@ -5874,7 +5883,7 @@ https://livefocamundo.com:8081/tvcampogranderj/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Penaforte - ok -carregando-
 http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_w2442177990.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Polidoro TV (alxtv?) - ok-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Polidoro TV (alxtv) - ok-
 https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w457420153.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Lagoa TV fm - ok
@@ -5892,7 +5901,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", Canção Nova Portugal - ok
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Clic Brasil - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Clic Brasil (tvBrasil) - ok
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="" group-title="ESPIRITAS", TV Espaço Espírita - ok
@@ -5931,7 +5940,7 @@ https://596639ebdd89b.streamlock.net/tvguarulhos/tvguarulhos/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Com Brasília (Com Brasil) - ok
 https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVC Panorama -erro servidor-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVC Panorama - ok--
 https://streaming03.zas.media:1936/panorama/panorama/chunklist_w1490652169.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV COM Santos (Com Brasil) - ok
@@ -5957,5 +5966,32 @@ https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV BNO - ok
 https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cognópolis - ok
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Mossoró (RN) - ok
+https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Gostei Gospel TV (rede gostei) - ok
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/chunklist_w1021203759.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Master (RN) - ok
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELEVENDAS", 1001 Noites - ok?
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Fênix Bahia - ok
+https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Rede Mundial Interteve - ok
+https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Bem Mais TV -site-erro-teste-1
+https://www.ustream.tv/embed/23603848?html5ui&autoplay=true
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Bem Mais TV -site-erro-teste-2
+https://ustream.tv/embed/23603848?html5ui&autoplay=true
 
 

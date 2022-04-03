@@ -5298,10 +5298,13 @@ https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/chunklist_w178679
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Livre (Com Brasil) - ok
 https://tvcidadelivre.com.br/programacao/Transmissao.m3u8?hls_ctx=24w67wui
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BraziTV - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BraziTV - ok - (chunks)
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CBTV Now (BraziTV) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BraziTV - ok =cxtv= (playlist)
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CBTV Now (BraziTV) - ok -
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Virtual TV - ok
@@ -5439,8 +5442,11 @@ https://stmv3.samcast.com.br/mamnews/mamnews/chunklist_w964769237.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Web TV TBO - ok
 https://cdn.jmvstream.com/w/AVJ-10738/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Gazeta Norte Mineira (GNM) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Gazeta Norte Mineira -GNM- (tv Brasil) - ok - (playlist-480p)
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Gazeta Norte Mineira -GNM- (tv Brasil) - ok -cxtv-(playlist)
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Altiora - ok
 https://video02.kshost.com.br/fundacao4576/fundacao4576/playlist.m3u8
@@ -5892,7 +5898,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PÚBLICOS", TV Câmara 2 - ok
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok--igual?
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok--igual? não tem mais?
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok--igual?
@@ -5985,14 +5991,23 @@ https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1255798755.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV Padre Cícero - ok
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w152186620.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Canal 9 (tv Brasil) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Canal 9 (tv Brasil) - ok - (chunklist) -olhosnatv-
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-eduplay-teste-1- olhos na tv
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Canal 9 (tv Brasil) - ok -cxtv-site- (playlist)
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvcidade10.com.br/wp-content/uploads/2021/04/tv10logo.png" group-title="VARIEDADES", TV Cidade 10 -site-eduplay-teste-1- olhos na tv -link completo-
 https://maestro-prd-nh.eduplay.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDM5Mjg1L2luZGV4Lm0zdTg_eD0xJm09RDV5bURwRzhmVnlVUHppRGIyQll0dw&x=1&p=1&m=Cql2Ry6yVVp7A0M4IuBYeA
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade 10 -site-eduplay-teste-2- olhos na tv
+#EXTINF:-1 tvg-logo="https://tvcidade10.com.br/wp-content/uploads/2021/04/tv10logo.png" group-title="VARIEDADES", TV Cidade 10 -site-eduplay-teste-2- olhos na tv -link até m3u8-
 https://maestro-prd-nh.eduplay.rnp.br/route/channel39285/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvcidade10.com.br/wp-content/uploads/2021/04/tv10logo.png" group-title="VARIEDADES", TV Cidade 10 -pesquisa google-(https://580f610d1cc38.streamlock.net/gisnei/gisnei/manifest.m3u8)
+https://580f610d1cc38.streamlock.net/gisnei/gisnei/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvcidade10.com.br/wp-content/uploads/2021/04/tv10logo.png" group-title="VARIEDADES", TV Cidade 10 -site- teste (https://player-ssl.kshost.com.br:9958/live)
+https://player-ssl.kshost.com.br:9958/live
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Osasco (Com Brasil) - ok
 https://596639ebdd89b.streamlock.net/8074/8074/playlist.m3u8
@@ -6449,5 +6464,8 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?cp=en
 
 #EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS", CNN Portugal - ok -cxtv-teste-Só em Portugal-
 https://video-auth6.iol.pt/live_cnn/live_cnn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv=
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 

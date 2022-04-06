@@ -5178,8 +5178,11 @@ https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w1692112557.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Avant - ok
 https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w1328767658.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede Mais Família - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede Mais Família - ok -velho-
 https://video01.logicahost.com.br/redefamilia/redefamilia/chunklist_w2007108825.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede Mais Família - ok -novo-
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1989101217.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Kpop TV Play - ok
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
@@ -5379,8 +5382,11 @@ https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sol Comunidade - ok
 https://streaming03.zas.media:1936/tvsol/tvsol/chunklist_w169388024.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Estilo - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Estilo - ok -velho-
 https://596639ebdd89b.streamlock.net/estilo/estilo/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Estilo - ok -novo-
+https://cdn.jmvstream.com/w/AVJ-10657/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GAMERS/ VARIEDADES", Yeeaah TV - ok
 https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w81868431.m3u8
@@ -5409,8 +5415,11 @@ https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO/ VARIEDADES", 98 Live - ok -mp4-teste-site- ...
 https://www.dailymotion.com/embed/video/x7zzmp4
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede SDP TV - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede SDP TV - ok -velho-
 https://video01.logicahost.com.br/sdptv/sdptv/chunklist_w483955463.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede SDP TV - ok -novo-
+https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w402512286.m3u88
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Teresópolis TV - ok
 https://59f1cbe63db89.streamlock.net:1443/teresopolistv/_definst_/teresopolistv/chunklist_w541084787.m3u8
@@ -5504,6 +5513,21 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super - ok - -listaiptv-
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super -teste-1- mp4
+https://static-fastly.livestream.com/unsupported.mp4
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super -teste-2- m3u8-token
+https://api.new.livestream.com/accounts/10205943/events/10199127/videos/229697847.secure.m3u8?token=624d14e9_26326dadf7f9f0ce9f236334d84e717d11771532
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super -teste-3- m3u8
+http://api.new.livestream.com/accounts/10205943/events/10199127/videos/229697847.m3u8?token=624d14e9_d76f9f7810faef61b23322c94be92355d10700fa
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super -teste-4- m3u8
+http://api.new.livestream.com/accounts/10205943/events/10199127/broadcasts/230407750.m3u8?dw=80&hdnea=st=1649218493~exp=1649220293~acl=/i/10205943_10199127_lsi12l2wqi5p4hoj9zf_1@408621/*~hmac=97825c2ed0b090350562fd2ba96e4f650d6c31a052192518fcc63725540a7981&token=624d14e9_55088454f503a376523ccfabe0ba692f20b10a83
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super -teste-5- m3u8
+https://api.new.livestream.com/accounts/10205943/events/10199127/broadcasts/230407750.secure.m3u8?dw=80&hdnea=st=1649218493~exp=1649220293~acl=/i/10205943_10199127_lsi12l2wqi5p4hoj9zf_1@408621/*~hmac=97825c2ed0b090350562fd2ba96e4f650d6c31a052192518fcc63725540a7981&token=624d14e9_a047c93f911e8fd420062ad7efad90f3146e17b1
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cinec - ok
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
@@ -5627,6 +5651,9 @@ https://5a0c3936c25c8.streamlock.net/8284/8284/chunklist_w1058550436.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS/ VARIEDADES", TV Vida Formosa - ok
 https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Real Queluz - ok -
+https://stmv1.srvstm.com/wellington5102/wellington5102/chunklist_w34177165.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Semear TV - ok
 https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w502943221.m3u8
@@ -5753,6 +5780,12 @@ https://stmv1.srvstm.com/gilvando1066/gilvando1066/chunklist_w1434250028.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", Web TV Caico (TV Opção) - ok
 https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Mfr7xIc.png" group-title="VARIEDADES", TV OPÇÃO - ok -listaiptv-
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Opção -erro servidor-carregando-
+https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS", UNI Web TV - ok
 https://stmv1.srvif.com/unifm/unifm/chunklist_w2088924163.m3u8
@@ -6099,6 +6132,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitora
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Verdes Campos Sat - ok -erro servidor-
 https://caikron.com.br:8082/antv/antv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="VARIEDADES", TV Verdes Campos SAT - ok -listaiptv-
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Tierra Mia TV - ok
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_sleng.m3u8
 
@@ -6113,6 +6149,12 @@ https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist-4
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV RP - Ribeirão Preto - ok -tv osasco-
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w967863438_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", UNITV - TV Universidade de Porto Alegre -fora do ar-não funciona-site suspeito!-(https://)-site-
+https://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--V0fvGYqd-c/X5xw3Rxj0hI/AAAAAAAADp4/tuCJTMgnJEwwQRaIkKXCdyADkMzrOsVNACLcBGAsYHQ/w1200-h630-p-k-no-nu/UNITV.png" group-title="EDUCATIVOS", UNITV - TV Universidade de Porto Alegre -fora do ar-não funciona-site suspeito!-(http://)-olhos na tv-
+http://unitvaovivo.ufrgs.br:8080/live.ogg
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Guarulhos (Com Brasil) - ok
 https://596639ebdd89b.streamlock.net/tvguarulhos/tvguarulhos/chunklist.m3u8
@@ -6134,9 +6176,6 @@ https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w721471161.m3u8?d67cf29eac3
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Hora 1 - ok
 https://livefocamundo.com:8081/tvh1-anovatvdematao/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Opção -erro servidor-carregando-
-https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Caravelas (Com Brasil) - ok
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
@@ -6173,6 +6212,9 @@ https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", Rede Mundial Interteve - ok
 https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Uruburetama - ok -
+https://stmv1.srvif.com/franciscojose/franciscojose/chunklist_w629742069.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVI Portugal - ok -site-cxtv--s-
 http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
@@ -6318,13 +6360,13 @@ https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Poços - ok--
 https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?a77969417e69eb8fafcc70912b55104a
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Web TV Guetto - ok
-https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Web TV Guetto - ok -http s://-
+http://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", PPZ TV - ok
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Guarujá (TVG) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Guarujá (TVG) - ok --
 https://59e4b6c1beddc.streamlock.net/8138/8138/chunklist_w1653572494.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=""VARIEDADES, TVCI (Pai Eterno) - ok
@@ -6459,13 +6501,99 @@ https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c871bb969e8076f811e7f7522ba7e545.webp" group-title="FUTEBOL", Real Madrid TV - Espanha -cxtv-site-espanhol-Só em Portugal-
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?cp=en
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c871bb969e8076f811e7f7522ba7e545.webp" group-title="FUTEBOL", Real Madrid TV - Espanha -cxtv-site-inglês-Só em Portugal-
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?cp=en
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c871bb969e8076f811e7f7522ba7e545.webp" group-title="FUTEBOL", Real Madrid TV - Espanha -cxtv-site-inglês-Só em Portugal- (?cp=en)
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS", CNN Portugal - ok -cxtv-teste-Só em Portugal-
 https://video-auth6.iol.pt/live_cnn/live_cnn/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv=
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Novelisima.png/revision/latest?cb=20200117222658&path-prefix=es" group-title="TESTE", Foro TV - 01
+https://tkx.mp.lura.live/rest/v2/mcp/video/702037/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CKjE6CVj%2Bks2wMnXIADucbOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 02
+https://tkx.mp.lura.live/rest/v2/mcp/video/702034/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3A7AzYwmBQvihQKuQoEdyU%2FOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 03
+https://tkx.mp.lura.live/rest/v2/mcp/video/702030/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DqSbFpnHHTWpDFkpVAS%2BLZOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 04
+https://tkx.mp.lura.live/rest/v2/mcp/video/702011/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3Bs1e2E%2Blg7RM71Kd%2B46vyyOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 05
+https://tkx.mp.lura.live/rest/v2/mcp/video/702026/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CLP43snrj1wvR1NbZt3ba3OXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 06
+https://tkx.mp.lura.live/rest/v2/mcp/video/702020/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3A9OkQh%2B%2BKsi%2FBJi9ZKp3k5OXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 07
+https://tkx.mp.lura.live/rest/v2/mcp/video/702016/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DWlFe9beo7DPii%2FbiOAlMMOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 08
+https://tkx.mp.lura.live/rest/v2/mcp/video/701982/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DzXntdVfoYdDYmnacVdsUxOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 09
+https://tkx.mp.lura.live/rest/v2/mcp/video/701934/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3A7Mg9Dz8DOlCGYHk4ysBWTOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 10
+https://tkx.mp.lura.live/rest/v2/mcp/video/701862/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3C6DwXUrAAZHSQj6r%2FFO9%2FrOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 11
+https://tkx.mp.lura.live/rest/v2/mcp/video/701744/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DalZTD%2FfPP7wby4a%2BG0D%2F%2FOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 12
+https://tkx.mp.lura.live/rest/v2/mcp/video/702016/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DWlFe9beo7DPii%2FbiOAlMMOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 13
+https://tkx.mp.lura.live/rest/v2/mcp/video/701821/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3BvCwLB40JsTY8vupTRi9JHOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 14
+https://tkx.mp.lura.live/rest/v2/mcp/video/701977/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DV4Auxa%2FMWnzJJotE%2FkdqAOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 15
+https://tkx.mp.lura.live/rest/v2/mcp/video/701896/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3APGnB6QmJc1gOkvH5PlQYuOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 16
+https://tkx.mp.lura.live/rest/v2/mcp/video/701766/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CPtW%2Fm48vTo6n531a94L3eOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 17
+https://tkx.mp.lura.live/rest/v2/mcp/video/701893/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DkBDAcmH1wJMn7GcxYN2zfOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 18
+https://tkx.mp.lura.live/rest/v2/mcp/video/701648/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3AUmWn7%2Bu1zX8e%2Bj18BELzCOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 19
+https://tkx.mp.lura.live/rest/v2/mcp/video/701812/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DPbUMKNtutiK0QCewqdLIbOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 20
+https://tkx.mp.lura.live/rest/v2/mcp/video/701825/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3C0RIcOlS57t1K4HQc%2FXPj3OXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 21
+https://tkx.mp.lura.live/rest/v2/mcp/video/700917/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3A3lZNZY%2BVtgsh60dEPivd4OXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 22
+https://tkx.mp.lura.live/rest/v2/mcp/video/701501/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CvLyMSQ3zzPLQvao5%2FMtuPOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 23
+https://tkx.mp.lura.live/rest/v2/mcp/video/701627/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CbiqY%2FzcAWAJmhFyfrZpqSOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 24
+https://tkx.mp.lura.live/rest/v2/mcp/video/700532/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3BwSta3Q2JTb3R%2BnPs64ef4OXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 25
+https://tkx.mp.lura.live/rest/v2/mcp/video/700559/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3BGuY%2FomVWYDsIbuLR4IOl%2FOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 26
+https://tkx.mp.lura.live/rest/v2/mcp/video/700446/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3C3g3X1PoR2VgTd%2BoSs6NjaOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 27
+https://tkx.mp.lura.live/rest/v2/mcp/video/700364/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CZBoEEXXGupg8T7SBh2BmBOXy7lSii8sfugqSS6gRTcg%3D%3D
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 28
+https://tkx.mp.lura.live/rest/v2/mcp/video/700092/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DqzfXhb1DQjeqQ%2FGxwOUvZOXy7lSii8sfugqSS6gRTcg%3D%3D
 
 

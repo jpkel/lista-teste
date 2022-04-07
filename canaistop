@@ -5925,6 +5925,24 @@ https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/p
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Metropolitana Rio (Canal TV Rio)? - ok -chunklist-
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/chunklist_w371628583.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Metropolitana Rio =tvBrasil= teste-00
+https://u002F/u002Falanza.iptv2022.com/u002FMETROPOLITANA_RIO/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Metropolitana Rio =tvBrasil= teste-01
+https://u002Falanza.iptv2022.com/u002FMETROPOLITANA_RIO/u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Metropolitana Rio =tvBrasil= teste-02
+https:\u002F\u002Falanza.iptv2022.com\u002FMETROPOLITANA_RIO\u002Findex.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="BRASIL",TV METROPOLITANA RIO =listaiptv=(caxiastv)
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV =listaiptv=(luis5346)
+https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yNXAB3p.png" group-title="BRASIL", CANAL TV RIO =listaiptv=(canaltvrio)
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Cristo Vive - ok
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
 
@@ -6414,10 +6432,10 @@ https://stmv1.painelvideo.top/litoral/litoral/chunklist_w1893278316.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", CBC TV Gospel - ok
 https://tv01.livemustv.com.br/cbctv/cbctv/chunklist_w231290705.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Primer TV -erro servidor-carregando-
+#EXTINF:-1 tvg-logo="https://www.primertv.com.br/img/logo.png" group-title="VARIEDADES", Primer TV -erro servidor-carregando- logo site -
 http://200.194.238.229:8383/live/primer/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.primertv.com.br/img/logo.png" group-title="VARIEDADES", Primer TV - ok -cxtv-
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12986/thumb_PRIMER_TV.png" group-title="VARIEDADES", Primer TV - ok -cxtv-logo site-
 http://177.74.174.57:8080/hls/primertv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Grande Natal - ok--
@@ -6508,11 +6526,16 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 https://video-auth6.iol.pt/live_cnn/live_cnn/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv=
+#EXTINF:-1 tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv= logo-site-
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.jpg" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv= logo-cxtv-
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Novelisima.png/revision/latest?cb=20200117222658&path-prefix=es" group-title="TESTE", Foro TV - 01
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Novelisima.png/revision/latest?cb=20200117222658&path-prefix=es" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv= logo-site-/-tirei o (S)-/
+http://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 01
 https://tkx.mp.lura.live/rest/v2/mcp/video/702037/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3CKjE6CVj%2Bks2wMnXIADucbOXy7lSii8sfugqSS6gRTcg%3D%3D
 
 #EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 02
@@ -6542,7 +6565,7 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/701934/master.m3u8?anvack=aPVzydj0dJa
 #EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 10
 https://tkx.mp.lura.live/rest/v2/mcp/video/701862/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3C6DwXUrAAZHSQj6r%2FFO9%2FrOXy7lSii8sfugqSS6gRTcg%3D%3D
 
-#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 11
+#EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 11 - ?
 https://tkx.mp.lura.live/rest/v2/mcp/video/701744/master.m3u8?anvack=aPVzydj0dJaaipIYtJl15Lh0lWekAB8Z\u0026eud=AtuLko7m7qAkX%2FbdoCqM22Y8I3xYByRsIC3D9mhvL3DalZTD%2FfPP7wby4a%2BG0D%2F%2FOXy7lSii8sfugqSS6gRTcg%3D%3D
 
 #EXTINF:-1 tvg-logo="" group-title="TESTE", Foro TV - 12

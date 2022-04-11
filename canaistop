@@ -7058,52 +7058,58 @@ https://alanza.iptv2022.com/TV_Educar/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13070/thumb_LAGOA_TV.png" group-title="", 
 
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13077/thumb_Sul_de_Minas_tv_PNG_01__1_.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13077/thumb_Sul_de_Minas_tv_PNG_01__1_.png" group-title="TV AO VIVO", 
 
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13091/thumb_TV_NORDESTINA.png" group-title="TV AO VIVO", TV NORDESTINA
 https://alanza.iptv2022.com/tv_nordestina/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13119/thumb_SEMEAR_TV.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13119/thumb_SEMEAR_TV.png" group-title="TV AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13168/thumb_FRONTEIRA_MOVIES.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13168/thumb_FRONTEIRA_MOVIES.png" group-title="TV AO VIVO", 
 
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13175/thumb_TV_ART_HD.png" group-title="TV AO VIVO", TV ART HD
 https://alanza.iptv2022.com/TV_ART_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13182/thumb_TV_FUTURO__CULTURA_RN_.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13182/thumb_TV_FUTURO__CULTURA_RN_.png" group-title="TV AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13210/thumb_TV_O_DIA_.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13210/thumb_TV_O_DIA_.png" group-title="TV AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13224/thumb__TV_RBC_.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13224/thumb__TV_RBC_.png" group-title="TV AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13245/thumb_TV_CATVE.jpg" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13245/thumb_TV_CATVE.jpg" group-title="TV AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13252/thumb__TV_Cla%CC%81ssicos_.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13252/thumb__TV_Cla%CC%81ssicos_.png" group-title="TV AO VIVO", TV Clássicos -erro-
+https://alanza.iptv2022.com/Tv_classicos/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13259/thumb_TV_CIDADE.png" group-title="TV AO VIVO", TV CIDADE (Rede Minas)
+https://alanza.iptv2022.com/tv_cidade/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13259/thumb_TV_CIDADE.png" group-title="", 
-
-
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13266/thumb_IBC_TV_.png" group-title="", 
-
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13266/thumb_IBC_TV_.png" group-title="TV AO VIVO", IBC TV
+https://alanza.iptv2022.com/ibctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13273/thumb_TV_BARA%CC%83O_.png" group-title="TV AO VIVO", TV BARÃO
 https://alanza.iptv2022.com/tv_barao/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13350/thumb_TV_VOTORANTIM.png" group-title="", 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13350/thumb_TV_VOTORANTIM.png" group-title="TV AO VIVO", TV VOTORANTIM (TVV)
+https://alanza.iptv2022.com/TV_VOTORANTIM/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13427/thumb_REDE_NOVA_FAMILIA_.jpeg" group-title="", 
-
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13427/thumb_REDE_NOVA_FAMILIA_.jpeg" group-title="TV AO VIVO", REDE NOVA FAMILIA
+https://alanza.iptv2022.com/REDE_NOVA_FAMILIA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13441/thumb_TV_PADRE_CICERO.jpeg" group-title="TV AO VIVO", TV PADRE CÍCERO
 https://alanza.iptv2022.com/TV_PADRE_CICERO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13476/thumb_TV_CARIRI_BRISANET.png" group-title="TV AO VIVO", TV CARIRI BRISANET
+https://alanza.iptv2022.com/TV_CARIRI_BRISANET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13483/thumb_image_2022-04-11_13-21-07.png" group-title="TV AO VIVO", TV NOVA FASE
+https://alanza.iptv2022.com/TV_NOVA_FASE/index.m3u8
 
 

@@ -138,7 +138,6 @@ https://manoweb.ip.tv/iframe/radioencontrodasaguas-p
 https://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx- -teste-olhosnatv-
-
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 
 
@@ -6819,6 +6818,9 @@ https://alanza.iptv2022.com/UniMidiaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13525/thumb_TV_PORTALWEB.png" group-title="TV AO VIVO", TV PORTAL WEB
 https://alanza.iptv2022.com/TV_PORTALWEB/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13714/thumb_ALL_SPORTS_TV.png" group-title="TV AO VIVO", ALL SPORTS TV
+https://alanza.iptv2022.com/All_Sports_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13532/thumb_REDE_GAMA.png" group-title="TV AO VIVO", REDE GAMA
 https://alanza.iptv2022.com/REDE_GAMA/index.m3u8
 
@@ -6861,17 +6863,26 @@ https://alanza.iptv2022.com/CANAL_SE7E/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12153/thumb_ASSIM_E%CC%81_PORTUGAL_TV.jpeg" group-title="TV AO VIVO", ASSIM É PORTUGAL TV
 https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11894/thumb_TV_PONTA_DA_SERRA.jpeg" group-title="TV AO VIVO", TV PONTA DA SERRA
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11894/thumb_TV_PONTA_DA_SERRA.jpeg" group-title="TV AO VIVO", TV PONTA DA SERRA - RS
 https://alanza.iptv2022.com/TV_PONTA_DASERRA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13644/thumb_TV_ERGA_OMNES.png" group-title="TV AO VIVO", TV ERGA OMNES
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11894/thumb_TV_PONTA_DA_SERRA.jpeg" group-title="TV AO VIVO", TV PONTA DA SERRA - ok - olhosnatv/supertv
+https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11894/thumb_TV_PONTA_DA_SERRA.jpeg" group-title="TV AO VIVO", TV PONTA DA SERRA -erro?- cxtv
+https://stmv1.srvif.com/lucianops/lucianops/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2020/09/ponta-da-serra.jpg" group-title="TV AO VIVO", TV PONTA DA SERRA -erro?- tv0800.xyz
+https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13644/thumb_TV_ERGA_OMNES.png" group-title="TV AO VIVO", TV ERGA OMNES - erro?
 https://alanza.iptv2022.com/TV_Erga_Omnes/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11460/thumb_Group_76.png" group-title="TV AO VIVO", TVN Brasil
 https://alanza.iptv2022.com/TVN_Brasil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13658/thumb_tv_entorno_sul.png" group-title="TV AO VIVO", TV ENTORNO SUL
-https:/alanza.iptv2022.com/TV_ENTORNO_SUL/index.m3u8
+https://alanza.iptv2022.com/TV_ENTORNO_SUL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11467/thumb_Group_4.png" group-title="TV AO VIVO", Sou TV
 https://alanza.iptv2022.com/Sou_TV/index.m3u8
@@ -6880,7 +6891,7 @@ https://alanza.iptv2022.com/Sou_TV/index.m3u8
 https://alanza.iptv2022.com/RBTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11607/thumb_Group_26.png" group-title="TV AO VIVO", RB TV (Rede Brasil) - 2 -mesmo link-
-https://alanza.iptv2022.com/RBTV/index.m3u8
+http://alanza.iptv2022.com/RBTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11768/thumb_Elemental_Channel_.jpeg" group-title="TV AO VIVO", Elemental Channel
 https://alanza.iptv2022.com/Elemental_Channel/index.m3u8
@@ -6931,7 +6942,7 @@ https://alanza.iptv2022.com/Lithoral_News/index.m3u8
 https://alanza.iptv2022.com/PLANALTO_NORTE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13630/thumb_CBC_TV_GOSPEL_.png" group-title="TV AO VIVO", CBC TV GOSPEL
-https://alanza.iptv2022.com//CBC_TV_GOSPEL//index.m3u8
+https://alanza.iptv2022.com/CBC_TV_GOSPEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13721/thumb_TV_PRECABURA.png" group-title="TV AO VIVO", TV PRECABURA
 https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8
@@ -7156,7 +7167,7 @@ https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 https://alanza.iptv2022.com/NOVA_HERVAL_WEBTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12594/thumb_TELA_VIVA_TV_.png" group-title="TV AO VIVO", TELA VIVA TV
-ttps://alanza.iptv2022.com/TELA_VIVA_TV/index.m3u8
+https://alanza.iptv2022.com/TELA_VIVA_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12629/thumb_TV_CINE.png" group-title="TV AO VIVO", TV CINE (Chaves)
 https://alanza.iptv2022.com/WEB_tv_Cine/index.m3u8

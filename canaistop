@@ -4463,6 +4463,8 @@ https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title=" ", Bem vindos sua lista IPTV
 https://0.0.0.10
 
@@ -4580,7 +4582,7 @@ https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVG - TV Várzea Grande (Rede Brasil) - ok
 https://video02.kshost.com.br/adauton7191/adauton7191/chunklist_w264973451.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Ecovale - TVG (Rede Brasil) - ok .novo.
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVE Ecovale MT TVG (Rede Brasil) - ok .novo.
 https://livefocamundo.com:8081/tvecovale/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Brasil Oeste (RBTV) - ok
@@ -4601,8 +4603,11 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede TV! (MT) TV Pantanal - ok
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Rede TV! Espirito Santo . ok-
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Rede TV! Espirito Santo . ok .velho.
 https://cdn.jmvstream.com/w/AVJ-10768/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Rede TV! Espirito Santo . ok .novo.
+https://serv3.videovox.pw/cyntia8308/cyntia8308/chunklist_w2106161864.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede TV! (RS) TV Pampa . ok-
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8
@@ -5390,7 +5395,10 @@ https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w402512286.m3u88
 https://59f1cbe63db89.streamlock.net:1443/teresopolistv/_definst_/teresopolistv/chunklist_w541084787.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Diversidade - ok
-https://5c483b9d1019c.streamlock.net/diversidadetv/diversidadetv/playlist.m3u8
+https://5c483b9d1019c.streamlock.net/diversidadetv/diversidadetv/playlist.m3u8 .velho.
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Diversidade - ok .novo.
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Empire no Ar - ok
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
@@ -6118,7 +6126,7 @@ https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVC 16 - ok
 https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w2083294106.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok -carregando-erro servidor-
+#EXTINF:-1 tvg-logo="" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok ---
 https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/chunklist_w1709098635.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ MÚSICAS", MultiTVA (TV Online) - ok
@@ -6268,7 +6276,7 @@ https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cognópolis - ok
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Nossa TV Mossoró (RN) - ok
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Nossa TV Mossoró-RN - ok
 https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede TV Mais Icapuí-Ce - ok .novo. (tvamerica/chunklist_w2049553924.m3u8)

@@ -509,10 +509,10 @@ https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b654f477e158d0e85cd9962b638ed9b.webp" group-title="Variedades", Lavras Ce Tv Web - CE - Lavras da Mangabeira - ok= -cx-site-
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y6T30CLCPHqGI5O-FY2JPmX87PvJ6fplEjIdnFuhUcVrR4_nWwS7o35nlo42JTOrcO4" group-title="Variedades", Tv Precabura/ TV Vida (Fortaleza) - ok= -cxtv-/site-logo-google-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y6T30CLCPHqGI5O-FY2JPmX87PvJ6fplEjIdnFuhUcVrR4_nWwS7o35nlo42JTOrcO4" group-title="Variedades", Tv Precabura (Fortaleza) - ok= -cxtv-/site-logo-google-
 https://srv1.zcast.com.br/webtvprecabura/webtvprecabura/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e60182cb891f5a4ad9e1b7c78572269e.jpg" group-title="Variedades/ Evangélica", Tv Precabura 2 (Fortaleza) - ok= -cxtv-logo-cxtv-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e60182cb891f5a4ad9e1b7c78572269e.jpg" group-title="Variedades/ Evangélica", Tv Precabura 2/ TV Vida (Fortaleza) - ok= -cxtv-logo-cxtv-
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lLFev7s4yaY/XLksj0iwoaI/AAAAAAAAB80/YirvP2uAMYwELpKFekaS3V8mK0sMEVBBQCLcBGAs/s1600/TV%2BPRECABURA%2BNOVA%2BROTULO%2Bwebtv.png" group-title="Variedades/ Evangélica", Tv Precabura (Fortaleza) site
@@ -520,6 +520,9 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5e249472f83e34e44979ae5e82cbe9ed.jpg" group-title="Evangélica/ Filmes/ Documentários", Tv W.M (Fortaleza) - ok=
 https://stmv2.voxtvhd.com.br/tvwm/tvwm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Evangélica", Tv Gospel Ceará - CE - Ibaretama .
+https://stmv1.painelvideo.top/102030/102030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="Variedades", TV Uruburetama -cxtv-site- +novo
 https://stmv1.srvif.com/franciscojose/franciscojose/playlist.m3u8
@@ -4917,7 +4920,7 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS/ VARIEDADES", Fronteira Channel - ok --
 https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMES/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", Caravelas TV - ok -
+#EXTINF:-1 tvg-logo="" group-title="ANIMES/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", Caravelas TV - ok -erro servidor-
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist_w1022983116.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", BS TV - ok
@@ -5325,10 +5328,10 @@ https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", Entorno Sul Web TV - ok
 https://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Feliz - ok -erro servidor-
+#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV Feliz - ok --
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1243364630.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Amazon Sat - ok -carregando-
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Amazon Sat - ok -velho-
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Amazon Sat - ok -novo-
@@ -5871,8 +5874,11 @@ https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVR Sul - ok
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w102166008.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CULTURAS/ VARIEDADES", TV Diversa (tv Brasil) - ok
+#EXTINF:-1 tvg-logo="" group-title="CULTURAS/ VARIEDADES", TV Diversa (tv Brasil) - ok .velho.
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CULTURAS/ VARIEDADES", TV Diversa (tv Brasil) - ok .novo.
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=8293234862671378000
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Gramado - ok
 https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w488415240.m3u8
@@ -6483,7 +6489,7 @@ https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV canal 3 (Canal TV Rio) - ok
 https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede Sul de Televisão - ok -carregando-
+#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede Sul de Televisão - ok --
 https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Web Guarei - ok -site- iblups-youtube-erro- corregido
@@ -6795,6 +6801,9 @@ https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11866/thumb_TV_METROPOLITANA_RIO_.jpeg" group-title="TV AO VIVO", TV METROPOLITANA RIO (Com Brasil)
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13784/thumb_CANAL_TV_RIO_.png" group-title="TV AO VIVO", CANAL TV RIO .
+https://alanza.iptv2022.com/TV_CANAL_RIO/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12265/thumb_MURILO_TV_-_Dourda.png" group-title="TV AO VIVO", Murilo TV
 https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 
@@ -6837,11 +6846,8 @@ https://alanza.iptv2022.com/TV_ENTORNO_SUL/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11467/thumb_Group_4.png" group-title="TV AO VIVO", Sou TV
 https://alanza.iptv2022.com/Sou_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11607/thumb_Rede_Brasil_de_Televisa%CC%83o.png" group-title="TV AO VIVO", REDE BRASIL - 1 -mesmo link-
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11607/thumb_Rede_Brasil_de_Televisa%CC%83o.png" group-title="TV AO VIVO", REDE BRASIL -
 https://alanza.iptv2022.com/RBTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11607/thumb_Group_26.png" group-title="TV AO VIVO", RB TV (Rede Brasil) - 2 -mesmo link-
-http://alanza.iptv2022.com/RBTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11768/thumb_Elemental_Channel_.jpeg" group-title="TV AO VIVO", Elemental Channel
 https://alanza.iptv2022.com/Elemental_Channel/index.m3u8
@@ -7095,7 +7101,7 @@ https://alanza.iptv2022.com/TV_RIO_GRANDE/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12454/thumb_image_2021-12-27_17-57-24.png" group-title="TV AO VIVO", REDE SPTV
 https://alanza.iptv2022.com/REDE_SPTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12461/thumb_144566041_896041464498621_8978018982841301416_n.jpg" group-title="TV AO VIVO", TV Várzea Grande TVG' (Rede Brasil)
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12461/thumb_144566041_896041464498621_8978018982841301416_n.jpg" group-title="TV AO VIVO", TV Várzea Grande TVG (Rede Brasil)
 https://alanza.iptv2022.com/TVG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12468/thumb_WhatsApp_Image_2021-12-28_at_15.jpeg" group-title="TV AO VIVO", CANAL 10 Cabo Frio
@@ -7269,7 +7275,7 @@ https://alanza.iptv2022.com/TV_PADRE_CICERO/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13476/thumb_TV_CARIRI_BRISANET.png" group-title="TV AO VIVO", TV CARIRI MAURITI BRISANET
 https://alanza.iptv2022.com/TV_CARIRI_BRISANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2021/01/bl.png" group-title="TV AO VIVO", TV CARIRI Mauriti
+#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2021/01/bl.png" group-title="TV AO VIVO", TV CARIRI Mauriti-CE
 https://video01.kshost.com.br/felizardo3523/felizardo3523/playlist.m3u8?t=1650599402
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13483/thumb_image_2022-04-11_13-21-07.png" group-title="TV AO VIVO", TV NOVA FASE
@@ -7298,5 +7304,11 @@ https://alanza.iptv2022.com/FACE_TV_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13252/thumb__TV_Cla%CC%81ssicos_.png" group-title="TV AO VIVO", TV Clássicos
 https://alanza.iptv2022.com/Tv_classicos/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13791/thumb_BLAST_CHANNEL_TV.png" group-title="TV AO VIVO", BLAST CHANNEL TV .
+https://alanza.iptv2022.com/BLAST_CHANNEL_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13798/thumb_CANAL_29.png" group-title="TV AO VIVO", CANAL 29 .
+https://alanza.iptv2022.com/CANAL_29/index.m3u8
 
 

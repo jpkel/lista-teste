@@ -5545,16 +5545,16 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super - teste-01
-http://api.new.livestream.com/accounts/10205943/events/10199127/videos/231064096.m3u8?token=62846403_49f7ef2d49907358a93e6356f778b90566e9cfd3
+http://api.new.livestream.com/accounts/10205943/events/10199127/videos/231064096.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super - teste-02
-https://api.new.livestream.com/accounts/10205943/events/10199127/videos/231064096.secure.m3u8?token=62846403_eacddedf90a0dbb85fb5ff55a6e5f39f0f23553a
+https://api.new.livestream.com/accounts/10205943/events/10199127/videos/231064096.secure.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super - teste-03
-http://api.new.livestream.com/accounts/10205943/events/10199127/videos/229697847.m3u8?token=62846403_96e1c507dd9bf31f4b2c633e3d5607f6b1af8cce
+http://api.new.livestream.com/accounts/10205943/events/10199127/videos/229697847.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super - teste-04
-https://api.new.livestream.com/accounts/10205943/events/10199127/videos/229697847.secure.m3u8?token=62846403_b44e9846bdbbea0d9a2b452c1871d3320cf9b26d
+https://api.new.livestream.com/accounts/10205943/events/10199127/videos/229697847.secure.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="EVANGÉLICOS", Rede Super - teste-05
 http://api.new.livestream.com/accounts/10205943/events/10199127/broadcasts/231168512.m3u8?dw=80&hdnea=st=1652843223~exp=1652845023~acl=/i/10205943_10199127_lsidaa8rxbgtftq4rib_1@408647/*~hmac=421d2beb179f68ae63aecec1c074c2d6cef8a93eb352c7f5e4aa7b99016aa9f8&token=62846403_be5e89df9ad88bfb7a8213130d599beb842b4f68
@@ -7419,5 +7419,17 @@ https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13854/thumb_TV_MANA%CC%81_BRASIL.png" group-title="TV AO VIVO", TV MANÁ BRASIL
 https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12013/thumb_GeG_TV.jpeg" group-title="TV AO VIVO", GeG TV
+https://alanza.iptv2022.com/GeG_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13896/thumb_BRAZI_TV.png" group-title="TV AO VIVO", BRAZI TV
+https://alanza.iptv2022.com/BRAZI_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13903/thumb_REDE_TVC_TV.png" group-title="TV AO VIVO", REDE TVC TV
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13910/thumb_NGT_SP.png" group-title="TV AO VIVO", NGT SP
+https://alanza.iptv2022.com/NGT_SP/index.m3u8
 
 

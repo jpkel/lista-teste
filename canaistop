@@ -5512,14 +5512,17 @@ https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV Aparecida - ok
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo.png" group-title="CATÓLICOS", Rede Vida - ok -olhosnatv- logo.assets
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_32128000.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/198/868/png-clipart-rede-vida-logo-high-definition-television-tv-tv-television-angle-thumbnail.png" group-title="CATÓLICOS", Rede Vida - ok -olhosnatv- (logo-site.pngegg)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_32128000.m3u8?olhosnatv-logo-site
 
-#EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo_footer.png" group-title="CATÓLICOS", Rede Vida - ok -site- logo.assets
+#EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo_footer.png" group-title="CATÓLICOS", Rede Vida - ok -site-
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?site-cxtv
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/85e5f6b6aa459a384730e3b520e1e728.png" group-title="CATÓLICOS", Rede Vida - ok -cxtv-logo-
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?cxtv-logo
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oKYur1WMPGI/XQ0N9xIv3JI/AAAAAAAABK4/7qgUvY6F4cEpFLvkbLLGSNj35kd4jw1eQCPcBGAYYCw/s320/Screenshot_2019-06-21-13-43-10.png" group-title="CATÓLICOS", Rede Vida - ok -logo olhosnatv-
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_32128000.m3u8?JP-olhosnatv-logo-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/8f492416e6ab68d83d51bea8bbcafe7b.png" group-title="CATÓLICOS", Canção Nova - https://0.0.0.0-cxtv-logo
 https://0.0.0.0-cxtv-logo
@@ -5569,7 +5572,7 @@ https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="EVANGÉLICOS", TV Gideões - ok -site- .novo.
 https://streaming01.zas.media:443/gideoes/programacao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiovozmissionaria.com.br/wp-content/uploads/sites/2/2022/01/logotipo.png" group-title="EVANGÉLICOS", Rádio Gideões - ok -site- .novo.
+#EXTINF:-1 tvg-logo="https://www.adcamboriu.com.br/wp-content/uploads/sites/3/2021/12/vozmissionaria.png" group-title="EVANGÉLICOS", Rádio Gideões - ok -site- .novo.
 https://streaming01.zas.media:443/vozmissionaria/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Omindaré - ok

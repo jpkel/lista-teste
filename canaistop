@@ -23,7 +23,7 @@ http://0.0.0.11
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0331c805e66c4f3abd7c92eabb73cbaf.jpg" group-title="Variedades", Tv Singular Hd - AL - Poço das Trincheiras =ok -cxtv-
 https://stmv1.srvif.com/tvsingularsat/tvsingularsat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvsingularhd.adcast.com.br/admin/assets/img/logo.png" group-title="Variedades", Tv Singular Hd - AL - Poço das Trincheiras =ok -site-
+#EXTINF:-1 tvg-logo="https://www.tvsingularhd.adcast.com.br/admin/assets/img/logo.png" group-title="Variedades", Tv Singular Hd - AL - Poço das Trincheiras =ok -site-
 https://stmv.video.expressolider.com.br/tvsingularhd/tvsingularhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3a3e3164af35712ff9e30297500319b.png" group-title="Variedades", TV Mar (AL) Maceió =ok -cxtv-site-
@@ -398,29 +398,32 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dab5e88e8a6365ed0890db70b53b2764.webp" group-title="Variedades", Tv Padre Cicero (Juazeiro do Norte) -erro-cxtv/link-velho-logo-cxtv-
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2021/01/bl.png" group-title="TV AO VIVO", TV CARIRI Mauriti-CE -site-.novo.
+https://video01.kshost.com.br/felizardo3523/felizardo3523/playlist.m3u8?t=1650599402
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86ea4300ffc8fab45fff952141bdd90b.webp" group-title="Variedades", Tv Sul Cariri - CE - Ipaumirim - ok= -cxtv-site-/logo-cxtv-
-https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/playlist.m3u8
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/playlist.m3u8?jp-1
 
 #EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2021/12/cropped-TV.png" group-title="Variedades", Tv Sul Cariri - CE - Ipaumirim - ok= -site-/-logo-site-
-https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/playlist.m3u8
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/playlist.m3u8?jp-2
 
 #EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2021/10/tvs.png" group-title="Variedades", Tv Sul Cariri - CE - Ipaumirim - ok= -logo-site-
-https://0.0.0.0
+https://0.0.0.0-jp-00
 
 #EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2021/12/cropped-TV.png" group-title="Variedades", TV Sul Cariri -olhosNaTV-/-logo-site-
-https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8?jp-01
 
 #EXTINF:-1 tvg-logo="https://sulcariri.com.br/wp-content/uploads/2021/10/tvs.png" group-title="Variedades", TV Sul Cariri -olhosNaTV-/-logo-site-
-https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8?jp-02
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99bbf1505fd8b9347d1551de1f02ef78.png" group-title="HD/ Esportes/ Notícias", Tv Jaguar (Limoeiro do Norte) - ok= -cxtv-site-
-https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8?logo-site
 
 #EXTINF:-1 tvg-logo="http://www.tvjaguar.com.br/images/logo.png" group-title="HD/ Esportes/ Notícias", Tv Jaguar (Limoeiro do Norte) logo-azul - ok= -site-
-http://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+http://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8?logo-azul
 
 #EXTINF:-1 tvg-logo="http://www.tvjaguar.com.br/images/logo-footer.png" group-title="HD/ Esportes/ Notícias", Tv Jaguar (Limoeiro do Norte) logo-prata -site-
-http://0.0.0.0
+http://0.0.0.0-logo-prata
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_X4Ym2GruIgA_Fd5rdfGzGAVGz_cVz4OFSF7Jqh5Bf0MBllPH7xstqVQyeIOWVrrZ4JK" group-title="Variedades", Tv Iracema - ok= -logo-sitegooglefotos-
 https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
@@ -3310,11 +3313,8 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/ui/logo-header.png" group-title=" ", |||Canais Internacionais-cxtv|||
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/ui/logo-header.png" group-title=" ", |||Canais Internacionais-cxtv|||
 https://0.0.0.38
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/assets/img/ui/logo-white.png" group-title=" ", |||Canais Internacionais-cxtv|||
-https://0.0.0.88
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9fe845cd9712092b91454b965439f667.png" group-title="Música/ Notícias", WEB TV Paixao FM - Portugal - Aveiro
 https://stmv3.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
@@ -3489,6 +3489,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b726fcce4f82cc86af487444d3e8e6d.webp" group-title="Variedades", Channel 20 Israel - Israel -cx-ok
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.jpg" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv= logo-cxtv-
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8?JP01
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Novelisima.png" group-title="Seriados/ Variedades", Novelisima - Venezuela =cxtv= logo-site-
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8?JP02
 
 
 
@@ -4837,6 +4843,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", BR Super TV (MG) RBTV - ok -logo.tvbrasilaovivo-
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8?logo-tvbrasilaovivo
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XD1m8Pj/BR-SUPER-TV.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", BR Super TV (MG) RBTV - ok -logo.jp-teste-
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8?jp-logo-teste
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/30bfd4e74aeb1ffcaf1f81c297d99d23.jpg" group-title="VARIEDADES", TV Brusque (SC) Rede Brasil - ok -logo.cxtv- 
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 
@@ -5512,8 +5521,8 @@ https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV Aparecida - ok
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/198/868/png-clipart-rede-vida-logo-high-definition-television-tv-tv-television-angle-thumbnail.png" group-title="CATÓLICOS", Rede Vida - ok -olhosnatv- (logo-site.pngegg)
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_32128000.m3u8?olhosnatv-logo-site
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="CATÓLICOS", Rede Vida - ok -olhosnatv- (logo-listaiptv)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_32128000.m3u8?olhosnatv-logo-listaiptv
 
 #EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo_footer.png" group-title="CATÓLICOS", Rede Vida - ok -site-
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?site-cxtv
@@ -7271,7 +7280,7 @@ https://alanza.iptv2022.com/REDE_GAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11922/thumb_TV_GUARULHOS.jpeg" group-title="TV AO VIVO", TV GUARULHOS (Com Brasil)
 https://alanza.iptv2022.com/TV_GUARULHOS/index.m3u8
-
+                     https://assets.iptv2022.com/uploads/channel/11922/thumb_TV_GUARULHOS.jpeg
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11418/thumb_Group_21.png" group-title="TV AO VIVO", Rede Metrópole (TV Meio Norte-PI)
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 
@@ -7752,9 +7761,6 @@ https://alanza.iptv2022.com/TV_PADRE_CICERO/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13476/thumb_TV_CARIRI_BRISANET.png" group-title="TV AO VIVO", TV CARIRI MAURITI BRISANET
 https://alanza.iptv2022.com/TV_CARIRI_BRISANET/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvwebcariri.com.br/wp-content/uploads/2021/01/bl.png" group-title="TV AO VIVO", TV CARIRI Mauriti-CE
-https://video01.kshost.com.br/felizardo3523/felizardo3523/playlist.m3u8?t=1650599402
-
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13483/thumb_image_2022-04-11_13-21-07.png" group-title="TV AO VIVO", TV NOVA FASE
 https://alanza.iptv2022.com/TV_NOVA_FASE/index.m3u8
 
@@ -7851,4 +7857,12 @@ https://alanza.iptv2022.com/TVRADIO_LITORAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13966/thumb_TEREFMTV.png" group-title="TV AO VIVO", TERÊ FM TV
 https://alanza.iptv2022.com/TEREFMTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14120/thumb_REDE_SULAME%CC%81RICA.png" group-title="TV AO VIVO", REDE SULAMÉRICA
+https://alanza.iptv2022.com/REDE_SULAMERICA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14127/thumb_VV8_TV.png" group-title="TV AO VIVO", VV8 TV
+https://alanza.iptv2022.com/VV8_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14134/thumb_SUPREME_MASTER_TV.png" group-title="TV AO VIVO", SUPREME MASTER TV
+https://alanza.iptv2022.com/SUPREME_MASTER_TV/index.m3u8
 

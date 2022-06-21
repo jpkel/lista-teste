@@ -4901,17 +4901,17 @@ https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (MT) Bem TV - ok .novo. -erro servidor-
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1990194714.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND (Geração) . ok-site-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.png" group-title="VARIEDADES", BAND (Geração) . ok-site-
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?Geração
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -site-1-rbatv-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -site-1-rbatv-
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8?site-1-rbatv
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -rba-site2-ok-gruporba-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -rba-site2-ok-gruporba-
 https://streaming.gruporba.com.br/rba.m3u8?rba-site2-gruporba
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", BAND (PR) TV Tarobá . ok- (chunklist.m3u8)
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj9Vk5S/TV-TAROB.jpg" group-title="VARIEDADES", BAND (PR) TV Tarobá . ok- (chunklist.m3u8)
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?olhosnatv-logojp
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dc44c45a452fc2c1ff9e2c4c118a9865.png" group-title="VARIEDADES", BAND (PR) TV Tarobá - ok -cxtv- (playlist.m3u8)
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv
@@ -5003,12 +5003,6 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?s
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", TV Cultura (PA) Estúdio ao Vivo - ok -site-
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8?site
 
-#EXTINF:-1 tvg-logo="http://www.tvuniversitaria.ufu.br/sites/tvuniversitaria.ufu.br/files/styles/large/public/tvu-original.png?itok=26d9kKJF" group-title="CULTURAS/ DESENHOS/ EDUCATIVOS", TV CULTURA (MG) TVU Uberlândia .eduplay. ok- -mesmo link-01-completo-(logo-site)
-https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDMzMzA5L2luZGV4Lm0zdTg_eD0xJm09bFl0WHFTb252RThCTWdIQjFRdVRvUQ&x=1&p=0&m=NQZ4NSVHgGFYosmSsiqS6w
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3003358e63347731ab29cb8b391bece.jpg" group-title="CULTURAS/ DESENHOS/ EDUCATIVOS", TV CULTURA (MG) TVU Uberlândia .eduplay. ok- .novo.teste. -mesmo link-02-completo-(logo-cxtv)
-https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDMzMzA5L2luZGV4Lm0zdTg_eD0xJm09bFl0WHFTb252RThCTWdIQjFRdVRvUQ&x=1&p=0&m=NQZ4NSVHgGFYosmSsiqS6w?jp-teste-site
-
 #EXTINF:-1 tvg-logo="" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (MS) TVE Cultura . ok-
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8?olhosnatv
 
@@ -5063,11 +5057,26 @@ https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8?o
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qpcJAwQ7riE/XdGU6Qzz9pI/AAAAAAAACQc/lsVF8tg0wjMBabznG5ODl9guphXXThabQCLcBGAsYHQ/s320/2019-11-17%2B15.33.41.png" group-title="CULTURAS/ EDUCATIVOS", TV UFSC (Universidade Federal de Santa Catarina) tv Brasil . ok-
 https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ VARIEDADES", TV Brasil 2 (tv Brasil web) -site-? (logo olhosnatv) teste =
+https://aovivo.ebc.com.br/embed-tvbrasil.html
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ VARIEDADES", TV Brasil 2 (tv Brasil web) -site-dailymotion-? (logo olhosnatv) teste =
+https://www.dailymotion.com/embed/video/x82pp99?autoplay=1
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ TV ABERTA/ VARIEDADES", TV Brasil - ok .novo. (logo.olhosnatv) =
+https://pekchannels.proxy.jotafplay.com.br/TV_Brasil/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ TV ABERTA/ VARIEDADES", TV Brasil - ok .novo. (logo.olhosnatv) =
+https://pekchannels.proxy.jotafplay.com.br/TV_Brasil/index.m3u8?teste-jp-apagar-depois
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-09IWN1Z5PG0/XPqlslml3QI/AAAAAAAAA-k/8R1GKl5AbbYX38UIX2OGsuqTHiqtfL9dwCPcBGAYYCw/s320/Screenshot_2019-06-07-13-17-57.png" group-title="EDUCATIVOS", TV Preve (tv Brasil 2) . ok-
 https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TTvypYf/TV-Preve.png" group-title="EDUCATIVOS", TV Preve (tv Brasil 2) . ok- .novo. olhosnatv
 https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w1536197057.m3u8?logo-jp-teste
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghjfDYax1obSCj4vuUOcaQai6v_iDhLlWbdgQN28Ij9B4NCIEA8NVI0DZztwgG3by5srZVOgSGWGbVgzXWVdaCtF-DtFmQuYIm4HpOqcq1CxJiORFeNqdl_GHBX2I03IVFqUFh-SvKaWEqR7cNYawNeqENjpk9-qHaqHR0qaLjUuY3qbccVujOx9v/s200/TV%20GUARAPARI.png" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok -novo-
+https://video.wellhost.com.br/tvguarapari/tvguarapari/chunklist_w1928388858.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vwdHS2/TV-DIVERSA.png" group-title="CULTURAS/ VARIEDADES", TV Diversa (tv Brasil) - ok .velho.
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/tracks-v1a1/mono.m3u8?logo-jp-teste
@@ -5095,6 +5104,12 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1868854318.m3u8?o
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="CULTURAS/ EDUCATIVOS", UFG TV - ok -cxtv.site-
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?cxtv-site
+
+#EXTINF:-1 tvg-logo="http://www.tvuniversitaria.ufu.br/sites/tvuniversitaria.ufu.br/files/styles/large/public/tvu-original.png?itok=26d9kKJF" group-title="CULTURAS/ DESENHOS/ EDUCATIVOS", TV CULTURA (MG) TVU Uberlândia .eduplay. ok- -mesmo link-01-completo-(logo-site)
+https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDMzMzA5L2luZGV4Lm0zdTg_eD0xJm09bFl0WHFTb252RThCTWdIQjFRdVRvUQ&x=1&p=0&m=NQZ4NSVHgGFYosmSsiqS6w
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3003358e63347731ab29cb8b391bece.jpg" group-title="CULTURAS/ DESENHOS/ EDUCATIVOS", TV CULTURA (MG) TVU Uberlândia .eduplay. ok- .novo.teste. -mesmo link-02-completo-(logo-cxtv)
+https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDMzMzA5L2luZGV4Lm0zdTg_eD0xJm09bFl0WHFTb252RThCTWdIQjFRdVRvUQ&x=1&p=0&m=NQZ4NSVHgGFYosmSsiqS6w?jp-teste-site
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sjvuFSqn564/XidMnKWWg4I/AAAAAAAACYM/Sn4nuclkN9sEHgGW8_gTrzJW_gxOs7MUQCLcBGAsYHQ/s320/Screenshot_2020-01-21-16-05-48.png" group-title="CULTURAS/ EDUCATIVOS", TV Escola .eduplay. -erro servidor- =link completo=
 https://maestro-prd-nh.eduplay.rnp.br/route/channel108912/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDEwODkxMi9pbmRleC5tM3U4P3g9MSZtPTNibnBlRGxRNUhuMl82M3RURFpmbUE&x=1&p=0&m=3Z9jkKwAYLAMHkqPTqCF7A?
@@ -6098,15 +6113,6 @@ https://video01.logicahost.com.br/urbantvlive/urbantvlive/chunklist_w2118431116.
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", UTV Londrina - ok-
 https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ VARIEDADES", TV Brasil 2 (tv Brasil web) -site-? (logo olhosnatv) teste
-https://aovivo.ebc.com.br/embed-tvbrasil.html
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ VARIEDADES", TV Brasil 2 (tv Brasil web) -site-dailymotion-? (logo olhosnatv) teste
-https://www.dailymotion.com/embed/video/x82pp99?autoplay=1
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ TV ABERTA/ VARIEDADES", TV Brasil - ok .novo. (logo.olhosnatv)
-https://pekchannels.proxy.jotafplay.com.br/TV_Brasil/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Rqv6uo3ssIWZ4ue-Ll_aMtnnOdMCQGkJ9gA2E-jLgEFVj_hmi_hMuLNizxqN2PeMy4j-5YF4NEN57Yrwj6hYbQzHh08D0AlxNuE1yfH2V6V2jCusKwpP_HrX643Sz_FeXyVD_OhW-7IAY8SpS3nUJ-L4fTa8GoSxVUoJobzbLcOdfogsAtzC5baZ/s200/TV%20ESTADO.png" group-title="VARIEDADES", TV Estado - ok .novo.
 https://cdn.jmvstream.com/w/AVJ-10205/playlist/chunklist.m3u8?
 
@@ -6244,9 +6250,6 @@ https://video01.kshost.com.br/walmeson9011/walmeson9011/chunklist_w418573864.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Ere News - ok-
 https://stmv1.samcast.com.br/erenews/erenews/chunklist_w1571167484.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok -novo-
-https://video.wellhost.com.br/tvguarapari/tvguarapari/chunklist_w1928388858.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV Portal Web - ok .novo.
 https://stmv2.samcast.com.br/mauro4310/mauro4310/chunklist_w729817395.m3u8?

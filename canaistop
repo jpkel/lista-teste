@@ -417,6 +417,12 @@ https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8?jp-logo
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33c7fc7f10a545696fecb96bd6fe15e1.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (Fortaleza) - erro-cxtv-
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwsRPqD/Rede-Uniao-Brasilia.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo- ok= -site-
+https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?logo-jp-brasilia
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kczygpV/Rede-Uniao-Fortaleza.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo- ok= -site-
+https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?logo-jp-fortaleza
+
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="Variedades/ Notícias/ Clipes", TV União/ Rede União (CE) site-logo- ok= -site-
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 
@@ -691,6 +697,9 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3164f442867991978299da9684b6b44b.jpg" group-title="Publicos/ Cultura", TV Câmara - DF - Brasília
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn8G7hs/TV-Uniao-Brasilia.png" group-title="Música .clipes .Variedades", Tv União Brasília - DF - Brasília
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4e58712f10b3d9219c4207cc82f20dcd.png" group-title="Música .clipes .Variedades", Tv União Brasília - DF - Brasília
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
@@ -1891,11 +1900,23 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/60cde8a2fea5e7565f32f5e4e1172462.png" group-title="Espírita/ Cultura", TV Nacional HD - RN - Mossoró -cx-fora do ar-
 https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal -nv-
-https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal -velho- .erro servidor.
 https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTYxm4q/TV-Uniao-de-Natal.png" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal -nv- .ok. (chunks.m3u8)
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8?logo-jp-1-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VjJhGQy/TV-Uniao-de-Natal-HD.png" group-title="Música/ HD",  Tv Uniao de Natal - RN - Natal -nv- .ok. (chunks.m3u8)
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8?logo-jp-2-teste
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png/v1/fill/w_166,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal .novo. cxtv .ok. (playlist.m3u8)
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8?logo1-site
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2c40e8_2827f80b83bb44ce98e67ea09fde78da~mv2.png" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal .novo. cxtv .ok. (playlist.m3u8)
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8?logo2-site
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-uni-o_m.png" group-title="Música/ HD", Tv Uniao de Natal - RN - Natal .novo. cxtv .ok. (playlist.m3u8)
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8?logo-site-mitvstatic
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a1da8fb88aef9df3483c940df68b87cf.jpg" group-title="Variedades", Nossa Tv (TV Cultura RN) - RN - Mossoró -cx- .
 https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
@@ -4910,8 +4931,14 @@ https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8?site-1-rbatv
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -rba-site2-ok-gruporba-
 https://streaming.gruporba.com.br/rba.m3u8?rba-site2-gruporba
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KzBCYxn/TV-Taroba.png" group-title="VARIEDADES", BAND (PR) TV Tarobá - ok -cxtv- (playlist.m3u8)
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv-logo-jp-teste-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R3B41K/TV-Taroba2.png" group-title="VARIEDADES", BAND (PR) TV Tarobá - ok -cxtv- (playlist.m3u8)
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv-logo-jp-teste-02
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj9Vk5S/TV-TAROB.jpg" group-title="VARIEDADES", BAND (PR) TV Tarobá . ok- (chunklist.m3u8)
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?olhosnatv-logojp
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?olhosnatv-logojp-teste-00
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dc44c45a452fc2c1ff9e2c4c118a9865.png" group-title="VARIEDADES", BAND (PR) TV Tarobá - ok -cxtv- (playlist.m3u8)
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv
@@ -6191,7 +6218,7 @@ https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/playli
 #EXTINF:-1 tvg-logo="https://webtvparacatu.com.br/hf-conteudo/uploads/layout/logo_11147d1d0680e2b6f9b487f7cb6effa3.png" group-title="VARIEDADES", Web TV Paracatu - ok -erro servidor-
 https://cdn.jmvstream.com/w/AVJ-9906/playlist/playlist.m3u8?velho
 
-#EXTINF:-1 tvg-logo="https://webtvparacatu.com.br/imagens/512x512/layout/favicon_7ccb106d035b23f99b6c45bd4e6dd76e.png" group-title="VARIEDADES", Web TV Paracatu - ok .novo.
+#EXTINF:-1 tvg-logo="http://webtvparacatu.com.br/imagens/512x512/layout/favicon_7ccb106d035b23f99b6c45bd4e6dd76e.png" group-title="VARIEDADES", Web TV Paracatu - ok .novo.
 https://cdn.jmvstream.com/w/AVJ-11359/playlist/playlist.m3u8?site-novo
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xPsIeSuhc7c/X5cq3RK6SLI/AAAAAAAADk4/uHJsNtfX24oeXNTBWVRSBcm9XiYJn6DzQCPcBGAYYCw/s0/WEB%2BTV%2BPARACATU.png" group-title="VARIEDADES", Web TV Paracatu - ok .novo. (teste-logo-olhosnatv)

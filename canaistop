@@ -4940,6 +4940,9 @@ https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv-logo-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bj9Vk5S/TV-TAROB.jpg" group-title="VARIEDADES", BAND (PR) TV Tarobá . ok- (chunklist.m3u8)
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?olhosnatv-logojp-teste-00
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YL2B115/TV-Tarob-200x200.png" group-title="VARIEDADES", BAND (PR) TV Tarobá - ok -cxtv- (playlist.m3u8)
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv-logo-jp
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dc44c45a452fc2c1ff9e2c4c118a9865.png" group-title="VARIEDADES", BAND (PR) TV Tarobá - ok -cxtv- (playlist.m3u8)
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8?cxtv
 
@@ -5183,11 +5186,14 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?JP-supertvaovivo-p
 #EXTINF:-1 tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/cine-livre-3-1.jpg" group-title="FILMES/ SERIADOS", TV Nova Play (CINE LIVRE 2) - ok
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8?JP-supertvaovivo-chunklist
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMES/ CLÁSSICOS/ FILMES/ SERIADOS/ TOKUSATSUS", Web TV Xtreme - ok -velho-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7RsWtpXG_3zNjXA904QSQG36-nYFdU-CGmAGtPmH1cy4hkRaw_I0pCfmjztU0OU0NUFn6xQEpsHNAWPKA7SbS63DUfm1mrSVpAvJNl8maGXhBNMLQiBuzS2vSfhz-bzvlVeu17Y-5SRnVav2Dg754HKGYrLleXT3VqOQ7Vl2MKYuyxfRwJdhAm5o/s200/WEB%20TV%20XTREME.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", Web TV Xtreme - ok -velho-
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w675146515.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMES/ CLÁSSICOS/ FILMES/ SERIADOS/ TOKUSATSUS", Web TV Xtreme - ok .novo.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HY3KZKQ/WEB-TV-XTREME.jpg" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", Web TV Xtreme - ok .novo1.
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/chunklist_w1279629961.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWS9VMh/WEB-TV-XTREME1.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", Web TV Xtreme - ok .+novo2.
+https://srv5.zcast.com.br/webtvxtreme/webtvxtreme/chunklist_w569697233.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Channel Network - ok
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
@@ -5364,6 +5370,9 @@ https://livefocamundo.com:8081/tvjsid/index.m3u8
 https://srv1.zcast.com.br/ulbtv/ulbtv/chunklist_w864124211.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bkIyVXLI-CE/YJQQSnIrCBI/AAAAAAAAEo8/Jq71Otdn8-Moc543hw77s7hvS5ss1kMiwCLcBGAsYHQ/s0/BS%2BTV.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", Canal BS TV - Santos-SP - ok
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w88961879.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x3fTDhs/BS-TV-Santos-SP.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", Canal BS TV - Santos-SP - ok
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w88961879.m3u8
 
 
@@ -6452,6 +6461,9 @@ https://livefocamundo.com:8081/tvcontroles/index.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede SPTV web - ok 
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzTr5W1udCEOSw4OcTCifEHQQZikuS4PO9YB7zdCBpul9VsXHInLWW5qTNqt63k86ogmS1mJd-xVF6jssHRMwwIL3dWVyP2KoK9YRqztMfYnLYZ4OrPeUQSx9mreo22PTth71LL1Dgu7xCgtd4qJfPdPvpS-chmHGLfgaRzlihYtw_ZYF1ZnpgnHHR/s200/TV%20TREMEMB%C3%89.png" group-title="VARIEDADES", TV Tremembé - ok .novo.
+https://livefocamundo.com:8081/tvtremembe/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV das Artes - ok--
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8?
 
@@ -6744,7 +6756,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://tvcidade10.com.br/wp-content/uploads/2021/04/tv10logo.png" group-title="VARIEDADES", TV Cidade 10 (tv Brasil) -site-eduplay- olhos na tv -
-https://maestro-prd-nh.eduplay.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDM5Mjg1L2luZGV4Lm0zdTg_eD0xJm09RDV5bURwRzhmVnlVUHppRGIyQll0dw&x=1&p=1&m=Cql2Ry6yVVp7A0M4IuBYeA?
+https://maestro-prd-nh.eduplay.rnp.br/route/channel39285/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDM5Mjg1L2luZGV4Lm0zdTg_eD0xJm09RDV5bURwRzhmVnlVUHppRGIyQll0dw&x=1&p=1&m=Cql2Ry6yVVp7A0M4IuBYeA
 
 #EXTINF:-1 tvg-logo="https://tvcidade10.com.br/wp-content/uploads/2021/04/tv10logo.png" group-title="VARIEDADES", TV Cidade 10 -pesquisa google- (https://580f610d1cc38.streamlock.net/gisnei/gisnei/manifest.m3u8)
 https://580f610d1cc38.streamlock.net/gisnei/gisnei/manifest.m3u8?

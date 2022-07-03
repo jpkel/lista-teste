@@ -4932,10 +4932,10 @@ https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8?olhosnatv
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1990194714.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.png" group-title="VARIEDADES", BAND (Geração) . ok-site-
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?olhosnatv-site-Geração
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?olhosnatv-site-Geração-01
 
 #EXTINF:-1 tvg-logo="https://ngt.com.br/wp-content/uploads/2021/10/BAND.jpg" group-title="VARIEDADES", BAND (Geração) . ok-site-
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?olhosnatv-site-Geração
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?olhosnatv-site-Geração-02
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg" group-title="TV ABERTA/ VARIEDADES", BAND (PA) RBATV . ok -site-1-rbatv-
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8?site-1-rbatv
@@ -5183,14 +5183,29 @@ https://maestro-prd-nh.eduplay.rnp.br/route/channel51214/index.m3u8?s=aHR0cHM6Ly
 
 ===== Página 01 =====
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyyvVh4/Rede-SIM-162-X162.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-redesim-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5Z0Cmp/Rede-SIM-162-X138.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-00-redesim-
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NFf8zV0/Rede-Sim-420x362.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-01-redesim
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NsYWT5V/Rede-Sim-420x420.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-02-redesim
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0813e1ac20da79a8549886e2cda0807f.jpg" group-title="NOTÍCIAS", SIM TV (Record News - ES) - cxtv
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?jp-cxtv
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qC3WnRbjawk/XQq-p4bwJII/AAAAAAAABHY/ZPQTIfZpXScHUQy-BclnBT_2nvSsHn2ugCLcBGAs/s320/Screenshot_2019-06-19-19-57-14.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?jp-olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TTGjsr6/Record-News-ES-256-X128.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_da_Record_News_ES.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?olhosnatv-logo-wikimedia
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?olhosnatvEcxtv-logo-wikimedia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpHqjpN/Record-News-ES-225-X225.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok .site. novo
 https://5cf4a2c2512a2.streamlock.net:443/8016/8016/playlist.m3u8?logo-jp
@@ -5879,20 +5894,44 @@ https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8?sit
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpV2DKboqiuwX9ISKlT3G0_Ae6_OlHuZjVjhnIjE0BfrY7mLVsLUFoau5PFO8sJKEMzA1-aSrZ3wcHQirlCX09ZhtErlBP8pijhk5po22dbq0yEXnCTKR7U3BKxFTNZabFjZNg948q_zl4VptfJDheSnM5jLugC2wuvOjh1yDn10et4WVyHcDE_7n/s200/CANAL%20107%20PASSOS.png" group-title="FILMES/ VARIEDADES", Canal 107 Passos - ok .novo.
 https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok- -igual? não tem mais? -chunklist_w841902513-
-https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok- -igual? não tem mais? -chunklist_w841902513- (olhosnatv)==01==
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8?olhosnatv-conferido-logo-jp
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- -igual? -playlist-480p-
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok- =site= = =
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?site
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM São Mateus (tv Brasil) - ok--
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlisT-480p.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- -igual? -playlist-480p- (olhosnatv)==02==
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?olhosnatv-conferido-logo-jp
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV SIM Colatina (tv Brasil) - ok
-https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8?
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- .cxtv.01
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?cxtv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Sim Cachoeiro (tv Brasil) - ok
-https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist_w1290419355.m3u8?
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- =site= = =
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV SIM São Mateus (tv Brasil) - ok-- (olhosnatv)==03==
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlisT-480p.m3u8?olhosnatv-conferido-logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title="VARIEDADES", TV SIM São Mateus (tv Brasil) - ok-- .cxtv.02
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8?cxtv
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/f279295a63f66b7d5743d438b581ff04.jpg" group-title="VARIEDADES", TV SIM São Mateus (tv Brasil) - ok- =site=
+https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV SIM Colatina (tv Brasil) - ok (olhosnatv)==04==
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8?olhosnatv-conferido-logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/652df97e161ddc78f689cf89457d389b.png" group-title="VARIEDADES", TV SIM Colatina (tv Brasil) - ok .cxtv.03
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8?cxtv
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/652df97e161ddc78f689cf89457d389b.png" group-title="VARIEDADES", TV SIM Colatina (tv Brasil) - ok =site=
+https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV Sim Cachoeiro (tv Brasil) - ok -erro servidor- (olhosnatv)==05==
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist_w1290419355.m3u8?olhosnatv-conferido-logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/652df97e161ddc78f689cf89457d389b.png" group-title="VARIEDADES", TV Sim Cachoeiro (tv Brasil) - ok =site= -erro servidor-
+https://5cf4a2c2512a2.streamlock.net:443/8028/8028/playlist.m3u8?site
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Cidade Livre (Com Brasil) - ok --
 https://tvcidadelivre.com.br/programacao/Transmissao.m3u8?hls_ctx=24w67wui?

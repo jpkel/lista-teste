@@ -16,10 +16,10 @@ https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/playlist.m3u8
 http://tvcentralcast.com.br:1935/oriobranco/oriobranco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/69673434b607b4db5fb14633654a0ced.png" group-title="Futebol/ Notícias", TV Jovem Pan - SP - São Paulo
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?logo-cxtv
 
 #EXTINF:-1 tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" group-title="Futebol/ Notícias", TV Jovem Pan - SP - São Paulo
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/chunklist.m3u8
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?logo-jovempan-site
 
 
 
@@ -159,7 +159,13 @@ https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="Educativos", Rádio Encontro das Águas FM 97.7 - AM - Manaus -logo-site-?
 https://manoweb.ip.tv/iframe/radioencontrodasaguas-p
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx-
+#EXTINF:-1 tvg-logo="https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8" group-title="Filmes/ Seriados", Web Tv Clássicos do Cinema - ok= cx .novo.
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?cxtv-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fnmh6Rp/Amazon-Sat-0x-68x102.png" group-title="Variedades", Amazon Sat - AM - Manaus .site.
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?jp-olhosnatv-novo
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eab8e4fcefd5980ba7e4aaf007da267d.png" group-title="Variedades", Amazon Sat -AM- Manaus -logo-cx- 
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8?jp-olhosnatv-velho
 
 
@@ -287,8 +293,8 @@ https://digilab.cds.ebtcvd.net/live-tvalba/stream/playlist.m3u8?jp-velho
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45b4a6049d3da50aba90492aa57d987b.jpg" group-title="Publicos", Tv Assembléia Bahia (TV ALBA) - BA - Salvador =ok .novo.
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8?jp-cxtv-novo
 
-#EXTINF:-1 tvg-logo="https://www.al.ba.gov.br/images/shared/logo.png" group-title="Publicos", Tv Assembléia Bahia (TV ALBA) - BA - Salvador =ok .novo.logosite.
-https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8?jp-cxtv-novo-logosite
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rt0YtS/TV-ALBA-0xsite-144x59.png" group-title="Publicos", Tv Assembléia Bahia (TV ALBA) - BA - Salvador =ok .novo.logosite.jp.
+https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8?jp-cxtv-novo-logojp
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4336ae3d904a81fd626e9039a5e4a75c.jpg" group-title="Católica/ Cultura", Tv Novo Milênio - BA - Salvador =Só youtube agora=
 https://stmv3.samcast.com.br/jaguaraci8037/jaguaraci8037/playlist.m3u8
@@ -478,7 +484,7 @@ https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8?logo-site
 http://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8?logo-azul
 
 #EXTINF:-1 tvg-logo="http://www.tvjaguar.com.br/images/logo-footer.png" group-title="HD/ Esportes/ Notícias", Tv Jaguar (Limoeiro do Norte) logo-prata -site-
-http://0.0.0.0-logo-prata
+http://0.0.0.0?logo-prata
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_X4Ym2GruIgA_Fd5rdfGzGAVGz_cVz4OFSF7Jqh5Bf0MBllPH7xstqVQyeIOWVrrZ4JK" group-title="Variedades", Tv Iracema - ok= -logo-sitegooglefotos-
 https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
@@ -487,13 +493,13 @@ https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
 https://StmV1.srvstm.com/iracematv/iracematv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a9a8f01189ff6702182975edb02bab0.jpg" group-title="Variedades", Tv Iracema -logo-cx-
-https://0.0.0.0
+https://0.0.0.0?tviracema
 
 #EXTINF:-1 tvg-logo="https://litoraltv.org/wp-content/uploads/2017/01/litoral-3.png" group-title="Variedades", Litoral Tv -Com Brasil- (Fortaleza) - ok= -cxtv-site-logo-site-
 https://596639ebdd89b.streamlock.net:443/8048/8048/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cdc401151b4d1ea25fb507210d09036e.png" group-title="Variedades", Litoral Tv -Com Brasil- (Fortaleza) -logo-cxtv-
-https://0.0.0.0
+https://0.0.0.0?tvlitoral
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d890efe39471e948822ec802af2d769.png" group-title="Variedades", Tv Mais/ COM BRASIL (Fortaleza) - ok=
 https://596639ebdd89b.streamlock.net/8040/8040/playlist.m3u8
@@ -513,8 +519,11 @@ https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51d138657a1f9f28c8ca6610d49209a0.webp" group-title="Variedades", Web Tv Olho D'água - CE - Horizonte - ok= -site-logo-cxtv-
 https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9aa5f47971ce95210c0259adae957ab8.jpg" group-title="Variedades", Tv Ibiapabana IBITV - CE - São Benedito - ok= cxtv .novo.
+https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8?novo
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b624eb8a5f75f1b38618c537114e7172.jpg" group-title="Variedades/ Cultural/ Entretenimento", Tv Ibiapabana (São Benedito) - ok= -cxtv-
-https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
+https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8?velho
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3a52ba9e9fac75423d678ea2f9294f7.jpg" group-title="Variedades", Tv Liberdade (Pacajus) - ok= -logo-cx/link-cxtv-nv-
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
@@ -574,12 +583,12 @@ https://srv1.zcast.com.br/webtvprecabura/webtvprecabura/playlist.m3u8
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lLFev7s4yaY/XLksj0iwoaI/AAAAAAAAB80/YirvP2uAMYwELpKFekaS3V8mK0sMEVBBQCLcBGAs/s1600/TV%2BPRECABURA%2BNOVA%2BROTULO%2Bwebtv.png" group-title="Variedades/ Evangélica", Tv Precabura (Fortaleza) site
-http://0.0.0.0
+http://0.0.0.0?TvPrecabura-site
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5e249472f83e34e44979ae5e82cbe9ed.jpg" group-title="Evangélica/ Filmes/ Documentários", Tv W.M (Fortaleza) - ok=
 https://stmv2.voxtvhd.com.br/tvwm/tvwm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Evangélica", Tv Gospel Ceará - CE - Ibaretama .
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5153c5ebd689778ef83c6727a25f5fa5.jpg" group-title="Evangélica", Tv Gospel Ceará - CE - Ibaretama -site desativado-.top-
 https://stmv1.painelvideo.top/102030/102030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/8fd4d7de84c649d1bf48fde12f600b84.png" group-title="Variedades", TV Uruburetama -cxtv-site- +novo
@@ -592,7 +601,7 @@ https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/assets/img/logo.png" group-title="Variedades",  TV América (Os Trapalhões) - CE - Icapuí -logo-site-/site desativado-.top
-http://0.0.0.0
+http://0.0.0.0?Icapuí-logo-site
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d70379da61c7306ecd734045799ce0a0.webp" group-title="Desenhos/ Filmes/ Evangélica", Tv Recordações Web CE (Uma Emissora RePhyCom) - CE - Fortaleza -cxtv-erro-/site Fora do ar-
 https://srv4.zcast.com.br/tvphyladelphyaweb/tvphyladelphyaweb/playlist.m3u8
@@ -604,7 +613,7 @@ https://stmv.video.expressolider.com.br/tvnovajerusalem/tvnovajerusalem/playlist
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tv.nacionalnews.radionline.top/admin/assets/img/logo.png" group-title="Variedades", Tv Nacional News (Icapuí) -logo-transparente-site-/site desativado-.top
-http://0.0.0.0
+http://0.0.0.0?Tv NacionalNews-logo-transparente
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe874f6723a1bb08e8a561bfffedbb90.webp" group-title="Variedades", Tv Nova Manhã - CE - Icapuí -cx-site-/Fora do ar/site desativado=.top
 https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
@@ -619,13 +628,13 @@ https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 https://livefocamundo.com:8081/8470/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/latinasat/images/q_auto/v1587776840/cropped-LogoLatinaSatLg-1/cropped-LogoLatinaSatLg-1.png" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) logo-site/site-Fora do ar-
-https://0.0.0.1
+https://0.0.0.1?Tv LatinaSatWeb-logo-site
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) -logo-cxtv|cxtv-link-novo/site-Fora do ar-
 https://StmV1.srvstm.com/joaomatheus8496/joaomatheus8496/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0MG1uCJQfSU/X_iMwuP8yBI/AAAAAAAAEGg/6DMx8gw6BzYc6mapeQABIj3ZBOdlvUZkQCLcBGAsYHQ/s0/TV%2BLATINASAT.png" group-title="Filmes/ Desenhos/ HD", Tv Latina Sat Web (Fortaleza) -logo-blogspot/site-Fora do ar-
-https://0.0.0.2
+https://0.0.0.2?TvLatinaSatWeb-logo-blogspot
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/670b916b607af258b7a62dccce8aba95.png" group-title="Variedades", TV Guarany (Pacajus) -erro-cxtv-site--(https-junto)-/site-Fora do ar-
 https://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
@@ -5202,7 +5211,10 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?jp-cxtv
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?jp-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TTGjsr6/Record-News-ES-256-X128.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqTMJ1V/Record-News-ES-256-X107.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado-02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_da_Record_News_ES.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?olhosnatvEcxtv-logo-wikimedia

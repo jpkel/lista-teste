@@ -5057,7 +5057,7 @@ https://cdn.jmvstream.com/w/AVJ-10768/playlist/chunklist.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", Rede TV! Espirito Santo . ok .novo.
 https://serv3.videovox.pw/cyntia8308/cyntia8308/chunklist_w2106161864.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede TV! (RS) TV Pampa . ok-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logotipo_da_TV_Pampa_%282021%29.png/200px-Logotipo_da_TV_Pampa_%282021%29.png" group-title="VARIEDADES", Rede TV! (RS) TV Pampa . ok-
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="VARIEDADES", TV Gazeta SP -listaiptv-
@@ -7309,59 +7309,86 @@ https://596639ebdd89b.streamlock.net/8074/8074/playlist.m3u8?logo-jp
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0aMcxjW20I5RQ95LSk6mR2pu4uCkmPMaevFC7MS2DC679G3WM38BBG5P3GypWGwelNGt3JL7CSgTJZ3qaklcwgpwHbVezWjQ0p9gWA-HK3rBqEndcXAA9NdSCtDp-5ykV9o54T8rdkjXRpoiaV4XWZph431ZyqXiuLG5GMu64oBAeYI8GpRRdu3u/s200/BAH%20TV.png" group-title="VARIEDADES", BAH! TV - ok - (Stream offline)
 https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXKZwtt/BAH-TV-118x118.jpg" group-title="VARIEDADES", BAH! TV - ok - (Stream offline)
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6PczYn/BAH-TV-8x-118x118-transparente.png" group-title="VARIEDADES", BAH! TV - ok - (Stream offline)
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8?logo-jp02
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQRPBL5tp7bu_eCkmjj-HiTocBE66TYO_t8OCVrlcbQ8BsuPAWiPA5bqrqIcD3yafeRZJ9vFGruYzkHz5WYe4Saa6vwH7uTEx3xxSI3WoAGSC9OEvyVt5Eoxdmeiw35b4b9WJvx3kcPjF2bF-cYeJ_6JIAI5FQkOdT0niROkB0pYTmb40O-DrqDOi/s200/DOIS%20RIACHOS%20TV.png" group-title="VARIEDADES", Dois Riachos TV - ok ..novo..
 https://stmv1.srvif.com/souzadavi058/souzadavi058/chunklist_w1743761867.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6B0LZcNwKS0/XP8u-zSFoxI/AAAAAAAABBg/BsnoaBGc1igEB1cI0o8iEcVk4Mehd8eOgCPcBGAYYCw/s320/Screenshot_2019-06-11-01-16-32.png" group-title="VARIEDADES", TVC 16 - ok
 https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w2083294106.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVC 16 - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhBXn4q/TVC-16-140x140.png" group-title="VARIEDADES", TVC 16 - ok
 https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w2083294106.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok ---
-https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/chunklist_w1709098635.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj6xGw6/WSN-TV-DO-CARRO-150x101.jpg" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok ---
+https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/chunklist_w1709098635.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ MÚSICAS", MultiTVA - ok
-https://livefocamundo.com:8081/multitva/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mvZ45QT/MULTITVA-162x54.jpg" group-title="FILMES/ MÚSICAS", MultiTVA - ok
+https://livefocamundo.com:8081/multitva/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wxxxHjS-V2g/X6womlIxi9I/AAAAAAAADyc/juUuWp1ZiksGL5OzlUXZwoYVJ6YzSErKwCLcBGAsYHQ/s0/FMU%2BTV.png" group-title="VARIEDADES", FMU TV - ok .velho.
 https://5a57bda70564a.streamlock.net/tvfmu/tvfmu.sdp/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FMU TV - ok .novo.
-https://stmv1.srvstm.com/fernando5813/fernando5813/chunklist_w1374021967.m3u8?
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1512145843960397833/ADOPIPtx_400x400.jpg" group-title="VARIEDADES", FMU TV - ok .novo.
+https://stmv1.srvstm.com/fernando5813/fernando5813/chunklist_w1374021967.m3u8?logo-site
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Santa Maria - ok - (saiu do site)
-https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrGnyBc/FMU-TV-16x-transparente.png" group-title="VARIEDADES", FMU TV - ok .novo.
+https://stmv1.srvstm.com/fernando5813/fernando5813/chunklist_w1374021967.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Rio Web - ok .velho.
-https://stmv1.srvstm.com/carlosaugusto1279/carlosaugusto1279/chunklist_w1715426089.m3u8?
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/685153637413339140/7lJLV4ay_400x400.jpg" group-title="VARIEDADES", TV Santa Maria - ok - (saiu do site)
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8?logo-site
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Rio Web - ok .novo.
-https://stmv5.samcast.com.br/carlosaugusto4293/carlosaugusto4293/chunklist_w964418352.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHF1F6V/TV-Rio-Web-14x-200x200-transparente.png" group-title="VARIEDADES", TV Rio Web - ok .velho.
+https://stmv1.srvstm.com/carlosaugusto1279/carlosaugusto1279/chunklist_w1715426089.m3u8?logo-jp-cxtv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DS9XM5/TV-Rio-Web-130x130.png" group-title="VARIEDADES", TV Rio Web - ok .novo.
+https://stmv5.samcast.com.br/carlosaugusto4293/carlosaugusto4293/chunklist_w964418352.m3u8?logo-jp-cxtv
 
 
 ===== Página 11 =====
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Sul TV (RS) - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9sVP2b/SUL-TV-200x118.jpg" group-title="VARIEDADES", Sul TV (RS) - ok
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8?
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ofKWc03Obdg/Xk7MqLdHORI/AAAAAAAACgc/1kQBCPVcByc4k88bbVkuSMeBsy5jkWO1ACPcBGAYYCw/s320/2020-02-20%2B14.04.20.png" group-title="VARIEDADES", TV Alvorada Sertaneja - ok
 https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyDdYRd/TV-Alvorada-Sertaneja-188x188.png" group-title="VARIEDADES", TV Alvorada Sertaneja - ok
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nmV3B28/TV-Alvorada-Sertaneja-188x188-transparente.png" group-title="VARIEDADES", TV Alvorada Sertaneja - ok
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8?logo-jp02
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zyE4Po0G5a4/XrbiFFZqM-I/AAAAAAAACu4/WRuYYikNCO4LYgG_qTSogHomtAKDEyV0gCLcBGAsYHQ/s320/2020-05-09%2B13.57.43.png" group-title="VARIEDADES", Rede TVC Brasil (tvc) - ok
 https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6rGsmPr/Rede-TVC-Brasil-155x155.png" group-title="VARIEDADES", Rede TVC Brasil (tvc) - ok
+https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-y63FtGI0y2Y/XXgkMjQKG0I/AAAAAAAABxA/I13uwOmS-mUy81QuOqji6mzEmsRuxTP4gCLcBGAsYHQ/s320/Screenshot_2019-09-10-19-30-05.png" group-title="EVANGÉLICOS", Top Mix TV - ok
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist-480p.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPvs5dS/Top-Mix-TV-0x-transparente-320x188.png" group-title="EVANGÉLICOS", Top Mix TV - ok
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist-480p.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZK10N7X6VqtVA9vEQWswPVqxKPbsWzPpKLHPvh-wuEEKa4yS96wtMUf6oMVm-JtrjBa3DluTHXwlACNWvFjMJZAQMCAUjxrpjt1z4gdwybqKq3JUoceyO_FHnhLBFpcltSkPFRh752OcDugpmOOIv6AgNLEcU8j5jTkYXchLtCzJXKiy4n12scdMb/s200/TV%20CEASA.png" group-title="VARIEDADES", TV Ceasa - ok .novo.
 https://5c483b9d1019c.streamlock.net/8174/8174/chunklist_w1268169323.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FXWQdnm/TV-CEASA-164x65.jpg" group-title="VARIEDADES", TV Ceasa - ok .novo.
+https://5c483b9d1019c.streamlock.net/8174/8174/chunklist_w1268169323.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jkmJMa6L1bQ/XtKKRO6nxlI/AAAAAAAAC4Q/bc0eBBzbgE0jrffkib3kbi_G336e6p1zgCPcBGAYYCw/s320/Screenshot_2020-05-30-13-22-44.png" group-title="CATÓLICOS", TV Vianney - ok
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist-480p.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV Vianney - ok
-https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist-480p.m3u8?logo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQqnQz0/TV-Vianney-124x124.png" group-title="CATÓLICOS", TV Vianney - ok
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist-480p.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Csmt2zL/TV-Vianney-124x124-transparente.png" group-title="CATÓLICOS", TV Vianney - ok
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist-480p.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GlYQ98RuE1E/YDUvcgfPSVI/AAAAAAAAEVw/fqY3oJaIW8cWKF5g06j2FCr8UouYvq-YwCLcBGAsYHQ/s0/MKK%2BWEB%2BTV.png" group-title="VARIEDADES", MKK Web TV - ok
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?
@@ -7369,26 +7396,41 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ozjqSdXWCyY/X9obHdLQiEI/AAAAAAAAD_U/HcvEO9dPCQAZJxT9w5XMupNltH13tnGNQCLcBGAsYHQ/s0/TV%2BCAMPO%2BGRANDE%2BRJ.png" group-title="VARIEDADES", TV Campo Grande RJ - ok
 https://livefocamundo.com:8081/tvcampogranderj/index.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3SbYsjn/TV-CAMPO-GRANDE-RJ-320x188-transparente.png" group-title="VARIEDADES", TV Campo Grande RJ - ok
+https://livefocamundo.com:8081/tvcampogranderj/index.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJXQ6kz/TV-CAMPO-GRANDE-RJ-166x166.png" group-title="VARIEDADES", TV Campo Grande RJ - ok
+https://livefocamundo.com:8081/tvcampogranderj/index.m3u8?logo-jp02
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AdUxad0TyUM/Xqcy-4bVspI/AAAAAAAACpw/dlGVk3gJe4Ek1oYXlYZDS9pQUHZgb0j1wCPcBGAYYCw/s320/Screenshot_2020-04-27-16-27-54.png" group-title="VARIEDADES", TV Penaforte - ok -carregando-
 http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_w2442177990.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Penaforte - ok -carregando-
-http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_w2442177990.m3u8?logo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBSKW7p/TV-Penaforte-135x135.png" group-title="VARIEDADES", TV Penaforte - ok -carregando-
+http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_w2442177990.m3u8?logo-jp01
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Lagoa TV - ok
-https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w1041128837.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6Hdkjq/TV-Penaforte-14x-135x135-transparente.png" group-title="VARIEDADES", TV Penaforte - ok -carregando-
+http://wse01.logicahost.com.br:1935/tvpenaforte/_definst_/tvpenaforte/chunklist_w2442177990.m3u8?logo-jp02
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Polidoro TV (alxtv) - ok .velho. -erro servidor- (saiu do site)
-https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w457420153.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JksQ4jy/LAGOA-TV-200x118.jpg" group-title="VARIEDADES", Lagoa TV - ok
+https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w1041128837.m3u8?logo-jp01
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Polidoro TV (TV Evangelizar) - ok .novo.
-https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w883275269.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/41F85g2/LAGOA-TV-168x46.jpg" group-title="VARIEDADES", Lagoa TV - ok
+https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w1041128837.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfq7HVP/POLIDORO-TV-200x118.jpg" group-title="VARIEDADES", Polidoro TV (alxtv) - ok .velho. -erro servidor- (saiu do site)
+https://srv6.zcast.com.br/alxtv/alxtv/chunklist_w457420153.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTSV1Xq/POLIDORO-TV-164x34.jpg" group-title="VARIEDADES", Polidoro TV (TV Evangelizar) - ok .novo.
+https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w883275269.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvTP0IFQ1eDbyqSWuS4kcey052CwqJeYyMhtRLEgun0St1WC1M84TM78hWqCROAqJJXvipOVjVRdVNsRKSxeGpbsWZA2062A2FteoUTwa4gnQYt8zjCPGGenRuurQ3BONg9EkQ6GudjQDYxIZpaz9R2p5OO6MFJonvIWAjNnIbCB79VcZzSHf86u11/s200/TV%20ADORADOR%20GOSPEL.png" group-title="EVANGÉLICOS", TV Adorador Gospel - ok .novo.
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w1178270208.m3u8?
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QnTmlaBr0ys/XVip-aPys0I/AAAAAAAABhU/BAFkfURLO08DVSoqEzmwyvyvAfKE8f9nwCPcBGAYYCw/s320/Screenshot_2019-08-17-21-57-49.png" group-title="VARIEDADES", TV Zoom - ok
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QF7KJr5/TV-Zoom-188x188.png" group-title="VARIEDADES", TV Zoom - ok
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3bYXX-SctbQ/XWnphn57waI/AAAAAAAABp0/7Vg7rWRcWs49ef1QKWttNWN8MwXVnR-FgCLcBGAs/s320/Screenshot_2019-08-31-00-27-44.png" group-title="VARIEDADES", TV Clic Brasil (tv Brasil) - ok .velho. logo-olhosnatv-
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on?
@@ -7405,8 +7447,14 @@ https://cdn-viatv-11309.ciclano.io:1443/viatv-11309/viatv-11309/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BHy9dXy0fDg/X26MoVNknXI/AAAAAAAADV4/a3w6dgnhLUw3gU_li2VXraOzjPTyHvemgCLcBGAsYHQ/s0/TV%2BESPA%25C3%2587O%2BESPIRITA.png" group-title="ESPIRITAS", TV Espaço Espírita - ok
 https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnbFyLM/TV-ESPA-O-ESPIRITA-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok
+https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8xKjKW43PY0/XukeUjh8ncI/AAAAAAAADBc/6B1uy7Q8tTAYmy8Gi-md4HhDZhgiDXNsACPcBGAYYCw/s320/Screenshot_2020-06-16-15-55-58.png" group-title="MÚSICAS", TV Rádio Litoral 94.5 Região dos Lagos - ok
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk1f3Pd/TV-Radio-Litoral-94-5-215x80.png" group-title="MÚSICAS", TV Rádio Litoral 94.5 Região dos Lagos - ok
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Nar5ZPxK-t8/XVip2yMkB7I/AAAAAAAABhM/7tuOFHGDVzczv4dj_L9vBw6VU7VLHhgUgCPcBGAYYCw/s320/Screenshot_2019-08-17-22-17-39.png" group-title="VARIEDADES", TV Verdes Campos Sat - ok -erro servidor-
 https://caikron.com.br:8082/antv/antv/playlist.m3u8?
@@ -7420,7 +7468,7 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/s320/Screenshot_2020-08-11-22-52-42.png" group-title="MÚSICAS", Tierra Mia TV - ok
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_sleng.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Tierra Mia TV - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nm6z2Nh/Tierra-Mia-TV-130x130.png" group-title="MÚSICAS", Tierra Mia TV - ok
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_sleng.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LXC_fKRQvKk/XpuKNIz863I/AAAAAAAACoE/tOvumPlmGK8P7CFnfral-lEkKl5wiNH-gCLcBGAsYHQ/s320/Screenshot_2020-04-18-20-11-46.png" group-title="VARIEDADES", TVi (BA) -YouTube-nãofunciona- teste-1
@@ -7432,14 +7480,17 @@ https://www.youtube.com/embed/live_stream?channel=UC5E9dczJORMi_IQHZruJi1g?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tb3CyyTp2rE/XXGoFnwdL7I/AAAAAAAABuk/7fwQ7rREM-kVmpiVr_Zy5RolCAjgCe0NgCLcBGAs/s320/Screenshot_2019-09-05-20-13-25.png" group-title="VARIEDADES", TV Onix - ok
 https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist-480p.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWmDdyz/TV-Onix-243x45.png" group-title="VARIEDADES", TV Onix - ok
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist-480p.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hUt6FM8utT8/XXGo77mENyI/AAAAAAAABuw/g_Y8cUQWuSA6ePTV9DUlpMXNqABUQEsQQCPcBGAYYCw/s320/Screenshot_2019-09-05-20-28-54.png" group-title="VARIEDADES", TV RP - Ribeirão Preto - ok
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w967863438_DVR.m3u8?
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--PzkmKoVGK4/Xqc4-lZEtXI/AAAAAAAACqM/5i5SrEFLdpsYQaE2uzB8lo-jqmlMB0qggCPcBGAYYCw/s320/Screenshot_2020-04-27-16-53-14.png" group-title="VARIEDADES", Mais TV -não pega-site mano-
 https://0.0.0.72
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Mais TV -não pega-site mano-
-https://0.0.0.72?logo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYXnTYy/MAIS-TV-220x64.png" group-title="VARIEDADES", Mais TV -não pega-site mano- (alanza.iptv2022)
+https://alanza.iptv2022.com/Mais_TV/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", UNITV - TV Universidade de Porto Alegre -fora do ar-não funciona-site suspeito!-(https://)-site-
 https://unitvaovivo.ufrgs.br:8080/live.ogg?
@@ -7451,8 +7502,11 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg?
 https://596639ebdd89b.streamlock.net/tvguarulhos/tvguarulhos/chunklist.m3u8?
 
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Com Brasília (Com Brasil) - ok ===
+#EXTINF:-1 tvg-logo="https://www.tvcomunitariadf.com/wp-content/uploads/2020/02/TVCOMDF-logo.png" group-title="VARIEDADES", TV Com Brasília (Com Brasil) - ok ===
 https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008_all/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.tvcomunitariadf.com/wp-content/uploads/2020/02/TVCOMDF-logo.png" group-title="VARIEDADES", TV Com Brasília (Com Brasil) - ok .site. ===
+https://5b7f3c45ab7c2.streamlock.net:443/8008/ngrp:8008/playlist.m3u8?DVR?
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBtkYjrhDwGryrtECADeExW-gN3ANB3g39ZK0EcQHtN6_cawtyVsvtK0fpgct2LOPPvVQQAyVoX5dtvO7Wo_U5HoblLsboNjlFpqiUy76ljbS362jHdeK7O6EmJKpc6UcjegOhmPxJcKLvYlGvBrS3bOt_IloswynrgIkYjYFYGyCUjFThSoGVG8N/s200/TV%20CHAPADA.png" group-title="VARIEDADES", TV Chapada - ok .novo.
@@ -7463,6 +7517,9 @@ https://streaming03.zas.media:1936/panorama/panorama/chunklist_w1490652169.m3u8?
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fdef159ca515cdbb49a11c84b94ebcf.jpg" group-title="VARIEDADES", TVC Panorama (Cultura SC) - ok -erro servidor- (cxtv-site) logo-cxtv
 https://streaming03.zas.media:1936/panorama/panorama/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmz5VnP/TVC-PANORAMA-162x88.jpg" group-title="VARIEDADES", TVC Panorama (Cultura SC) - ok -erro servidor- (cxtv-site) logo-cxtv
+https://streaming03.zas.media:1936/panorama/panorama/playlist.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-lgERAUsmhTQ/XPyW2rdlnQI/AAAAAAAAA_I/fSt3rqbnV6YcKICJxZJIhlwKR9yG_x5HgCLcBGAs/s320/Screenshot_2019-06-09-02-16-39.png" group-title="VARIEDADES", TV COM Santos (Com Brasil) - ok
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist_w912781722.m3u8?
@@ -7488,8 +7545,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/play
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-cIrJspTAHQ8/Xg6VYZDuvBI/AAAAAAAACVk/v6ojsYZomzALiUm4-oPJ6W-oushgMQhTACLcBGAsYHQ/s320/Screenshot_2020-01-02-22-09-57.png" group-title="VARIEDADES", Foz TV -erro servidor-carregando- -velho-
 https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8?
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-cIrJspTAHQ8/Xg6VYZDuvBI/AAAAAAAACVk/v6ojsYZomzALiUm4-oPJ6W-oushgMQhTACLcBGAsYHQ/s320/Screenshot_2020-01-02-22-09-57.png" group-title="VARIEDADES", Foz TV - ok -novo-
-https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo_high/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rjYqk4/FOZ-TV-7x-155x155-transparente.png" group-title="VARIEDADES", Foz TV - ok -novo-
+https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo_high/index.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R7TpXK9/FOZ-TV-155x155.png" group-title="VARIEDADES", Foz TV - ok -novo-
+https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo_high/index.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UFUiwjLuaX0/XYKwK-9u9LI/AAAAAAAAB70/vHBNV6KSCPsr1Kij0ctf3-_rA0-9koT8QCLcBGAsYHQ/s320/Screenshot_2019-09-18-18-56-50.png" group-title="VARIEDADES", TV BNO - ok
 https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8?
@@ -7629,11 +7689,23 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w1972476221.m3u8?
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DPCKdzWQqDw/XU5KkPXtNBI/AAAAAAAABa4/l0uoUyfZv8kJ-jBSAsNYKaIe0XoZZW-wgCLcBGAs/s320/Screenshot_2019-08-10-01-33-09.png" group-title="VARIEDADES", TV Mais Maricá (Com Brasil) - ok
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5sqwNd/TV-Mais-Marica-320x188-transparente.png" group-title="VARIEDADES", TV Mais Maricá (Com Brasil) - ok
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbTJqGQ/TV-Mais-Marica-200x188-transparente.png" group-title="VARIEDADES", TV Mais Maricá (Com Brasil) - ok
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7Xbvqz/TV-Mais-Marica-200x188.png" group-title="VARIEDADES", TV Mais Maricá (Com Brasil) - ok
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?logo-jp03
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wDj4rtsDTlM/XYUvKma9REI/AAAAAAAAB-0/WiW6dixuEk4SZdMqsbrIucgKSdNCRcZSgCLcBGAsYHQ/s320/Screenshot_2019-09-20-16-56-16.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok
 https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede Litoral News - ok
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-19oCnp9PWLM/XPqlze377rI/AAAAAAAAA-g/RhQRFoTCW7Qr0ISMdMrzfke5kDA37a6GACPcBGAYYCw/s320/Screenshot_2019-06-07-13-40-03.png" group-title="VARIEDADES", Rede Litoral News - ok
 https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Rede Litoral News - ok
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cy9RAmDFFsM/YHHOaly3fNI/AAAAAAAAEhY/__zJnkia6aUGAnn0hZN_arXkZ5CwufoQQCLcBGAsYHQ/s0/NOVA%2BTV%2BAGROTOUR.png" group-title="AGRONEGÓCIOS", Nova TV Agrotour - ok .olhosnatv.
 https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w612440962.m3u8?
@@ -7641,17 +7713,20 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w612440962.m3u8?
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/f82ee45edb65723754fe32dff6417c30.jpg" group-title="AGRONEGÓCIOS", Nova TV Agrotour - ok .cxtv.
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", NTV (Rede Minas) - ok
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mqEJjGGjNjk/YHyHu4jT2AI/AAAAAAAAEjg/7c90WhQ2rREVHYZ0nnTsOWBjP4Gg8hA_gCLcBGAsYHQ/s0/NTV.png" group-title="VARIEDADES", NTV (Rede Minas) - ok
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RG TV - ok -velho- (stmv3.samcast)
-https://stmv3.samcast.com.br/italo8170/italo8170/chunklist_w816911448.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZ3YYyd/RG-TV-200x118.jpg" group-title="VARIEDADES", RG TV - ok -velho- (stmv3.samcast)
+https://stmv3.samcast.com.br/italo8170/italo8170/chunklist_w816911448.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RG TV - ok -novo- (stmv2.samcast)
-https://stmv2.samcast.com.br/italo8170/italo8170/chunklist_w373081954.m3u8?
+https://stmv2.samcast.com.br/italo8170/italo8170/chunklist_w373081954.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yebcQWT7LBo/XQA97gId63I/AAAAAAAABCE/icMOt1pS5_crVL5WGiJ-CP-v1g3GjfmXACLcBGAs/s320/Screenshot_2019-06-11-20-45-41.png" group-title="VARIEDADES", Terê TV - ok --
+https://5b7f3c45ab7c2.streamlock.net/8158/8158/chunklist_w1658346891.m3u8?
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Terê TV - ok --
-https://5b7f3c45ab7c2.streamlock.net/8158/8158/chunklist_w1658346891.m3u8?
+https://5b7f3c45ab7c2.streamlock.net/8158/8158/chunklist_w1658346891.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6VbqZC2UKwTcZRMyFm1gTL9ZWnVWZ35Ec4zKFQ7A2cp228WB2Mo4pMivY1NTUlMI05L2PIreZdQqUAap12n6PcCoEBqDsYQGNWHuCIw_2F0AA4ixscQlpuRJJI5Dmiw7RVeosfDcRchf9wEKzYvsTcOeBSEc8tb7Uu819vFH1JDN0BBRJ_WCEuAd1/s200/KURIAKOS%20KIDS.png" group-title="VARIEDADES", Kuriakos Kids - ok --
 http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8?JP

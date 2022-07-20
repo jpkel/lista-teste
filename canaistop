@@ -4895,8 +4895,11 @@ http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w55470983.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/737138161e02090fb61d4e60ec069464.png" group-title="VARIEDADES", SIC TV RO - ok -novo- (playlist)
 https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8?olhosnatv-logo-cxtv
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", SBT Interior (SP) . ok -não transmitindo
-https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/playlist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H7sK0kh/SBT-Interior-12x-D-300-X300.png" group-title="TV ABERTA/ VARIEDADES", SBT Interior (SP) . ok -não transmitindo
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/playlist.m3u8?olhosnatv-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6gW0sxS/SBT-Interior-12x-D-200x200.png" group-title="TV ABERTA/ VARIEDADES", SBT Interior (SP) . ok -não transmitindo
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/playlist.m3u8?olhosnatv-logo-jp02
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/5d386500ebc7f1be9d49188de6f44fa5.png" group-title="TV ABERTA/ VARIEDADES", SBT Interior - SP - São José do Rio Preto -cxtv-
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?jp-cxtv
@@ -7892,6 +7895,9 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J-l84qrqlO8/YQbWd9zP46I/AAAAAAAAFC8/Iej9KIAd5ss-l2TxyP4AS_Tsom8iaU9_QCLcBGAsYHQ/s0/LOCOMOTION%2BTV.png" group-title="ANIMES/ DESENHOS", Locomotion TV - ok - (saiu do site)
 http://51.222.85.85:81/hls/loco/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVt74xp/LOCOMOTION-TV-260x66.png" group-title="ANIMES/ DESENHOS", Locomotion TV - ok - (saiu do site)
+http://51.222.85.85:81/hls/loco/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IBDiSmfkhig/YPLuoWqo-UI/AAAAAAAAE_8/WjteVc3BP04ZY5CmTvoNt-Z-YlBsSXZDQCLcBGAsYHQ/s0/TV%2BS%25C3%2583O%2BJOS%25C3%2589.png" group-title="SERIADOS/ VARIEDADES", TV São José - ok -
 http://177.74.174.57:8080/hls/tvsj.m3u8?

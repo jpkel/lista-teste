@@ -5042,11 +5042,29 @@ https://video01.kshost.com.br/adauton7191/adauton7191/chunklist_w733001414.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5rj9B1/TVG-TV-VARZEA-GRANDE-30x-transparente-166x82.png" group-title="VARIEDADES", TVG - TV Várzea Grande (MT) Rede Brasil - ok .novo. logo-jp02
 https://video01.kshost.com.br/adauton7191/adauton7191/chunklist_w733001414.m3u8?logo-jp02
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Logotipo_da_TV_V%C3%A1rzea_Grande.png" group-title="VARIEDADES", TVG - TV Várzea Grande (MT) Rede Brasil - ok .novo. logo-jp02
+https://video01.kshost.com.br/adauton7191/adauton7191/chunklist_w733001414.m3u8?logo-jp03
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e70c975e99231b8099ca4746ee95def4.jpg" group-title="VARIEDADES", TV Ecovale TVG (MT) Rede Brasil - ok .novo.
 https://livefocamundo.com:8081/tvecovale/tracks-v1a1/mono.m3u8?
 
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/158215/mobileicon/cea089f0970edd9d88f6fcf8581af7cf.png" group-title="VARIEDADES", TV Ecovale TVG (MT) Rede Brasil - ok - site .novo.
+https://livefocamundo.com:8081/tvecovale/index.m3u8?site-logo-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkw4YyC/TV-Ecovale-TVG-300-X220.png" group-title="VARIEDADES", TV Ecovale TVG (MT) Rede Brasil - ok - site .novo.
+https://livefocamundo.com:8081/tvecovale/index.m3u8?site-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFyz4FS/TV-Ecovale-TVG-24x-M-300-X220.png" group-title="VARIEDADES", TV Ecovale TVG (MT) Rede Brasil - ok - site .novo.
+https://livefocamundo.com:8081/tvecovale/index.m3u8?site-logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kyhc2Dg/TV-Ecovale-TVG-24x-D-300-X220.png" group-title="VARIEDADES", TV Ecovale TVG (MT) Rede Brasil - ok - site .novo.
+https://livefocamundo.com:8081/tvecovale/index.m3u8?site-logo-jp03
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/c1d1eb3bc05b457cfcf7a88d4fb23497.jpg" group-title="VARIEDADES", TV Brasil Oeste (MT) RBTV - ok
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png" group-title="VARIEDADES", TV Brasil Oeste (MT) RBTV - ok
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8?logo-wikimedia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LPnLPDc/TV-BRASIL-OESTE-164-X92.jpg" group-title="VARIEDADES", TV Brasil Oeste (MT) RBTV - ok
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8?logo-jp
@@ -5062,6 +5080,18 @@ https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fkNhZ2S/Rede-TV-Belem-10x-D-433x376.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vX85n56/Rede-TV-Belem-430-X270.jpg" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp03
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/styvT6y/Rede-TV-Belem-25x-D-430-X270.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp04
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmjt0GD/Rede-TV-Belem-300-X180.jpg" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp05
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fmy2wKp/Rede-TV-Belem-14x-D-300-X180.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp06
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="VARIEDADES", Rede TV! (PI) TV O Dia
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8?olhosnatv-logo-wikimedia
@@ -5088,7 +5118,10 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u
 https://cdn.jmvstream.com/w/AVJ-10768/playlist/chunklist.m3u8?olhosnatv-logo-mesadenegocios
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VM9Z8FJ/Rede-TV-ES-12x-M-500x500.png" group-title="TV ABERTA/ VARIEDADES", Rede TV! Espirito Santo . ok .novo.
-https://serv3.videovox.pw/cyntia8308/cyntia8308/chunklist_w2106161864.m3u8?olhosnatv-logo-jp
+https://serv3.videovox.pw/cyntia8308/cyntia8308/chunklist_w2106161864.m3u8?olhosnatv-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mDmStjN/Rede-TV-ES-16x-D-400-X400.png" group-title="TV ABERTA/ VARIEDADES", Rede TV! Espirito Santo . ok .novo.
+https://serv3.videovox.pw/cyntia8308/cyntia8308/chunklist_w2106161864.m3u8?olhosnatv-logo-jp02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logotipo_da_TV_Pampa_%282021%29.png/200px-Logotipo_da_TV_Pampa_%282021%29.png" group-title="VARIEDADES", Rede TV! (RS) TV Pampa . ok-
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8?olhosnatv
@@ -5096,14 +5129,14 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="VARIEDADES", TV Gazeta SP -listaiptv-
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8?listaiptv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Gazeta (SP) TVC Araçatuba . ok-
-https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://tvc21.com.br/wp-content/uploads/2022/05/LOGO-SITE-TVC.png" group-title="VARIEDADES", TV Gazeta (SP) TVC Araçatuba . ok-
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8?olhosnatv-logo-site
 
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA/ VARIEDADES", TV Gazeta (MA) TV Alternativa . ok-
-https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/logo_face-7296-20211201141241.png" group-title="TV ABERTA/ VARIEDADES", TV Gazeta (MA) TV Alternativa . ok-
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8?olhosnatv-logo-site
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV Gazeta (PA) TV Grão Pará . ok-
-https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6DJTQL/TV-Grao-Para-TV-Gazeta-225x225.png" group-title="VARIEDADES", TV Gazeta (PA) TV Grão Pará . ok-
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8?olhosnatv-logo-jp
 
 #EXTINF:-1 tvg-logo="" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (PA) Portal Cultura - ok -site-
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?site

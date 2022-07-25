@@ -5081,17 +5081,20 @@ https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fkNhZ2S/Rede-TV-Belem-10x-D-433x376.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp02
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vX85n56/Rede-TV-Belem-430-X270.jpg" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmkrTPG/Rede-TV-Belem-10x-M-433x376.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp03
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/styvT6y/Rede-TV-Belem-25x-D-430-X270.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vX85n56/Rede-TV-Belem-430-X270.jpg" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp04
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmjt0GD/Rede-TV-Belem-300-X180.jpg" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/styvT6y/Rede-TV-Belem-25x-D-430-X270.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp05
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fmy2wKp/Rede-TV-Belem-14x-D-300-X180.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmjt0GD/Rede-TV-Belem-300-X180.jpg" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp06
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fmy2wKp/Rede-TV-Belem-14x-D-300-X180.png" group-title="VARIEDADES", Rede TV! (PA) Belém - ok -novo-
+https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp07
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="VARIEDADES", Rede TV! (PI) TV O Dia
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8?olhosnatv-logo-wikimedia
@@ -5136,7 +5139,13 @@ https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1348135130.m3u8?olhosnatv-logo-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6DJTQL/TV-Grao-Para-TV-Gazeta-225x225.png" group-title="VARIEDADES", TV Gazeta (PA) TV Grão Pará . ok-
-https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8?olhosnatv-logo-jp
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8?olhosnatv-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLGmw9t/TV-Grao-Para-TV-Gazeta-20x-D-225x225.png" group-title="VARIEDADES", TV Gazeta (PA) TV Grão Pará . ok-
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8?olhosnatv-logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpNX6Yb/TV-Grao-Para-TV-Gazeta-14x-D-225x225.png" group-title="VARIEDADES", TV Gazeta (PA) TV Grão Pará . ok-
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8?olhosnatv-logo-jp03
 
 #EXTINF:-1 tvg-logo="" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (PA) Portal Cultura - ok -site-
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?site
@@ -6790,6 +6799,9 @@ https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/chunklist_w1477617991.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hfFtmpM/GOSPEL-LIVE-200x118.jpg" group-title="EVANGÉLICOS", Gospel Live - ok-
 https://stmv1.srvif.com/ronaldosantos/ronaldosantos/chunklist_w671031625.m3u8?logo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/31Sr7J2/GOSPEL-LIVE-118x118.jpg" group-title="EVANGÉLICOS", Gospel Live - ok-
+https://stmv1.srvif.com/ronaldosantos/ronaldosantos/chunklist_w671031625.m3u8?logo-jp00
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HrpfQgj/GOSPEL-LIVE-3x-marcado-200x118.png" group-title="EVANGÉLICOS", Gospel Live - ok- =marcado=
 https://stmv1.srvif.com/ronaldosantos/ronaldosantos/chunklist_w671031625.m3u8?logo-jp01
 
@@ -7144,6 +7156,12 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rroSW4xcMsg/XVSpum0XKZI/AAAAAAAABeQ/xRyVf3O0cK0toDy7AvHr4krrGdzc7wi5wCLcBGAs/s320/Screenshot_2019-08-14-21-20-40.png" group-title="VARIEDADES", TV Web Paraná - ok
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNQZy6H/TV-Web-Parana-180x141.png" group-title="VARIEDADES", TV Web Paraná - ok
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynHYdZd/TV-Web-Parana-8x-M-180x141.png" group-title="VARIEDADES", TV Web Paraná - ok
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist.m3u8?logo-jp02
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzWv4Vk/TV-ESPERAN-A-200x118.jpg" group-title="EVANGÉLICOS", TV Esperança (Igreja Monte Horebe) - ok
 https://stmv1.voxtvhd.com.br/radioesperanca/radioesperanca/chunklist_w1432707539.m3u8?logo-jp
 
@@ -7152,6 +7170,9 @@ https://0.0.0.0?TVNordestina
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwWhN2n/TV-Nordestina-231x131.png" group-title="VARIEDADES", TV Nordestina - ok -alanza- (logojp-231x131)
 https://alanza.iptv2022.com/tv_nordestina/index.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6D3vfh/TV-Nordestina-11x-M-231x131.png" group-title="VARIEDADES", TV Nordestina - ok -alanza- (logojp-231x131)
+https://alanza.iptv2022.com/tv_nordestina/index.m3u8?logo-jp00
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-acTEjly241c/XvVIjoi0CyI/AAAAAAAADDo/DA3TefY62coABul27BULKNb-KyP7PK3qQCPcBGAYYCw/s320/Screenshot_2020-06-25-21-51-36.png" group-title="VARIEDADES", TV Capital - Fortaleza-CE - ok
 https://stmv1.srvif.com/rbc/rbc/chunklist_w2068474721.m3u8?
@@ -7877,6 +7898,9 @@ https://cdn.jmvstream.com/w/AVJ-9099/playlist/playlist.m3u8?logo-jp-260x67
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gtX32KV/Canal-38-News-225x225.png" group-title="VARIEDADES", Canal 38 News - ok -erro servidor- (saiu do site)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMh8yYZ/Canal-38-News-33x-D-225x225.png" group-title="VARIEDADES", Canal 38 News - ok -erro servidor- (saiu do site)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/--5rA9XRBPpg/XWngLS2MRQI/AAAAAAAABpM/dDJeRW1G5Lknl0IYMrCAyv9esofO3wjagCLcBGAs/s320/Screenshot_2019-08-30-23-47-40.png" group-title="VARIEDADES", Canal 25 Jundiaí - ok--
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?
@@ -8944,4 +8968,5 @@ https://alanza.iptv2022.com/REDE_H/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14540/thumb_Amazing_TV_New.jpeg" group-title="TV AO VIVO", Amazing TV
 https://alanza.iptv2022.com/Amazing_TV/index.m3u8
+
 

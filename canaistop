@@ -5306,16 +5306,34 @@ https://maestro-prd-nh.eduplay.rnp.br/route/channel51214/index.m3u8?s=aHR0cHM6Ly
 
 ===== Página 01 =====
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KyyvVh4/Rede-SIM-162-X162.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qCWKhg/Record-News-34x-D-200x200.png" group-title="NOTÍCIAS/ TV ABERTA", Record News - Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld5L0ty/Record-News-37x-D-200x200.png" group-title="NOTÍCIAS/ TV ABERTA", Record News - sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyyvVh4/Rede-SIM-162-X162.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 162-X162
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-redesim-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5Z0Cmp/Rede-SIM-162-X138.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxzbTKs/Record-News-ES-TV-Sim-12x-M-162-X162.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 162-X162
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-redesim-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J5Rp1rJ/Record-News-ES-TV-Sim-18x-D-162-X162.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 162-X162
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-redesim-02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pcmj4VX/Record-News-ES-TV-Sim-18x-M-162-X162.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 162-X162
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-redesim-03
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="NOTÍCIAS/ TV ABERTA", Record News - Rede Sim | Espírito Santo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5Z0Cmp/Rede-SIM-162-X138.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 162-X138
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-00-redesim-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NFf8zV0/Rede-Sim-420x362.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFf8zV0/Rede-Sim-420x362.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 420x362
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-01-redesim
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NsYWT5V/Rede-Sim-420x420.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NsYWT5V/Rede-Sim-420x420.jpg" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 420x420
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?logo-jp-02-redesim
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0813e1ac20da79a8549886e2cda0807f.jpg" group-title="NOTÍCIAS", SIM TV (Record News - ES) - cxtv
@@ -5324,26 +5342,32 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?jp-cxtv
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qC3WnRbjawk/XQq-p4bwJII/AAAAAAAABHY/ZPQTIfZpXScHUQy-BclnBT_2nvSsHn2ugCLcBGAs/s320/Screenshot_2019-06-19-19-57-14.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?jp-olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TTGjsr6/Record-News-ES-256-X128.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TTGjsr6/Record-News-ES-256-X128.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 256-X128
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqTMJ1V/Record-News-ES-256-X107.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqTMJ1V/Record-News-ES-256-X107.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 256-X107
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado-02
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WK8cm5d/Record-News-ES-256-X107.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WK8cm5d/Record-News-ES-256-X107.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok- 256-X107
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?LOGO-jp-criado-03
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_da_Record_News_ES.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok-
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?olhosnatvEcxtv-logo-wikimedia
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dpHqjpN/Record-News-ES-225-X225.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok .site. novo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpHqjpN/Record-News-ES-225-X225.png" group-title="NOTÍCIAS/ TV ABERTA", Record News (ES) TV Sim - ok .site. novo - 225-X225
 https://5cf4a2c2512a2.streamlock.net:443/8016/8016/playlist.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3c5ZX9s/JP-NEWS-162x44.jpg" group-title="NOTÍCIAS/ TV ABERTA", Jovem Pan News - ok .site.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3c5ZX9s/JP-NEWS-162x44.jpg" group-title="NOTÍCIAS/ TV ABERTA", Jovem Pan News - ok .site. 162x44
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?jp-logo01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mGPMHmZ/JP-NEWS-9x-200x118.png" group-title="NOTÍCIAS/ TV ABERTA", Jovem Pan News - ok .site.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGPMHmZ/JP-NEWS-9x-200x118.png" group-title="NOTÍCIAS/ TV ABERTA", Jovem Pan News - ok .site. =9x-200x118=
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?jp-logo02
+
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="NOTÍCIAS/ TV ABERTA",CNN Brasil
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTÍCIAS/ TV ABERTA", Euronews em português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-296geWpSd2I/YTZV_MZNUOI/AAAAAAAAFak/JX7UNn9aEFwxuIKsU55N3RWI1Vg1t8HDACLcBGAsYHQ/s200/CANAL%2B29.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", Canal 29 - ok -velho-
 https://video01.logicahost.com.br/canal29/canal29/chunklist_w605695588.m3u8
@@ -6281,6 +6305,9 @@ https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8?logo-cxtv-tes
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9m9GkYoaxog/YUihHzd1IDI/AAAAAAAAFl8/KTx1g8zG2g0w8nbrVIdY-rIeSyO15yKCQCLcBGAsYHQ/s200/AMAZON%2BSAT.png" group-title="VARIEDADES", Amazon Sat - ok -novo-
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5pyT8k/Amazon-Sat-cx-33x-D-120x120.png" group-title="VARIEDADES", Amazon Sat - ok -novo- =-cx-33x-D-120x120=
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://lut.im/3pzwDPiAa2/b5lFOJ5g19hvjTDG.png" group-title="VARIEDADES", Amazon Sat - ok -novo-
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?logo-outra-pessoa
@@ -8315,6 +8342,12 @@ https://alanza.iptv2022.com/Fandom_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
 https://alanza.iptv2022.com/TV_Brusque/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hq4Cx2c/TV-BRUSQUE-0x-D-256x255.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
+https://alanza.iptv2022.com/TV_Brusque/index.m3u8/logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zR1qb09/TV-BRUSQUE-0x-M-256x255.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
+https://alanza.iptv2022.com/TV_Brusque/index.m3u8/logo-jp02
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="TV AO VIVO", BR Super TV (Rede Brasil)
 https://alanza.iptv2022.com/RSCTV_Brasil/index.m3u8
 
@@ -8329,6 +8362,9 @@ https://alanza.iptv2022.com/TV_Aracati/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13798/thumb_CANAL_29.png" group-title="TV AO VIVO", CANAL 29 .
 https://alanza.iptv2022.com/CANAL_29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJT733w/CANAL-29-8x-D-256x256.png" group-title="TV AO VIVO", CANAL 29 .
+https://alanza.iptv2022.com/CANAL_29/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11775/thumb_TV_Portal_HD.jpeg" group-title="TV AO VIVO", TV Portal 'Ativo HD
 https://alanza.iptv2022.com/TV_PortalHD/index.m3u8
@@ -8347,6 +8383,9 @@ https://barbara.iptv2022.com/RTDOC-eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11425/thumb_Group_56.png" group-title="TV AO VIVO", Com Brasil
 https://alanza.iptv2022.com/Combrasil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwsysvX/Com-Brasil-2x-M-256x256.png" group-title="TV AO VIVO", Com Brasil
+https://alanza.iptv2022.com/Combrasil/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13308/thumb_TV_BRASIL_HITS_.png" group-title="TV AO VIVO", TV BRASIL HITS
 https://alanza.iptv2022.com/TV_BRASIL_HITS/index.m3u8
@@ -9017,6 +9056,9 @@ https://alanza.iptv2022.com/ANIME_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14239/thumb_NATURE_TV.png" group-title="TV AO VIVO", NATURE TV
 https://alanza.iptv2022.com/NATURE_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6xLJb8/NATURE-TV-22x-D-256x256.png" group-title="TV AO VIVO", NATURE TV
+https://alanza.iptv2022.com/NATURE_TV/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14246/thumb_JETSONS_TV.png" group-title="TV AO VIVO", JETSONS TV
 https://alanza.iptv2022.com/JETSONS_TV/index.m3u8
 
@@ -9073,6 +9115,7 @@ https://alanza.iptv2022.com/REDE_H/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14540/thumb_Amazing_TV_New.jpeg" group-title="TV AO VIVO", Amazing TV
 https://alanza.iptv2022.com/Amazing_TV/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova - YT | Brasil

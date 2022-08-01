@@ -4949,6 +4949,15 @@ https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
 #EXTINF:-1 tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/photo6.png?1625156813" group-title="VARIEDADES", SBT (MA) TV Difusora São Luis - ok
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbxssyC/TV-Difusora-Sao-Luis-20x-D-190x265-transparente.png" group-title="VARIEDADES", SBT (MA) TV Difusora São Luis - ok
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?olhosnatv-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtF1zsb/TV-Difusora-Sao-Luis-30x-D-168x168-transparente-preto.png" group-title="VARIEDADES", SBT (MA) TV Difusora São Luis - ok
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?olhosnatv-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHjSWWJ/TV-Difusora-Sao-Luis-30x-D-300x168-transparente-preto.png" group-title="VARIEDADES", SBT (MA) TV Difusora São Luis - ok
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?olhosnatv-logo-jp02
+
 #EXTINF:-1 tvg-logo="https://stream.amsolution.net.br/videos/userPhoto/photo8.png?1624300367" group-title="VARIEDADES", SBT (MA) TV Difusora Leste - ok
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?olhosnatv
 
@@ -7630,6 +7639,12 @@ https://cdn-viatv-11309.ciclano.io:1443/viatv-11309/viatv-11309/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BHy9dXy0fDg/X26MoVNknXI/AAAAAAAADV4/a3w6dgnhLUw3gU_li2VXraOzjPTyHvemgCLcBGAsYHQ/s0/TV%2BESPA%25C3%2587O%2BESPIRITA.png" group-title="ESPIRITAS", TV Espaço Espírita - ok
 https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qBnD6sq/TV-Espaco-Espirita-34x-D-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok =34xD=
+https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?logo-jp-1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBdssj5/TV-Espaco-Espirita-36x-D-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok =36xD=
+https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?logo-jp-2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnbFyLM/TV-ESPA-O-ESPIRITA-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok
 https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?logo-jp01
 
@@ -8343,10 +8358,10 @@ https://alanza.iptv2022.com/Fandom_TV/index.m3u8
 https://alanza.iptv2022.com/TV_Brusque/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hq4Cx2c/TV-BRUSQUE-0x-D-256x255.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
-https://alanza.iptv2022.com/TV_Brusque/index.m3u8/logo-jp01
+https://alanza.iptv2022.com/TV_Brusque/index.m3u8?logo-jp-01tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zR1qb09/TV-BRUSQUE-0x-M-256x255.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
-https://alanza.iptv2022.com/TV_Brusque/index.m3u8/logo-jp02
+https://alanza.iptv2022.com/TV_Brusque/index.m3u8?logo-jpt-02tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11446/thumb_BRsupertv.jpeg" group-title="TV AO VIVO", BR Super TV (Rede Brasil)
 https://alanza.iptv2022.com/RSCTV_Brasil/index.m3u8
@@ -8408,6 +8423,9 @@ https://alanza.iptv2022.com/tv_cerrado/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11369/thumb_Group_36.png" group-title="TV AO VIVO", Yeeaah TV
 https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0qrSCn/Yeeaah-TV-12x-M-256x256.png" group-title="TV AO VIVO", Yeeaah TV
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13315/thumb_REDE_LIVRE.png" group-title="TV AO VIVO", REDE LIVRE
 https://alanza.iptv2022.com/REDE_LIVRE/index.m3u8
 
@@ -8449,11 +8467,20 @@ https://alanza.iptv2022.com/RBTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11761/thumb_NOVA_ERA_TV_.jpg" group-title="TV AO VIVO", NOVA ERA TV
 https://alanza.iptv2022.com/NOVA_ERA_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQbXxtj/NOVA-ERA-TV-3x-M-250x256.png" group-title="TV AO VIVO", NOVA ERA TV
+https://alanza.iptv2022.com/NOVA_ERA_TV/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11768/thumb_Elemental_Channel_.jpeg" group-title="TV AO VIVO", Elemental Channel
 https://alanza.iptv2022.com/Elemental_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11936/thumb_NOSSA_TV.jpeg" group-title="TV AO VIVO", NOSSA TV - RN
 https://alanza.iptv2022.com/NOSSA_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWVJvXm/NOSSA-TV-RN-12x-M-246x256-preto.png" group-title="TV AO VIVO", NOSSA TV - RN
+https://alanza.iptv2022.com/NOSSA_TV/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m9j38x1/NOSSA-TV-RN-8x-M-256x256-branco.png" group-title="TV AO VIVO", NOSSA TV - RN
+https://alanza.iptv2022.com/NOSSA_TV/index.m3u8?logo-jptvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12118/thumb_QUEENS_UNITED_TV.jpg" group-title="TV AO VIVO", QUEENS UNITED TV
 https://alanza.iptv2022.com/QUEENS_UNITED_TV/index.m3u8
@@ -8502,6 +8529,9 @@ https://alanza.iptv2022.com/TV_CNB/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11929/thumb_ARARUNA_TV.jpeg" group-title="TV AO VIVO", ARARUNA TV
 https://alanza.iptv2022.com/ARARUNA_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rk30ykw/ARARUNA-TV-12x-D-256x238.png" group-title="TV AO VIVO", ARARUNA TV
+https://alanza.iptv2022.com/ARARUNA_TV/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11565/thumb_Group_70.png" group-title="TV AO VIVO", Adesso TV
 https://alanza.iptv2022.com/Adesso_TV/index.m3u8
@@ -8576,6 +8606,9 @@ https://alanza.iptv2022.com/Dplus_tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11859/thumb_TV_AVIVANDO_NAC%CC%A7O%CC%83ESjpeg.jpeg" group-title="TV AO VIVO", TV AVIVANDO NAÇÕES
 https://alanza.iptv2022.com/AVIVANDO_NAGOES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScVZx74/TV-AVIVANDO-NACOES-10x-D-256x180.png" group-title="TV AO VIVO", TV AVIVANDO NAÇÕES
+https://alanza.iptv2022.com/AVIVANDO_NAGOES/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11887/thumb_TV_SONORA_.jpeg" group-title="TV AO VIVO", TV SONORA
 https://alanza.iptv2022.com/TV_SONORA/index.m3u8
@@ -8702,6 +8735,9 @@ https://alanza.iptv2022.com/TV_NAZA/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12286/thumb_TVi%CC%81deoNews.jpeg" group-title="TV AO VIVO", TVídeoNews
 https://alanza.iptv2022.com/TVideoNews/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1RSfqD/TV-deo-News-brtv-12x-D-205-X256.png" group-title="TV AO VIVO", TVídeoNews
+https://alanza.iptv2022.com/TVideoNews/index.m3u8?logo-jp-brtv
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12300/thumb_SULTV.jpeg" group-title="TV AO VIVO", SUL TV
 https://alanza.iptv2022.com/SULTV/index.m3u8
 
@@ -8735,7 +8771,13 @@ https://alanza.iptv2022.com/TV_ENCAUCA/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12426/thumb_image_2021-12-24_13-41-21.png" group-title="TV AO VIVO", AW TV
 https://alanza.iptv2022.com/AWTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12433/thumb_image_2021-12-24_13-49-11.png" group-title="TV AO VIVO", TV MAR - Rio Grande-RS°
+#EXTINF:-1 tvg-logo="https://i.ibb.co/StbQH7S/AW-TV-12x-M-256x256.png" group-title="TV AO VIVO", AW TV
+https://alanza.iptv2022.com/AWTV/index.m3u8?logo-jp01-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcSwRPF/AW-TV-26x-M-256x256.png" group-title="TV AO VIVO", AW TV
+https://alanza.iptv2022.com/AWTV/index.m3u8?logo-jp02-tvbr
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12433/thumb_image_2021-12-24_13-49-11.png" group-title="TV AO VIVO", TV MAR - Rio Grande-RS
 https://alanza.iptv2022.com/TV_MAR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12447/thumb_WhatsApp_Image_2021-12-23_at_17.jpeg" group-title="TV AO VIVO", TV RIO GRANDE
@@ -8822,6 +8864,9 @@ https://alanza.iptv2022.com/TV_Clube/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12881/thumb_image_2022-02-04_16-32-08.png" group-title="TV AO VIVO", REDE TV MAIS - RJ
 https://alanza.iptv2022.com/Redetv_mais/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCz99nX/REDE-TV-MAIS-35x-D-256x214.png" group-title="TV AO VIVO", REDE TV MAIS - RJ
+https://alanza.iptv2022.com/Redetv_mais/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13175/thumb_TV_ART_HD.png" group-title="TV AO VIVO", TV ART HD (Rede TV Mais)
 https://alanza.iptv2022.com/TV_ART_HD/index.m3u8
 
@@ -8894,6 +8939,9 @@ https://alanza.iptv2022.com/TV_RBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13245/thumb_TV_CATVE.jpg" group-title="TV AO VIVO", TV CATVE
 https://alanza.iptv2022.com/CATVE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMQBZwB/TV-CATVE-8x-D-256x95.png" group-title="TV AO VIVO", TV CATVE
+https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13259/thumb_TV_CIDADE.png" group-title="TV AO VIVO", TV CIDADE (Rede Minas)
 https://alanza.iptv2022.com/tv_cidade/index.m3u8
 
@@ -8929,6 +8977,9 @@ https://alanza.iptv2022.com/TV_AGORA_PB/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13665/thumb_image_2022-04-28_12-01-14.png" group-title="TV AO VIVO", TV METROPOLITANA
 https://alanza.iptv2022.com/vmetropolitana/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgBqMTL/TV-METROPOLITANA-1x-D-256x202.png" group-title="TV AO VIVO", TV METROPOLITANA
+https://alanza.iptv2022.com/vmetropolitana/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13742/thumb_LASS_TV.png" group-title="TV AO VIVO", LASS TV
 https://alanza.iptv2022.com/LASS_TV/index.m3u8
@@ -8974,6 +9025,12 @@ https://alanza.iptv2022.com/KURIAKOS_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13847/thumb_TV_MANA%CC%81_1.png" group-title="TV AO VIVO", TV MANÁ-1
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="TV AO VIVO", Maná 2 | Portugal
+http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8?jp
+
+#EXTINF:-1 tvg-logo="http://tvmana3.com/wp-content/uploads/2020/04/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
+http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8?jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13854/thumb_TV_MANA%CC%81_BRASIL.png" group-title="TV AO VIVO", TV MANÁ BRASIL
 https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8
@@ -9057,7 +9114,7 @@ https://alanza.iptv2022.com/ANIME_TV/index.m3u8
 https://alanza.iptv2022.com/NATURE_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6xLJb8/NATURE-TV-22x-D-256x256.png" group-title="TV AO VIVO", NATURE TV
-https://alanza.iptv2022.com/NATURE_TV/index.m3u8?logo-jp
+https://alanza.iptv2022.com/NATURE_TV/index.m3u8?logo-jp00
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14246/thumb_JETSONS_TV.png" group-title="TV AO VIVO", JETSONS TV
 https://alanza.iptv2022.com/JETSONS_TV/index.m3u8
@@ -9074,6 +9131,9 @@ https://alanza.iptv2022.com/CLASSIQUE_WESTERN/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14274/thumb_CLASSIQUE_TV_SE%CC%81RIES.png" group-title="TV AO VIVO", CLASSIQUE TV SÉRIES
 https://alanza.iptv2022.com/CLASSIQUE_TV_SERIES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vg58PYk/CLASSIQUE-TV-SERIES-186-X46.png" group-title="TV AO VIVO", CLASSIQUE TV SÉRIES
+https://alanza.iptv2022.com/CLASSIQUE_TV_SERIES/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14281/thumb_TV_LAGOA_DANTAS.png" group-title="TV AO VIVO", TV LAGOA DANTAS
 https://alanza.iptv2022.com/TV_LAGOA_DANTAS/index.m3u8
 
@@ -9089,8 +9149,14 @@ https://alanza.iptv2022.com/VIDA_SERTANEJA_FM/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14337/thumb_image_2022-06-23_08-04-07.png" group-title="TV AO VIVO", GOSPEL MOVIES TV
 https://alanza.iptv2022.com/GOSPEL_MOVIES_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JpWTDg5/GOSPEL-MOVIES-TV-3x-M-256x256.png" group-title="TV AO VIVO", GOSPEL MOVIES TV
+https://alanza.iptv2022.com/GOSPEL_MOVIES_TV/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14351/thumb_image_2022-06-23_08-05-51.png" group-title="TV AO VIVO", GOSPEL MUSIC TV
 https://alanza.iptv2022.com/GOSPEL_MUSIC_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQr9fRS/GOSPEL-MUSIC-TV-2x-M-256x256.png" group-title="TV AO VIVO", GOSPEL MUSIC TV
+https://alanza.iptv2022.com/GOSPEL_MUSIC_TV/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14344/thumb_image_2022-06-23_08-04-53.png" group-title="TV AO VIVO", GOSPEL CARTOON
 https://alanza.iptv2022.com/GOSPEL_CARTOON/index.m3u8
@@ -9101,11 +9167,20 @@ https://alanza.iptv2022.com/MJR_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14379/thumb_image_2022-06-28_14-42-57.png" group-title="TV AO VIVO", TV KING
 https://alanza.iptv2022.com/TV_KING/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHV1JCh/TV-KING-30x-D-256-X213.png" group-title="TV AO VIVO", TV KING
+https://alanza.iptv2022.com/TV_KING/index.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12160/thumb_Xtreme_TV__new_.png" group-title="TV AO VIVO", Xtreme TV
 https://alanza.iptv2022.com/Xtreme_TV/index.m3u8?velho
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12160/thumb_image_2022-06-28_14-56-55.png" group-title="TV AO VIVO", Xtreme TV .novo.
 https://alanza.iptv2022.com/Xtreme_TV/index.m3u8?novo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqgwWGD/Xtreme-TV-20x-D-256x256.png" group-title="TV AO VIVO", Xtreme TV .novo.
+https://alanza.iptv2022.com/Xtreme_TV/index.m3u8?novo-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3m8wNL/DUE-MUNDI-CHANNEL-1x-M-256x165.png" group-title="TV AO VIVO", DUE MUNDI CHANNEL
+https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14505/thumb_DUE_MUNDI_CHANNEL.png" group-title="TV AO VIVO", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/index.m3u8

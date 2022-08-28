@@ -182,6 +182,9 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6afae9338ec57a798fb55d98b77ff0c3.jpg" group-title="Educativos", TVE BAHIA (tv Brasil) - BA - Salvador =ok .logo-novo.
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?jp-logo-novo
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cN5bYC4/TVE-BAHIA-12x-M-red-1000x1000.png" group-title="Educativos", TVE BAHIA (tv Brasil) - BA - Salvador =ok .logo-novo.
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?logo-jp-cxtv
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png" group-title="Educativos", TVE BAHIA (tv Brasil) - BA - Salvador =ok
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?jp-logo-velho
 
@@ -275,10 +278,10 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8358cee53f07e3d731a73f18e8d3479d.jpg" group-title="Evangélica", Tv Rosa De Saron - BA - Alagoinhas =cx-site=
 https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KddDKh/Tv-Rosa-De-Saron-120x120.jpg" group-title="Evangélica", Tv Rosa De Saron - BA - Alagoinhas =cx-site=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0XJm4v/Tv-Rosa-De-Saron-98x98.jpg" group-title="Evangélica", Tv Rosa De Saron - BA - Alagoinhas =cx-site=
 https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8?logo-jp01-cxtv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0XJm4v/Tv-Rosa-De-Saron-98x98.jpg" group-title="Evangélica", Tv Rosa De Saron - BA - Alagoinhas =cx-site=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KddDKh/Tv-Rosa-De-Saron-120x120.jpg" group-title="Evangélica", Tv Rosa De Saron - BA - Alagoinhas =cx-site=
 https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8?logo-jp02-cxtv
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/06cf4d59905aa1532681c36d507df4ec.png" group-title="Música/ Variedades/ Notícias", TV Revista - BA - Nazaré =cx= novo
@@ -399,8 +402,8 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/aada6bfb708de57f0dff48ee1aaa7a64.png" group-title="Educativos/ Variedades", TV Ceará - CE - Fortaleza - ok= -cxtv-site-
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/aada6bfb708de57f0dff48ee1aaa7a64.png" group-title="Educativos/ Variedades", TV Ceará - CE - Fortaleza - ok= -cxtv-site- logo png -http-s-
-http://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMYjwxR/TV-Ceara-88x-D-blue-200x200.png" group-title="Educativos/ Variedades", TV Ceará - CE - Fortaleza - ok= -cxtv-site-
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8?logo-jp-cxtv
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/72171b6c814a0b231412516702c9b3d4.png" group-title="Educativos/ Documentários/ Variedades", Tv O Povo/ Futura (Fortaleza) - ok=
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
@@ -5384,6 +5387,9 @@ http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8?f95fad055a0c3a7836db
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fo1KsdlRY2E/XikSRCEaeXI/AAAAAAAACaQ/80pAlRKaecMy3LXgEVqLFhAMIjFMNaCHACLcBGAsYHQ/s320/2020-01-23%2B00.22.57.png" group-title="EDUCATIVOS", tv Brasil (TVE Bahia) . ok-
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQrQVr6/TVE-BAHIA-42x-M-black-660x660.png" group-title="EDUCATIVOS", tv Brasil (TVE Bahia) . ok-
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?logo-jp-cxtv
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtfIC267wwttTstTuJuqRlmIoMnCcxQ2k7TlyQlzaxRbfgtzWj9mvGtpX_jVW_M5gkiEKwNHYW1aRI2H3zn9qzycIV403bim3FdRuu_TJFurD1WLg4sOzfOeqrkrjpZOkAvxkRny8lkeUhKh38A0DQINYVZZpSdyQJCYVB6MyKNoem0mExIQl0BInT/s200/TVE%20RS.png" group-title="EDUCATIVOS", tv Brasil (TVE RS) . ok-
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w200098464.m3u8?olhosnatv
 
@@ -7143,6 +7149,9 @@ https://stream.4fun.tv:8888/hls/4f_low/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0tvwLIjKFDI/YTt_a_ZIGPI/AAAAAAAAFfM/WD-iY0ogbJQtsVQIjkbOqcBVTUsuzZfQQCLcBGAsYHQ/s200/TV%2BCEAR%25C3%2581.png" group-title="VARIEDADES", TV Ceará - ok
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMYjwxR/TV-Ceara-88x-D-blue-200x200.png" group-title="VARIEDADES", TV Ceará - ok
+https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8?logo-jp00-cxtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgz3Tch/TV-CEARA-156x100.jpg" group-title="VARIEDADES", TV Ceará - ok
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/chunklist.m3u8?logo-jp01

@@ -5792,8 +5792,8 @@ https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/chunklist_w16333584.m3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8ki_6VdQZYw/YA3EbCajuZI/AAAAAAAAEMw/sNqplS_y358E3UH5ZPLC2i05XEiD6AgngCLcBGAsYHQ/s0/REDE%2BTV%2BSUL.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z8pD80W/Rede-TV-Sul-0x-D-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
-https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8pD80W/Rede-TV-Sul-0x-D-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok =falha logo=
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gLvxqy/REDE-TV-SUL-262-X76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp01
@@ -10059,8 +10059,14 @@ https://alanza.iptv2022.com/TV_RBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13245/thumb_TV_CATVE.jpg" group-title="TV AO VIVO", TV CATVE
 https://alanza.iptv2022.com/CATVE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xMQBZwB/TV-CATVE-8x-D-256x95.png" group-title="TV AO VIVO", TV CATVE
-https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMQBZwB/TV-CATVE-8x-D-256x95.png" group-title="TV AO VIVO", TV CATVE -8x-D-
+https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7frVh5/TV-CATVE-19x-D-white-124x65.png" group-title="TV AO VIVO", TV CATVE -19x-D-
+https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6NryBpm/TV-CATVE-3x-D-white-124x65.png" group-title="TV AO VIVO", TV CATVE -3x-D-
+https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp03
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13259/thumb_TV_CIDADE.png" group-title="TV AO VIVO", TV CIDADE (Rede Minas)
 https://alanza.iptv2022.com/tv_cidade/index.m3u8
@@ -10197,21 +10203,34 @@ https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM6Vbbw/TV-MANA-1-10x-M-white-256x248.png" group-title="TV AO VIVO", TV MANÁ-1
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-tvbr
 
+#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="TV AO VIVO", TV MANÁ-1
+https://w1.manasat.com:443/tvmana-1/smil:tvmana-1.smil/playlist.m3u8?site-oficial-logo-site
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZw7sQq/TV-MANA-2-10x-M-white-772x162.png" group-title="TV AO VIVO", Maná 2 | Portugal
  -erro servidor-
 http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="TV AO VIVO", Maná 2 - site oficial
+#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/uploads/2020/04/LOGO_TV_MANA2.png" group-title="TV AO VIVO", Maná 2 - site oficial
 https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
 
-site-oficial
+site-oficial-tvmana3Linksite
 
 #EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
+ - =teste-JP-link= (logo-site-oficial)
+https://w1.manasat.com:443/tvmana-3/smil:tvmana-3.smil/playlist.m3u8?
 
-http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8?logo-site-oficial
+#EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
+ - (logo-site-oficial)
+http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13854/thumb_TV_MANA%CC%81_BRASIL.png" group-title="TV AO VIVO", TV MANÁ BRASIL
 https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZf5PmL/TV-MANA-BRASIL-35x-M-red-254x256.png" group-title="TV AO VIVO", TV MANÁ BRASIL - site oficial
+https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8?site-oficial-logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2nHZttc/TV-MANA-BRASIL-35x-D-red-254x256.png" group-title="TV AO VIVO", TV MANÁ BRASIL
+https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8?logo-jp00-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfsC8JS/TV-MANA-BRASIL-12x-M-white-254x256.png" group-title="TV AO VIVO", TV MANÁ BRASIL
 https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8?logo-jp01-tvbr
@@ -10222,13 +10241,22 @@ https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8?logo-jp02-tvbr
 #EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="TV AO VIVO", TV MANÁ ARGENTINA - site oficial
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nS1qxX/TV-MANA-ARGENTINA-273x101.png" group-title="TV AO VIVO", TV MANÁ ARGENTINA - site oficial
+https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?logo-jp-site
+
+#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="TV AO VIVO", TV Maná Moçambique - site oficial
+https://w2.manasat.com:443/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmana-espanhol.ar/wp-content/uploads/2020/05/Logo_Mana_ESP-copia-1536x494.png" group-title="TV AO VIVO", TV Maná Español - site oficial
+https://w1.manasat.com:443/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14596/thumb_KK_TV.jpeg" group-title="TV AO VIVO", KK TV - (mesmo link)
 https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?kktv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JndHYYH/KK-TV-17x-M-white-256x219.png" group-title="TV AO VIVO", KK TV - (mesmo link)
 https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?kktv-logo-jp
 
-#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="TV AO VIVO", KK TV - site oficial
+#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="TV AO VIVO", KK TV ANGOLA - site oficial
 https://w2.manasat.com:443/ktv-ao/smil:ktv-ao.smil/playlist.m3u8?site-oficial
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14603/thumb_MANA%CC%81_IGREJA_ONLINE_.jpeg" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (mesmo link)
@@ -10236,6 +10264,12 @@ https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?manah
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1TLWmcf/MANA-IGREJA-ONLINE-8x-M-white-256x220.png" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (mesmo link)
 https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?manah-logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo_pt.png" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (site-oficial)
+https://w1.manasat.com:443/igrejaonline/smil:igrejaonline.smil/playlist.m3u8?site-oficial
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GCxvfYX/MANA-IGREJA-ONLINE-6x-D-white-1459x1251.png" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (site-oficial-logo-jp)
+https://w1.manasat.com:443/igrejaonline/smil:igrejaonline.smil/playlist.m3u8?site-oficial-logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12013/thumb_GeG_TV.jpeg" group-title="TV AO VIVO", GeG TV
 https://alanza.iptv2022.com/GeG_TV/index.m3u8
@@ -10500,4 +10534,10 @@ https://alanza.iptv2022.com/TV_TeenNet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15016/thumb_TV_NOVA_PLAY_new.jpeg" group-title="TV AO VIVO", TV NOVA PLAY
 https://alanza.iptv2022.com/TV_NOVA_PLAY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12293/thumb_TV_TOKYO.jpeg" group-title="TV AO VIVO", TV TOKYO
+https://alanza.iptv2022.com/TV_TOKYO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk2k9rZ/TV-TOKYO-12x-M-black-256x183.png" group-title="TV AO VIVO", TV TOKYO
+https://alanza.iptv2022.com/TV_TOKYO/index.m3u8?logo-jp-tvbr
 

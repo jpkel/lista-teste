@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
@@ -5357,14 +5357,20 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?s
 #EXTINF:-1 tvg-logo="https://www.acheradios.com.br/media/imagens/R%C3%A1dio_Cultura_FM_93.7_FM_Bel%C3%A9m_certa_crop_200x200.jpg" group-title="ESTÚDIOS DE RÁDIO", TV Cultura (PA) Estúdio ao Vivo - ok -site-
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8?site-logo-acheradios
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dGfNXwm/TVE-Cultura-MS-68x-M-red-834x834.png" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (MS) TVE Cultura . ok-
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8?olhosnatv-logo-site01
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dfHxqD6/TVE-Cultura-MS-65x-M-red-834x834.png" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (MS) TVE Cultura . ok-
-https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8?olhosnatv-logo-site
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8?olhosnatv-logo-site02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (MA) TV Guará . ok-
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w1069885397.m3u8?olhosnatv-logo-wikimedia
 
-#EXTINF:-1 tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/2/2022/01/logotipo.png" group-title="EDUCATIVOS/ VARIEDADES", TV Cultura (RN) TV Futuro . ok-
-https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w671006547.m3u8?olhosnatv-logo-site-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (MA) TV Guará . ok- ..site..
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8?cxtv-logo-wikimedia-teste
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nZcCVc/TV-Futuro-RN-30x-D-600x600.png" group-title="EDUCATIVOS/ VARIEDADES", TV Cultura (RN) TV Futuro . ok-
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w671006547.m3u8?olhosnatv-logo-site-jp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="CULTURAS/ EDUCATIVOS", TV Cultura (PR) Catve . ok-
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8?olhosnatv-logo-wikimedia
@@ -5375,7 +5381,13 @@ https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2Flive%2Flivestream%2Fplaylist
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/2b51a02ccbbfcd95f531d2bec137d6dc.png" group-title="CULTURAS/ EDUCATIVOS", master tv (PR) -site- ..novo..
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?logo-cxtv-site
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sUTsOikmPbQ/X5cIpUvL26I/AAAAAAAADjM/AwgfOAg4aAMmX_UO_1xo2TmY14Ez3pbAwCLcBGAsYHQ/s0/CATVE%2BFM%2BCASCAVEL%2B91.7.png" group-title="ESTÚDIOS DE RÁDIO", Catve FM Cascavel 91.7 - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FXMX34h/master-tv-PR-21x-M-white-200x200.png" group-title="CULTURAS/ EDUCATIVOS", master tv (PR) -site- ..novo..
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?logo-cxtv-site-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0QdjDPX/master-tv-PR-13x-M-white-200x200.png" group-title="CULTURAS/ EDUCATIVOS", master tv (PR) -site- ..novo..
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?logo-cxtv-site-logo-jp02
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sUTsOikmPbQ/X5cIpUvL26I/AAAAAAAADjM/AwgfOAg4aAMmX_UO_1xo2TmY14Ez3pbAwCLcBGAsYHQ/s0/CATVE%2BFM%2BCASCAVEL%2B91.7.png" group-title="ESTÚDIOS DE RÁDIO", Catve FM Cascavel 91.7 - ok -olhosnatv-
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qtz26h9fnz5y.png" group-title="ESTÚDIOS DE RÁDIO", Catve FM Cascavel 91.7 -site- ..novo..
@@ -5387,11 +5399,11 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8?site
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="EDUCATIVOS",  TV Brasil Central tbc (Tv Cultura Goias) - ok -olhosnatv-cxtv-site- .erro servidor. (saiu do site)
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?logo-cxtv-olhosnatv-cxtv-site
 
-#EXTINF:-1 tvg-logo="https://www.goias.gov.br/images/uploads/2017/08/logotbc.png" group-title="EDUCATIVOS",  TV Brasil Central (tbc) -logo.site- .erro servidor. (saiu do site)
-http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?logo-site-olhosnatv-cxtv-site
+#EXTINF:-1 tvg-logo="https://www.goias.gov.br/images/uploads/2017/08/logotbc.png" group-title="EDUCATIVOS",  TV Brasil Central (tbc) - ok -site- ..novo..
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?logo-site
 
-#EXTINF:-1 tvg-logo="http://stream.tvbrasilcentral.com.br/logo.png" group-title="EDUCATIVOS", Tv Cultura (GO) TV Brasil Central tbc - ok -site- ..novo..
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?logo-tvbrasilcentral
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wg4w7Xq/tbc-TV-Brasil-Central-30x-D-424x247.png" group-title="EDUCATIVOS", Tv Cultura (GO) TV Brasil Central tbc - ok -site- ..novo..
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?logo-site-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xRZm7yIBiBs/XRkWrcLJ4MI/AAAAAAAABQw/szcNw0g0y1Q6_u_lF7MFoPzmidC7gcSqQCK4BGAsYHg/s320/Screenshot_2019-06-30-16-55-08.png" group-title="EDUCATIVOS", Rede Minas . ok-
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8?olhosnatv
@@ -5444,11 +5456,11 @@ https://pekchannels.proxy.jotafplay.com.br/TV_Brasil/index.m3u8?token=2yTiEwT8Eu
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="PÚBLICOS/ TV ABERTA/ VARIEDADES", TV Brasil - ok .novo. (logo.olhosnatv) = .teste.
 https://pekchannels.proxy.jotafplay.com.br/TV_Brasil/index.m3u8?teste-jp-apagar-depois
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-09IWN1Z5PG0/XPqlslml3QI/AAAAAAAAA-k/8R1GKl5AbbYX38UIX2OGsuqTHiqtfL9dwCPcBGAYYCw/s320/Screenshot_2019-06-07-13-17-57.png" group-title="EDUCATIVOS", TV Preve (tv Brasil 2) . ok-
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-09IWN1Z5PG0/XPqlslml3QI/AAAAAAAAA-k/8R1GKl5AbbYX38UIX2OGsuqTHiqtfL9dwCPcBGAYYCw/s320/Screenshot_2019-06-07-13-17-57.png" group-title="EDUCATIVOS", TV Preve (tv Brasil 2) . ok- .velho.
 https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TTvypYf/TV-Preve.png" group-title="EDUCATIVOS", TV Preve (tv Brasil 2) . ok- .novo. olhosnatv
-https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w1536197057.m3u8?logo-jp-teste
+https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w1536197057.m3u8?logo-jp-ok
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghjfDYax1obSCj4vuUOcaQai6v_iDhLlWbdgQN28Ij9B4NCIEA8NVI0DZztwgG3by5srZVOgSGWGbVgzXWVdaCtF-DtFmQuYIm4HpOqcq1CxJiORFeNqdl_GHBX2I03IVFqUFh-SvKaWEqR7cNYawNeqENjpk9-qHaqHR0qaLjUuY3qbccVujOx9v/s200/TV%20GUARAPARI.png" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok -novo-
 https://video.wellhost.com.br/tvguarapari/tvguarapari/chunklist_w1928388858.m3u8?
@@ -5467,6 +5479,9 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tIxRMyERpgI/XYLBTE4BQKI/AAAAAAAAB84/f5hwFYjH-VoMIWWGoWVhDwoer5YdZxxGACLcBGAsYHQ/s320/Screenshot_2019-09-18-20-42-33.png" group-title="CULTURAS/ EDUCATIVOS", TV Faap . ok-
 https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5s2fp5H/TV-Faap-235x57.png" group-title="CULTURAS/ EDUCATIVOS", TV Faap . ok-
+https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8?olhosnatv-logo-jp
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-j88KjjP2XAs/XUOXD4LCfcI/AAAAAAAABZE/jfysk8pC6q8noBuq7_3j_9S8lOMQC0MGACLcBGAs/s320/Screenshot_2019-08-01-22-45-11.png" group-title="EDUCATIVOS", TV Unisantos . ok-
 http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8?f95fad055a0c3a7836db3213ed2de13c?olhosnatv
@@ -5513,10 +5528,10 @@ https://maestro-prd-nh.eduplay.rnp.br/route/channel10/index.m3u8?s=aHR0cHM6Ly9tZ
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8jHs7ow7W2M/XWcPStsXaMI/AAAAAAAABmM/lnlRIy4TRM410YBJZDTr7u4lY1xisiTXQCLcBGAs/s320/Screenshot_2019-08-28-20-09-08.png" group-title="EDUCATIVOS", UNB TV (Universidade de Brasília) .eduplay. ok-
 https://maestro-prd-nh.eduplay.rnp.br/route/channel20376/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDIwMzc2L2luZGV4Lm0zdTg_eD0xJm09bE1zM2dwNmg0bTl6a2FTb3FCREc5UQ&x=1&p=0&m=KKQpoaZ5kJk7ngAnf69PhQ?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="EDUCATIVOS", UNB TV (Universidade de Brasília) .eduplay. ok ..novo.. =logo-teste=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_UnB_TV.png" group-title="EDUCATIVOS", UNB TV (Universidade de Brasília) .eduplay. ok ..novo..
 https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWeR7WSI/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZVI3V1NJL2luZGV4Lm0zdTg_eD0xJm09N3h2SzE0c19ad3ZlUTdMaC1xOXd1UQ&x=1&p=0&m=yUXcXk1vfNyu4ioRhvTJQg
 
-#EXTINF:-1 tvg-logo="https://home.unicruz.edu.br/unicruzplay/images/logo.png" group-title="EDUCATIVOS", Unicruz Play .eduplay. ok ..novo.. =logo-teste=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKR1ggF/Unicruz-Play-30x-D-406x179.png" group-title="EDUCATIVOS", Unicruz Play .eduplay. ok ..novo.. -logo-site-jp-
 https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWdm7Z5w/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZG03WjV3L2luZGV4Lm0zdTg_eD0xJm09cTF6blRrSHpiRU1qOGoyY3pwMlpsZw&x=1&p=0&m=RyyWAuW-p2kLvwIAgQUvnw
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-puwO2zzL0H0/XWcOwbT3JfI/AAAAAAAABmE/oz8PSrk31cYkT_7-2vx-RW3F6skn2L7wQCLcBGAs/s320/Screenshot_2019-08-28-19-40-14.png" group-title="EDUCATIVOS", TV UFOP (Universidade de Ouro Preto) .eduplay. ok-
@@ -5526,6 +5541,9 @@ https://maestro-prd-nh.eduplay.rnp.br/route/channel21431/index.m3u8?s=aHR0cHM6Ly
 https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWdcMzXY/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZGNNelhZL2luZGV4Lm0zdTg_eD0xJm09MVEzeHFLTW9YUE9wRXdzQWhoRWtDQQ&x=1&p=0&m=-vU7Au4NkLFrLeA0hdgsFA
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-g-SnxZoiAtc/XUOhFbIoaQI/AAAAAAAABZY/15dX_3mhvCYdD7L0S2tI0y7UH5ngnVc6gCLcBGAs/s320/Screenshot_2019-08-01-23-31-03.png" group-title="EDUCATIVOS", UPF TV (Universidade de Passo Fundo) .eduplay. ok-
+https://maestro-prd-nh.eduplay.rnp.br/route/channel51214/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDUxMjE0L2luZGV4Lm0zdTg_eD0xJm09Q0w4NXVXNjlRSEFsdDZIQjN3M0tRZw&x=1&p=0&m=OLv4DvyIcNog1Qvypp5gag?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SB7p4hB/UPF-TV-130x129.png" group-title="EDUCATIVOS", UPF TV (Universidade de Passo Fundo) .eduplay. ok-
 https://maestro-prd-nh.eduplay.rnp.br/route/channel51214/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDUxMjE0L2luZGV4Lm0zdTg_eD0xJm09Q0w4NXVXNjlRSEFsdDZIQjN3M0tRZw&x=1&p=0&m=OLv4DvyIcNog1Qvypp5gag?
 
 
@@ -5813,6 +5831,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k0y28kW/RUNTIME-164x46.jpg" group-title="FILMES/ FILMES 24H", Run:time Comédia - ok .novo.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPiJVxUHJ0q8TQAxsF5Mlk1MZU35GZ-VD9gIig9_BbUIpvAh8wSkaKQ3-IE1JlCJPCzvXAigqvmu8vmtVZ0jKRAMfCnAGp3FbmaxaMtOlgup9rFLaJTDpPaPME2obGHbEkMRkGIeBFPBmflT2lKh5GHwOcxZ_142H_dBOQjYCWOn6zvw9qJV5-mPZq/s200/HITS%20TV.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -mudou link-
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w891373391.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPZXtbD/Hits-TV-18x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-18x-M- .esse.
+https://cdn.jmvstream.com/w/AVJ-12025/playlist/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11894/thumb_TV_PONTA_DA_SERRA.jpeg" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", TV Ponta da Serra (Diário do Sertão) - ok - (saiu do site) voltou
 https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8?velho
 
@@ -5822,8 +5846,11 @@ https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/chunklist_w16333584.m3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8ki_6VdQZYw/YA3EbCajuZI/AAAAAAAAEMw/sNqplS_y358E3UH5ZPLC2i05XEiD6AgngCLcBGAsYHQ/s0/REDE%2BTV%2BSUL.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z8pD80W/Rede-TV-Sul-0x-D-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok =falha logo=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GHWTNz/Rede-TV-Sul-18x-M-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok -18x-M-
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8pD80W/Rede-TV-Sul-0x-D-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok =falha logo-0x-D-=
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp00
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gLvxqy/REDE-TV-SUL-262-X76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp01
@@ -5888,6 +5915,15 @@ https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8?j
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12811/thumb_logo_cei_novo_sem_fundo.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS", TV CEI - ok (voltou)
 https://alanza.iptv2022.com/TV_CEI/tracks-v1a1/mono.m3u8?link-novo-olhosnatv-tvbr
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGE2wOF1oC6Sa6hT4D4JLuiAHgkvB69EFhtaRmiWSzfEITYcC2bm7QvLFH3pyhRn2dWdR_GCeyJapJa0m_VNUbaTvzeNCoHyGT6w_v6cbWmys32lxtxKFTczNYCthKXQLqt1Etq9jG0NMMlJRc8bZ6l6Cd94Fdm8ZjMs7GMqYAKlPaxgBbgANv2CL/s200/TV%20TOKYO.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ SERIADOS", TV Tokyo - ok ..novo..
+https://stmv3.voxtvhd.com.br/tvtokyo/tvtokyo/chunklist_w496705878.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cm581Vg/TV-Tokyo-26x-D-white-200x118.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ SERIADOS", TV Tokyo - ok ..novo.. -26x-D-
+https://stmv3.voxtvhd.com.br/tvtokyo/tvtokyo/chunklist_w496705878.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zSmyPSK/TV-Tokyo-21x-D-white-200x118.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ SERIADOS", TV Tokyo - ok ..novo.. -21x-D-
+https://stmv3.voxtvhd.com.br/tvtokyo/tvtokyo/chunklist_w496705878.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGefrnEyyFOkX-ALh0YF3pIL5X4NjyAdTw9pdPY4HxAp1LIMuNDb-ZzEyyYRCaluweYge_aay8fSpLke5M2ORRuOawM-GFfVgVO-vm3CJT5cQJRQ3BwRtKizWaZSYygFu9egljP2bC_xYdS-vZMUg2NNdWoH9_-5vXsTkGpbuiJbv2LKKHB5mUV-Eb/s200/TV%20CL%C3%81SSICOS.png" group-title="CLÁSSICOS/ SERIADOS", TV Clássicos Web - ok ..novo..
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w1186352585.m3u8?olhosnatv
@@ -6035,8 +6071,11 @@ https://stmv2.srvsh.com.br/gospelf2/gospelf2/chunklist_w1743495649.m3u8?
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-AhaAsc9h4uI/XsbEt8PTbpI/AAAAAAAAC1M/j8wUicUdhBsscNx7qRPmXY_RjklCPSWRwCLcBGAsYHQ/s320/Screenshot_2020-05-21-15-10-07.png" group-title="EVANGÉLICOS/ MÚSICAS", Gospel Music Television - ok
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sVK18Yk/Gospel-Music-Television-0x-M-white-212x68.png" group-title="EVANGÉLICOS/ MÚSICAS", Gospel Music Television - ok
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8?logo-jp00
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LtWQryD/GOSPEL-MUSIC-TELEVISION-212-X68.png" group-title="EVANGÉLICOS/ MÚSICAS", Gospel Music Television - ok
-https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8?logo-jp
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGcGvQs/GOSPEL-CARTOON-200x118.jpg" group-title="DESENHOS/ EVANGÉLICOS", Gospel Cartoon - ok
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8?logo-jp01
@@ -8795,19 +8834,16 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="VARIEDADES", Sertão TV - ok
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w309197978.m3u8?
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPiJVxUHJ0q8TQAxsF5Mlk1MZU35GZ-VD9gIig9_BbUIpvAh8wSkaKQ3-IE1JlCJPCzvXAigqvmu8vmtVZ0jKRAMfCnAGp3FbmaxaMtOlgup9rFLaJTDpPaPME2obGHbEkMRkGIeBFPBmflT2lKh5GHwOcxZ_142H_dBOQjYCWOn6zvw9qJV5-mPZq/s200/HITS%20TV.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo.
-https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w891373391.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NLQr4BJ/Hits-TV-12x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-12x-M-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLQr4BJ/Hits-TV-12x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-12x-M- -mudou link-
 https://strv3.estbrasil.com/hitstv/hitstv/chunklist_w264544173.m3u8?logo-jp01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y50zZ0q/Hits-TV-16x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-16x-M-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y50zZ0q/Hits-TV-16x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-16x-M- -mudou link-
 https://strv3.estbrasil.com/hitstv/hitstv/chunklist_w264544173.m3u8?logo-jp02
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gPZXtbD/Hits-TV-18x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-18x-M-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPZXtbD/Hits-TV-18x-M-white-200x118.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits TV - ok .novo. -TV-18x-M- -mudou link-
 https://strv3.estbrasil.com/hitstv/hitstv/chunklist_w264544173.m3u8?logo-jp03
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/906/797/full/HITS_FM_TV.jpg" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits FM TV - ok .velho. -png- (saiu do site)
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/906/797/full/HITS_FM_TV.jpg" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits FM TV - ok .velho. -jpg- (saiu do site)
 https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/chunklist_w244507502.m3u8?logo1-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lvt6vKx/HITS-FM-TV-2.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", Hits FM TV - ok .velho. -png- (saiu do site)

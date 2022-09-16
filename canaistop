@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
@@ -3677,6 +3677,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/6b726fcce4f82cc86af487444d3e8e6d.jpg" group-title="Variedades", Channel 20 Israel - Israel -cx-ok
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.yunavision.com/images/yuna2sm.png" group-title="Variedades", Yuna Vision TV - República Dominicana - Bonao - ok (site não permite link oficial)
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8?site-não-permite-link-oficial
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/f268ffcf346f084d158c9a4f972b5084.png" group-title="Variedades", Yuna Vision TV - República Dominicana - Bonao - ok 
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 
@@ -5304,7 +5307,7 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1350633
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q0TLWfB/Rede-TV-To-256x144.png" group-title="VARIEDADES", Rede TV! Tocantins . ok- site .novo.
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8?logo-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sHBg5L/TV-Pantanal-MT-130x130.png" group-title="VARIEDADES", Rede TV! (MT) TV Pantanal - ok
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u8?olhosnatv-logo-jp01
@@ -5846,17 +5849,50 @@ https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8?velho
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0hmrIYfYjtJlwW26M_SpH0T9W0CV9rM5CcCSBAK0FP5_EqbvWundeH_vQsF_NP1Banc-EVB4_TQpxTJaifPK5Fh0paaa21Aro3qakZGatnVHLYccqPq4XL0a5WNt3ADv5hOMoLPr7hesH0aFez1L2EwwnzNLCO7OpnhVBPM4dZblSAZ-zezHY7vp7/s200/TV%20PONTA%20DA%20SERRA.png" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV Ponta da Serra (Crato-Ce) - ok .novo.
 https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/chunklist_w16333584.m3u8?novo
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8ki_6VdQZYw/YA3EbCajuZI/AAAAAAAAEMw/sNqplS_y358E3UH5ZPLC2i05XEiD6AgngCLcBGAsYHQ/s0/REDE%2BTV%2BSUL.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8ki_6VdQZYw/YA3EbCajuZI/AAAAAAAAEMw/sNqplS_y358E3UH5ZPLC2i05XEiD6AgngCLcBGAsYHQ/s0/REDE%2BTV%2BSUL.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (Rede TV! Mais-SC) - ok
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1GHWTNz/Rede-TV-Sul-18x-M-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok -18x-M-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de5f9dc3cb6aaae79544c5747dcfd9d1.jpg" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (Rede TV! Mais-SC) - ok -cxtv-
+https://5a0c3936c25c8.streamlock.net:443/8032/8032/playlist.m3u8?olhosnatv-logo-cxtv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GHWTNz/Rede-TV-Sul-18x-M-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (Rede TV! Mais-SC) - ok -18x-M-
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z8pD80W/Rede-TV-Sul-0x-D-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok =falha logo-0x-D-=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8pD80W/Rede-TV-Sul-0x-D-white-262x76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (Rede TV! Mais-SC) - ok =falha logo-0x-D-=
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp00
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gLvxqy/REDE-TV-SUL-262-X76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gLvxqy/REDE-TV-SUL-262-X76.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (Rede TV! Mais-SC) - ok -262-X76-
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSnxvxK/Rede-TV-Sul-02-260-X74.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (Rede TV! Mais-SC) - ok -02-260-X74-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17mKy7b/Rede-TV-Sul-SC-11x-D-black-260x74.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -11x-D-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp03
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L05MWbk/Rede-TV-Mais-SC-18x-D-white-170x110.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -18x-D-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GRJTZk1/Rede-TV-Mais-SC-16x-M-white-170x110.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -16x-M-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XCMctRC/Rede-TV-Sul-Rede-TV-Mais-SC-34x-D-black-160x99.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -34x-D-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bPKGwVs/Rede-TV-Mais-SC-21x-M-Yellow-160x88.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -21x-M-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4dBYtRk/Rede-TV-Mais-SC-31x-D-Yellow-160x88.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -31x-D-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yVW10r4/Rede-TV-Mais-SC-34x-D-blue-287x199.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -34x-D-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mXJhxB5/Rede-TV-Mais-SC-32x-M-blue-287x199.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -32x-M-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7SkpPnX/Rede-TV-Mais-SC-34x-M-blue-287x199.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -34x-M-
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHRzTR8/CENTRAL-TV.jpg" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", Central TV - ok
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8?logo-jp-200x118
@@ -5939,6 +5975,9 @@ https://alanza.iptv2022.com/TV_CEI/tracks-v1a1/mono.m3u8?link-novo-olhosnatv-tvb
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGE2wOF1oC6Sa6hT4D4JLuiAHgkvB69EFhtaRmiWSzfEITYcC2bm7QvLFH3pyhRn2dWdR_GCeyJapJa0m_VNUbaTvzeNCoHyGT6w_v6cbWmys32lxtxKFTczNYCthKXQLqt1Etq9jG0NMMlJRc8bZ6l6Cd94Fdm8ZjMs7GMqYAKlPaxgBbgANv2CL/s200/TV%20TOKYO.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ SERIADOS", TV Tokyo - ok ..novo..
 https://stmv3.voxtvhd.com.br/tvtokyo/tvtokyo/chunklist_w496705878.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qdv6M6Q/TV-TOKYO-167x118.jpg" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ SERIADOS", TV Tokyo - ok ..novo..
+https://stmv3.voxtvhd.com.br/tvtokyo/tvtokyo/chunklist_w496705878.m3u8?logo-jp-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/300px-TV_Tokyo_logo_20110629.svg.png" group-title="ANIMES/ CLÁSSICOS/ DESENHOS/ SERIADOS", TV Tokyo - ok ..novo.. -logo-site-
 https://stmv3.voxtvhd.com.br/tvtokyo/tvtokyo/chunklist_w496705878.m3u8?logo-site
@@ -7850,11 +7889,17 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-L8tILeXYvsI/X6BBsZSOF6I/AAAAAAAADsw/R_ij8R7_mkgm0iBwoD_Ao2jcbeLkKeHzwCLcBGAsYHQ/s0/TV%2BCENTRAL%2BDO%2BBRASIL.png" group-title="VARIEDADES", web TV Central do Brasil - ok
 https://stmv2.centralcast.com.br/central/central/chunklist_w2070955103.m3u8?
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c7f1888eb5ca1ae2dfc9fcf52616464.jpg" group-title="VARIEDADES", web TV Central do Brasil - ok -cxtv-logo-
+https://stmv2.centralcast.com.br/central/central/playlist.m3u8?cxtv-logo-cxtv-jp00
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nxTNB2/TV-CENTRAL-DO-BRASIL-0x-202x158.png" group-title="VARIEDADES", web TV Central do Brasil - ok
 https://stmv2.centralcast.com.br/central/central/chunklist_w2070955103.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MG9rvmf/TV-CENTRAL-DO-BRASIL-44x-M-red-202x158.png" group-title="VARIEDADES", web TV Central do Brasil - ok
 https://stmv2.centralcast.com.br/central/central/chunklist_w2070955103.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://radiocentraldobrasil.com.br/uploads/logo/logo_62d02001837360-56514151-79363431.png" group-title="VARIEDADES", web TV Central do Brasil - ok -logo-site-
+https://Stmv2.centralcast.com.br/central/central/playlist.m3u8?site-logo-jp03
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vKRsHwCXWZ8/YFTOMp7XPqI/AAAAAAAAEas/pB-XXd4ToD0uPH4P-N-m86MJ6lQD1ZK-gCLcBGAsYHQ/s0/TV%2BSANDEGI.png" group-title="VARIEDADES", TV Sandegi - ok
 https://video01.kshost.com.br:4443/antonio9510/antonio9510/chunklist_w1093267114.m3u8?
@@ -10035,10 +10080,10 @@ https://barbara.iptv2022.com/WBC_LIVE_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12811/thumb_logo_cei_novo_sem_fundo.png" group-title="TV AO VIVO", TV CEI
 https://alanza.iptv2022.com/TV_CEI/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12818/thumb_REDE_TV_SUL.png" group-title="TV AO VIVO", REDE TV SUL
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12818/thumb_REDE_TV_SUL.png" group-title="TV AO VIVO", REDE TV SUL (Rede TV! Mais-SC)
 https://alanza.iptv2022.com/REDE_TV_SUL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JpDLttX/REDE-TV-SUL-8x-M-white-256x178.png" group-title="TV AO VIVO", REDE TV SUL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JpDLttX/REDE-TV-SUL-8x-M-white-256x178.png" group-title="TV AO VIVO", REDE TV SUL (Rede TV! Mais-SC)
 https://alanza.iptv2022.com/REDE_TV_SUL/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12825/thumb_TV_POMBAL_.png" group-title="TV AO VIVO", TV POMBAL
@@ -10215,7 +10260,7 @@ https://alanza.iptv2022.com/CATVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xMQBZwB/TV-CATVE-8x-D-256x95.png" group-title="TV AO VIVO", TV CATVE -8x-D-
 https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7frVh5/TV-CATVE-19x-D-white-124x65.png" group-title="TV AO VIVO", TV CATVE -19x-D-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7frVh5/TV-CATVE-19x-D-white-124x65.png" group-title="TV AO VIVO", TV CATVE -19x-D- esse
 https://alanza.iptv2022.com/CATVE/index.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6NryBpm/TV-CATVE-3x-D-white-124x65.png" group-title="TV AO VIVO", TV CATVE -3x-D-
@@ -10356,7 +10401,7 @@ https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM6Vbbw/TV-MANA-1-10x-M-white-256x248.png" group-title="TV AO VIVO", TV MANÁ-1
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-tvbr
 
-#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="TV AO VIVO", TV MANÁ-1
+#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="TV AO VIVO", TV MANÁ-1 - site oficial
 https://w1.manasat.com:443/tvmana-1/smil:tvmana-1.smil/playlist.m3u8?site-oficial-logo-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZw7sQq/TV-MANA-2-10x-M-white-772x162.png" group-title="TV AO VIVO", Maná 2 | Portugal

@@ -698,7 +698,7 @@ https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/data/img/gallery/Slider/1616711626614.png" group-title="Variedades",  TV América (Os Trapalhões) - CE - Icapuí - ok= -logo-site-/site desativado-.top
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvamerica.radionline.top/admin/assets/img/logo.png" group-title="Variedades",  TV América (Os Trapalhões) - CE - Icapuí -logo-site-/site desativado-.top
+#EXTINF:-1 tvg-logo="" group-title="Variedades",  TV América (Os Trapalhões) - CE - Icapuí -logo-site-/(site desativado-.top)
 http://0.0.0.0?Icapuí-logo-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8X0xBNd/Tv-Recordacoes-Web-CE-0x-M-black-200x200.png" group-title="Desenhos/ Filmes/ Evangélica", Tv Recordações Web CE (Uma Emissora RePhyCom) - CE - Fortaleza - ok .novo.
@@ -716,7 +716,7 @@ https://stmv.video.expressolider.com.br/tvnovajerusalem/tvnovajerusalem/playlist
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ecd19d55a209e3212be60d5b7ee8462.jpg" group-title="Variedades", Tv Nacional News (Icapuí) -logo-cxtv/erro/site desativado-.top
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tv.nacionalnews.radionline.top/admin/assets/img/logo.png" group-title="Variedades", Tv Nacional News (Icapuí) -logo-transparente-site-/site desativado-.top
+#EXTINF:-1 tvg-logo="" group-title="Variedades", Tv Nacional News (Icapuí) -logo-transparente-site-/(site desativado-.top)
 http://0.0.0.0?Tv NacionalNews-logo-transparente
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe874f6723a1bb08e8a561bfffedbb90.jpg" group-title="Variedades", Tv Nova Manhã - CE - Icapuí -cx-site-/Fora do ar/site desativado=.top
@@ -761,7 +761,7 @@ https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b7873aca5064f3ee1dc629db9412a1d.jpg" group-title="Evangélica/ Variedades", Play Gospel TV (Fortaleza) -site Fora do ar/site desativado-
 https://5eaa6849d0971.streamlock.net/playgospeltv/playgospeltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8708/cabecalho-8708-20210215083020.png" group-title="Evangélica/ Variedades", Rádio Play Gospel TV (Fortaleza-CE) -site Fora do ar/site desativado-
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8708/cabecalho-8708-20210215083020.png" group-title="Evangélica/ Variedades", Rádio Play Gospel TV (Fortaleza-CE) -site Fora do ar/site desativado-(site acesso negado)
 https://stmv3.samcast.com.br/playgospel/playgospel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://focamundo.com/media/com_allvideoshare/videos/2020-10/whatsappimage20201028at21.16.255f9a2b19ba416.png" group-title="Seriados/ Música", Tv V.M (Madalena) +velho-link-site/site-Fora do ar-erro-(Foca Mundo)-
@@ -3410,6 +3410,9 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.jpg" group-title="Filmes/ Documentários", Ghost Tv - Brasil -cx-site-
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes/ Documentários", Ghost Tv - Brasil -cx-site- logo-jp
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes/ Documentários", Ghost Tv - Brasil -logo-site- (Site Suspeito de Virus-logo-png) Apaguei link
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?
 
@@ -3467,7 +3470,7 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="Filmes", Classique Western TV - Brasil -site-2
 https://StmV1.srvstm.com/classique2/classique2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rbtv.com.br/upload_arquivos/2021/04/2021040643656001617289862.png" group-title="Variedades", REDE BRASIL (RBTV) São Paulo/ SP -logo-preto-site-m3u8-ok
+#EXTINF:-1 tvg-logo="https://rbtv.com.br/upload_arquivos/2021/04/2021040643656001617289862.png" group-title="Variedades", REDE BRASIL (RBTV) São Paulo/ SP -logo-preto-site-m3u8-ok (site logo erro)
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP) -logo.iptv.transparente|site-player
@@ -3478,6 +3481,9 @@ https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cc2faa53cb8b284468eaeda099eec55.png" group-title="Cultura/ Variedades",RBTV |Rede Brasil de Televisão - Brasil -cx-m3u8-nv-
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rbtv.com.br/wp-content/uploads/2022/04/Sem-Titulo-1.png" group-title="Cultura/ Variedades", Rede Brasil . ok- .+novo. =site=
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-cxtv
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1168d93654f3ef828067c92506f6eeb5.png" group-title="Variedades", Tv Planalto Norte - Brasil |SC| Santa Catarina -cx-site-
 https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8
@@ -5212,6 +5218,12 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mX6edT97A7s/YTDxlBOjjhI/AAAAAAAAFQU/Fb7NZzr0cboYPp7PUPXJd3wkbVrofkszQCLcBGAsYHQ/s200/REDE%2BBRASIL.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo.
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo.
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8?logo-listaiptv-olhosnatv
+
+#EXTINF:-1 tvg-logo="https://rbtv.com.br/wp-content/uploads/2022/04/Sem-Titulo-1.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo. =site=
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-olhosnatv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/25rTxRt/BR-Super-TV-12x-256x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", BR Super TV (MG) RBTV - ok =logo.tvbrasilaovivo=
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8?logo-jp-transparente01
 
@@ -5918,6 +5930,12 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17mKy7b/Rede-TV-Sul-SC-11x-D-black-260x74.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -11x-D-
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp03
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2103f4c07b851d64b4c96955765a9a95.jpg" group-title="FILMES/ SERIADOS/ VARIEDADES", TV MAIS+ (Rede Tv Paraná) - ok ..cxtv.. novo
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?cxtv
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9077/cabecalho-9077-20220921180821.png" group-title="FILMES/ SERIADOS/ VARIEDADES", TV MAIS+ (Rede Tv Paraná) - ok ..site.. novo
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L05MWbk/Rede-TV-Mais-SC-18x-D-white-170x110.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -18x-D-
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp-1
@@ -9195,6 +9213,12 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="DOCUMENTÁRIOS/ VARIEDADES", Ghost TV - ok = (saiu do site)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1RHg9Xq/Ghost-TV-31x-M-D-D-white-200x200.png" group-title="DOCUMENTÁRIOS/ VARIEDADES", Ghost TV - ok = (saiu do site)
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp-1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCwggDX/Ghost-TV-95x-D-D-D-white-200x200.png" group-title="DOCUMENTÁRIOS/ VARIEDADES", Ghost TV - ok = (saiu do site)
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp-2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8GDbkz/Ghost-TV-30x-D-white-500x500.png" group-title="DOCUMENTÁRIOS/ VARIEDADES", Ghost TV - ok = (saiu do site)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp01-tvonline
 
@@ -9582,6 +9606,12 @@ https://alanza.iptv2022.com/RBTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qxNHkb1/REDE-BRASIL-99x-M-blue-256x256.png" group-title="TV AO VIVO", REDE BRASIL
 https://alanza.iptv2022.com/RBTV/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="TV AO VIVO", REDE BRASIL
+https://alanza.iptv2022.com/RBTV/index.m3u8?logo-listaiptv-tvbr
+
+#EXTINF:-1 tvg-logo="https://rbtv.com.br/wp-content/uploads/2022/04/Sem-Titulo-1.png" group-title="TV AO VIVO", Rede Brasil . ok- .novo. =site=
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11761/thumb_NOVA_ERA_TV_.jpg" group-title="TV AO VIVO", NOVA ERA TV
 https://alanza.iptv2022.com/NOVA_ERA_TV/index.m3u8
@@ -10641,6 +10671,9 @@ https://alanza.iptv2022.com/CANAL_VIDA/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13945/thumb_iBi_TV_.png" group-title="TV AO VIVO", iBi TV
 https://alanza.iptv2022.com/IBI_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9aa5f47971ce95210c0259adae957ab8.jpg" group-title="TV AO VIVO", iBi TV
+https://alanza.iptv2022.com/IBI_TV/index.m3u8?logo-cxtv-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13952/thumb_VINTAGE_TV.png" group-title="TV AO VIVO", VINTAGE TV
 https://alanza.iptv2022.com/VINTAGE_TV/index.m3u8

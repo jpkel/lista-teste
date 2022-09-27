@@ -1385,6 +1385,15 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ae91c4cf74883758ccfc13ad3830a44.png" group-title="Variedades", Tv Nordestina - PB - Campina Grande -youtube-teste-
 https://www.youtube.com/embed/live_stream?channel=UC1pXFbM6hPRkUUTeO3txrtw&autoplay=1
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3e049a2ae92c266234e366a9b4ece76.jpg" group-title="Variedades", Tv Nordestina - PB - Campina Grande
+https://alanza.iptv2022.com/tv_nordestina/index.m3u8?cxtv-01-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gF6YtT7/TV-Nordestina-59x-M-M-D-red-1078x760-esse.png" group-title="Variedades", Tv Nordestina - PB - Campina Grande (1078x760)
+https://alanza.iptv2022.com/tv_nordestina/index.m3u8?cxtv-02-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6MZq8y/TV-Nordestina-59x-M-M-D-red-1078x760.png" group-title="Variedades", Tv Nordestina - PB - Campina Grande (640x451)
+https://alanza.iptv2022.com/tv_nordestina/index.m3u8?cxtv-03-tvbr
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png" group-title="Variedades", TV Master - PB - João Pessoa
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 
@@ -1413,7 +1422,7 @@ https://livefocamundo.com:8081/8694/tracks-v1a1/mono.m3u8
 https://5e36c064a2f6a.streamlock.net:1936/8194/8194/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3a1adf7e7ed4aaf908e1bbb4dab3f16b.png" group-title="Evangélica", TV Cidade Viva - PB - João Pessoa -site-
-https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8
+https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8?cxtv-site
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/873e4acc282522805e58be020909f00c.png" group-title="Publicos", Tv Assembléia Paraíba - PB - João Pessoa
 http://200.164.225.175/hls/tvalpb.m3u8
@@ -5952,6 +5961,9 @@ https://5a0c3936c25c8.streamlock.net:443/8032/8032/playlist.m3u8?cxtv-site01
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/803571c05f24fd96726b7d55c49982c1.jpg" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok .cxtv.
 https://5a0c3936c25c8.streamlock.net:443/8032/8032/playlist.m3u8?cxtv-site02
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVNfX7M/Rede-TV-Mais-SC-55x-D-D-D-blue-200x200-esse.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok .cxtv.
+https://5a0c3936c25c8.streamlock.net:443/8032/8032/playlist.m3u8?cxtv-site03
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L05MWbk/Rede-TV-Mais-SC-18x-D-white-170x110.png" group-title="FILMES/ SERIADOS/ VARIEDADES", Rede TV Sul (SC) Rede TV! Mais - ok -18x-D-
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8?logo-jp-1
 
@@ -6733,7 +6745,7 @@ https://streaming01.zas.media/gideoes/programacao/chunklist_w453570075.m3u8?novo
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/3f6171c551bfebb0226b4f7d526a8e6f.jpg" group-title="EVANGÉLICOS", TV Gideões - ok .cxtv.novo.
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8?cxtv-novo
 
-#EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="EVANGÉLICOS", TV Gideões - ok -site- .novo.
+#EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2022/06/logotipo-tvgideoes.png" group-title="EVANGÉLICOS", TV Gideões - ok -site- .novo.
 https://streaming01.zas.media:443/gideoes/programacao/playlist.m3u8?site-tvGideoes
 
 #EXTINF:-1 tvg-logo="https://www.adcamboriu.com.br/wp-content/uploads/sites/3/2021/12/vozmissionaria.png" group-title="EVANGÉLICOS", Rádio Gideões - ok -site- .novo.
@@ -6834,6 +6846,9 @@ https://5cf4a2c2512a2.streamlock.net:443/8028/8028/playlist.m3u8?site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nb1FCD/TV-NOVA-FAM-LIA-118x118.jpg" group-title="FILMES/ VARIEDADES", TV Nova Família (Kids Mais) - ok-
 https://video01.logicahost.com.br/novafamilia/novafamilia/chunklist_w977125089.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/e414ab0d872ac5b8150c68992800059f.jpg" group-title="VARIEDADES", Rede América - ok ..cxtv-site..
+https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8?cxtv-site
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Zp6fZSXEFbo/YSz395FMS_I/AAAAAAAAFMQ/fI-ziKjGH3QjM0EUA2xaI7D_TUHaoZt8wCLcBGAsYHQ/s0/REDE%2BAM%25C3%2583%25E2%2580%25B0RICA%2BTV.png" group-title="VARIEDADES", REDE AMÉRICA TV - ok ..novo.. =só no site=
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8?logo-olhosnatv
@@ -8414,7 +8429,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunkl
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ybUhYHpRTLs/YMdlOCS8nTI/AAAAAAAAE3A/uvLY3HaqvSkYVS6m5MAo3MY1bcX6V9q5wCLcBGAsYHQ/s0/TV%2BCIDADE%2BVIVA.png" group-title="EVANGÉLICOS", TV Cidade Viva - ok
-https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8?olhosnatv
+https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbzyBKq/Radio-U-TV-200x112.png" group-title="MÚSICAS", RadioU' TV - ok
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v3a1/mono.m3u8?logo-jp
@@ -8569,8 +8584,14 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w2083294106.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhBXn4q/TVC-16-140x140.png" group-title="VARIEDADES", TVC 16 - ok
 https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w2083294106.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj6xGw6/WSN-TV-DO-CARRO-150x101.jpg" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok -saiu do site-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj6xGw6/WSN-TV-DO-CARRO-150x101.jpg" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok -olhosnatv- -saiu do site-
 https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/chunklist_w1709098635.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40991011bf6120ad724b97cba6b11097.jpg" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok ..cxtv.. -logo cxtv-
+https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/playlist.m3u8?cxtv-logo-cxtv
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40991011bf6120ad724b97cba6b11097.jpg" group-title="AUTOMÓVEIS/ TELEVENDAS", WSN TV do Carro - ok ..site.. -logo cxtv-
+https://video01.kshost.com.br/webseminovos5853/webseminovos5853/playlist.m3u8?t=1664203315
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mvZ45QT/MULTITVA-162x54.jpg" group-title="FILMES/ MÚSICAS", MultiTVA - ok
 https://livefocamundo.com:8081/multitva/index.m3u8?logo-jp

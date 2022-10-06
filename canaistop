@@ -5230,6 +5230,9 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8?olhosna
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo.
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8?logo-listaiptv-olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1y2Gt9/Rede-Brasil-8x-M-D-D-white-94x90.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo. =site=
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-olhosnatv-logo-jp
+
 #EXTINF:-1 tvg-logo="https://rbtv.com.br/wp-content/uploads/2022/04/Sem-Titulo-1.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo. =site=
 https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-olhosnatv
 
@@ -5277,6 +5280,9 @@ https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8?log
 
 #EXTINF:-1 tvg-logo="https://www.grupomarajoara.com.br/wp-content/uploads/sites/21/2021/11/logo-rodape.png" group-title="VARIEDADES", TV Marajoara (PA) Rede Brasil -IMPD- - ok .site.599X470
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8?logo-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftXjn14/TV-Radio-Super-Marajoara-70x-M-M-D-blue-870x720.png" group-title="VARIEDADES", TV Rádio Super Marajoara (PA) - ok .site.-70x-M-M-D-blue-870x720-
+https://streaming03.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8?logo-site-jp
 
 #EXTINF:-1 tvg-logo="https://www.grupomarajoara.com.br/wp-content/uploads/sites/21/2021/11/tv-super-marajoara.jpg" group-title="VARIEDADES", TV Rádio Super Marajoara (PA) - ok .site.1280x720
 https://streaming03.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8?logo-site
@@ -9606,6 +9612,18 @@ https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w10
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", Rede Livre - ok -novo- (saiu do site)
 https://srv6.zcast.com.br/wellington1125/wellington1125/chunklist_w90932085.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WV7zLH/PPZ-TV-68x-M-M-D-black-640x640.png" group-title="VARIEDADES", PPZ TV - ok -68x-M-M-D-black-
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8?logo-jp1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v44fb4S/PPZ-TV-25x-M-M-D-white-540x540.png" group-title="VARIEDADES", PPZ TV - ok -25x-M-M-D-white-
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8?logo-jp2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdN1Ydw/PPZ-TV-71x-M-M-D-black-640x640.png" group-title="VARIEDADES", PPZ TV - ok -71x-M-M-D-black-
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8?logo-jp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NJ9NdW/PPZ-TV-33x-M-D-D-white-540x540.png" group-title="VARIEDADES", PPZ TV - ok -33x-M-D-D-white-
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8?logo-jp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpNCYKp/PPZ-TV-30x-M-blue-iptv-640x640-00.png" group-title="VARIEDADES", PPZ TV - ok - (saiu do site/ site suspenso) - esse
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8?logo-jp-00
 
@@ -9841,7 +9859,10 @@ https://alanza.iptv2022.com/REDE_GAMA/index.m3u8?logo-jp-tvbr
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11467/thumb_Group_4.png" group-title="TV AO VIVO", Sou TV
 https://alanza.iptv2022.com/Sou_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1hPMpn/Sou-TV-30x-M-256x256.png" group-title="TV AO VIVO", Sou TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJjSvqZ/Sou-TV-18x-M-M-D-white-256x256.png" group-title="TV AO VIVO", Sou TV .esse?. -18x-M-M-D-white-
+https://alanza.iptv2022.com/Sou_TV/index.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1hPMpn/Sou-TV-30x-M-256x256.png" group-title="TV AO VIVO", Sou TV -30x-M-
 https://alanza.iptv2022.com/Sou_TV/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11922/thumb_TV_GUARULHOS.jpeg" group-title="TV AO VIVO", TV GUARULHOS (Com Brasil)
@@ -9859,13 +9880,13 @@ https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8?logo-jp01-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjC9fWS/Rede-Metropole-1x-M-white-256x256.png" group-title="TV AO VIVO", Rede Metrópole (TV Meio Norte-PI)
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8?logo-jp02-tvbr
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11607/thumb_Rede_Brasil_de_Televisa%CC%83o.png" group-title="TV AO VIVO", REDE BRASIL
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11607/thumb_Rede_Brasil_de_Televisa%CC%83o.png" group-title="TV AO VIVO", REDE BRASIL -logo.tvbr- velho
 https://alanza.iptv2022.com/RBTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxNHkb1/REDE-BRASIL-99x-M-blue-256x256.png" group-title="TV AO VIVO", REDE BRASIL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxNHkb1/REDE-BRASIL-99x-M-blue-256x256.png" group-title="TV AO VIVO", REDE BRASIL -logo.tvbr- velho
 https://alanza.iptv2022.com/RBTV/index.m3u8?logo-jp-tvbr
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="TV AO VIVO", REDE BRASIL
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="TV AO VIVO", REDE BRASIL -logo.listaiptv- velho
 https://alanza.iptv2022.com/RBTV/index.m3u8?logo-listaiptv-tvbr
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="TV AO VIVO", REDE BRASIL .novo. -tvbr-
@@ -9873,6 +9894,9 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w2086823315.m3u8?tvbras
 
 #EXTINF:-1 tvg-logo="https://rbtv.com.br/wp-content/uploads/2022/04/Sem-Titulo-1.png" group-title="TV AO VIVO", Rede Brasil . ok- .novo. =site=
 https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1y2Gt9/Rede-Brasil-8x-M-D-D-white-94x90.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TV ABERTA/ VARIEDADES", Rede Brasil . ok- .novo. =site=
+https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8?site-logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11761/thumb_NOVA_ERA_TV_.jpg" group-title="TV AO VIVO", NOVA ERA TV
 https://alanza.iptv2022.com/NOVA_ERA_TV/index.m3u8

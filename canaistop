@@ -5042,6 +5042,9 @@ https://59f1cbe63db89.streamlock.net:1443/tropicalrn/_definst_/tropicalrn/chunkl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="VARIEDADES", Record TV (RN) TV Tropical - ok .novo.3 (chunklist_w1380631920) ok=
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8?olhosnatv-logo-wikimedia
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Mania.png" group-title="VARIEDADES", Record TV (PA) TV Mania - ok ..novo..
+https://59f2354c05961.streamlock.net:1443/mania/_definst_/mania/chunklist_w204588615.m3u8?olhosnatv-logo-wikimedia
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f1/Logotipo_da_TV_Amplitude_%28Juara%29.png/200px-Logotipo_da_TV_Amplitude_%28Juara%29.png" group-title="VARIEDADES", Record TV MT 2 (TV Amplitude Juara) = ok.
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?olhosnatv-logo-wikimedia
 
@@ -9432,7 +9435,7 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nCVcLMC/88-STEREO-88-7-FM-188x188.png" group-title="MÚSICAS", 88 Stereo FM 88.7 (Costa Rica) - ok -
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?logo-branco-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rsy6BTQ/88-STEREO-88-7-FM-50x-M-yellow-188x188.png" group-title="MÚSICAS", 88 Stereo FM 88.7 (Costa Rica) - ok -
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsy6BTQ/88-STEREO-88-7-FM-50x-M-yellow-188x188.png" group-title="MÚSICAS", 88 Stereo FM 88.7 (Costa Rica) - ok -50x-M-yellow-
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tytjiNBqBM8/XKoyoriE2_I/AAAAAAAAAvA/H1C60lQnuSERtKDSgZ0M8JHLclRH5XN0wCPcBGAYYCw/s320/Screenshot_2019-04-07-13-47-18.png" group-title="VARIEDADES", TV Cidade Oeste - ok -
@@ -9615,7 +9618,7 @@ https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w10
 #EXTINF:-1 tvg-logo="https://redelivre.tv.br/themes/redelivre/assets/images/logo.png?v=1657831595" group-title="MÚSICAS", Rede Livre - ok -novo- (saiu do site.olhosnatv)
 https://srv6.zcast.com.br/wellington1125/wellington1125/chunklist_w90932085.m3u8?logo-site
 
-#EXTINF:-1 tvg-logo="https://redelivre.tv.br/themes/redelivre/assets/images/logo.png" group-title="MÚSICAS", Rede Livre - ok .site. -novo-
+#EXTINF:-1 tvg-logo="https://redelivre.tv.br/themes/redelivre/assets/images/logo.png?" group-title="MÚSICAS", Rede Livre - ok .site. -novo- =com logo.png?=
 https://srv6.zcast.com.br/wellington1125/wellington1125/playlist.m3u8?site-logo-site
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8813/cabecalho-8813-20210316154301.png" group-title="VARIEDADES", PPZ TV - ok .site. 
@@ -11280,4 +11283,10 @@ https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yata-apix-5cfc77d4-6185-4223-8cdc-7c714a3b43d6.s3-object.locaweb.com.br/d1cef157eeb44db2a45457f0b8dfb4e1.png" group-title="TV AO VIVO", Asian TV - (Soul TV) /TV - Variedades/
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8?logo-jp-site
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/049c98cb65e2cb33606d01d8003f1750.jpg" group-title="TV AO VIVO", Perú Channel - (Soul TV) /TV - Étnicos/
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gjWb8kF/Peru-Channel-100x100.png" group-title="TV AO VIVO", Perú Channel - (Soul TV) /TV - Étnicos/
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8?logo-jp-cxtv
 

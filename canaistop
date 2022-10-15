@@ -5054,6 +5054,12 @@ https://59f1cbe63db89.streamlock.net:1443/tropicalrn/_definst_/tropicalrn/chunkl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="VARIEDADES", Record TV (RN) TV Tropical - ok .novo.3 (chunklist_w1380631920) ok=
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8?olhosnatv-logo-wikimedia
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVGxn2oM2HXQ2HOxtG4BKPI2IaBYxoRYYFyFMv4Rr_of_Uf7MUkkDRPjxBGs4LUGW1Q04557niyQtl1hNkZ2y181ur1SuL1YN8d73qPzn7YxdqIBZ3RpTfhs7Ue2wT9u9IjYcXIgj-7zeT0pk1-GD0lcgCEJSYUK-L-y6qfGR_CnGvIgX3Ev3rlItw/s200/TV%20ANTENA%2010.png" group-title="VARIEDADES", Record TV (PI) TV Antena 10 - ok ..novo..
+https://video02.logicahost.com.br/a10mais/smil:transcoder.smil/chunklist_w14650277150.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Logotipo_da_TV_Antena_10.png" group-title="VARIEDADES", Record TV (PI) TV Antena 10 - ok ..novo..
+https://video02.logicahost.com.br/a10mais/smil:transcoder.smil/chunklist_w14650277150.m3u8?logo-wikimedia
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Mania.png" group-title="VARIEDADES", Record TV (PA) TV Mania - ok ..novo..
 https://59f2354c05961.streamlock.net:1443/mania/_definst_/mania/chunklist_w204588615.m3u8?olhosnatv-logo-wikimedia
 
@@ -5084,7 +5090,10 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8?olhosnatv-logo-wikimedia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Logotipo_da_SIC_TV.png" group-title="VARIEDADES", Record TV (RO) SIC TV - ok -velho- (chunklist) - saiu do site
 http://5953e7f9ae845.streamlock.net/2502/2502/chunklist_w55470983.m3u8?olhosnatv-logo-wikimedia
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q7HNrcq/SIC-TV-RO-0x-200x200.png" group-title="VARIEDADES", SIC TV RO - ok -novo- (playlist)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Logotipo_da_SIC_TV.png" group-title="VARIEDADES", Record TV (RO) SIC TV - ok -+novo- (chunklist) - saiu do site
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=9344098597268136000?olhosnatv-logo-wikimedia
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7HNrcq/SIC-TV-RO-0x-200x200.png" group-title="VARIEDADES", SIC TV RO - ok -novo- (playlist) .erro servidor.
 https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8?olhosnatv-logo-jp
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/sbt-interior-logo-12.png" group-title="TV ABERTA/ VARIEDADES", SBT Interior (SP) . ok -não transmitindo
@@ -7698,6 +7707,9 @@ https://alanza.iptv2022.com/Way_TV/tracks-v1a1/mono.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBbV3HW/WAY-TV-164x76.jpg" group-title="EVANGÉLICOS", WAY TV - ok .novo.
 https://alanza.iptv2022.com/Way_TV/tracks-v1a1/mono.m3u8?olhosnatv-logo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBbV3HW/WAY-TV-164x76.jpg" group-title="EVANGÉLICOS", WAY TV - ok .+novo.
+https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EaW3IpbOgnQ/X5C3V-_gR0I/AAAAAAAADfM/0e9ikoGQ1is7PexeoZYeIEZpEYOjn7H6ACLcBGAsYHQ/s0/URBAN%2BTV.png" group-title="VARIEDADES", Urban TV - ok
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w674642574.m3u8?
 
@@ -8141,6 +8153,18 @@ https://alanza.iptv2022.com/XTREMO_ORIENTAL/tracks-v1a1/mono.m3u8?logo-jp00-olho
 #EXTINF:-1 tvg-logo="https://i.ibb.co/47r625C/CS-TV-118x118.jpg" group-title="VARIEDADES", CS TV - -erro servidor-
 https://stmv1.srvstm.com/sedenir6377/sedenir6377/chunklist_w448991688.m3u8?logo-jp
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnC_auHpwgpaMaSybUVXV0--rj5P1loNHiOzZt6U2CMeoVEvNV1raKyihLeaxXHv9mvXAvBb2ASA1iJ5BLK8R-ot3FVljAmU2HueYiLteycOho7zrwZJFBX4chjwCQW8xzI_ueWmyBpC8y1h1DnMDAe7BiuQeiaK-ykAqT8BAd7qZ88E-KInYQn1g/s200/TV%20METEORO.png" group-title="VARIEDADES", TV Meteoro - ok ..novo..
+https://5a0c3936c25c8.streamlock.net/8012/8012/chunklist_w1067244052.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMTeqDn1hZbAuhUJHte9YcFi_A7oZRDOD7OSJI5_hs6XsMebFaO1JF0xSGLWlVYV57d36ETgWEmyoCiQPf5sd92_XTyurdxr3DPK0_y4kw3GkS_FSgBUffhxufBgwvF91dC2Nb4KGgZYFOpMYAut56txIS_e5n_e2Y6UrkqCPGoePreGQJEqwc-kdj/s200/TV%20JOVEM%20HITS.png" group-title="VARIEDADES", TV Jovem Htis - ok ..novo..
+https://video01.kshost.com.br/joao9563/joao9563/chunklist_w1917259232.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C8Gcf9J/WEB-TV-NPFD-100x100.jpg" group-title="VARIEDADES", Web TV NPFD - ok ..novo..
+https://stmv1.voxtvhd.com.br/webtvmpdf/webtvmpdf/chunklist_w1106848510.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju0Ut3I89ejNFp4-eb8g_kxsuvZ93wJILTho0btSfzwW9_JQZZQvkmL1-Mc4-SVGeUzKWQKD5i68FMqB6tiGX-5u7NNey8J3kQ65qpP_CFuThE93_w-J4Pffws-6l_oyLOFVbO9YXVJslK07dVONzIrRFc4-P0D62hlo3JgyXghfiRG9k2V7CuuNeW/s200/MATHIAS%20TV.png" group-title="VARIEDADES", Mathias TV - ok ..novo..
+https://stmv3.voxtvhd.com.br/mathiastv/mathiastv/chunklist_w538280747.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaV6yT-dWkD8Kj6CQIX-hYY7Z7cPVxBNJ_EpSfJ-SZI0DM6nkm9mZNd_JvPNvdQyflyMYl7nh66EqjtLW_RyMrZRi29kdCyRrwSlmO4aXCnGSYzuf4HkNVhzm1ubDacd6CqrM0itwhOUhPK-f6ny9Nt0kMvl2hKFQzgQJDDlnciOeLxBmoallUZb0o/s200/TV%20CARAUNAS.png" group-title="VARIEDADES", TV Caraunas - ok ..novo..
 https://stmv1.voxtvhd.com.br/tvcaraunas/tvcaraunas/chunklist_w832575719.m3u8
 
@@ -8344,6 +8368,9 @@ https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playli
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fHBRs2S/TV-DAS-ARTES-188x188.png" group-title="VARIEDADES", TV das Artes - ok--
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxXiMH4YdNjn3Xcj3pQwPkoVk6YsVUg2ijbC4VOKN04-2RG_LRfQEp_6m8Tcdwe_ku0d3_H_BKZ4CckajEtNE9s6hGlupnTTtY93Lw64WUSVAcdkssfTD5gKYVvKHhXkWrtvHytIsxSi05u43rAw_owkJoUQzRRD13uAUFqqkHZwE1rEaf2pX87W6k/s200/WEB%20R%C3%81DIO%20TV%20NJ.png" group-title="MÚSICAS", Web Rádio TV NJ - ok ..novo..
+https://stmv2.voxtvhd.com.br/webradiotvnj/webradiotvnj/chunklist_w1126671678.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcj9BHAWJqCDHvg8haI-WTWL39DBnKaY-7H9qCda6-q8db_HQQ7V-CzOmZMJzStjJHZIVu-jQBYOJd22tmpKlXzZb_Y5wMN9eMFOv5lQJNG1cgK9Q-iJPPrmX1Vj3MQx4QfW_2iaf4-E3UH2mNOimOMWpAHVFgFgtdj_BrMdlA8N0gDttCaUwOXWO/s200/VV8%20TV.png" group-title="VARIEDADES", VV8 TV - ok .novo.
 https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1971345064.m3u8?
@@ -11497,6 +11524,12 @@ https://alanza.iptv2022.com/REDE_IBTV/index.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RGpPs3/REDE-IBTV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", REDE IBTV -5x-M-M-D-
 https://alanza.iptv2022.com/REDE_IBTV/index.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15373/thumb_TV_WA.jpeg" group-title="TV AO VIVO", TV WA Notícias | WebTV
+https://alanza.iptv2022.com/TV_WA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z4Pb6Ry/WA-Noticias-Web-TV-12x-D-M-D-white-960-X960.png" group-title="TV AO VIVO", TV WA Notícias | WebTV
+https://alanza.iptv2022.com/TV_WA/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png" group-title="TV AO VIVO", TV Florida USA - (Soul TV) /TV - Variedades/
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8

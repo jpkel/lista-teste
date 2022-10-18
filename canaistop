@@ -10011,10 +10011,10 @@ https://alanza.iptv2022.com/TV_Aracati/index.m3u8?logo-jp-tvbr
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13798/thumb_CANAL_29.png" group-title="TV AO VIVO", CANAL 29 .
 https://alanza.iptv2022.com/CANAL_29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mJT733w/CANAL-29-8x-D-256x256.png" group-title="TV AO VIVO", CANAL 29 . -8x-D-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJT733w/CANAL-29-8x-D-256x256.png" group-title="TV AO VIVO", CANAL 29 . -8x-D- .+esse.
 https://alanza.iptv2022.com/CANAL_29/index.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1mQqVhk/CANAL-29-11x-M-D-D-black-256x256.png" group-title="TV AO VIVO", CANAL 29 . -11x-M-D-D-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mQqVhk/CANAL-29-11x-M-D-D-black-256x256.png" group-title="TV AO VIVO", CANAL 29 . -11x-M-D-D- .esse.
 https://alanza.iptv2022.com/CANAL_29/index.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lh5Qx1J/CANAL-29-12x-M-D-D-black-256x256.png" group-title="TV AO VIVO", CANAL 29 . -12x-M-D-D-
@@ -11608,6 +11608,18 @@ https://alanza.iptv2022.com/TV_WA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4Pb6Ry/WA-Noticias-Web-TV-12x-D-M-D-white-960-X960.png" group-title="TV AO VIVO", TV WA Notícias | WebTV
 https://alanza.iptv2022.com/TV_WA/index.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15394/thumb_TV_ROCK.png" group-title="TV AO VIVO", TV ROCK
+https://alanza.iptv2022.com/TV_Rock/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15401/thumb_BRASIL_TV.png" group-title="TV AO VIVO", BRASIL TV
+https://alanza.iptv2022.com/Brasil_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15408/thumb_REDE_MUNDO_TV.png" group-title="TV AO VIVO", REDE MUNDO TV
+https://alanza.iptv2022.com/Rede_Mundo_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15415/thumb_VIRTUAL_TV.png" group-title="TV AO VIVO", VIRTUAL TV
+https://alanza.iptv2022.com/Virtual_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png" group-title="Soul TV", TV Florida USA - (Soul TV) /TV - Variedades/
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8

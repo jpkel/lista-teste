@@ -6707,8 +6707,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MT5B2a5Wwq-jqu9h2lwAMUOG0lRpjY9zO3uXUS-00_yoP-pIrG7UGzPhO6sVYzJAKDosu9egmRciAiYphbKOZxZ-NugAwi4RnTnv5JcLgTH3oERqiVdY0mdvNzW_639G43rEiUHnLU-Q7XmPHoQnVgX5GvJL1Vu43-obeNzW8Z-dOCzY6lqmNZzQ/s200/COMBATE%20GLOBAL.png" group-title="ESPORTES", Combate Global - ok ..novo..
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZfjKZc0/COMBATE-GLOBAL-120x118.jpg" group-title="ESPORTES", Combate Global - ok ..novo..
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960?logo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZfjKZc0/COMBATE-GLOBAL-120x118.jpg" group-title="ESPORTES", Combate Global - ok ..novo.. (http-s)
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YLB2k08/QUEENS-UNITED-TV-141x100.jpg" group-title="VARIEDADES", Queens United TV - ok
 https://cdn.connectbr.com.br/Queens/video.m3u8?logo-jp
@@ -10140,6 +10140,9 @@ https://alanza.iptv2022.com/Fandom_TV/index.m3u8?logo-jp01-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdwy0sH/Fandom-TV-18x-M-black-256x144.png" group-title="TV AO VIVO", Fandom TV
 https://alanza.iptv2022.com/Fandom_TV/index.m3u8?logo-jp02-tvbr
 
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account967-i968/channel/373/thumb_TV_BUSQUE.jpg1-removebg-preview-1649947604.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil) .logo-maxcloudtv.
+https://alanza.iptv2022.com/TV_Brusque/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
 https://alanza.iptv2022.com/TV_Brusque/index.m3u8
 
@@ -10355,6 +10358,9 @@ https://alanza.iptv2022.com/TV_GUARULHOS/index.m3u8?logo-jp-tvbr
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11418/thumb_Group_21.png" group-title="TV AO VIVO", Rede Metrópole (TV Meio Norte-PI)
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account967-i968/channel/29/thumb_rede_metropole-16__1_-1633082831.png" group-title="TV AO VIVO", Rede Metrópole (TV Meio Norte-PI) .logo-maxcloudtv.
+https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cYMz5M0/Rede-Metropole-46x-M-black-256x256.png" group-title="TV AO VIVO", Rede Metrópole (TV Meio Norte-PI) .esse.
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8?logo-jp01-tvbr
 
@@ -10555,6 +10561,15 @@ https://alanza.iptv2022.com/CBC_TV_GOSPEL/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13721/thumb_TV_PRECABURA.png" group-title="TV AO VIVO", TV PRECABURA
 https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6grS2h2/TV-PRECABURA-4x-D-M-D-white-254x256.png" group-title="TV AO VIVO", TV PRECABURA -4x-D-M-D-254x256-
+https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8?logo-jp00-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c8Qbq1T/TV-PRECABURA-3x-D-M-D-white-254x256.png" group-title="TV AO VIVO", TV PRECABURA -3x-D-M-D-254x256-
+https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8?logo-jp01-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPkMS9Y/TV-PRECABURA-41x-D-M-D-blue-512x512.png" group-title="TV AO VIVO", TV PRECABURA -41x-D-M-D-blue-512x512-
+https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11404/thumb_Group_83.png" group-title="TV AO VIVO", TV MON HD
 https://alanza.iptv2022.com/TVMON_HD/index.m3u8
@@ -11213,6 +11228,12 @@ https://alanza.iptv2022.com/tv_beltrao/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12979/thumb_NOVA_TV_VALE.png" group-title="TV AO VIVO", NOVA TV VALE
 https://alanza.iptv2022.com/NOVA_TV_VALE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7jXfD4/NOVA-TV-VALE-61x-D-M-D-blue-256-X256.png" group-title="TV AO VIVO", NOVA TV VALE -61x-D-M-D- esse
+https://alanza.iptv2022.com/NOVA_TV_VALE/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9045/cabecalho-9045-20221006152208.png" group-title="TV AO VIVO", NOVA TV VALE .site.
+https://stmv7.samcast.com.br/alexandreantoniodasilva9954/alexandreantoniodasilva9954/playlist.m3u8?logo-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FBxJTyr/NOVA-TV-VALE-5x-M-white-256x144.png" group-title="TV AO VIVO", NOVA TV VALE
 https://alanza.iptv2022.com/NOVA_TV_VALE/index.m3u8?logo-jp01-tvbr

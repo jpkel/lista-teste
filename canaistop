@@ -7516,6 +7516,9 @@ https://livefocamundo.com:8081/allegrowebtv/index.m3u8?
 #EXTINF:-1 tvg-logo="https://www.diariodosertao.com.br/wp-content/themes/tema/img/apple-touch-icon-114x114.png" group-title="VARIEDADES", TV Diário do Sertão (TVDS) -https://0.0.0.9 -logo site-
 https://0.0.0.0?tvdiariodosertao-logo-site
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6rPFxH2/TV-Diario-do-Sertao-27x-M-M-D-black-114x114.png" group-title="VARIEDADES", TV Diário do Sertão (TVDS) -logo-olhosnatv-
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?logo-site1-olhosnatv
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zHuPwjiAKGE/XRkKjt01upI/AAAAAAAABQI/HybWWCewenYDsoPCXR88ouSYMOu2N9wiwCPcBGAYYCw/s320/Screenshot_2019-06-30-15-40-20.png" group-title="VARIEDADES", TV Diário do Sertão (TVDS) -logo-olhosnatv-
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?site1-logo-olhosnatv
 
@@ -10141,7 +10144,7 @@ https://alanza.iptv2022.com/Fandom_TV/index.m3u8?logo-jp01-tvbr
 https://alanza.iptv2022.com/Fandom_TV/index.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account967-i968/channel/373/thumb_TV_BUSQUE.jpg1-removebg-preview-1649947604.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil) .maxcloudtv.
-https://alanza.iptv2022.com/TV_Brusque/index.m3u8
+https://alanza.iptv2022.com/TV_Brusque/index.m3u8?logo-maxcloudtv
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11453/thumb_TV_Brusque_.png" group-title="TV AO VIVO", TV Brusque (Rede Brasil)
 https://alanza.iptv2022.com/TV_Brusque/index.m3u8
@@ -10233,6 +10236,18 @@ https://alanza.iptv2022.com/Rede_TV_belem/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11957/thumb_Dia%CC%81rio_do_Serta%CC%83o_.jpeg" group-title="TV AO VIVO", TV Diário do Sertão
 https://alanza.iptv2022.com/Diario_do_Sertao/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Z2rt1G/TV-Diario-do-Sertao-13x-D-M-D-red-256x123-1.png" group-title="TV AO VIVO", TV Diário do Sertão
+https://alanza.iptv2022.com/Diario_do_Sertao/index.m3u8?logo-jp01-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsTwJVX/TV-Diario-do-Sertao-13x-D-M-D-red-256x123-2.png" group-title="TV AO VIVO", TV Diário do Sertão
+https://alanza.iptv2022.com/Diario_do_Sertao/index.m3u8?logo-jp02-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6rPFxH2/TV-Diario-do-Sertao-27x-M-M-D-black-114x114.png" group-title="VARIEDADES", TV Diário do Sertão (TVDS) .site-logo-site.
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?logo-site1-tvbr
+
+#EXTINF:-1 tvg-logo="https://www.diariodosertao.com.br/wp-content/themes/tema/img/icon-header-tv-diario-sertao2.png" group-title="TV AO VIVO", TV Diário do Sertão .site.
+https://wz3.dnip.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?site-logo-site
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/10651/thumb_RTD_LOGO_b.png" group-title="TV AO VIVO", RT Documentary
 https://barbara.iptv2022.com/RTDOC-eng/index.m3u8
 
@@ -10247,6 +10262,9 @@ https://alanza.iptv2022.com/TV_BRASIL_HITS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11656/thumb_redesim.jpeg" group-title="TV AO VIVO", REDE SIM (tv Brasil-ES)
 https://alanza.iptv2022.com/Rede_Sim/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nkb6Xn/REDE-SIM-tv-Brasil-ES-6x-D-M-D-red-170x170.png" group-title="TV AO VIVO", REDE SIM (tv Brasil-ES)
+https://alanza.iptv2022.com/Rede_Sim/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11383/thumb_POLIDORO_TV_-_LOGOTIPO_AGRUPADO_-_PRETO_E_ROSA.png" group-title="TV AO VIVO", Polidoro TV (TV Teen Net Rio)
 https://alanza.iptv2022.com/TV_TEEN_NET_RIO/index.m3u8

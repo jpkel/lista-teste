@@ -5293,6 +5293,12 @@ https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8?jp-logo-teste2-12
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Byz6xxK/TV-Brusque-SC-132-X132.png" group-title="VARIEDADES", TV Brusque (SC) Rede Brasil - ok .novo.
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1000216306.m3u8?logo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzMsQc6/TV-BRUSQUE-1x-D-D-D-grey-130x130-1.png" group-title="VARIEDADES", TV Brusque (SC) Rede Brasil - ok .novo.
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1000216306.m3u8?logo-jp-001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMXt81n/TV-BRUSQUE-1x-D-D-D-grey-130x130-2.png" group-title="VARIEDADES", TV Brusque (SC) Rede Brasil - ok .novo.
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1000216306.m3u8?logo-jp-002
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwmCsFp/TV-Brusque-SC-3x-256x255-transparente.png" group-title="VARIEDADES", TV Brusque (SC) Rede Brasil - ok .novo.
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1000216306.m3u8?logo-jp-transparente
 
@@ -6974,11 +6980,17 @@ https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8?lo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok- -igual? não tem mais? -chunklist_w841902513- (olhosnatv)==01==
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8?olhosnatv-conferido-logo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nCSngG/TV-SIM-14x-M-M-D-white-118x118.png" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok- -igual? não tem mais? -chunklist_w841902513- (olhosnatv)==01==
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8?logo-jp-olhosnatv-118x118
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title="VARIEDADES", TV Sim Vitória (tv Brasil) - ok- =site= = =
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwqtnJk/TV-SIM-V-200x118.jpg" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- -igual? -playlist-480p- (olhosnatv)==02==
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?olhosnatv-conferido-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7bqJ15/TV-SIM-14x-M-D-D-white-118x118.png" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- -igual? -playlist-480p- (olhosnatv)==02==
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?logo-jp-olhosnatv-118x118
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/188745ccd0f35b5af5b1ce5681878502.jpg" group-title="VARIEDADES", TV SIM Linhares (tv Brasil) - ok- .cxtv.01
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?cxtv
@@ -7043,6 +7055,12 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FDUP3ke6RVM/YAHUxTRFZHI/AAAAAAAAEI4/K6-WWCsR2bcsexy-pDRul7eKlT8xua1TwCLcBGAsYHQ/s0/VIRTUAL%2BTV.png" group-title="VARIEDADES", Virtual TV - ok
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnRZYsq/VIRTUAL-TV-7x-M-M-D-white-200x188.png" group-title="VARIEDADES", Virtual TV - ok
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8?logo-jp-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKxnsH5/VIRTUAL-TV-8x-M-M-D-white-200x188.png" group-title="VARIEDADES", Virtual TV - ok
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8?logo0jp-02
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJGG9YrWrEVsycz-nXvoEVz7-aFOH1XsMzrLeI6yLQDIDHeWL89RO4-dMA9ChcKNAD9Xq6sSfQu3DXwf18PXRZx6pooawz8paLYIBtvct0EoQm483WuyX_IanXYIcnu6d_odnrDQj0JVMLcXJv1TZrgvmbHRKs2KwIlNb595SX4uVabJSmyX_apG7Z/s200/VALE%20EUROPEU%20TV.png" group-title="VARIEDADES", Vale Europeu TV - ok ..novo..
 https://cdn.jmvstream.com/w/LVW-8530/LVW8530_1osFVA5kOt/chunklist.m3u8
 
@@ -7062,7 +7080,10 @@ https://serv1.videovox.pw/video78620/video78620/chunklist_w1660782719.m3u8?RCI T
 https://video01.logicahost.com.br/manhutv/manhutv/chunklist_w709125219.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ySbHQLf/MANHU-TV-144x98.jpg" group-title="VARIEDADES", Manhu TV - ok ..novo..
-https://video01.logicahost.com.br/manhutv/manhutv/chunklist_w709125219.m3u8?logo-jp
+https://video01.logicahost.com.br/manhutv/manhutv/chunklist_w709125219.m3u8?logo-jp00
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQ8sWQW/MANHU-TV-32x-D-M-D-black-144x98.png" group-title="VARIEDADES", Manhu TV - ok ..novo..
+https://video01.logicahost.com.br/manhutv/manhutv/chunklist_w709125219.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bOP0ELVkc0Y/X69TUpRNJOI/AAAAAAAAD0E/1yYuZbIpMQkk5q-K3ACFvg9g503-lmxBACLcBGAsYHQ/s0/MASTER%2BSHOW%2BTV.png" group-title="CLÁSSICOS/ VARIEDADES", Master Show TV - ok
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8?
@@ -7276,6 +7297,9 @@ https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8?logo-cxtv-tes
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9m9GkYoaxog/YUihHzd1IDI/AAAAAAAAFl8/KTx1g8zG2g0w8nbrVIdY-rIeSyO15yKCQCLcBGAsYHQ/s200/AMAZON%2BSAT.png" group-title="VARIEDADES", Amazon Sat - ok -novo-
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RrRXB1/AMAZON-SAT-34x-D-D-D-black-152x98.png" group-title="VARIEDADES", Amazon Sat - ok -novo- =34x-D-D-D-black-152x98-olhosnatv=
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?logo-jp-152x98-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5pyT8k/Amazon-Sat-cx-33x-D-120x120.png" group-title="VARIEDADES", Amazon Sat - ok -novo- =-cx-33x-D-120x120=
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?logo-jp
@@ -10636,6 +10660,12 @@ https://alanza.iptv2022.com/CBC_TV_GOSPEL/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13721/thumb_TV_PRECABURA.png" group-title="TV AO VIVO", TV PRECABURA
 https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C02WJqf/TV-PRECABURA-6x-D-white-256x256.png" group-title="TV AO VIVO", TV PRECABURA --6x-D-white-256x256--
+https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8?logo-jp00-tvbr-00
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7CNwmr/TV-PRECABURA-5x-D-white-256x256.png" group-title="TV AO VIVO", TV PRECABURA --5x-D-white-256x256--
+https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8?logo-jp00-tvbr-01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6grS2h2/TV-PRECABURA-4x-D-M-D-white-254x256.png" group-title="TV AO VIVO", TV PRECABURA -4x-D-M-D-254x256-
 https://alanza.iptv2022.com/TV_PRECABURA/index.m3u8?logo-jp00-tvbr

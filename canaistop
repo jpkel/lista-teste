@@ -11610,6 +11610,9 @@ https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM6Vbbw/TV-MANA-1-10x-M-white-256x248.png" group-title="TV AO VIVO", TV MANÁ-1
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2T5NZs/TV-MANA-1-12x-M-D-D-white-256x53.png" group-title="TV AO VIVO", TV MANÁ-1 - (jp-01-editado-tvbr)
+https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-01-editado-tvbr
+
 #EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="TV AO VIVO", TV MANÁ-1 - site oficial
 https://w1.manasat.com:443/tvmana-1/smil:tvmana-1.smil/playlist.m3u8?site-oficial-logo-site
 
@@ -11621,6 +11624,11 @@ http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8?logo-jp
 https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
 
 site-oficial-tvmana3Linksite
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhn5X92/Mana-2-5x-M-D-D-white-256x53.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site) - (jp-editado-site)
+https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
+
+site-oficial-tvmana3Linksite-logo-jp-editado-site
 
 #EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
  - =teste-JP-link= (logo-site-oficial)

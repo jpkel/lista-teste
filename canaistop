@@ -8351,13 +8351,13 @@ https://stmv3.voxtvhd.com.br/mathiastv/mathiastv/chunklist_w538280747.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaV6yT-dWkD8Kj6CQIX-hYY7Z7cPVxBNJ_EpSfJ-SZI0DM6nkm9mZNd_JvPNvdQyflyMYl7nh66EqjtLW_RyMrZRi29kdCyRrwSlmO4aXCnGSYzuf4HkNVhzm1ubDacd6CqrM0itwhOUhPK-f6ny9Nt0kMvl2hKFQzgQJDDlnciOeLxBmoallUZb0o/s200/TV%20CARAUNAS.png" group-title="VARIEDADES", TV Caraunas - ok ..novo..
 https://stmv1.voxtvhd.com.br/tvcaraunas/tvcaraunas/chunklist_w832575719.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2yDdHr/TV-EL-SHADAI-SALVADOR-100x100.jpg" group-title="EVÁNGELICOS", TV El-Shadai Salvador - ok ..novo..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2yDdHr/TV-EL-SHADAI-SALVADOR-100x100.jpg" group-title="EVANGÉLICOS", TV El-Shadai Salvador - ok ..novo..
 https://stmv1.voxtvhd.com.br/8000/8000/chunklist_w460641440.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6n9ByMx/MDG-TV-162x78.jpg" group-title="EVÁNGELICOS", MDG TV - ok ..novo..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6n9ByMx/MDG-TV-162x78.jpg" group-title="EVANGÉLICOS", MDG TV - ok ..novo..
 https://streaming03.zas.media:1936/mdgtv/mdgtv/chunklist_w1027308776.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bWQCszy/MDG-TV-49x-D-D-D-black-162x78.png" group-title="EVÁNGELICOS", MDG TV - ok ..novo..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bWQCszy/MDG-TV-49x-D-D-D-black-162x78.png" group-title="EVANGÉLICOS", MDG TV - ok ..novo..
 https://streaming03.zas.media:1936/mdgtv/mdgtv/chunklist_w1027308776.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYDVzFOfx5IK6uXMPO3GgjrOBr3nhTm0ENtYTtRp64174KNd-w07PQ0h_MREDTaeMkHWv0xssVlpBwamhU0fwboLyrxCyZQcGl60bBme208a1BmlgrcZq7YsGbxTy9XrtK_rAxI60VEHDHNeVFzPgnNaEK-WpfGceVByd0Bv4Ogm13TW3upxRSnZrK/s200/TV%20GRANDE%20ABC.png" group-title="VARIEDADES", TV Grande ABC - ok ..novo..
@@ -11598,6 +11598,9 @@ https://alanza.iptv2022.com/KURIAKOS_CINE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W524H6t/KURIAKOS-CINE-9x-M-white-256x256.png" group-title="TV AO VIVO", KURIAKOS CINE
 https://alanza.iptv2022.com/KURIAKOS_CINE/index.m3u8?logo-jp-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGGZQL6/KURIAKOS-CINE-12x-D-M-D-white-256x256.png" group-title="TV AO VIVO", KURIAKOS CINE
+https://alanza.iptv2022.com/KURIAKOS_CINE/index.m3u8?logo-jp01-tvbr
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13840/thumb_KURIAKOS_TV.png" group-title="TV AO VIVO", KURIAKOS TV
 https://alanza.iptv2022.com/KURIAKOS_TV/index.m3u8
 
@@ -11612,6 +11615,9 @@ https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2T5NZs/TV-MANA-1-12x-M-D-D-white-256x53.png" group-title="TV AO VIVO", TV MANÁ-1 - (jp-01-editado-tvbr)
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-01-editado-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jyt9BX/TV-MANA-1-0x-rgba-0-0-0-0-D-M-D-256x53.png" group-title="TV AO VIVO", TV MANÁ-1 - (jp-02-editado-tvbr)
+https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-02-editado-tvbr
 
 #EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="TV AO VIVO", TV MANÁ-1 - site oficial
 https://w1.manasat.com:443/tvmana-1/smil:tvmana-1.smil/playlist.m3u8?site-oficial-logo-site
@@ -11628,7 +11634,7 @@ site-oficial-tvmana3Linksite
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhn5X92/Mana-2-5x-M-D-D-white-256x53.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site) - (jp-editado-site)
 https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
 
-site-oficial-tvmana3Linksite-logo-jp-editado-site
+site-oficial-tvmana3Linksite-jp
 
 #EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
  - =teste-JP-link= (logo-site-oficial)

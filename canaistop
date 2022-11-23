@@ -5072,6 +5072,9 @@ https://59f2354c05961.streamlock.net:1443/mania/_definst_/mania/playlist.m3u8?ol
 #EXTINF:-1 tvg-logo="http://www.tvmaniacanal33.com.br/storage/143/config/3Cy99GfW6imYpMgVjfWOmghlShfxL1Rl1aq2fcta.png" group-title="VARIEDADES", Record TV (PA) TV Mania - ok ..novo..
 https://59f2354c05961.streamlock.net:1443/mania/_definst_/mania/playlist.m3u8?olhosnatv-site
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="VARIEDADES", Record TV (MT) TV Vila Real - ok? ..novo..
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/chunklist_w1155933399.m3u8?olhosnatv-logo-wikimedia
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f1/Logotipo_da_TV_Amplitude_%28Juara%29.png/200px-Logotipo_da_TV_Amplitude_%28Juara%29.png" group-title="VARIEDADES", Record TV MT 2 (TV Amplitude Juara) = ok.
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?olhosnatv-logo-wikimedia
 
@@ -5935,6 +5938,9 @@ https://stmv2.srvsh.com.br/classiquetv2/classiquetv2/chunklist_w1050087003.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7-eLBLlWz13oEQOK3a6szHZl5uvK3Tt42D1VHY37Bt1CUgqhWaqzaetoFwZCVID9dLdKdCDey1EgFRGrhFBaPQXyy42mc6AjNR0M-1n25Q6o4IELmfqZOOfSGN6pIXFfz67xvKRX56naSKiCV2rE3AX-80HN1-GFLsy6YhRroy8tGfi8tPuGI3Vqe/s200/TV%20LAGOA%20DANTAS.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV Lagoa Dantas - ok .novo.
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8?
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9FIrg665zMT0CC6n6wGd1IswHHfcU2HUjvtyFXvmZXOeZCd71Mh0st0tLe5HRo72dMM-HH3MCo1ju9Pkf9UYjW0sv0jt1HOHu323rM7zaUdHkgc90Ng6ATpEBeAuWouOoPoNxjgB2fS6YrKTNj4xV3G5u0kk1vKIjpUHFHYjFuULBsReazumnAMYp/s200/TV%20LAGOA%20DANTAS.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV Lagoa Dantas - ok .logo+novo.
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8?logo-novo
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KYvzmUsJJ2g/YTV1PtOh1KI/AAAAAAAAFaE/c-bJUCqS0xsusNQwmWHfNrRkbj4-D3OVwCLcBGAsYHQ/s200/TV%2BARACATI.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Aracati - ok --
 https://livefocamundo.com:8081/tvaracati/index.m3u8?olhosnatv
 
@@ -6264,6 +6270,12 @@ https://stmv2.samcast.com.br/jose8272/jose8272/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJtJ3LCU_pyjMw63dH6az0y6NFmcbAR0p5fF0xmVJBhNzYoGNkkBPgn6GgkfgWmtzpnbbOK-n4YBguCT14veq2lnctzOlEi5A1Pha6PGZw0mvHNbBbZkc5PK3E9Z0BGK2zgW6_j7Ka1Wy0zuBFn7JYo16ux6QwdZmWYVaAY6AnwSq_olOYzYJhjR8m/s200/TV%20BRASIL%20HITS.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV Brasil Hits - ok
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB_LAkCvUJZFvEmRaIFQekfC_gz59IV-HxhqL6G61kp24E_W2OvahHpUU3tvNJ6AXnoBTJbmhzpRYqaBFaWSifeQwx6TFOx-OgWyj9ci70H-4m-FioS8rgxgJ5bD6mJijdyHekgWXDkU-aqWVYN58qBvkrZayiM9feLjJvCvpyx16nuOxDjAECXTly/s200/CHRISTMAS%20TV.png" group-title="FILMES/ FILMES 24H", Christmas TV - ok ..novo..
+https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xyfrw9Z/CHRISTMAS-TV-166x26.jpg" group-title="FILMES/ FILMES 24H", Christmas TV - ok ..novo.. =logo-166x26=
+https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ydfz5Mc/SIC-PORTUGAL-200x118.jpg" group-title="VARIEDADES", SIC Portugal - ok
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?logo-jp01
@@ -6680,8 +6692,17 @@ https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w1328767658.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpSC1s5/KPOP-TV-PLAY-166x74.jpg" group-title="MÚSICAS", Kpop TV Play - ok
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8?
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES", Red Bull TV - ok
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES", Red Bull TV - ok ..velho..
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMPLP4M/Red-Bull-TV-205x188.png" group-title="ESPORTES", Red Bull TV - ok ..novo.. =logo-205x188=
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?logo-jp00
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swc5nKx/Red-Bull-TV-4x-D-M-D-white-205x188.png" group-title="ESPORTES", Red Bull TV - ok ..novo.. -4x-D-M-D-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VN5vr6f/Red-Bull-TV-6x-D-M-D-white-205x188.png" group-title="ESPORTES", Red Bull TV - ok ..novo.. -6x-D-M-D-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WRIKFzmeSTM/YC_YhgEa99I/AAAAAAAAET0/UL5FVqoLxBADwmPU-i3a9sjrGUNfotIeQCLcBGAsYHQ/s0/TV%2BJUNDIA%25C3%258D%2BHOJE.png" group-title="DESENHOS/ FILMES/ VARIEDADES", TV Jundiaí Hoje - ok
 https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1281790634.m3u8?
@@ -6841,6 +6862,12 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist-480p.m3u8?
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ihn-xuSrHwQ/X6RHU0JSLII/AAAAAAAADuM/IvGc0VCyhQMpLpBUmh2EOcSuSqUGjgNZwCLcBGAsYHQ/s0/TV%2BADQS.png" group-title="ESPORTES", TV ADQS - ok
 https://stmv1.srvif.com/adqstv/adqstv/chunklist_w1060643463.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6wD5Bn4/TV-ADQS-188x188.png" group-title="ESPORTES", TV ADQS - ok
+https://stmv1.srvif.com/adqstv/adqstv/chunklist_w1060643463.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7k8c0ZW/TV-ADQS-16x-M-M-D-white-188x188.png" group-title="ESPORTES", TV ADQS - ok
+https://stmv1.srvif.com/adqstv/adqstv/chunklist_w1060643463.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lJ54ouA0oQE/X4HwEUsYB_I/AAAAAAAADaQ/B7OTviGNNE8wsCosEwcowkjPwTd6m_wwwCLcBGAsYHQ/s0/TV%2BPORTAL%2BATIVO.png" group-title="MÚSICAS/ VARIEDADES", TV Portal Ativo - ok
 https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8?
@@ -7373,8 +7400,17 @@ https://livefocamundo.com:8081/tvcnb/mono.m3u8?logo-jp-01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85jVmDv/TV-CNB-Orlando-166x84.jpg" group-title="FILMES/ VARIEDADES", TV CNB Orlando - ok
 https://livefocamundo.com:8081/tvcnb/mono.m3u8?logo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HdxzLMQ/ELEMENTAL-CHANNEL-102x102.jpg" group-title="VARIEDADES", Elemental Channel - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdxzLMQ/ELEMENTAL-CHANNEL-102x102.jpg" group-title="VARIEDADES", Elemental Channel - ok -102x102-
 https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w1123244825.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5TW64Z/ELEMENTAL-CHANNEL-118x118.jpg" group-title="VARIEDADES", Elemental Channel - ok -118x118-
+https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w1123244825.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rsvrh/ELEMENTAL-CHANNEL-26x-M-M-D-white-118x118.png" group-title="VARIEDADES", Elemental Channel - ok -26x-M-M-D-
+https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w1123244825.m3u8?logo-jp02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM7RFvB/ELEMENTAL-CHANNEL-27x-D-M-D-white-118x118.png" group-title="VARIEDADES", Elemental Channel - ok -27x-D-M-D-
+https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w1123244825.m3u8?logo-jp03
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vOD4b2bfrZE/X0p84SyENMI/AAAAAAAADM8/iSTYUCpEN_Q3evEu0rNEdLmnbkPz1rMzACLcBGAsYHQ/s320/Screenshot_2020-08-29-13-02-39.png" group-title="VARIEDADES", TV Rio Madeira - ok
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/chunklist_w951100792.m3u8?
@@ -8290,6 +8326,12 @@ https://alanza.iptv2022.com/XTREMO_ORIENTAL/tracks-v1a1/mono.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHRC6gK/TV-EXTREMO-ORIENTAL-10x-M-white-118x118.png" group-title="VARIEDADES", TV Extremo Oriental - ok
 https://alanza.iptv2022.com/XTREMO_ORIENTAL/tracks-v1a1/mono.m3u8?logo-jp00-olhosnatv
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FW2O4kBZ8SCKQQHyXyClZYLJHj7fC5K6pAjPxWRWek4ErOl13N-Y8rlD1_ktEETN-rxwJpJnWb7D3ZZPWtX2036WCmr22SaAa5mhGq6kIsYUvQNkvL197Zihsy2mUpdwHAkBH_lVULQTe2AlwDNz9KBhr9ZiDBA_xtAzhgRNGgzdMIpLTzF8WqDC/s200/TV%20MARQUES.png" group-title="VARIEDADES", TV Marques - ok ..novo..
+https://srv1.video.xradios.com.br/tvmarques/tvmarques/chunklist_w878283651.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxHMcBP/TV-MARQUES-20x-M-M-D-white-200x118.png" group-title="VARIEDADES", TV Marques - ok ..novo..
+https://srv1.video.xradios.com.br/tvmarques/tvmarques/chunklist_w878283651.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEOXYqLgk4x16-i7408dwhX4Au2xUguJ10mEw7Gd3cJ24JwKe6zljwe3paq7lZ6M8fZ5N69iurx0nsyffiaCJWaieDGF58xr6BiL70-pLv5ryvrpTG-F5YPc-x2yLz4TzXSu0bTreTytC6V8tZRZH8uOLwC7Ye-tS_LVW2MYAg6n8vnS6sFubh3wAX/s200/TV%20ABC%20BRASIL.png" group-title="EVANGÉLICOS", TV ABC Brasil - ok ..novo..
 https://cdn.jmvstream.com/w/AVJ-9723/playlist/chunklist.m3u8
@@ -9918,6 +9960,9 @@ http://177.74.174.57:8080/hls/tvsj.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sFrFXd3/TV-SAO-JOSE-188x188.png" group-title="SERIADOS/ VARIEDADES", TV São José - ok -
 http://177.74.174.57:8080/hls/tvsj.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0jG9KC/TV-Sao-Jose-2x-M-M-D-white-188x188.png" group-title="SERIADOS/ VARIEDADES", TV São José - ok -2x-M-M-D-
+http://177.74.174.57:8080/hls/tvsj.m3u8?logo-jp01
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9NbN05n1vvo/XcmNjNDdZAI/AAAAAAAACPM/Lk-B9aE75YUqIH7FC6v6yksAYpBhDeT4QCLcBGAsYHQ/s320/Screenshot_2019-11-11-13-30-41.png" group-title="AUTOMÓVEIS", Garage TV (Argentina) - ok -olhosnatv- .carregando.
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist.m3u8?
@@ -11613,6 +11658,9 @@ https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QM6Vbbw/TV-MANA-1-10x-M-white-256x248.png" group-title="TV AO VIVO", TV MANÁ-1
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WtZ0cbG/TVMANA1-site-50x-M-D-D-white-350x300.png" group-title="TV AO VIVO", TV MANÁ-1 - (jp-00-site)
+https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-00-site
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2T5NZs/TV-MANA-1-12x-M-D-D-white-256x53.png" group-title="TV AO VIVO", TV MANÁ-1 - (jp-01-editado-tvbr|fundo erro)
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8?logo-jp-01-editado-tvbr
 
@@ -11631,18 +11679,25 @@ https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
 
 site-oficial-tvmana3Linksite
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhn5X92/Mana-2-5x-M-D-D-white-256x53.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site) - (jp-editado-site)
-http://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mX1VtMP/TVMANA2-site-9x-M-M-D-white-350x300.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site)=(jp00-editado-site)=(
 
-site-oficial-tvmana3-Link-site
+site-oficial-tvmana3-Link-site) .?.
+https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
+
+site-oficial-tvmana-3-Link-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhn5X92/Mana-2-5x-M-D-D-white-256x53.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site)=(jp01-editado-site)=(
+
+site-oficial-tvmana3-Link-site) .?.
+https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
- - =teste-JP-link= (logo-site-oficial)
-https://w1.manasat.com:443/tvmana-3/smil:tvmana-3.smil/playlist.m3u8?
+ - =teste-JP-link= (logo-site-oficial) .?.
+https://w1.manasat.com:443/tvmana-3/smil:tvmana-3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
- - (logo-site-oficial)
-http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8?
+ - (logo-site-oficial) .?.
+http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13854/thumb_TV_MANA%CC%81_BRASIL.png" group-title="TV AO VIVO", TV MANÁ BRASIL
 https://alanza.iptv2022.com/TV_MANA_BRASIL/index.m3u8

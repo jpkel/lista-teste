@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
@@ -12211,6 +12211,12 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp01-tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYs1HRC/GHOST-TV-12x-D-M-D-white-256x242.png" group-title="TV AO VIVO", GHOST TV -12x-D-M-D-
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp02-tvbr
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/15723/logo_256_1669787402.png" group-title="TV AO VIVO", TV BOAS NOVAS - ?logo?
+https://helga.iptv2022.com/TV_BOAS_NOVAS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://limehd.tv/static/channel/15730/logo_256_1669787645.jpeg" group-title="TV AO VIVO", CARAVANA PLAY - ?logo?
+https://alanza.iptv2022.com/CARAVANA_PLAY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png" group-title="Soul TV", TV Florida USA - (Soul TV) /TV - Variedades/
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8

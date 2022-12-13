@@ -5135,13 +5135,19 @@ https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png" group-title="VARIEDADES", SBT (GO) TV Serra Dourada . ok- (chunklist)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png" group-title="VARIEDADES", SBT (GO) TV Serra Dourada - ok? ..novo..
+https://j5umwxziy3.zoeweb.tv/tvsd2/smil:tvsd2_64eS8OiMSj8l.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png" group-title="VARIEDADES", SBT (GO) TV Serra Dourada - ok? ..novo..
+https://j5umwxziy3.zoeweb.tv/tvsd2/smil:tvsd2_64eS8OiMSj8l.smil/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzA4OTc2MzcsIm5iZiI6MTY3MDg5NzYzNywiZXhwIjoxNjcwODk3NjM3LCJpc3MiOiJ6b2V2aWRlb3MubmV0IiwianRpIjoiMTk0MDAwMzkwNTYzOTdkZmU1NDNiMGY4LjA1MDI1OTU3IiwiY2xpZW50ZSI6IjQ1LjcwLjY3LjIxMiIsImNsaWVudCI6IjQ1LjcwLjY3LjIxMiJ9.SeGZaSK_o2W2BMMA0nMvYyNd60TImZ9MuT2g9nWVcrA
+
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvjangadeiro.png" group-title="VARIEDADES", SBT (GO) TV Serra Dourada . ok -cxtv-Jang- (playlist)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?cxtv-Jangadeiro-logo-wikimedia
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jangadeiro-hd_m.png" group-title="VARIEDADES", SBT (GO) TV Serra Dourada . ok -cxtv-Jang- (playlist)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?cxtv-Jangadeiro-logo-mitvstatic
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv- ..logo erro..
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-jornal-2010-logo-639E1B9674-seeklogo.com.png" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv- (Retirar logo)
@@ -5416,11 +5422,11 @@ https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8?olhosnatv-logo-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="VARIEDADES", Rede TV! (PI) TV O Dia
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8?olhosnatv-logo-wikimedia
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/Logomarca_TV_Arapuan.png" group-title="VARIEDADES", Rede TV! (PB) TV Arapuan . ok-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/Logomarca_TV_Arapuan.png" group-title="VARIEDADES", Rede TV! (PB) TV Arapuan . ok- .velho.
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w2105815766.m3u8?olhosnatv-logo-wikimedia
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/Logomarca_TV_Arapuan.png" group-title="VARIEDADES", Rede TV! (PB) TV Arapuan . ok- ..novo..
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1350633011.m3u8?
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1350633011.m3u8?olhosnatv-logo-wikimedia
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="VARIEDADES", Rede TV! Tocantins . ok- ..
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8?olhosnatv
@@ -5626,11 +5632,14 @@ https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?olhosnat
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TTvypYf/TV-Preve.png" group-title="EDUCATIVOS", TV Preve (tv Brasil 2) . ok- .novo. olhosnatv
 https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w1536197057.m3u8?logo-jp-ok
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghjfDYax1obSCj4vuUOcaQai6v_iDhLlWbdgQN28Ij9B4NCIEA8NVI0DZztwgG3by5srZVOgSGWGbVgzXWVdaCtF-DtFmQuYIm4HpOqcq1CxJiORFeNqdl_GHBX2I03IVFqUFh-SvKaWEqR7cNYawNeqENjpk9-qHaqHR0qaLjUuY3qbccVujOx9v/s200/TV%20GUARAPARI.png" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok -novo-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghjfDYax1obSCj4vuUOcaQai6v_iDhLlWbdgQN28Ij9B4NCIEA8NVI0DZztwgG3by5srZVOgSGWGbVgzXWVdaCtF-DtFmQuYIm4HpOqcq1CxJiORFeNqdl_GHBX2I03IVFqUFh-SvKaWEqR7cNYawNeqENjpk9-qHaqHR0qaLjUuY3qbccVujOx9v/s200/TV%20GUARAPARI.png" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok -velho-
 https://video.wellhost.com.br/tvguarapari/tvguarapari/chunklist_w1928388858.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzLBqr0/TV-GUARAPARI-118x118.jpg" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok -novo-
-https://video.wellhost.com.br/tvguarapari/tvguarapari/chunklist_w1928388858.m3u8?logo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzLBqr0/TV-GUARAPARI-118x118.jpg" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok ..+novo.. -logo-jp-
+https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/chunklist_w1914698734.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/LOGO-TV-GUARAPARI.png" group-title="VARIEDADES", TV Guarapari (tv brasil) - ok ..+novo..
+https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/chunklist_w1914698734.m3u8?logo-wikimedia-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vwdHS2/TV-DIVERSA.png" group-title="CULTURAS/ VARIEDADES", TV Diversa (tv Brasil) - ok .velho.
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/tracks-v1a1/mono.m3u8?logo-jp-teste
@@ -9671,8 +9680,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMyKJHKf9Vw/X6X1fIzNhlI/AAAAAAAADu4/GFLlj3NuIWM511dUqwnEFtR2v763M72xACLcBGAsYHQ/s0/TODO%2BNOTICIAS.png" group-title="NOTÍCIAS DO MUNDO", TN - Todo Noticias - ok
 https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/817291?site
 
-#EXTINF:-1 tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/2/3/6/0/23603848/23603848,192x192,r:2.jpg" group-title="VARIEDADES", Bem Mais TV -site- .novo. (https://iphone-streaming.ustream.tv/uhls/23603848/streams/live/iphone/playlist.m3u8) Com (S) https
-https://iphone-streaming.ustream.tv/uhls/23603848/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/2/3/6/0/23603848/23603848,192x192,r:2.jpg" group-title="VARIEDADES", Bem Mais TV -site- .novo. (https://iphone-streaming.ustream.tv/uhls/23603848/streams/live/iphone/playlist.m3u8) =Sem (S)= | =Com (S) https= ..novo..
+http://iphone-streaming.ustream.tv/uhls/23603848/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-H3iMiuikbNk/XXGrrochtvI/AAAAAAAABvI/MMqQgSQZhzMQUk-WbkLW5OAE87r3oKcUwCLcBGAs/s320/Screenshot_2019-09-05-20-58-02.png" group-title="VARIEDADES", Bem Mais TV -site-erro-teste-1 
 https://www.ustream.tv/embed/23603848?html5ui&autoplay=true?
@@ -10539,11 +10548,20 @@ https://alanza.iptv2022.com/Rede_Sim/index.m3u8?logo-jp-tvbr
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11383/thumb_POLIDORO_TV_-_LOGOTIPO_AGRUPADO_-_PRETO_E_ROSA.png" group-title="TV AO VIVO", Polidoro TV (TV Teen Net Rio)
 https://alanza.iptv2022.com/TV_TEEN_NET_RIO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgqwVHg/Polidoro-TV-5x-D-M-D-yellow-136x118.png" group-title="TV AO VIVO", Polidoro TV (TV Teen Net Rio) -5x-D-M-D-
+https://alanza.iptv2022.com/TV_TEEN_NET_RIO/index.m3u8?logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5h73hR/Polidoro-TV-5x-D-D-D-yellow-136x118.png" group-title="TV AO VIVO", Polidoro TV (TV Teen Net Rio) -5x-D-D-D-
+https://alanza.iptv2022.com/TV_TEEN_NET_RIO/index.m3u8?logo-jp02
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15009/thumb_TV_TeenNet.jpeg" group-title="TV AO VIVO", TV TeenNet (TV Evangelizar)
 https://alanza.iptv2022.com/TV_TeenNet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hMDGKgK/TV-Teen-Net-12x-M-M-D-white-256x256.png" group-title="TV AO VIVO", TV TeenNet (TV Evangelizar)
 https://alanza.iptv2022.com/TV_TeenNet/index.m3u8?logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.boxbrazilplay.tv.br/assets/images/logos-canais/tvteen-COLO.png" group-title="TV AO VIVO", TV TeenNet (TV Evangelizar)
+https://alanza.iptv2022.com/TV_TeenNet/index.m3u8?logo-site-boxbrazilplay
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11411/thumb_Group_88.png" group-title="TV AO VIVO", TV Carioca Net
 https://alanza.iptv2022.com/TV_CariocaNet/index.m3u8
@@ -10787,6 +10805,9 @@ https://alanza.iptv2022.com/TVPAMPA-ptbr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNJQcv4/TV-PAMPA-5x-M-white-256x256.png" group-title="TV AO VIVO", TV Pampa (Rede TV!) -5x-M-
 https://alanza.iptv2022.com/TVPAMPA-ptbr/index.m3u8?logo-jp
 
+#EXTINF:-1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2021/11/LOGO-TV-PAMPA-PNG-300x78.png" group-title="TV AO VIVO", TV Pampa (Rede TV!) -
+https://alanza.iptv2022.com/TVPAMPA-ptbr/index.m3u8?logo-jp-site-redepampa
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11537/thumb_Group_49.png" group-title="TV AO VIVO", TV A Folha
 https://alanza.iptv2022.com/Folha_TV/index.m3u8
 
@@ -10981,8 +11002,11 @@ https://alanza.iptv2022.com/QTAL_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJrDYC9.png" group-title="TV AO VIVO", QTAL? CHANNEL ---
 https://alanza.iptv2022.com/QTAL_Channel/index.m3u8?logo2-listaiptv-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXMKVHC/QTAL-CHANNEL-8x-M-white-256x256.png" group-title="TV AO VIVO", QTAL? CHANNEL -
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXMKVHC/QTAL-CHANNEL-8x-M-white-256x256.png" group-title="TV AO VIVO", QTAL? CHANNEL
 https://alanza.iptv2022.com/QTAL_Channel/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://www.boxbrazilplay.tv.br/assets/images/logos-canais/qtal-color.png" group-title="TV AO VIVO", QTAL? CHANNEL
+https://alanza.iptv2022.com/QTAL_Channel/index.m3u8?logo-site-boxbrazilplay
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11740/thumb_REDE_QDM.jpeg" group-title="TV AO VIVO", REDE QDM
 https://alanza.iptv2022.com/REDE_QDM/index.m3u8

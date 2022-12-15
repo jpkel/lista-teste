@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/br.xml"
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
@@ -2726,6 +2726,12 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7522250fb2d03b2b22c9e1e54254a371.jpg" group-title="Música", Yeeah! TV - Brasil -cx-logo-Branco=
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrhXRbp/Yeeaah-22x-M-D-D-white-200x200.png" group-title="Música", Yeeah! TV - Brasil -cx-logo-Branco= [logo-jp-cxtv] -22x-M-D-D-white-200x200-
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?logo-jp01-cxtv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7GqYbYW/Yeeaah-22x-D-D-D-white-200x200.png" group-title="Música", Yeeah! TV - Brasil -cx-logo-Branco= [logo-jp-cxtv] -22x-D-D-D-white-200x200-
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?logo-jp02-cxtv
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="Notícias/ Variedades", Rede Família HD - SP - Campinas
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
@@ -10608,11 +10614,29 @@ https://alanza.iptv2022.com/tv_cerrado/index.m3u8?logo-jp-tvbr-15x-D-M-D-certo
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11369/thumb_Group_36.png" group-title="TV AO VIVO", Yeeaah TV
 https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0ZX2BS/Yeeaah-TV-50x-M-2x-red-256x256.png" group-title="TV AO VIVO", Yeeaah TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbdZC86/Yeeaah-30x-D-D-D-black-200x200.png" group-title="TV AO VIVO", Yeeaah TV -30x-D-D-D-black-200x200-
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-site-busca-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0ZX2BS/Yeeaah-TV-50x-M-2x-red-256x256.png" group-title="TV AO VIVO", Yeeaah TV -50x-M-2x-red-256x256-
 https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp01-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0qrSCn/Yeeaah-TV-12x-M-256x256.png" group-title="TV AO VIVO", Yeeaah TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0qrSCn/Yeeaah-TV-12x-M-256x256.png" group-title="TV AO VIVO", Yeeaah TV 12x-M-256x256-
 https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp02-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvMZ22b/Yeeaah-56x-D-D-D-white-336x336.png" group-title="TV AO VIVO", Yeeaah TV -56x-D-D-D-white-meuTedio-
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp03-meuTedio-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FWWnxwS/Yeeaah-60x-M-D-D-white-336x336.png" group-title="TV AO VIVO", Yeeaah TV -60x-M-D-D-white-meuTedio-
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp04-meuTedio-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrhXRbp/Yeeaah-22x-M-D-D-white-200x200.png" group-title="TV AO VIVO", Yeeaah TV -22x-M-D-D-white-cxtv-
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp05-cxtv-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7GqYbYW/Yeeaah-22x-D-D-D-white-200x200.png" group-title="TV AO VIVO", Yeeaah TV -22x-D-D-D-white-cxtv-
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-jp06-cxtv-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QDx9tSF/Yeeaah-30x-D-D-D-orange-225x225.png" group-title="TV AO VIVO", Yeeaah TV -30x-D-D-D-orange-
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?logo-site-facebook-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13315/thumb_REDE_LIVRE.png" group-title="TV AO VIVO", REDE LIVRE
 https://alanza.iptv2022.com/REDE_LIVRE/index.m3u8

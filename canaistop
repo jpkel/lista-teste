@@ -2589,10 +2589,13 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cfe78939fdbe52d0c028e91f6a1ba3a5.jpg" group-title="Evangélica", TV Igreja Mundial (IMPD TV) - SP - São Paulo -logo-cx-
 https://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWFcCJD/TV-Igreja-Mundial-96x-M-M-D-blue-200x200.png" group-title="Evangélica", TV Igreja Mundial (IMPD TV) - SP - São Paulo -logo-cx-
+https://0.0.0.0?logo-jp-cxtv
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Evangélica", TV Igreja Mundial do Poder de Deus - IMPD TV - SP - São Paulo
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d5pgibznjcs0s.cloudfront.net/10af5746-81e4-46bd-a505-e4049cc54f51/images/logo_full.png" group-title="Evangélica", TV Igreja Mundial do Poder de Deus - IMPD TV - SP - São Paulo -logo
+#EXTINF:-1 tvg-logo="https://d5pgibznjcs0s.cloudfront.net/10af5746-81e4-46bd-a505-e4049cc54f51/images/logo_full.png" group-title="Evangélica", TV Igreja Mundial do Poder de Deus - IMPD TV - SP - São Paulo -logo =erro logo=21-12-2022
 https://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Desenhos", Retro Cartoon - SP - São Paulo -cx-
@@ -2639,6 +2642,9 @@ https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="Evangélica", TV Rede Gospel - SP - São Paulo
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rHw5VZr/Rede-Gospel-97x-D-D-D-blue-120x120.png" group-title="Evangélica", TV Rede Gospel - SP - São Paulo -97x-D-D-D-blue-
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?logo-jp-cxtv
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d08352f33c92124373d9f3b0fcf2ef8.png" group-title="Desenhos/ Seriados/ Filmes", Tv Loading' - SP - São Paulo -olhosnatv-
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
@@ -2754,8 +2760,11 @@ https://5cf4a2c2512a2.streamlock.net:443/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iaptd.com.br/images/logo.png" group-title="Evangélica", Rede Plenitude TV - SP - São Paulo - site
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bWymf8P/Rede-Plenitude-TV-0x-rgba-0-D-D-D-400x111.png" group-title="Evangélica", Rede Plenitude TV - SP - São Paulo - site
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?logo-jp-site
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2b1ea269f673bbd4459aa53f2b78ff14.png" group-title="Evangélica", Rede Plenitude TV - SP - São Paulo -logo-
-https://0.0.0.0
+https://0.0.0.0-cxtv-Rede-Plenitude-TV
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8936ceb865591bcc9ace180f253fc697.jpg" group-title="Variedades/ Filmes", Viva Web Tv - SP - São Paulo -cx-
 http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
@@ -2767,7 +2776,7 @@ https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" group-title="Variedades/ Cultura", TV Aberta São Paulo - SP - São Paulo -logo-
-https://0.0.0.0
+https://0.0.0.0-cxtv-TV-Aberta-São Paulo
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="Filmes/ HD/ Variedades", SUMMER TV - A sua tv! - SP - Bertioga
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
@@ -5020,8 +5029,14 @@ http://flash32k.crossdigital.com.br/evangelizar/tv/playlist-480p.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="566" tvg-name="TV Rede Gospel" tvg-logo="https://www.m3u.cl/logo/566_TV_Rede_Gospel.jpg", TV Rede Gospel  | BR
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="566" tvg-name="TV Rede Gospel" tvg-logo="https://i.ibb.co/Z2yZ7YY/Rede-Gospel-29x-D-D-D-black-158x158.png", TV Rede Gospel  | BR
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL-logo-jp
+
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal  | BR
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="563" tvg-name="https://i.ibb.co/L8k3Cj2/TV-Universal-30x-M-D-D-white-225x225.png", TV Universal  | BR
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PlaylistM3UCL-logo-jp
 
 
 
@@ -6623,6 +6638,9 @@ https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFNTr55/TV-CONFIEGO-GOSPEL-120x100.jpg" group-title="DESENHOS/ FILMES", TV Confiego Gospel - ok
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8?logo-novo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K0rstZL/TV-CONFIEGO-GOSPEL-6x-M-M-D-white-120x100.png" group-title="DESENHOS/ FILMES", TV Confiego Gospel - ok -6x-M-M-D-
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8?logo-novo-jp-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4LTP9C/AMC-TV-162x82.jpg" group-title="ANIMES/ DESENHOS", AMC TV - ok .novo. (saiu do site)
 https://stmv1.painelvideo.top/canalamc/canalamc/chunklist_w2070872890.m3u8?logo-jp
@@ -8491,6 +8509,9 @@ https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TKysCSN/TVC-JAU-120x118.jpg" group-title="VARIEDADES",  TVC Jaú - ok ..novo..
 https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8?logo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7sKxZ/TVC-JAU-12x-M-M-D-white-120x118.png" group-title="VARIEDADES",  TVC Jaú - ok ..novo..
+https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8?logo-jp-olhosnatv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRKjskS/TV-PLUG-162x68.jpg" group-title="VARIEDADES", TV Plug - ok ..novo..
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8?
 
@@ -9034,6 +9055,9 @@ https://video01.logicahost.com.br/evangelicatv1/evangelicatv1/chunklist_w1955525
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-s9EMrze8XCY/XRkWxEOsCPI/AAAAAAAABQo/YDZdT4RPqsQPyJ9jjfZD6bpHqJjyr-lKQCPcBGAYYCw/s320/Screenshot_2019-06-30-16-46-06.png" group-title="EVANGÉLICOS", IMPD TV (Igreja Mundial do Poder de Deus) - ok
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWFcCJD/TV-Igreja-Mundial-96x-M-M-D-blue-200x200.png" group-title="EVANGÉLICOS", IMPD TV (Igreja Mundial do Poder de Deus) - ok
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist.m3u8?logo-jp-cxtv-olhosnatv
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ie-fVc_xBdo/XRvl8tRqvWI/AAAAAAAABRg/CixA7vs06QIrCtXKPy4hq6g98Y9uyiR-ACLcBGAs/s320/Screenshot_2019-07-02-12-49-26.png" group-title="EVANGÉLICOS", TV Universal - ok
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?
 
@@ -9101,7 +9125,10 @@ https://alanza.iptv2022.com/NOVA_ERA_TV/tracks-v1a1/mono.m3u8?logo-jp-olhosnatv
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SmNtggR/TV-PLENITUDE-180x160.png" group-title="EVANGÉLICOS", Plenitude TV - ok
-https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?logo-jp
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?logo-jp01-olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJR8LqG/Plenitude-TV-8x-M-M-D-white-180x160.png" group-title="EVANGÉLICOS", Plenitude TV - ok -8x-M-M-D-white-
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?logo-jp02-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tvskehuhnbE/YCVN8DAwIrI/AAAAAAAAEQo/fHYo8BUZczIXhQgKY6ZENraaCeeCwiU6QCLcBGAsYHQ/s0/TV%2BA%2BFOLHA.png" group-title="VARIEDADES", TV A Folha - ok .velho.
 https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8?

@@ -12202,11 +12202,17 @@ https://alanza.iptv2022.com/KURIAKOS_KIDS/index.m3u8?logo-jp01-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrC17tY/KURIAKOS-KIDS-6x-M-M-D-white-256x252.png" group-title="TV AO VIVO", KURIAKOS KIDS .+esse.
 https://alanza.iptv2022.com/KURIAKOS_KIDS/index.m3u8?logo-jp02-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrC17tY/KURIAKOS-KIDS-6x-M-M-D-white-256x252.png" group-title="TV AO VIVO", KURIAKOS KIDS -site oficial-
+https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8?site-tvbr
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13861/thumb_KURIAKOS_MUSIC.png" group-title="TV AO VIVO", KURIAKOS MUSIC
 https://alanza.iptv2022.com/KURIAKOS_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2Yn44Q/KURIAKOS-MUSIC-8x-M-white-248x256.png" group-title="TV AO VIVO", KURIAKOS MUSIC
 https://alanza.iptv2022.com/KURIAKOS_MUSIC/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png" group-title="TV AO VIVO", KURIAKOS MUSIC -site oficial-
+https://w2.manasat.com:443/kmusic/smil:kmusic.smil/playlist.m3u8?site-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14589/thumb_KURIAKOS_CINE.jpeg" group-title="TV AO VIVO", KURIAKOS CINE
 https://alanza.iptv2022.com/KURIAKOS_CINE/index.m3u8
@@ -12217,11 +12223,38 @@ https://alanza.iptv2022.com/KURIAKOS_CINE/index.m3u8?logo-jp00-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGGZQL6/KURIAKOS-CINE-12x-D-M-D-white-256x256.png" group-title="TV AO VIVO", KURIAKOS CINE .esse.
 https://alanza.iptv2022.com/KURIAKOS_CINE/index.m3u8?logo-jp01-tvbr
 
+#EXTINF:-1 tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png" group-title="TV AO VIVO", KURIAKOS CINE -site oficial-
+https://w2.manasat.com:443/kcine/smil:kcine.smil/playlist.m3u8?site-logo01-tvbr
+
+#EXTINF:-1 tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/CineKuriakos-892x1024.png" group-title="TV AO VIVO", KURIAKOS CINE -site oficial-
+https://w2.manasat.com:443/kcine/smil:kcine.smil/playlist.m3u8?site-logo02-tvbr
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13840/thumb_KURIAKOS_TV.png" group-title="TV AO VIVO", KURIAKOS TV
 https://alanza.iptv2022.com/KURIAKOS_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NStBrW8/KURIAKOS-TV-6x-M-white-254x256.png" group-title="TV AO VIVO", KURIAKOS TV
 https://alanza.iptv2022.com/KURIAKOS_TV/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- (https://w1.manasat.com:443/ktv/smil:ktv.smil)
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8?site-tvbr
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- 1 (http://195.22.11.11:1935/ktv/ktv1)
+http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- 2 (http://195.22.11.11:1935/ktv/ktv2)
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- 3 (http://195.22.11.11:1935/ktv/ktv3)
+http://195.22.11.11:1935/ktv/ktv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- (http://w1.manasat.com:1935/ktv/smil:ktv.smil) mesmo link
+http://w1.manasat.com:1935/ktv/smil:ktv.smil/playlist.m3u8?site01
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- (http://w1.manasat.com:1935/ktv/smil:ktv.smil) mesmo link
+http://w1.manasat.com:1935/ktv/smil:ktv.smil/playlist.m3u8?site02
+
+#EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="TV AO VIVO", KURIAKOS TV -site oficial- (http://w1.manasat.com:1935/ktv/smil:ktv.smil) mesmo link
+http://w1.manasat.com:1935/ktv/smil:ktv.smil/playlist.m3u8?site03
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13847/thumb_TV_MANA%CC%81_1.png" group-title="TV AO VIVO", TV MANÁ-1
 https://alanza.iptv2022.com/TV_MANA_1/index.m3u8
@@ -12252,15 +12285,15 @@ site-oficial-tvmana-3-Link-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mX1VtMP/TVMANA2-site-9x-M-M-D-white-350x300.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site)=(jp00-editado-site)=(
 
-site-oficial-tvmana3-Link-site) .?.
+site-oficial-tvmana3-Link-site-jp00) .0?.
 https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?
 
-site-oficial-tvmana-3-Link-site-jp00
+jp00-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhn5X92/Mana-2-5x-M-D-D-white-256x53.png" group-title="TV AO VIVO", Maná 2 - site oficial (tv maná 3 Link site)=(jp01-editado-site)=(
 
-site-oficial-tvmana3-Link-site) .?.
-https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?jp01
+site-oficial-tvmana3-Link-site-jp01) .1?.
+https://w1.manasat.com:443/tvmana-2/smil:tvmana-2.smil/playlist.m3u8?jp01-site
 
 #EXTINF:-1 tvg-logo="https://tvmana3.com/wp-content/uploads/2022/05/LOGO_TV_MANA3-1.png" group-title="TV AO VIVO", Maná 3 | Portugal
  - =teste-JP-link= (logo-site-oficial) .?.
@@ -12294,35 +12327,35 @@ https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6nS1qxX/TV-MANA-ARGENTINA-273x101.png" group-title="TV AO VIVO", TV MANÁ ARGENTINA - site oficial
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?logo-jp-site
 
-#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="TV AO VIVO", TV Maná Moçambique - site oficial
-https://w2.manasat.com:443/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvmana-espanhol.ar/wp-content/uploads/2020/05/Logo_Mana_ESP-copia-1536x494.png" group-title="TV AO VIVO", TV Maná Español - site oficial
 https://w1.manasat.com:443/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="TV AO VIVO", TV Maná Hindi (Inglês) - site oficial
+#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="TV AO VIVO", TV Maná Moçambique - site oficial
+https://w2.manasat.com:443/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="TV AO VIVO", TV Maná Hindi (English) - site oficial
 https://w1.manasat.com:443/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2022/06/Logo-Tv-Mana%CC%81-Russo.png" group-title="TV AO VIVO", TV MANÁ RUSSO - site oficial
 https://w1.manasat.com:443/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14596/thumb_KK_TV.jpeg" group-title="TV AO VIVO", KK TV - (mesmo link)
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14596/thumb_KK_TV.jpeg" group-title="TV AO VIVO", KK TV - Angola - (mesmo link)
 https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?kktv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JndHYYH/KK-TV-17x-M-white-256x219.png" group-title="TV AO VIVO", KK TV - (mesmo link)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JndHYYH/KK-TV-17x-M-white-256x219.png" group-title="TV AO VIVO", KK TV - Angola - (mesmo link)
 https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?kktv-logo-jp
 
 #EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="TV AO VIVO", KK TV ANGOLA - site oficial
-https://w2.manasat.com:443/ktv-ao/smil:ktv-ao.smil/playlist.m3u8?site-oficial
+https://w2.manasat.com:443/ktv-ao/smil:ktv-ao.smil/playlist.m3u8?site-oficial-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14603/thumb_MANA%CC%81_IGREJA_ONLINE_.jpeg" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (mesmo link)
-https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?manah
+https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?Mana-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1TLWmcf/MANA-IGREJA-ONLINE-8x-M-white-256x220.png" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (mesmo link)
-https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?manah-logo-jp-tvbr
+https://alanza.iptv2022.com/MANA_IGREJA_ONLINE/index.m3u8?Mana-logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo_pt.png" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (site-oficial)
-https://w1.manasat.com:443/igrejaonline/smil:igrejaonline.smil/playlist.m3u8?site-oficial
+https://w1.manasat.com:443/igrejaonline/smil:igrejaonline.smil/playlist.m3u8?site-oficial-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GCxvfYX/MANA-IGREJA-ONLINE-6x-D-white-1459x1251.png" group-title="TV AO VIVO", MANÁ IGREJA ONLINE - (site-oficial-logo-jp)
 https://w1.manasat.com:443/igrejaonline/smil:igrejaonline.smil/playlist.m3u8?site-oficial-logo-jp

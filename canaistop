@@ -12375,14 +12375,32 @@ https://alanza.iptv2022.com/BRAZI_TV/index.m3u8?logo-jp-tvbr
 #EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="TV AO VIVO", BRAZI TV ---
 https://alanza.iptv2022.com/BRAZI_TV/index.m3u8?logo2-listaiptv-tvbr
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13903/thumb_REDE_TVC_TV.png" group-title="TV AO VIVO", REDE TVC TV -logo retirado-/-erro servidor-
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13903/thumb_REDE_TVC_TV.png" group-title="TV AO VIVO", REDE TVC TV -logo retirado-/-erro servidor- =site saiu do ar=
 https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H29wHRN/REDE-TVC-TV-8x-M-white-256x256.png" group-title="TV AO VIVO", REDE TVC TV .-mundou link-. erro
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H29wHRN/REDE-TVC-TV-8x-M-white-256x256.png" group-title="TV AO VIVO", REDE TVC TV .-mundou link-. erro =site saiu do ar=
 https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-jp-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nwbthx7/REDE-TVC-TV-12x-M-M-D-cxtv-white-200x200.png" group-title="TV AO VIVO", REDE TVC TV .-mundou link-. erro -logo cxtv- =site saiu do ar=
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-cxtv-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IxMstuQ.png" group-title="TV AO VIVO", REDE TVC TV .-mundou link-. erro --- =site saiu do ar=
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo2-listaiptv-tvbr
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13903/thumb_TVC_TV_CORREIO_DE_IMBE%CC%81.png" group-title="TV AO VIVO", TVC TV CORREIO DE IMBÉ -erro servidor-
-https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-novo
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-novo-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ct1D0hM/TVC-TV-CORREIO-DE-IMBE-14x-D-M-D-white-256x256.png" group-title="TV AO VIVO", TVC TV CORREIO DE IMBÉ -erro servidor-
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-jp01-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tm7FrP7/TVC-TV-CORREIO-DE-IMBE-29x-D-D-D-white-256x256.png" group-title="TV AO VIVO", TVC TV CORREIO DE IMBÉ -erro servidor-
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-jp02-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FBNCygB/TVC-TV-CORREIO-DE-IMBE-29x-M-D-D-white-256x256.png" group-title="TV AO VIVO", TVC TV CORREIO DE IMBÉ -erro servidor-
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-jp03-tvbr
+
+#EXTINF:-1 tvg-logo="https://correiodoimbe.com.br/wp-content/uploads/2020/08/logo-correio-imbe.png" group-title="TV AO VIVO", TVC TV CORREIO DE IMBÉ -erro servidor- =logo site=
+https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-site-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13910/thumb_NGT_SP.png" group-title="TV AO VIVO", NGT SP -
 https://alanza.iptv2022.com/NGT_SP/index.m3u8
@@ -12424,10 +12442,10 @@ https://alanza.iptv2022.com/VINTAGE_TV/index.m3u8
 https://alanza.iptv2022.com/TVRADIO_LITORAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JmVxQH5/TVRADIO-LITORAL-17x-M-blue-256x102.png" group-title="TV AO VIVO", TV RÁDIO LITORAL -esse-
-https://alanza.iptv2022.com/TVRADIO_LITORAL/index.m3u8?logo-jp01
+https://alanza.iptv2022.com/TVRADIO_LITORAL/index.m3u8?logo-jp01-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7k0hN17/TVRADIO-LITORAL-54x-D-blue-256x102.png" group-title="TV AO VIVO", TV RÁDIO LITORAL
-https://alanza.iptv2022.com/TVRADIO_LITORAL/index.m3u8?logo-jp02
+https://alanza.iptv2022.com/TVRADIO_LITORAL/index.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13966/thumb_TEREFMTV.png" group-title="TV AO VIVO", TERÊ FM TV
 https://alanza.iptv2022.com/TEREFMTV/index.m3u8

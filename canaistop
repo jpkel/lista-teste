@@ -10915,9 +10915,6 @@ https://alanza.iptv2022.com/TV_PONTA_DASERRA/index.m3u8?logo2-lstaiptv-tvbr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HF4nWl1.png" group-title="TV AO VIVO", TV ACE =fora do ar=
 https://alanza.iptv2022.com/TV_ACE/index.m3u8?logo2-lstaiptv-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Wrh7Q1/TV-ACE-7x-M-M-D-3x-white-256x253.png" group-title="TV AO VIVO", TV ACE - =fora do ar=
-https://alanza.iptv2022.com/TV_ACE/index.m3u8?logo-jp00-tvbr
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HF4nWl1.png" group-title="TV AO VIVO", TV ACE =site=
 https://stmv7.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba7320/associacaocomercialeempresarialdecaraguatatuba7320/playlist.m3u8?logo2-listaiptv-site
 
@@ -11104,9 +11101,6 @@ https://alanza.iptv2022.com/TV_Jacutinga/index.m3u8?logo-jp-tvbr
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12349/thumb_TV_SERTA%CC%83O_PETROLINA.jpeg" group-title="TV AO VIVO", TV SERTÃO PETROLINA
 https://alanza.iptv2022.com/TV_SERTAO_PETROLINA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12377/thumb_image_2022-06-23_08-07-14.png" group-title="TV AO VIVO", TV GENIALL =fora do ar=
-https://alanza.iptv2022.com/TV_GENIALL/index.m3u8?logo-novo
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0c4xg1S/TV-GENIALL-3x-M-M-D-white-500x400.png" group-title="TV AO VIVO", TV GENIALL - =fora do ar=
 https://alanza.iptv2022.com/TV_GENIALL/index.m3u8?logo-jp02-tvbr
 
@@ -11124,6 +11118,12 @@ https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TTcmymh/WEB-TV-SANTANA-14x-M-M-D-white-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA --
 https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp03-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6CytXX/WEB-TV-SANTANA-19x-D-M-D-edit-jp-green-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA ---
+https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp04-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdqXSGN/WEB-TV-SANTANA-25x-D-D-D-edit-jp-green-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA ----
+https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp05-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCyy3Yr/TV-Encauca-14x-D-256x256-transparente.png" group-title="TV AO VIVO", TV ENCAUCA -
 https://alanza.iptv2022.com/TV_ENCAUCA/index.m3u8?logo-jp-olhosnatv-tvbr

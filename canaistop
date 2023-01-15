@@ -9741,7 +9741,7 @@ https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?
 https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://correiodoimbe.com.br/wp-content/uploads/2020/08/logo-correio-imbe.png" group-title="VARIEDADES", Rede TVC Brasil (tvc) - ok =logo novo site= .erro servidor.
-https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?logo-jp00
+https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?logo-site-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-y63FtGI0y2Y/XXgkMjQKG0I/AAAAAAAABxA/I13uwOmS-mUy81QuOqji6mzEmsRuxTP4gCLcBGAsYHQ/s320/Screenshot_2019-09-10-19-30-05.png" group-title="EVANGÉLICOS", Top Mix TV - ok
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist-480p.m3u8?
@@ -10025,10 +10025,16 @@ https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fttBphL/EXCELSIOR-TV-2-162x44.jpg" group-title="ANIMES/ SERIADOS/ VARIEDADES", Excelsior TV ..+novo.. ?olhosnatv?=https://edge1o.live.opencaster.com/caster/cxodDdsayAhz.m3u8=
 https://edge1o.live.opencaster.com/caster/cxodDdsayAhz.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ngr7Bzd/RT-DOCUMENTARY-200x118.jpg" group-title="DOCUMENTÁRIOS/ NOTÍCIAS/ NOTÍCIAS DO MUNDO", RT DOCUMENTARY - ok .novo.
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/26c5a30029b81339ef17a02aa420f64c.png" group-title="DOCUMENTÁRIOS/ NOTÍCIAS/ NOTÍCIAS DO MUNDO", RT en Español =cxtv=-playlist_800Kb.m3u8-
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8?cxtv
+
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/img/logo112x112.png" group-title="DOCUMENTÁRIOS/ NOTÍCIAS/ NOTÍCIAS DO MUNDO", RT en Español =site=-playlist.m3u8-
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?site-logo-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngr7Bzd/RT-DOCUMENTARY-200x118.jpg" group-title="DOCUMENTÁRIOS/ NOTÍCIAS/ NOTÍCIAS DO MUNDO", RT DOCUMENTARY - ok .novo. =playlist_1600Kb.m3u8= 1
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8?logo-jp01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rZ0sqh/RT-DOCUMENTARY-100x100.jpg" group-title="DOCUMENTÁRIOS/ NOTÍCIAS/ NOTÍCIAS DO MUNDO", RT DOCUMENTARY - ok .novo.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rZ0sqh/RT-DOCUMENTARY-100x100.jpg" group-title="DOCUMENTÁRIOS/ NOTÍCIAS/ NOTÍCIAS DO MUNDO", RT DOCUMENTARY - ok .novo. =playlist_1600Kb.m3u8= 2
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8?logo-jp02
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-859LCxaAkoI/Xaer23BqWYI/AAAAAAAACJc/NfT623Q4ZpoocK128ptXIeowVDlEeYBtQCLcBGAsYHQ/s320/Screenshot_2019-10-16-20-40-09.png" group-title="NOTÍCIAS DO MUNDO", CBS News - ok .velho.
@@ -10736,13 +10742,13 @@ https://0.0.0.45
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?JP01
 
 
+===== ===== ===== ===== =====
+
+
 LISTA IPTV 2022 ATUALIZADA - João Paulo - 12/12/2022 - brasilaovivo.tv -
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/10651/thumb_RTD_LOGO_b.png" group-title="TV AO VIVO", RT Documentary
 https://barbara.iptv2022.com/RTDOC-eng/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/10651/thumb_RTD_LOGO_b.png" group-title="TV AO VIVO", RT Documentary =teste jp=
-https://barbara.iptv2022.com/RTDOC-eng/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njG5h00/CNA-25x-D-M-D-white-cxtv-200x200.png" group-title="TV AO VIVO", CNA Ásia (Eng) -
 https://helga.iptv2022.com/CNA_eng/index.m3u8?logo-jp01-cxtv-tvbr
@@ -11508,6 +11514,9 @@ https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo2-listaiptv-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13903/thumb_TVC_TV_CORREIO_DE_IMBE%CC%81.png" group-title="TV AO VIVO", TVC TV CORREIO DE IMBÉ =fora do ar=
 https://alanza.iptv2022.com/REDE_TVC_TV/index.m3u8?logo-novo-tvbr
+
+#EXTINF:-1 tvg-logo="https://correiodoimbe.com.br/wp-content/uploads/2020/08/logo-correio-imbe.png" group-title="TV AO VIVO", Rede TVC Brasil (tvc) =fora do ar-OlhosNaTV=
+https://srv1.zcast.com.br/tvc/tvc/chunklist_w1725389167.m3u8?logo-site-olhosnatv-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13910/thumb_NGT_SP.png" group-title="TV AO VIVO", NGT SP
 https://alanza.iptv2022.com/NGT_SP/index.m3u8

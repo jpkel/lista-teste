@@ -10741,11 +10741,26 @@ LISTA IPTV 2022 ATUALIZADA - João Paulo - 12/12/2022 - brasilaovivo.tv -
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/10651/thumb_RTD_LOGO_b.png" group-title="TV AO VIVO", RT Documentary
 https://barbara.iptv2022.com/RTDOC-eng/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/10651/thumb_RTD_LOGO_b.png" group-title="TV AO VIVO", RT Documentary =teste jp=
+https://barbara.iptv2022.com/RTDOC-eng/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njG5h00/CNA-25x-D-M-D-white-cxtv-200x200.png" group-title="TV AO VIVO", CNA Ásia (Eng) -
 https://helga.iptv2022.com/CNA_eng/index.m3u8?logo-jp01-cxtv-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLGsJ/Hispan-TV-22x-D-D-D-green-edit-jp-256x256.png" group-title="TV AO VIVO", HispanTV -
 https://alanza.iptv2022.com/HispanTV/index.m3u8?logo-jp02-tvbr
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/10636/thumb_Group_43.png" group-title="TV AO VIVO", NASA TV =Limex=
+https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gypVK16/NASA-TV-5x-D-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV =Limex= logo-jp sem s
+http://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/10657/thumb_Group_79.png" group-title="TV AO VIVO", NASA TV Media =Limex=
+https://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media =Limex=  logo-jp sem s
+http://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN8kw8t/Rede-Familia-39x-D-M-D-white-256x256.png" group-title="TV AO VIVO", Rede Família -
 https://alanza.iptv2022.com/Rede_Familia/index.m3u8?logo-jp01-tvbr
@@ -10839,6 +10854,12 @@ https://alanza.iptv2022.com/Folha_TV/index.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqm7D2B/TV-CNB-26x-M-M-D-white-256x256.png" group-title="TV AO VIVO", TV CNB -
 https://alanza.iptv2022.com/TV_CNB/index.m3u8?logo-jp00-tvbr
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/13196/thumb_TV_CNB_AMERICAN.png" group-title="TV AO VIVO", TV CNB AMERICAN =Limex=
+https://barbara.iptv2022.com/TV_CNB_AMERICAN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TbKc1RQ/TV-CNB-AMERICAN-22x-M-M-D-white-256x256.png" group-title="TV AO VIVO", TV CNB AMERICAN =Limex= logo-jp sem s
+http://barbara.iptv2022.com/TV_CNB_AMERICAN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYgHRxT/TV-Planalto-Norte-12x-D-M-D-white-300x300.png" group-title="TV AO VIVO", TV Planalto Norte -
 https://alanza.iptv2022.com/PLANALTO_NORTE/index.m3u8?logo-jp-site-nixtv-tvbr

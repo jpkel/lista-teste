@@ -1936,8 +1936,11 @@ https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/34afdf0657bf5883ad46b496fadd2541.png" group-title="Música .Clipes", Tv Rádio Litoral - RJ - Cabo Frio
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-erro-m3u8-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-erro-m3u8- ((com barras assim http:\/\/)) =arquivo de texto-apagar depois=
 http:\/\/iphone-streaming.ustream.tv\/uhls\/23603848\/streams\/live\/iphone\/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-erro-m3u8- ((com S httpS)) =arquivo de texto-apagar depois= 2023 - apagar
+https://iphone-streaming.ustream.tv/uhls/23603848/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98b3f86de0ff4445dbc0601ab513e2c1.png" group-title="Variedades/ Publicos", Bem Mais Tv - RJ - Petrópolis -site-teste-não func-
 https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23603848/1616937941383/plain/uhs/
@@ -9557,7 +9560,7 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AgKNr6zCWwc/XVMNM4t2w-I/AAAAAAAABdM/dLGjJG3xJ-45qGGVyUcnsd_3uPfoLsrhQCPcBGAYYCw/s320/Screenshot_2019-08-13-16-17-53.png" group-title="VARIEDADES", TV Sete Lagoas - ok
 https://livefocamundo.com:8081/tvsetelagoas/index.m3u8?
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/pQv9F9Q/TV-Sete-Lagoas-150x150.png" group-title="VARIEDADES", TV Sete Lagoas - ok
+EXTINF:-1 tvg-logo="https://i.ibb.co/pQv9F9Q/TV-Sete-Lagoas-150x150.png" group-title="VARIEDADES", TV Sete Lagoas - ok ==arquivo de texto-ver depois?;(==
 https://livefocamundo.com:8081/tvsetelagoas/index.m3u8?logo-jp
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-elAcGXSGDVk/XsgdryyL5RI/AAAAAAAAC2Y/JNz2wHL68iwA2RPmYXtGqtKC-InyT1S9wCPcBGAYYCw/s320/2020-05-22%2B14.43.52.png" group-title="VARIEDADES", TV Gallo - ok
@@ -10043,8 +10046,20 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-859LCxaAkoI/Xaer23BqWYI/AAAAAAAACJc/NfT623Q4ZpoocK128ptXIeowVDlEeYBtQCLcBGAsYHQ/s320/Screenshot_2019-10-16-20-40-09.png" group-title="NOTÍCIAS DO MUNDO", CBS News - ok ..novo..
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--1LfQvNA3BE/Xaes3cUM5GI/AAAAAAAACJs/0tz-dnPQUuQdICiQ3Ztt0C0iRp_xuKC3QCLcBGAsYHQ/s320/Screenshot_2019-10-16-20-25-46.png" group-title="NOTÍCIAS DO MUNDO", Bloomberg - ok .?.
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--1LfQvNA3BE/Xaes3cUM5GI/AAAAAAAACJs/0tz-dnPQUuQdICiQ3Ztt0C0iRp_xuKC3QCLcBGAsYHQ/s320/Screenshot_2019-10-16-20-25-46.png" group-title="NOTÍCIAS DO MUNDO", Bloomberg - ok .?funciona?. =<-?olhosnatv<-= mesmo link sem..|?|..
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGRG6xx/Bloomberg-site-rgba0-0x-D-D-D-300x61.png" group-title="NOTÍCIAS DO MUNDO", Bloomberg =logo site-teste=(trocar depois link)= mesmo link com..|?|..
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8?
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="NOTÍCIAS DO MUNDO", Bloomberg TV =lstaiptv-lib.bz= apagar depois -repetido-
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqsW0mf/Bloomberg-TV-cxtv-18x-D-D-D-yellow-500x500.png" group-title="NOTÍCIAS DO MUNDO", Bloomberg TV =cxtv-site= .?. =teste jp site - não fuciona??=
+https://www.bloomberg.com/news/features/2023-01-14/updating-a-mid-century-icon-by-a-black-modernist-master.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS DO MUNDO",Bloomberg - inglês e português | Brasil =meutedio=
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HukihvtCSF4/Xa44b3MUTJI/AAAAAAAACK0/kqvcXUq9AtQZmTIZ7ykCqLjbpIOvRTglwCLcBGAsYHQ/s320/Screenshot_2019-10-21-19-49-29.png" group-title="NOTÍCIAS DO MUNDO", Al Jazeera - ok
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8?
@@ -11686,9 +11701,12 @@ https://alanza.iptv2022.com/LOADING_TV/index.m3u8?logo-jp02-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYs1HRC/GHOST-TV-12x-D-M-D-white-256x242.png" group-title="TV AO VIVO", GHOST TV -
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp02-tvbr
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/15723/logo_256_1669787402.png" group-title="TV AO VIVO", TV BOAS NOVAS Manaus -logo erro-
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/15723/logo_256_1669787402.png" group-title="TV AO VIVO", TV BOAS NOVAS Manaus =fora do ar= -logo erro-
 https://helga.iptv2022.com/TV_BOAS_NOVAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://limehd.tv/static/channel/15730/logo_256_1669787645.jpeg" group-title="TV AO VIVO", CARAVANA PLAY =fora do ar= -logo 1x1 erro-
 https://alanza.iptv2022.com/CARAVANA_PLAY/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio 
+https://alanza.iptv2022.com/Telemilenio/index.m3u8
 

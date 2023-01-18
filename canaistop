@@ -10756,6 +10756,9 @@ https://0.0.0.45
 #EXTINF:-1 tvg-logo="http://www.redeuniao.com.br/v2/wp-content/themes/RU2016/images/logo_topo.png" group-title="VARIEDADES", TV União Fortaleza -site-logogrande-OK-
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?JP01
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2PTYFL/FORA-TEDIO-TV-164x97.jpg" group-title="PEGADINHAS", Fora Tédio TV ..+novo..
+https://video03.logicahost.com.br/foratedio/foratedio/playlist.m3u8?olhosnatv
+
 
 LISTA IPTV 2022 ATUALIZADA - João Paulo - 12/12/2022 - brasilaovivo.tv -
 
@@ -10771,13 +10774,16 @@ https://alanza.iptv2022.com/HispanTV/index.m3u8?logo-jp02-tvbr
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/10636/thumb_Group_43.png" group-title="TV AO VIVO", NASA TV =Limex=
 https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gypVK16/NASA-TV-5x-D-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV =Limex= logo-jp sem s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex=
+https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8?logo-jp-tvbr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gypVK16/NASA-TV-5x-D-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex= logo-jp sem s
 http://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/10657/thumb_Group_79.png" group-title="TV AO VIVO", NASA TV Media =Limex=
 https://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media =Limex=  logo-jp sem s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex=  logo-jp sem s
 http://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QN8kw8t/Rede-Familia-39x-D-M-D-white-256x256.png" group-title="TV AO VIVO", Rede Família -
@@ -11062,9 +11068,6 @@ https://alanza.iptv2022.com/TV_JSID/index.m3u8?logo-listaiptv-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvGt4C6/OX-TV-64x-M-D-D-black-144x144.png" group-title="TV AO VIVO", OX TV -
 https://alanza.iptv2022.com/OX_TV/index.m3u8?logo-jp02-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7bkNZ0Z/OX-TV-66x-D-144x144.png" group-title="TV AO VIVO", OX TV -
-https://alanza.iptv2022.com/OX_TV/index.m3u8?logo-jp03-tvbr
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6sf0cG/QUEENS-UNITED-TV-10x-D-256x256.png" group-title="TV AO VIVO", QUEENS UNITED TV -
 https://alanza.iptv2022.com/QUEENS_UNITED_TV/index.m3u8?logo-jp-tvbr
 
@@ -11073,9 +11076,6 @@ https://alanza.iptv2022.com/TV_MAX_Rio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="TV AO VIVO", ASSIM É PORTUGAL TV -
 https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/index.m3u8?logo-site-tvbr
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TqgwWGD/Xtreme-TV-20x-D-256x256.png" group-title="TV AO VIVO", Xtreme TV -
-https://alanza.iptv2022.com/Xtreme_TV/index.m3u8?novo-logo-jp01-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5HH7Q4/Xtreme-TV-12x-M-D-D-black-256x256.png" group-title="TV AO VIVO", Xtreme TV -
 https://alanza.iptv2022.com/Xtreme_TV/index.m3u8?novo-logo-jp02-tvbr
@@ -11152,17 +11152,8 @@ https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14827/thumb_iFRONTEIRA_KIDS.png" group-title="TV AO VIVO", FRONTEIRA KIDS
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KVgrLCz/WEB-TV-SANTANA-12x-M-white-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA -
-https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp02-tvbr
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TTcmymh/WEB-TV-SANTANA-14x-M-M-D-white-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA --
-https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp03-tvbr
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C6CytXX/WEB-TV-SANTANA-19x-D-M-D-edit-jp-green-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6CytXX/WEB-TV-SANTANA-19x-D-M-D-edit-jp-green-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA -
 https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp04-tvbr
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdqXSGN/WEB-TV-SANTANA-25x-D-D-D-edit-jp-green-256x216.png" group-title="TV AO VIVO", WEB TV SANTANA ----
-https://alanza.iptv2022.com/WEB_TV_SANTANA/index.m3u8?logo-jp05-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCyy3Yr/TV-Encauca-14x-D-256x256-transparente.png" group-title="TV AO VIVO", TV ENCAUCA -
 https://alanza.iptv2022.com/TV_ENCAUCA/index.m3u8?logo-jp-olhosnatv-tvbr

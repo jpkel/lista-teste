@@ -11508,11 +11508,29 @@ https://helga.iptv2022.com/CNA_eng/index.m3u8?logo-jp01-cxtv-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex=
 https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8?logo-jp01-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex= =teste=
+rtmp://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex= =teste=
+rtmp://barbara.iptv2022.com/NASA_TV_eng
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex=
 https://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8?logo-jp-tvbr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex= =teste=
+rtmp://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex= =teste=
+rtmp://barbara.iptv2022.com/NASA_TV_Media_eng
+
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio 
 https://alanza.iptv2022.com/Telemilenio/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio =teste=
+rtmp://alanza.iptv2022.com/Telemilenio/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio =teste=
+rtmp://alanza.iptv2022.com/Telemilenio
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16451/logo_256_1674131735.jpg" group-title="TV AO VIVO", TV CORDEIRO
 https://alanza.iptv2022.com/Tv_cordeiro/index.m3u8

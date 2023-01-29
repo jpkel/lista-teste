@@ -4792,10 +4792,8 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="", Bem vindos sua lista IPTV
 https://0.0.0.41
-
 
 ===== Canais Abertos =====
 
@@ -4922,14 +4920,14 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jangadeiro-hd_m.png" group-title="VARIEDADES", SBT (GO) TV Serra Dourada . ok -cxtv-Jang- (playlist)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?cxtv-Jangadeiro-logo-mitvstatic
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv- ..logo erro..
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv- ..logo erro-wikimedia..
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-olhosnatv
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-jornal-2010-logo-639E1B9674-seeklogo.com.png" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv- (Retirar logo)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-jp-teste-apagar-depois
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-jornal-2010-logo-639E1B9674-seeklogo.com.png" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok -listaiptv-=logo-ok=
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-logo-ok
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zpltGPF9MrA/Xjwxv_OFMRI/AAAAAAAACc8/mLbSWBGTYVc-aVPjs_RMe-h1h5k_ofUdACLcBGAsYHQ/s320/Screenshot_2020-02-06-12-28-13.png" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-logo-olhosnatv
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-logo-seeklogo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fx2pRf4/TV-Jornal-Pe-320x188.png" group-title="VARIEDADES", SBT (PE) TV Jornal Recife - ok .logo-jp.
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-logo-olhosnatv-novo
@@ -5598,6 +5596,8 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTÍCIAS/ TV ABERTA", Euronews em português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
+
+===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== =====
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-296geWpSd2I/YTZV_MZNUOI/AAAAAAAAFak/JX7UNn9aEFwxuIKsU55N3RWI1Vg1t8HDACLcBGAsYHQ/s200/CANAL%2B29.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", Canal 29 - ok -velho-
 https://video01.logicahost.com.br/canal29/canal29/chunklist_w605695588.m3u8
@@ -7399,6 +7399,9 @@ https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w1123244825.m3u8?logo-j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VM7RFvB/ELEMENTAL-CHANNEL-27x-D-M-D-white-118x118.png" group-title="VARIEDADES", Elemental Channel - ok -27x-D-M-D-
 https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w1123244825.m3u8?logo-jp03
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H", MYTIME BRASIL
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9YB4vrb/TV-ARAGUARI-138x100.jpg" group-title="VARIEDADES", TV Araguari ..+novo..
 https://stmv7.samcast.com.br/wilson7475/wilson7475/playlist.m3u8?olhosnatv
 
@@ -8470,10 +8473,10 @@ https://5a0c3936c25c8.streamlock.net/8094/8094/chunklist_w2069171177.m3u8?logo-j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rwtXjW/TV-SDB-182x128-transparente.png" group-title="VARIEDADES", TV SDB - ok
 https://5a0c3936c25c8.streamlock.net/8094/8094/chunklist_w2069171177.m3u8?logo-jp-transparente
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UB7aTpun7Mk/Xv1JUHydmJI/AAAAAAAADEM/eq8ChyxFsEwrfGuDnSEmmIwasd-vZnbBQCLcBGAsYHQ/s320/2020-07-01%2B23.32.43.png" group-title="VARIEDADES", TV Rio Preto - ok - ..velho01..
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UB7aTpun7Mk/Xv1JUHydmJI/AAAAAAAADEM/eq8ChyxFsEwrfGuDnSEmmIwasd-vZnbBQCLcBGAsYHQ/s320/2020-07-01%2B23.32.43.png" group-title="VARIEDADES", TV Rio Preto - ok - ..velho01..(chunklist_w1259062615.m3u8)
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8?Olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1IXV9lPccGjXhITOLWLcaEeEeAnnn0na4Xpxpy335i5Wy5b8L69lgDwqTdGD3c-h5BUsJbrY0_uYOLHQTIvFWqiXrYdpTwRU2eNTjAQWLyq9lUFzTg3x6Br9F3yXSsjVFrS24J-5jpCqtqYCcVmFiEtC9fEAPJFaH4XBTl3RyY8LAApnCotP45wI/s200/TV%20RIO%20PRETO.png" group-title="VARIEDADES", TV Rio Preto - ok .novo.logo. ..velho02..
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1IXV9lPccGjXhITOLWLcaEeEeAnnn0na4Xpxpy335i5Wy5b8L69lgDwqTdGD3c-h5BUsJbrY0_uYOLHQTIvFWqiXrYdpTwRU2eNTjAQWLyq9lUFzTg3x6Br9F3yXSsjVFrS24J-5jpCqtqYCcVmFiEtC9fEAPJFaH4XBTl3RyY8LAApnCotP45wI/s200/TV%20RIO%20PRETO.png" group-title="VARIEDADES", TV Rio Preto - ok .novo.logo. ..velho02..(playlist.m3u8?)
 http://201.48.245.24:1935/live/livestream/playlist.m3u8?Olhosnatv-novo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGXT3fg/QTAL-CHANNEL-200x118.jpg" group-title="FILMES/ VARIEDADES", QTal? Channel - ok
@@ -9148,6 +9151,15 @@ https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chun
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1C4_fVCjnk8iPXvng0Gy2tBsmCRRCmg2s621j2MJmYdX6JEUAxWHyO5YHZBEDJ-82rQSzr1q0Hu6oitHBhqQBGDLgVgC1rNgdVqCp7o6Zyv6cqN_2XyZUBsGXeuXaJVuYV_0mt_gzCV9j-sUVWoXURP0wzKpWtavujTfJlxHNdIGQ9qevN8bJebG/s200/WEB%20TV%20AMOR%20ETERNO.png" group-title="CATÓLICOS", Web TV Amor Eterno ..+novo..
 https://stmv1.srvif.com/amoreterno/amoreterno/playlist.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXTPM5M/WEB-TV-AMOR-ETERNO-12x-D-D-D-white-200x200.png" group-title="CATÓLICOS", Web TV Amor Eterno ..+novo..-12x-D-D-D-
+https://stmv1.srvif.com/amoreterno/amoreterno/playlist.m3u8?olhosnatv-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QHxp2Pk/WEB-TV-AMOR-ETERNO-6x-D-D-D-white-225x225.png" group-title="CATÓLICOS", Web TV Amor Eterno ..+novo..-6x-D-D-D-
+https://stmv1.srvif.com/amoreterno/amoreterno/playlist.m3u8?olhosnatv-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKy12MP/WEB-TV-AMOR-ETERNO-2x-D-M-D-white-225x225.png" group-title="CATÓLICOS", Web TV Amor Eterno ..+novo..-2x-D-M-D-
+https://stmv1.srvif.com/amoreterno/amoreterno/playlist.m3u8?olhosnatv-logo-jp02
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzWv4Vk/TV-ESPERAN-A-200x118.jpg" group-title="EVANGÉLICOS", TV Esperança (Igreja Monte Horebe) - ok
 https://stmv1.voxtvhd.com.br/radioesperanca/radioesperanca/chunklist_w1432707539.m3u8?logo-jp
 
@@ -9439,6 +9451,9 @@ https://stmv1.srvstm.com/carloseduardo/carloseduardo/playlist.m3u8?olhosnatv-log
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FgaPHmF8hKfoxcw7Vk9YPQLDszvqKgi9oeNyW-j2dIujpy-tUYYdG4uffe4sJu9tvmJjnow4riD4IqaF84nniYZt-9vcEpUWEIjVIGDkeEYySooXNZQiOZJOtfZ4bVQfhjvWJo0SAUN-GFZYp_fsQBxHX5bIWQNRyNd5cpP0MWugvZaBvrpRl1DS/s200/TV%20GOSPEL%20EXODUS%20DE%20SALVADOR.png" group-title="EVANGÉLICOS", TV Gospel Exodus de Salvador ..+novo..
 https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/5856/cabecalho-5856-20200628040327.png" group-title="EVANGÉLICOS", TV Gospel Exodus de Salvador ..+novo.. =logo-site=
+https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8?olhosnatv-logo-site
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh6D_IF_fwO2hYdgza_QWBT3DIxK7XC7yhEu1vuQRSqhl1dUB-IlgomdcWy6L965lcJwq0WO3kNI7pMP4NRQpsOLZhSDglVmMB0rUSgvv5sLUcMLTrwPoI5foB8sn29jpGxrl0X4t5SIMUijpwdvrj-nILGt8_2fgfynlo1T2erKHEIPkvKexKJgMy/s200/CONVERT%20TV.png" group-title="EVANGÉLICOS", Convert TV ..+novo..
 https://stmv1.srvif.com/converttv/converttv/playlist.m3u8?olhosnatv
 
@@ -9694,7 +9709,7 @@ https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qBnD6sq/TV-Espaco-Espirita-34x-D-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok =34xD=
 https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?logo-jp-1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wBdssj5/TV-Espaco-Espirita-36x-D-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok =36xD=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBdssj5/TV-Espaco-Espirita-36x-D-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok =36xD= .esse.
 https://5d82644094cc0.streamlock.net/8002/8002/playlist.m3u8?logo-jp-2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnbFyLM/TV-ESPA-O-ESPIRITA-130x130.png" group-title="ESPIRITAS", TV Espaço Espírita - ok
@@ -10060,17 +10075,14 @@ https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VjTJrq/TV-Espirita-do-Parana-160x160.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok
 https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?logo-jp01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wxd6mGy/TV-Espirita-do-Parana-30x-D-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wxd6mGy/TV-Espirita-do-Parana-30x-D-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok .esse.
 https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?logo-jp02
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgh0dm5/TV-Espirita-do-Parana-3x-D-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgh0dm5/TV-Espirita-do-Parana-3x-D-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok .+esse.
 https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?logo-jp03
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7JGRBz5/TV-Espirita-do-Parana-3x-M-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok - apagar em 3 dias
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3788PX7/TV-Espirita-do-Parana-10x-D-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok
 https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?logo-jp04
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3788PX7/TV-Espirita-do-Parana-10x-D-160x150.png" group-title="ESPIRITAS", TV Espírita do Paraná - ok - apagar em 3 dias??
-https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist_w89172516.m3u8?logo-jp05
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-19oCnp9PWLM/XPqlze377rI/AAAAAAAAA-g/RhQRFoTCW7Qr0ISMdMrzfke5kDA37a6GACPcBGAYYCw/s320/Screenshot_2019-06-07-13-40-03.png" group-title="VARIEDADES", Rede Litoral News - ok
 https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8?
@@ -11508,29 +11520,11 @@ https://helga.iptv2022.com/CNA_eng/index.m3u8?logo-jp01-cxtv-tvbr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex=
 https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8?logo-jp01-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex= =teste=
-rtmp://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex= =teste=
-rtmp://barbara.iptv2022.com/NASA_TV_eng
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex=
 https://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8?logo-jp-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex= =teste=
-rtmp://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tYpJKCc/NASA-TV-Media-9x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV Media - =Limex= =teste=
-rtmp://barbara.iptv2022.com/NASA_TV_Media_eng
-
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio 
 https://alanza.iptv2022.com/Telemilenio/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio =teste=
-rtmp://alanza.iptv2022.com/Telemilenio/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio =teste=
-rtmp://alanza.iptv2022.com/Telemilenio
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16451/logo_256_1674131735.jpg" group-title="TV AO VIVO", TV CORDEIRO
 https://alanza.iptv2022.com/Tv_cordeiro/index.m3u8
@@ -11538,9 +11532,14 @@ https://alanza.iptv2022.com/Tv_cordeiro/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VpW8L89/TV-CORDEIRO-rgba-0-0x-D-M-D-209x209.png" group-title="TV AO VIVO", TV CORDEIRO - =site-https://=
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?site-cxtv-logo-site-jp-tvbr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7g4BYkF/TV-CORDEIRO-11x-D-M-D-white-256x256.png" group-title="TV AO VIVO", TV CORDEIRO - =site-rtmp://= logo-jp-11x-D-M-D-white-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7g4BYkF/TV-CORDEIRO-11x-D-M-D-white-256x256.png" group-title="TV AO VIVO", TV CORDEIRO - =site-rtmp://=
 rtmp://stmv2.voxtvhd.com.br:1935/tvcordeiro/tvcordeiro
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16465/logo_256_1674220483.jpg" group-title="TV AO VIVO", EXCELSIOR TV
-https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8
+https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-velho
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16465/logo_256_1674634289.jpeg" group-title="TV AO VIVO", GEEKMORE TV (Excelsior TV)
+https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo
+
+#EXTINF:-1 tvg-logo="" group-title="TV AO VIVO", 
 

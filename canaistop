@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/br.xml"
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
@@ -5178,9 +5178,6 @@ https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?olhosna
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", REDE TV! MS (TV PANTANAL)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA
-https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8?olhosnatv
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA SP (TVC Araçatuba)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?olhosnatv
 
@@ -5701,6 +5698,9 @@ https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV MEU XODÔ
 https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA
+https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE NGT
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
@@ -6281,13 +6281,13 @@ https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV NA ATIVA  /CE/
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FAVORITA WEB TV
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FAVORITA WEB TV  /SP/
 https://video01.kshost.com.br/arnaldo5149/arnaldo5149/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FILADELFIA WEB TV
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FILADELFIA WEB TV  /CE/
 https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS/ VARIEDADES", TV CAFÉ
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS/ VARIEDADES", TV CAFÉ  /GO/
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YdkcML2/WILD-EARTH-37x-D-D-D-green-164x36.png" group-title="DOCUMENTÁRIOS", WILD EARTH
@@ -7022,7 +7022,7 @@ https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/chunklist_w556475419.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvandradas.com.br/wp-content/uploads/2017/05/logotvandradas-2.png" group-title="VARIEDADES", TV ANDRADAS (TV Brasil)CANAL TV RIO  
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV ZONA DA MATA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d67c96_930f4bbb7fd046299332da8dd97eeb2e~mv2.png" group-title="VARIEDADES", TV ZONA DA MATA (MG) TV Brasil  
 https://video01.logicahost.com.br/tvzonadamata/tvzonadamata/chunklist_w1543567052.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV CRISTO VIVE
@@ -7307,7 +7307,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS DO MUNDO", DW (Inglês)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE 105.5 FM  =erro=
+#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE 105.5 FM  =mudou link=
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE 105.5 FM  
@@ -7328,7 +7328,7 @@ https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO UIRAPURU
 https://video01.logicahost.com.br/rduirapuru/rduirapuru/chunklist_w458650265.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE ARARENSE  =erro?=
+#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE ARARENSE  -
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", IND FM 104.5
@@ -7343,7 +7343,7 @@ http://sevensp.homelinux.com/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO ATIVIDADE FM 107.1
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/chunklist_w727342101.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", NATURE TV  =erro=
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", NATURE TV  =mudou link=
 https://stmv1.srvif.com/nattv/nattv/chunklist_w628353809.m3u8?olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="" group-title="MÚSICAS", NATURE TV  
@@ -7376,11 +7376,11 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w18407813
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO Q FM 97.9 
 https://qfm.ddns.net/hlsq/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO MONTANHESA 106.5 FM  =erro?=
-https://qfm.ddns.net/hlsmErv/index.m3u8
+#EXTINF:-1 tvg-logo="https://montanhesa.fm.br/wp-content/uploads/2021/02/logo_montanhesa_170.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO MONTANHESA 106.5 FM (TV MONTANHESA ERVÁLIA)
+https://qfm.ddns.net/hlsmErv/index.m3u8?olhosnatv-site
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/d365417227e8d20195abd479d4094b3a.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO MONTANHESA 106.5 FM  =cxtv-erro?=
-https://qfm.ddns.net/hlsm/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/d365417227e8d20195abd479d4094b3a.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO MONTANHESA 106.5 FM (TV MONTANHESA VIÇOSA)  -
+https://qfm.ddns.net/hlsm/index.m3u8?cxtv-site
 
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO GOSPEL FM 90.7
 https://virtues.es:1936/gospel90/gospel90/chunklist_w1719027398.m3u8
@@ -7400,7 +7400,7 @@ https://srv4.zcast.com.br/metropolitana/metropolitana/chunklist_w256020756.m3u8?
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO METROPOLITANA 93.3 FM  =novo=
 https://server02.tvmais.net.br/mistserver/hls/radiometropolitana/1_0/index.m3u8?mTrack=1&iMsn=1588&sessId=1502839882
 
-#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO HORIZONTE 95.7 FM  =erro?=
+#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", RÁDIO HORIZONTE 95.7 FM  -
 https://video01.kshost.com.br:4443/rede4540/rede4540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", NOVOS HORIZONTES FM 104.7

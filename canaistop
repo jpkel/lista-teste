@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/br.xml"
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
@@ -5067,94 +5067,88 @@ https://fonte-olhos-na-tv-01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", '\(º;º)/'
 https://fonte-olhos-na-tv-02
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS", RECORD TV 1 (NDTV Criciúma-SC)
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 1 (NDTV Criciúma - SC)
+https://caikron.com.br:19360/criciuma/criciuma.m3u8?olhosnatv-canais-abertos
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 2 (Record News| NDTV Floripa-SC)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 2 (Record News | NDTV Floripa - SC)
 https://caikron.com.br:19360/floripa/floripa.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 1 (TV Amplitude Juína-MT)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 1 (TV Amplitude Juína - MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 2 (TV Amplitude Juara-MT)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 2 (TV Amplitude Juara - MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 3 (TV Vila Real-MT)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 3 (TV Vila Real - MT)
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (TV Tropical-RN)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (TV Tropical - RN)
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RECORD TV (TV Antena 10-PI)
-https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (TV Antena 10 - PI)
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8?olhosnatv-variedades
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", RECORD TV (SIC TV-RO)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=9344098597268136000
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (SIC TV - RO)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=9344098597268136000?olhosnatv-variedades
 
-#EXTINF:-1 tvg-logo="https://tvparanaiba.com.br/wp-content/themes/TV-Paranaiba/imagens/logo-tv-vertical.png" group-title="VARIEDADES", Tv Paranaiba (Record MG)  =cxtv=
-https://app.paranaibaplay.com.br/mobile/tv/index.m3u8?logo-esse
+#EXTINF:-1 tvg-logo="https://tvparanaiba.com.br/wp-content/themes/TV-Paranaiba/imagens/logo-tv-vertical.png" group-title="CANAIS ABERTOS/ VARIEDADES", Tv Paranaiba (Record MG)  =cxtv=
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8?logo-esse-variedades
 
-#EXTINF:-1 tvg-logo="http://appribeirao.com.br/uploads/associados/Marca-TV-Paranaba_2nld2idoybu6o1h.png" group-title="VARIEDADES", Tv Paranaiba (Record MG)  =cxtv=
-https://app.paranaibaplay.com.br/mobile/tv/index.m3u8?logo-site-cxtv
+#EXTINF:-1 tvg-logo="http://appribeirao.com.br/uploads/associados/Marca-TV-Paranaba_2nld2idoybu6o1h.png" group-title="CANAIS ABERTOS/ VARIEDADES", Tv Paranaiba (Record MG)  =cxtv=
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8?logo-site-cxtv-variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Guajará-AM)  . =olhosnatv-01=
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Guajará - AM)  . =olhosnatv-01=
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Guajará-PA)  .. =olhosnatv-02=
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Guajará - PA)  .. =olhosnatv-02=
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxvvHmd/TV-PARAENSE-60x-M-M-D-green-120x115.png" group-title="VARIEDADES", SBT (TV PARAENSE-PA)  
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxvvHmd/TV-PARAENSE-60x-M-M-D-green-120x115.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Paraense - PA)  
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8?olhosnatv-Variedades
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT INTERIOR SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (TV Aratu-BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Aratu - BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?olhosnatv-Variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Cidade Verde-PI)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Cidade Verde - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Serra Dourada-GO) -Só YouTube-
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Serra Dourada - GO) -Só YouTube-
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?olhosnatv-cxtv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (TV Jornal Recife-PE)  =listaiptv=
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Jornal Recife - PE)  =listaiptv=
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?listaiptv-Variedades
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", SBT (TV Jornal Caruaru-PE)  =site=
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Jornal Caruaru - PE)  =site=
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?Site-Variedades
 
-#EXTINF:-1 tvg-logo="https://sjcc.ne10.uol.com.br/rodape_global/img/radio.png" group-title="VARIEDADES", Rádio Jornal Recife  =site=
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://sjcc.ne10.uol.com.br/rodape_global/img/radio.png" group-title="VARIEDADES", Rádio Jornal Caruaru  =site=
-https://evpp.mm.uol.com.br/ne10/radiojornal-caruaru-avra-video-web.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Difusora-São Luís-MA) -
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Difusora-São Luís - MA) -
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?site-Difusora
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Difusora-Imperatriz-MA) -
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Difusora-Imperatriz - MA) -
 https://stream.amsolution.net.br:8443/live/63b85859c05b5/index.m3u8?site-Difusora-Sul
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Difusora-Caxias-MA) -
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Difusora-Caxias - MA) -
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?site-Difusora-Leste
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Mfr6dk/Bem-TV-MT-77x-D-285x141.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (Bem TV-MT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Mfr6dk/Bem-TV-MT-77x-D-285x141.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (Bem TV - MT)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w970530900.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Mfr6dk/Bem-TV-MT-77x-D-285x141.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (MT) Bem TV  =site=
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8?site
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (Rede Massa-PR)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (Rede Massa - PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png" group-title="CANAIS ABERTOS/ VARIEDADES", BAND (RBATV-PA)  =site=
+#EXTINF:-1 tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png" group-title="CANAIS ABERTOS/ VARIEDADES", BAND (RBATV - PA)  =site=
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8?site-olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png" group-title="CANAIS ABERTOS/ VARIEDADES", BAND (RBATV-PA)  =olhosnatv=
+#EXTINF:-1 tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png" group-title="CANAIS ABERTOS/ VARIEDADES", BAND (RBATV - PA)  =olhosnatv=
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w929738024.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", BAND (TV Vale do Uruará-PA)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", BAND (TV Vale do Uruará - PA)
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV TAROBÁ LONDRINA - PR  =?=
@@ -5163,124 +5157,124 @@ https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/playlist.m3u8?olhosnatv-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV TAROBÁ CASCAVEL - PR  =?= 
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?Variedades-olhosnatv-01
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Arapuan-PB)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Arapuan - PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! TOCANTINS-TO
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! TOCANTINS - TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Pampa-RS)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Pampa - RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", REDE TV! ES
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! ES
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8?olhosnatv-Variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! BELÉM-PA  =saiu do site=
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! BELÉM - PA  =saiu do site=
 https://livefocamundo.com:8081/redetvbelem/index.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV O Dia-PI)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV O Dia - PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Mais-PR)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Mais - PR)
 https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", REDE TV! (TV PANTANAL-MS)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV PANTANAL - MS)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u8?olhosnatv-Variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA (TVC Araçatuba-SP)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA (TVC Araçatuba - SP)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA (TV Alternativa-MA)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA (TV Alternativa - MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA (TV Grão Pará-PA)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV GAZETA (TV Grão Pará - PA)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://www.global-fibra.com/_nuxt/img/tv_brasil_logo.923c4c6.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL web
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (STZ TV-SP)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (STZ TV - SP)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?olhosnatv-Variedades
 
-#EXTINF:-1 tvg-logo="http://irdeb.ba.gov.br/imgs/tve_online.png" group-title="EDUCATIVOS", TV BRASIL (TVE BAHIA-BA) -
+#EXTINF:-1 tvg-logo="http://irdeb.ba.gov.br/imgs/tve_online.png" group-title="EDUCATIVOS", TV BRASIL (TVE BAHIA - BA) -
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?olhosnatv-logo-site
 
-#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", TV BRASIL (TVE-RS)
+#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", TV BRASIL (TVE - RS)
 https://streaming.procergs.com.br:8443/tve/stve/chunklist_w282027462.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KX8wvcG/TV-Diversa-33x-D-D-D-black-120x120.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Diversa-MG)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KX8wvcG/TV-Diversa-33x-D-D-D-black-120x120.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Diversa - MG)
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=2061839296005232600?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville-SC)  . =site=
+#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  . =site=
 https://5c483b9d1019c.streamlock.net:443/8022/8022/playlist.m3u8?site
 
-#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville-SC)  . =site=
+#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  . =site=
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?site-olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville-SC)  .. =olhosnatv=
+#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  .. =olhosnatv=
 https://5c483b9d1019c.streamlock.net/8022/8022/chunklist_w268730325.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="https://www.band.fm.br/wp-content/uploads/2020/03/LOGO-TV-300x242.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Guarapari-ES).
+#EXTINF:-1 tvg-logo="https://www.band.fm.br/wp-content/uploads/2020/03/LOGO-TV-300x242.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Guarapari - ES).
 https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/chunklist_w1975377509.m3u8?olhosnatv-logo-band-fm-br
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/652df97e161ddc78f689cf89457d389b.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Linhares-ES)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/652df97e161ddc78f689cf89457d389b.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Linhares - ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Vitória-ES)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Vitória - ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8?olhosnatv-variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV SIM São Mateus-ES)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV SIM São Mateus - ES)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlisT-480p.m3u8?olhosnatv-variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV SIM Colatina-ES)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV SIM Colatina - ES)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8?olhosnatv-variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Cachoeiro-ES)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Cachoeiro - ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8?olhosnatv-variedades
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (TV Guará-MA)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (TV Guará - MA)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (TV Futuro-RN)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (TV Futuro - RN)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/15/2022/06/logo-18anos.png" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (TVC Panorama-SC)
+#EXTINF:-1 tvg-logo="https://www.panorama.tv.br/wp-content/uploads/sites/15/2022/06/logo-18anos.png" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (TVC Panorama - SC)
 https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8?olhosnatv-site
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (Catve-PR)
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (Catve - PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qtz26h9fnz5y.png" group-title="ESTÚDIOS DE RÁDIO", CATVE FM CASCAVEL 91.7
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (Portal Cultura-PA)  =site=
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="CANAIS ABERTOS/ DESENHOS/ VARIEDADES", TV CULTURA (Portal Cultura - PA)  =site=
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?Variedades-Site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CMh1tPB/Radio-Cultura-FM-93-7-FM-Belem-88x-2x-M-M-D-blue-200x200.png" group-title="ESTÚDIOS DE RÁDIO", Rádio Cultura PA (Estúdio ao Vivo)  =site=
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8?Site
 
-#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", CANAL FUTURA (Canal FDR-CE)
+#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", CANAL FUTURA (Canal FDR - CE)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wg4w7Xq/tbc-TV-Brasil-Central-30x-D-424x247.png" group-title="EDUCATIVOS", TV Cultura (TBC TV Brasil Central-GO)  =site=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wg4w7Xq/tbc-TV-Brasil-Central-30x-D-424x247.png" group-title="EDUCATIVOS", TV Cultura (TBC TV Brasil Central - GO)  =site=
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?Site
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h1QYpGF/TBC-TV-BRASIL-CENTRAL-69x-D-D-D-black-164x95.png" group-title="EDUCATIVOS", TV CULTURA (TBC TV Brasil Central-GO)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1QYpGF/TBC-TV-BRASIL-CENTRAL-69x-D-D-D-black-164x95.png" group-title="EDUCATIVOS", TV CULTURA (TBC TV Brasil Central - GO)
 https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8?olhosnatv-variedades
 
 #EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS/ VARIEDADES", REDE MINAS - MG
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", TV EDUCADORA (Limeira-SP)
+#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", TV EDUCADORA (Limeira - SP)
 https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", TV EDUCADORA (Batatais-SP)
+#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", TV EDUCADORA (Batatais - SP)
 https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/chunklist_w301065608.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", Canal Educação
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykhXfGh/Canal-Educacao-61x-D-D-D-black-338x116.png" group-title="EDUCATIVOS", Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8?site-ebc
 
-#EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", Canal Libras
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S0ttLQN/Canal-Libras-61x-D-D-D-black-274x116.png" group-title="EDUCATIVOS", Canal Libras
 https://canallibras-stream.ebc.com.br/index.m3u8?site-ebc
 
 #EXTINF:-1 tvg-logo="" group-title="EDUCATIVOS", SESC TV
@@ -5315,7 +5309,7 @@ https://video01.kshost.com.br/jaime1363/jaime1363/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS  =Pluto.tv=
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown?Plutotv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS (TV Sim-ES)  =site=
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS (TV Sim - ES)  =site=
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?site-olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwN1Pp2/JOVEM-PAN-NEWS-32x-M-D-D-white-165x33.png" group-title="NOTÍCIAS", TV JOVEM PAN NEWS  =Site=
@@ -5762,8 +5756,11 @@ https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV MEU XODÔ
 https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  .
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  ..
+https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_w1484613245.m3u8?olhosnatv-atual
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE NGT
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
@@ -5948,7 +5945,7 @@ https://stmv7.samcast.com.br/alexandreantoniodasilva9954/alexandreantoniodasilva
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74vhD3t/REDE-WEB-TV-13x-D-M-D-black-260x108.png" group-title="FILMES/ VARIEDADES", REDE WEB TV
 https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rbatv.com.br/images/logos/logo.png" group-title="VARIEDADES", TV RBA Rede Bela Aliança de Televisão (TV Brasil-SC)
+#EXTINF:-1 tvg-logo="https://www.rbatv.com.br/images/logos/logo.png" group-title="VARIEDADES", TV RBA Rede Bela Aliança de Televisão (TV Brasil - SC)
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8?cxtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/txg8X4b/TV-DIGITAL-BIRIGUI-260x110.png" group-title="FILMES/ VARIEDADES", TV DIGITAL BIRIGUI (Rádio Birigui)
@@ -5999,7 +5996,7 @@ https://cdn2.connectbr.com.br/Queens/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TRÊS PASSOS TV
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H", TV ENCAUCA  /CE/
+#EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H", TV ENCAUCA - CE
 https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", REDE PREMIUM TV
@@ -6056,8 +6053,11 @@ https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w3605
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV PLANALTO NORTE
 https://video01.logicahost.com.br/tvplanalto/tvplanalto/chunklist_w1879163375.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WTV BRASIL
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WTV BRASIL  =erro=
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WTV BRASIL  
+https://cdn.jmvstream.com/w/AVJ-13242/playlist/chunklist.m3u8?olhosnatv-novo
 
 #EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2022/06/logotipo-tvgideoes.png" group-title="EVANGÉLICOS", TV GIDEÕES
 https://streaming01.zas.media/gideoes/programacao/chunklist_w1634695127.m3u8
@@ -6344,7 +6344,7 @@ https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/chunklis
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", REDE SDP TV
 https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w402512286.m3u88
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7HYWc4/TV-EMPIRE-NO-AR-262x78.png" group-title="VARIEDADES", TV EMPIRE NO AR (Tv Vitoriosa-SBT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7HYWc4/TV-EMPIRE-NO-AR-262x78.png" group-title="VARIEDADES", TV EMPIRE NO AR (Tv Vitoriosa - SBT)
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XC0Wr7J/TV-Cordeiro-11x-M-200x118.png" group-title="MÚSICAS/ VARIEDADES", TV CORDEIRO
@@ -6374,7 +6374,7 @@ https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
 
 === Página 06 ===
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV NA ATIVA  /CE/
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV NA ATIVA - CE
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FAVORITA WEB TV  /SP/
@@ -6679,6 +6679,9 @@ https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WEB TV PARACATU  =erro=
 https://5eaa6849d0971.streamlock.net/webtvparacatu/webtvparacatu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WEB TV PARACATU
+https://a.cdni.live/webtvparacatu/webtvparacatu/chunklist_w8716453.m3u8?olhosnatv-novo
 
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV PADRE CÍCERO  /CE/
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w152186620.m3u8

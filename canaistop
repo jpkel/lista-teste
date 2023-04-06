@@ -5507,7 +5507,7 @@ http://animeloving.com/hls/stream.m3u8?cxtv-Espanha
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="ANIMES", Canela Kids  =cxtv=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS", HITS TV WEB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7yh2QWg/HITS-TV-WEB-13x-M-M-D-118x118.png" group-title="FILMES/ SERIADOS", HITS TV WEB
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", WEB TV ÁGUA BOA
@@ -5552,8 +5552,11 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?olhosnatv-velho
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV.  =novo=
 https://stmv1.srvif.com/classique/classique/chunklist_w1611525065.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H/ FILMES CLÁSSICOS", CLASSIQUE TV 2  =fora do ar?=
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV 2  =fora do ar?=
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV 2.  =novo=
+https://stmv1.painelvideo.top/classiquetv1/classiquetv1/chunklist_w1532068052.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SERIADOS", CLASSIQUE TV SÉRIES.  =novo-saiu do site?=
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1142340319.m3u8?olhosnatv-novo
@@ -5756,11 +5759,14 @@ https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", TV MEU XODÔ
 https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  .
+#EXTINF:-1 tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  . =erro=
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  ..
+#EXTINF:-1 tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/logo20anos-branco.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  .. =erro=
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_w1484613245.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://www.redefamilia.com.br/wp-content/themes/redefamilia/assets/images/footer-logo.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE FAMÍLIA  =site=
+https://streaming01.zas.media:443/redefamiliaweb/redefamiliaweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE NGT
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
@@ -6089,6 +6095,12 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", COM BRASIL TV
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gV3BTY4/THE-BIBLE-92x-D-D-D-black-164x47.png" group-title="CLÁSSICOS/ EVANGÉLICOS/ FILMES/ SERIADOS", THE BIBLE (A Bíblia)
+https://stmv1.srvsh.com.br/thebible/thebible/chunklist_w1018012268.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QmG1qT1/EURO-ONE-TV-164x37.jpg" group-title="FILMES", EURO ONE TV
+https://stmv2.srvsh.com.br/euroone/euroone/chunklist_w775945889.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DESENHOS/ EVANGÉLICOS/ KIDS", KURIAKOS KIDS.
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8?olhosnatv
 
@@ -6142,9 +6154,6 @@ https://stmv1.samcast.com.br/jacob5433/jacob5433/chunklist_w371424416.m3u8?olhos
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/94RFJYV/TV-LIBERAL-164x43.jpg" group-title="DESENHOS/ VARIEDADES", TV LIBERAL
 https://stmv1.srvif.com/tvliberal/tvliberal/chunklist_w1298234833.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/94RFJYV/TV-LIBERAL-164x43.jpg" group-title="DESENHOS/ VARIEDADES", TV LIBERAL  =teste-jp-playlist.m3u8=
-https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
@@ -6248,17 +6257,29 @@ https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w788564
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", VRT CHANNEL
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", MAX 90 TV -
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pr88bWX/MAX-90-TV-6x-M-M-D-white-256x170.png" group-title="FILMES/ VARIEDADES", MAX 90 TV  =erro=
 https://cdn.jmvstream.com/w/AVJ-12926/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV FELIZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pr88bWX/MAX-90-TV-6x-M-M-D-white-256x170.png" group-title="FILMES/ VARIEDADES", MAX 90 TV
+https://video01.logicahost.com.br/max90fm/max90fm/chunklist_w382972767.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1nxmzG/UNIMIDIA-TV-46x-D-D-D-black-96x99.png" group-title="FILMES/ VARIEDADES", UNIMÍDIA TV
+https://tv02.zas.media:1936/unimidia/unimidia/chunklist_w771448448.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1nxmzG/UNIMIDIA-TV-46x-D-D-D-black-96x99.png" group-title="FILMES/ VARIEDADES", UNIMÍDIA TV  =teste logo=
+https://tv02.zas.media:1936/unimidia/unimidia/chunklist_w771448448.m3u8?teste-logo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_TV_Feliz.png" group-title="EVANGÉLICOS", TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1243364630.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" group-title="FILMES/ SERIADOS/ VARIEDADES", REDE SUL DE TELEVISÃO
 https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", AMAZON SAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RrRXB1/AMAZON-SAT-34x-D-D-D-black-152x98.png" group-title="VARIEDADES", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jV80HbT/THE-SILENCE-TV-6x-M-M-D-white-120x112.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS", THE SILENCE TV
+https://stmv1.painelvideo.top/silencetv/silencetv/chunklist_w839968231.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8496a9f383a5f83083b72d70b3d1ca2b.jpg" group-title="FILMES", EMOTION TV
 https://stmv1.painelvideo.top/emotiontv/emotiontv/chunklist_w1428589153.m3u8
@@ -6590,8 +6611,8 @@ https://video01.logicahost.com.br/tvlagoazul/tvlagoazul/chunklist_w1164201422.m3
 #EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS/ VARIEDADES", TV EURO NEWS SJP  =twitch.tv=
 https://player.twitch.tv/?channel=tveuronewsbrasil&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=0.5
 
-#EXTINF:-1 tvg-logo="" group-title="MÚSICAS", TV TRANSJOVEM
-https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/chunklist_w905767591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESTÚDIOS DE RÁDIO", TV TRANSJOVEM
+https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/chunklist_w905767591.m3u8?olhosnatv-MUSICAS
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", FALA LITORAL TV
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
@@ -6677,10 +6698,10 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_341
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS/ MÚSICAS", GOSTEI GOSPEL TV
 https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_w1037955183.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WEB TV PARACATU  =erro=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Gzkf48/WEB-TV-PARACATU-160x160.png" group-title="VARIEDADES", WEB TV PARACATU  =erro=
 https://5eaa6849d0971.streamlock.net/webtvparacatu/webtvparacatu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", WEB TV PARACATU
+#EXTINF:-1 tvg-logo="https://webtvparacatu.com.br/hf-conteudo/uploads/layout/logo_b829d9ec8cc4468f5e7630bf1ad81744.png" group-title="VARIEDADES", WEB TV PARACATU
 https://a.cdni.live/webtvparacatu/webtvparacatu/chunklist_w8716453.m3u8?olhosnatv-novo
 
 #EXTINF:-1 tvg-logo="" group-title="CATÓLICOS", TV PADRE CÍCERO  /CE/
@@ -6748,6 +6769,9 @@ https://cdn.cdnseguro.com/metroguara/metroguara/chunklist_w1434965202.m3u8?olhos
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nbD57Fr/WEB-TV-METROPOLITANA-19x-M-M-D-green-242x188.png" group-title="VARIEDADES", Web TV Metropolitana (Guara)  ..
 https://cdn.cdnseguro.com/metroguara/metroguara/chunklist_w2068218388.m3u8?olhosnatv-novo
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3a7e62603bebaa8b6b453b3b69b948.jpg" group-title="VARIEDADES", WEB TV CIDADE JANAÚBA
+https://video01.kshost.com.br:4443/joao5713/joao5713/chunklist_w1689215702.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", REDE GOSPEL BRASIL
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/chunklist_w1477617991.m3u8
@@ -7082,7 +7106,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", CARAGUÁ TV
 https://cdn.jmvstream.com/w/AVJ-13048/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", CANAL MISSIONÁRIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzYby09/Canal-Missionario-36x-M-white-682x528.png" group-title="EVANGÉLICOS", CANAL MISSIONÁRIO
 https://59f1cbe63db89.streamlock.net:1443/canalmissionario/_definst_/canalmissionario/chunklist_w770939674.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVL NEWS
@@ -7100,8 +7124,11 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", ADESSO TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EVANGÉLICOS", TV MISSÃO
-https://video01.kshost.com.br:4443/paulo8859/paulo8859/chunklist_w813256249.m3u8?olhosnatv-sem-grupo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pwt60Tr/TV-MISS-O-200x118.jpg" group-title="EVANGÉLICOS", TV MISSÃO
+https://video01.kshost.com.br:4443/paulo8859/paulo8859/chunklist_w813256249.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3JjMC7/TV-MISSAO-20x-M-M-D-white-168x104.png" group-title="EVANGÉLICOS", TV MISSÃO (Canal Missionário)
+https://59f1cbe63db89.streamlock.net:1443/canalmissionario/_definst_/canalmissionario/chunklist_w542780058.m3u8?olhosnatv-atual
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV VELHACAP  =teste-tv-velhacap.html=??
 https://www.olhosnatv.com.br/2018/05/tv-velhacap.html

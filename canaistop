@@ -5064,7 +5064,7 @@ LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByBVMfv/Olhos-na-TV-rgba-0-0x-D-311x43.png" group-title="Inicio", `\(º_º)/´
 https://fonte-olhos-na-tv-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", '\(ºlº)/'
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", '\(º=º)/'
 https://fonte-olhos-na-tv-02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NDTV_logo_v2.png" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 1 (NDTV Criciúma - SC)
@@ -5306,6 +5306,12 @@ https://video01.kshost.com.br/jaime1363/jaime1363/playlist.m3u8?t=1680311612
 
 #EXTINF:-1 tvg-logo="" group-title="", 
 
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS
+https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=limex
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS
+https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an/uiLR4p6wQ3xLEm15pEn1Xw/featured_channel.jpg" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS  =Pluto.tv=
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown?Plutotv
 
@@ -5367,7 +5373,7 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftXjn14/TV-Radio-Super-Marajoara-70x-M-M-D-blue-870x720.png" group-title="VARIEDADES", TV Rádio Super Marajoara (PA)  =:site:-logo-jp-site=
-https://streaming03.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8?Site
+https://streaming03.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Logotipo_da_TV_V%C3%A1rzea_Grande.png" group-title="VARIEDADES", TVG TV VÁRZEA GRANDE (MT) Rede Brasil 
 https://video01.kshost.com.br/adauton7191/adauton7191/chunklist_w733001414.m3u8?olhosnatv
@@ -5378,22 +5384,22 @@ https://livefocamundo.com:8081/tvecovale/tracks-v1a1/mono.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NYq9G3h/TBO-TV-Brasil-Oeste-92x-D-D-D-black-164x92.png" group-title="VARIEDADES", TBO TV BRASIL OESTE (MT) RBTV
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", AW TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcSwRPF/AW-TV-26x-M-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", AW TV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="SERIADOS/ VARIEDADES", TV8 RO (AW TV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Cwdys/TV8-BRASIL-34x-D-142x96.png" group-title="SERIADOS/ VARIEDADES", TV8 RO (AW TV)
 https://stmv2.samcast.com.br/jose8272/jose8272/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13952/thumb_VINTAGE_TV.png" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ FILMES CLÁSSICOS", WEB TV CLÁSSICOS DO CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjMYL3k/WEB-TV-CL-SSICOS-DO-CINEMA-12x-M-M-D-white-120x118.png" group-title="DESENHOS/ FILMES/ FILMES CLÁSSICOS", WEB TV CLÁSSICOS DO CINEMA
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ VARIEDADES", ISTV  .
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12047/thumb_ISTV.png" group-title="FILMES/ SERIADOS/ VARIEDADES", ISTV  .
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ VARIEDADES", ISTV 2  ..
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12047/thumb_ISTV.png" group-title="FILMES/ SERIADOS/ VARIEDADES", ISTV 2  ..
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8?olhosnatv-saiu-do-site
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0VQVhW.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", XTREME TV  .
@@ -5402,25 +5408,25 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8?olhosnatv-velho
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", XTREME TV  ..
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MQsctn/IMPERIAL-TV-10x-M-black-223x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  .
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Nh9Bj/REDE-CLONE-TV-25x-M-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  .
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  ..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Nh9Bj/REDE-CLONE-TV-25x-M-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  ..
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ FILMES CLÁSSICOS/ SERIADOS", GLN TV
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" group-title="DESENHOS/ FILMES/ FILMES CLÁSSICOS/ SERIADOS", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS", BONS TEMPOS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPGLQGb/BONS-TEMPOS-TV-57x-D-D-D-blue-520x420.png" group-title="DESENHOS/ FILMES/ SERIADOS", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TELA VIVA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Z8aHIc.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", X PLUS TV (Antiga Aish TV Brasil) =telavivatv?=
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12580/thumb_X_PLUS_TV.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", X PLUS TV (Antiga Aish TV Brasil) =telavivatv?=
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1780596912.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72mGJvk/RETRO-CARTOON-0x-M-256x256-2.png" group-title="DESENHOS", RETRÔ CARTOON
@@ -5435,20 +5441,23 @@ https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8?olhosnat
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nDRPygL/TV-KIDS-MAIS-10x-M-M-D-white-256x184.png" group-title="CLÁSSICOS/ DESENHOS", KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES CLÁSSICOS/ SERIADOS/ VARIEDADES", TV MAIS BRASIL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6Cny4k/TV-MAIS-BRASIL-1x-D-M-D-grey-256x256.png" group-title="FILMES/ FILMES CLÁSSICOS/ SERIADOS/ VARIEDADES", TV MAIS BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CHANNEL 1  =erro=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bjqf2wg/CHANNEL-1-12x-M-M-D-white-256x256.png" group-title="CLÁSSICOS/ FILMES", CHANNEL 1  =erro=
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CHANNEL 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bjqf2wg/CHANNEL-1-12x-M-M-D-white-256x256.png" group-title="CLÁSSICOS/ FILMES", CHANNEL 1
 https://stmv1.painelvideo.top/channel1/channel1/chunklist_w872431715.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI
+#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI
 https://livefocamundo.com:8081/tvaracati/index.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?olhosnatv-atual
+#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?olhosnatv-novo
+
+#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1348023690.m3u8?olhosnatv-atual
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8?olhosnatv
@@ -5489,7 +5498,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?site-olhosnatv-01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XJryxgY/ANIME-TV-280x98.jpg" group-title="ANIMES", ANIME TV  ..
 https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8?olhosnatv-02-logo-jp
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMES", ANIME TV 2  =erro=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XJryxgY/ANIME-TV-280x98.jpg" group-title="ANIMES", ANIME TV 2  =erro=
 http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8?boytvcanais-com-br
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jy3dy74/Locomotion-TV-12x-D-black-260x66.png" group-title="ANIMES", Locomotion TV
@@ -5501,25 +5510,22 @@ http://azxtv.com/hls/stream.m3u8?Site
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/36882e29bc7a31b643af08a0f61e23c3.jpg" group-title="ANIMES", Anime Loving TV  =cxtv=
 http://animeloving.net/hls/stream.m3u8?cxtv-Espanha
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/36882e29bc7a31b643af08a0f61e23c3.jpg" group-title="ANIMES", Anime Loving TV  =teste.com=
-http://animeloving.com/hls/stream.m3u8?cxtv-Espanha
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="ANIMES", Canela Kids  =cxtv=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7yh2QWg/HITS-TV-WEB-13x-M-M-D-118x118.png" group-title="FILMES/ SERIADOS", HITS TV WEB
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ VARIEDADES", WEB TV ÁGUA BOA
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12181/thumb_TV_A%CC%81GUA_BOA_.jpg" group-title="FILMES/ VARIEDADES", WEB TV ÁGUA BOA
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", REDE UTV BRASIL  .
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svNyKR1/Rede-UTV-Brasil-18x-M-M-D-white-221x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", REDE UTV BRASIL  .
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", REDE UTV BRASIL  ..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svNyKR1/Rede-UTV-Brasil-18x-M-M-D-white-221x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", REDE UTV BRASIL  ..
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w838479703.m3u8?olhosnatv-atual
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TV A7 (Rede UTV)  .
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12188/thumb_TV_A7_.png" group-title="VARIEDADES", TV A7 (Rede UTV)  .
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://redelivre.tv.br//storage/images/cache/image-caldas-novas-1672668970-130-69ab5f6c.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", REDE LIVRE TV (TV A7)  /GO/  =site=  ..
@@ -5528,16 +5534,16 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?site-logo-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSmHn1c/REDE-LIVRE-TV-rgba-0-0x-D-D-D-130x139.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", REDE LIVRE TV (TV A7)  /GO/  ..
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1100067141.m3u8?olhosnatv-atual-logo-jp-mesmo-link
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ VARIEDADES", TV POTENGI (Rede UTV)
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12230/thumb_LOGO_3D_NOVA_TV_POTENGI__1_.png" group-title="DESENHOS/ VARIEDADES", TV POTENGI (Rede UTV)
 https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", RUNTIME AÇÃO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0y28kW/RUNTIME-164x46.jpg" group-title="FILMES", RUNTIME AÇÃO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS", RUNTIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0y28kW/RUNTIME-164x46.jpg" group-title="FILMES/ SERIADOS", RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", RUNTIME COMÉDIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0y28kW/RUNTIME-164x46.jpg" group-title="FILMES", RUNTIME COMÉDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FAROESTES/ FILMES", CLASSIQUE TV WESTERN
@@ -5546,61 +5552,61 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?olhosnatv-velho
 #EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FAROESTES/ FILMES", CLASSIQUE TV WESTERN.  =novo=
 https://stmv1.painelvideo.top/classiquew/classiquew/chunklist_w237050014.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qHNphg/CLASSIQUE-TV-164x38.jpg" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV.  =novo=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qHNphg/CLASSIQUE-TV-164x38.jpg" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV.  =novo=
 https://stmv1.srvif.com/classique/classique/chunklist_w1611525065.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV 2  =fora do ar?=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldckr6L/CLASSIQUE-TV-260x60.png" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV 2  =fora do ar?=
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV 2.  =novo=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldckr6L/CLASSIQUE-TV-260x60.png" group-title="CLÁSSICOS/ FILMES", CLASSIQUE TV 2.  =novo=
 https://stmv1.painelvideo.top/classiquetv1/classiquetv1/chunklist_w1532068052.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SERIADOS", CLASSIQUE TV SÉRIES.  =novo-saiu do site?=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qHNphg/CLASSIQUE-TV-164x38.jpg" group-title="SERIADOS", CLASSIQUE TV SÉRIES.  =novo-saiu do site?=
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1142340319.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ FILMES/ SERIADOS", TV CEI
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12811/thumb_logo_cei_novo_sem_fundo.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS", TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", CENTRAL TV 1  -
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSCNH7D/Central-TV-8x-M-256x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", CENTRAL TV 1  -
 https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", CENTRAL TV 2  .
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSCNH7D/Central-TV-8x-M-256x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", CENTRAL TV 2  .
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w23377293.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", CENTRAL TV 3  .
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", CENTRAL TV 3  .
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8?olhosnatv-esse-atual
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", DO FUNDO DO BAÚ (Central TV)  .
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YLPYZgr/DO-FUNDO-DO-BAU-84x-M-D-D-red-editado-95x35.png" group-title="VARIEDADES", DO FUNDO DO BAÚ (Central TV)  .
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8?olhosnatv-cxtv-esse-atual
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ VARIEDADES", VILA TV  =erro=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4VLpKV/VILA-TV-12x-M-white-256x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ VARIEDADES", VILA TV  =erro=
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ VARIEDADES", VILA TV  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4VLpKV/VILA-TV-12x-M-white-256x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ VARIEDADES", VILA TV  
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8?olhosnatv-novo
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES 24H", TV JORNAL DO NORDESTE
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/12223/thumb_TV_JORNAL_DO_NORDESTE.png" group-title="FILMES/ FILMES 24H", TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ FILMES CLÁSSICOS/ SERIADOS", TV CLUBE WEB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tmFDhW0/TV-CLUBE-WEB-90x-D-blue-256x256.png" group-title="DESENHOS/ FILMES/ FILMES CLÁSSICOS/ SERIADOS", TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", ENTORNO SUL WEB TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPZ6Xfk/TV-ENTORNO-SUL-31x-M-M-D-white-256x203.png" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", ENTORNO SUL WEB TV
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", TV DIVERSIDADE  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rXt9C/TV-DIVERSIDADE-10x-D-M-D-white-134x118.png" group-title="DESENHOS/ FILMES/ VARIEDADES", TV DIVERSIDADE  
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/playlist.m3u8?olhosnatv-TV01
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", TV DIVERSIDADE 2  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WpptH1/TV-DIVERSIDADE-12x-D-M-D-white-120x118.png" group-title="DESENHOS/ FILMES/ VARIEDADES", TV DIVERSIDADE 2  
 https://cdn.jmvstream.com/w/AVJ-12928/playlist/chunklist.m3u8?olhosnatv-novo-TV02
 
-#EXTINF:-1 tvg-logo="" group-title="DESENHOS/ FILMES/ VARIEDADES", TV DIVERSIDADE 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WpptH1/TV-DIVERSIDADE-12x-D-M-D-white-120x118.png" group-title="DESENHOS/ FILMES/ VARIEDADES", TV DIVERSIDADE 2 
 https://cdn.jmvstream.com/w/AVJ-12928/playlist/playlist.m3u8?olhosnatv-velho-TV02
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", CANAL BS TV
+#EXTINF:-1 tvg-logo="https://bstv.com.br/wp-content/uploads/2021/11/LOGO-SITE.png" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", CANAL BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES/ FILMES GOSPEL", TOP MIX TV FILMES
@@ -5642,7 +5648,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1185340284.m3u8?o
 
 === Página 02 ===
 
-#EXTINF:-1 tvg-logo="" group-title="FAROESTES/ FILMES/ FILMES CLÁSSICOS", WEB TV PROGRESSO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qIzyAmA.png" group-title="FAROESTES/ FILMES/ FILMES CLÁSSICOS", WEB TV PROGRESSO
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2PTYFL/FORA-TEDIO-TV-164x97.jpg" group-title="PEGADINHAS", FORA TÉDIO TV
@@ -8614,4 +8620,10 @@ https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo1-logo-erro
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8r4frCr/LOAD52-X-57x-D-D-D-black-256x256.png" group-title="TV AO VIVO", LOAD52X (EXCELSIOR TV/ GEEKMORE TV)
 https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo2-logo-jp
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16878/logo_256_1678859066.jpg" group-title="TV AO VIVO", WORDING TV
+https://alanza.iptv2022.com/Wording_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="TV AO VIVO", RECORD NEWS
+https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=limex?
 

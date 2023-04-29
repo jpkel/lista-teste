@@ -5070,7 +5070,7 @@ LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByBVMfv/Olhos-na-TV-rgba-0-0x-D-311x43.png" group-title="Inicio", `\(º_º)/´
 https://fonte-olhos-na-tv-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", ´/(º_º)\`
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", -/(º_º)\-
 https://fonte-olhos-na-tv-02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NDTV_logo_v2.png" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 1 (NDTV Criciúma - SC)
@@ -6027,7 +6027,10 @@ https://stm1.rbsystv.com/joseroberto9307/joseroberto9307/chunklist_w546678306.m3
 https://stmv2.voxtvhd.com.br/rededecanaisdetv/rededecanaisdetv/chunklist_w1199137833.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrXjX2X/SEVEN-TV-21x-D-black-100x100.png" group-title="FILMES/ VARIEDADES", SEVEN TV 
-https://video01.kshost.com.br/aubrey3291/aubrey3291/chunklist_w783174574.m3u8
+https://video01.kshost.com.br/aubrey3291/aubrey3291/chunklist_w783174574.m3u8?olhosnatv-logo-jp
+
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/seventv.com.br/images/logo/logo_1114123683.png" group-title="FILMES/ VARIEDADES", SEVEN TV  -site-
+https://video01.kshost.com.br/aubrey3291/aubrey3291/playlist.m3u8?site-olhosnatv-logo-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2rQX5w/Petlovers-TV-16x-D-M-D-white-200x200.png" group-title="FILMES/ VARIEDADES", PET LOVERS TV  .
 https://acesso.ecast.site:3660/stream/play.m3u8?olhosnatv-velho
@@ -6391,6 +6394,12 @@ https://cdn.jmvstream.com/w/AVJ-12926/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pr88bWX/MAX-90-TV-6x-M-M-D-white-256x170.png" group-title="FILMES/ VARIEDADES", MAX 90 TV
 https://video01.logicahost.com.br/max90fm/max90fm/chunklist_w382972767.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzfBcVK/TV-ONE-12x-M-M-D-white-108x100.png" group-title="VARIEDADES", TV ONE - Rede Meio Norte (PA)
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w2000898313.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="VARIEDADES", TV ONE - Rede Meio Norte (PA)  -site-
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8?site-cxtv
 
 #EXTINF:-1 tvg-logo="https://tvnova.tv.br/v1/wp-content/uploads/2023/03/Logo-TV-Nova-PEQUENO.png" group-title="VARIEDADES", TV NOVA NORDESTE (TV Cultura - PE)
 https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
@@ -7013,9 +7022,6 @@ https://srv4.zcast.com.br/josineide7801/josineide7801/chunklist_w1888565426.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x1DRBRy/RGCTV-9x-M-M-D-white-168x115.png" group-title="VARIEDADES", RGC TV
 https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w293464193.m3u8
 
-#EXTINF:-1 tvg-logo="https://spaceks.net/sites/seventv.com.br/images/logo/logo_1114123683.png" group-title="FILMES/ VARIEDADES", SEVEN TV
-https://video01.kshost.com.br/aubrey3291/aubrey3291/chunklist_w783174574.m3u8
-
 #EXTINF:-1 tvg-logo="https://teresopolistv.com.br/wp-content/uploads/2022/06/logo-teresopolis-tv.png" group-title="VARIEDADES", TERESÓPOLIS TV  
 https://cdn.jmvstream.com/w/LVW-11574/LVW11574_CEJO5rAP5p/chunklist.m3u8
 
@@ -7461,6 +7467,9 @@ https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1049160205.m3u8?olh
 https://cast.cdnseguro.com:1936/8044/8044/playlist.m3u8?Site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X6WHHW/TV-Aurora-24x-D-M-D-white-200x200.png" group-title="VARIEDADES", TV AURORA
+https://stream.skyspace.com.br:3831/stream/play.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X6WHHW/TV-Aurora-24x-D-M-D-white-200x200.png" group-title="VARIEDADES", TV AURORA  -erro-
 https://stmv.video.skyspace.com.br/tvaurora/tvaurora/chunklist_w1912953288.m3u8
 
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/TV-Uruburetama-live-vipotv-brasil-1.png" group-title="VARIEDADES", TV URUBURETAMA  (CE)
@@ -7712,8 +7721,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mpv7mwd/CLUBE-105-5-FM-12x-D-M-D-white-320x188.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE 105.5 FM  -mudou link-
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPnVGRt/CLUBE-105-5-FM-13x-D-M-D-white-230x188.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE 105.5 FM  
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8?logo-jp-01
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJFSXSH/CLUBE-105-5-FM-0x-D-M-D-white-230x188.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO CLUBE 105.5 FM  
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8?logo-jp-02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7J090vx/FM-O-DIA-100-5-4x-M-M-D-white-372x304.png" group-title="ESTÚDIOS DE RÁDIO", FM O DIA 100.5  -cxtv-
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8?cxtv-site
@@ -8844,7 +8856,7 @@ https://alanza.iptv2022.com/HispanTV/index.m3u8?logo-jp02-tvbr
 https://barbara.iptv2022.com/RTDOC-eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njG5h00/CNA-25x-D-M-D-white-cxtv-200x200.png" group-title="TV AO VIVO", CNA Ásia (Eng) - =saiu do site=
-https://helga.iptv2022.com/CNA_eng/mono.m3u8?logo-jp01-cxtv-tvbr
+https://helga.iptv2022.com/CNA_eng/index.m3u8?logo-jp01-cxtv-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex=
 https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8?logo-jp01-tvbr
@@ -8874,7 +8886,7 @@ https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo1-logo-erro
 https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo2-logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16878/logo_256_1678859066.jpg" group-title="TV AO VIVO", WORDING TV
-https://alanza.iptv2022.com/Wording_TV/mono.m3u8
+https://alanza.iptv2022.com/Wording_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="TV AO VIVO", RECORD NEWS
 https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=limex?

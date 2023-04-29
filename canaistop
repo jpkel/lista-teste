@@ -1364,6 +1364,12 @@ https://manoweb.ip.tv/iframe/tvnazare
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/estados/pb.png" group-title=”-”, ///CANAIS da Paraíba///
 http://0.0.0.24
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c27e8db20ac1f7fa79f7956491a1287.jpg" group-title="EDUCATIVOS", Guia Tv (TV Brasil 2 - PB)  -cxtv-
+https://livefocamundo.com:8081/guiatv/tracks-v1a1/mono.m3u8?cxtv
+
+#EXTINF:-1 tvg-logo="https://guiatvbrazil.tv.br/wp-content/uploads/2023/02/logo-site.png" group-title="EDUCATIVOS", Guia Tv (TV Brasil 2 - PB)  -site-
+https://livefocamundo.com:8081/guiatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b240c8195fa7b7f60ee17847af28001.jpg" group-title="Variedades", TV Tambaú - PB - João Pessoa .novo. cxtv (TV Serra Dourada)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?cxtv
 
@@ -5064,7 +5070,7 @@ LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByBVMfv/Olhos-na-TV-rgba-0-0x-D-311x43.png" group-title="Inicio", `\(º_º)/´
 https://fonte-olhos-na-tv-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", ./(º_º)\.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwXcGPM/Olhos-na-TV-1x-D-M-D-black-200x200.png" group-title="Inicio", ´/(º_º)\`
 https://fonte-olhos-na-tv-02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/NDTV_logo_v2.png" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV 1 (NDTV Criciúma - SC)
@@ -5265,6 +5271,9 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvj43ZM.png" group-title="EDUCATIVOS", CANAL FUTURA (Canal FDR - CE)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="EDUCATIVOS", CANAL FUTURA (UNISC TV - RS)  -site-
+https://tv.unisc.br/hls/test.m3u8?cxtv-site
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wg4w7Xq/tbc-TV-Brasil-Central-30x-D-424x247.png" group-title="EDUCATIVOS", TV Cultura (TBC TV Brasil Central - GO)  -site-
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?Site
 
@@ -5342,9 +5351,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp.png?w=204&q=100" group-title="VARIEDADES", RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtpClean1HD.smil/playlist.m3u8?tk=1681268400_e39cabb32b4761e1dedd30614497d7d82441008c
 
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp.png?w=204&q=100" group-title="VARIEDADES", RTP 1  -teste-
-https://streaming-live.rtp.pt/liverepeater/smil:rtpClean1HD.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiedCLnRCsRR4ChetyaOkBliiNIg_WNbyzoZ7j6XxJou7mlIauVIWxSMTezJidZjVLKgGrWUydhwof_vZCaO8FGIm7e7D5fqlY38FPlMPfLhAVaHv6iRRO2kWtDPgJvDI_v6ywYDFHV76N349nwbHN2OZZx2z9I8X35lJFTmbjqZf9m3t9RQ66vxiXq/s200/PORTO%20CANAL.png" group-title="VARIEDADES", Porto Canal Portugal  -erro-olhosnatv-
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?olhosnatv-velho
 
@@ -5353,9 +5359,6 @@ https://geo.dailymotion.com/player/x9yo3.html?video=x8egnb8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKRFX5J/PORTO-CANAL-66x-D-D-D-black-164x73.png" group-title="VARIEDADES", Porto Canal Portugal  -www.dailymotion.com- 2
 https://www.dailymotion.com/embed/video/x8egnb8?autoPlay=1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKRFX5J/PORTO-CANAL-66x-D-D-D-black-164x73.png" group-title="VARIEDADES", Porto Canal Portugal  -teste-www.dailymotion.com- (2)
-https://www.dailymotion.com/embed/video/x8egnb8?autoPlay=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/7dda99d06fabcb74e78be950e7516964.png" group-title="VARIEDADES", SOUL TV
 https://video01.soultv.com.br/soultv/soultv/playlist.m3u8?cxtv
@@ -6197,6 +6200,9 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="VARIEDADES", COM BRASIL TV
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHCFK3C/TV-NBT-14x-M-M-D-white-120x111.png" group-title="VARIEDADES", TV NBT
+https://streaming.cloudecast.com/memfs/774f3235-a8de-407c-91bb-a7fbca7a2efb_output_0.m3u8?session=SG5c9EqsJGvXDkMGx8xg3n
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6km7xS/THE-BIBLE-164x47.jpg" group-title="CLÁSSICOS/ EVANGÉLICOS/ FILMES/ SERIADOS", THE BIBLE (A Bíblia)
 https://stmv4.voxtvhd.com.br/thebible/thebible/playlist.m3u8?ipgotv.net.br
 
@@ -6752,6 +6758,9 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w1042
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wxfj6j0/OASIS-TV-22x-M-M-D-white-118x118.png" group-title="EVANGÉLICOS/ FILMES", OÁSIS TV
 https://stmv5.samcast.com.br/oasistv/oasistv/chunklist_w1183640692.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dWpPPpJ/TV-MOSTARDAS-22x-D-M-D-white-164x42.png" group-title="VARIEDADES", TV MOSTARDAS
+https://stmv5.samcast.com.br/tvmostardas/tvmostardas/chunklist_w1829929934.m3u8
+
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6757/cabecalho-6757-20210726005928.png" group-title="VARIEDADES", GUARANTÃ TV
 https://stmv1.samcast.com.br/guarantaradiotv/guarantaradiotv/chunklist_w1943764325.m3u8
 
@@ -6920,7 +6929,7 @@ https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8?logo-jp02
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Sky-News.png" group-title="NOTÍCIAS DO MUNDO", SKY News | TV Afro Beats - Reino Unido (ING)
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvfeiradesantana.com/uploads/images/logo_site_small_1530615298.png" group-title="VARIEDADES", TV FEIRA DE SANTANA | 101 tv Antequera HD - BA
+#EXTINF:-1 tvg-logo="https://www.tvfeiradesantana.com/uploads/images/logo_site_small_1530615298.png" group-title="VARIEDADES", TV FEIRA DE SANTANA | 101 tv Antequera HD (BA)
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZzNPVP/TV-INFORBAHIA-11x-M-white-256x201.png" group-title="VARIEDADES", TV INFORBAHIA - BA
@@ -7226,12 +7235,6 @@ https://5ffab78b24f94.streamlock.net/tvsertao/tvsertao/chunklist_w1579907985.m3u
 #EXTINF:-1 tvg-logo="https://portalsertao.com/img/1775569f59157ca4c42a2b77c5d54344.png" group-title="VARIEDADES", TV SERTÃO (PB)  -site-
 https://stmv.jnbhost.com.br/tvsertao/tvsertao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c27e8db20ac1f7fa79f7956491a1287.jpg" group-title="EDUCATIVOS", Guia Tv (TV Brasil 2 - PB)  -cxtv-
-https://livefocamundo.com:8081/guiatv/tracks-v1a1/mono.m3u8?cxtv
-
-#EXTINF:-1 tvg-logo="https://guiatvbrazil.tv.br/wp-content/uploads/2023/02/logo-site.png" group-title="EDUCATIVOS", Guia Tv (TV Brasil 2 - PB)  -site-
-https://livefocamundo.com:8081/guiatv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Epxr8DX.png" group-title="VARIEDADES", TV DAS ARTES  -site fora do ar-
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8
 
@@ -7250,8 +7253,11 @@ https://stmv.webtvninjas.com.br/tvchicojoao/tvchicojoao/chunklist_w588043780.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWYjaed.png" group-title="VARIEDADES", TV GRANDE NATAL
 https://canalteste.duckdns.org:4433/hls/tvgrandenatalhdtv/1_0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="MÚSICAS", TOP LATINO TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w234797575.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="MÚSICAS", TOP LATINO TV  .
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w300791352.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="MÚSICAS", TOP LATINO TV  ..
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w234797575.m3u8?olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BLcx6Pd/RETRO-PLUS-TV-260x78.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", RETRO PLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -7280,7 +7286,7 @@ https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w1921448045.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tt2k3wc/TV-F-E-LUZ-99x100.jpg" group-title="CATÓLICOS", TV FÉ E LUZ
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w679510436.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XY28NpK/CARIRI-TV-PARAIBA-17x-M-white-256x251.png" group-title="VARIEDADES", CARIRI TV (PB) ?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XY28NpK/CARIRI-TV-PARAIBA-17x-M-white-256x251.png" group-title="VARIEDADES", CARIRI TV (PB)  -erro-
 https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXVQwfB/WEB-TV-A-PAZ-DO-SENHOR-8x-M-M-D-white-104x104.png" group-title="EVANGÉLICOS", WEB TV A PAZ DO SENHOR (tv senhor)
@@ -7407,7 +7413,10 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gRnfCnB/TV-ALBA-BA-33x-D-D-D-red-1667x1667.png" group-title="GOVERNAMENTAIS", TV ALBA
-https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
+https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8?olhosnatv-logo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GB1dD7/TV-ALBA-44x-D-D-D-black-100-X100.png" group-title="GOVERNAMENTAIS", TV ALBA
+https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8?olhosnatv-logo-jp02
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s238966g.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", RADIO 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
@@ -7542,13 +7551,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://TV-HORIZONTE-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/12482/thumb_logotipo.png" group-title="CATÓLICOS", TV Educar  -mono.m3u8-
-https://alanza.iptv2022.com/TV_Educar/mono.m3u8?tvbr-jp-fica-retornando-imagem
-
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/12482/thumb_logotipo.png" group-title="CATÓLICOS", TV Educar  -index.m3u8-erro-
-https://alanza.iptv2022.com/TV_Educar/index.m3u8?tvbr-jp-erro
-
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/12482/thumb_logotipo.png" group-title="CATÓLICOS", TV Educar  -master.m3u8-erro?-
-https://alanza.iptv2022.com/TV_Educar/master.m3u8?tvbr-jp-sera
+https://alanza.iptv2022.com/TV_Educar/mono.m3u8?tvbr-jp-mono-fica-retornando-imagem
 
 #EXTINF:-1 tvg-logo="https://fb.paineladmin.com.br/arquivos/8482/cabecalho-8482-20201201223914.png" group-title="EVANGÉLICOS", RÁDIO WEB TV IJCP - Igreja Jesus Cristo é Poder
 https://cdn1.str.srv.br/jcp/jcp/playlist.m3u8
@@ -7823,8 +7826,11 @@ https://video01.kshost.com.br/rede4540/rede4540/playlist.m3u8?t=1682394542
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jdNzyf/Novos-Horizontes-FM-104-7-31x-D-D-D-white-152x118.png" group-title="ESTÚDIOS DE RÁDIO", NOVOS HORIZONTES FM 104.7
 https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w207356910.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k9n3Tnt/NTV-Rede-Minas-16x-D-M-D-white-188x188.png" group-title="VARIEDADES", NTV (Rede Minas)  -twitch.tv- erro
-https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9n3Tnt/NTV-Rede-Minas-16x-D-M-D-white-188x188.png" group-title="VARIEDADES", NTV (Rede Minas)  -olhosnatv-velho-
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8?olhosnatv-velho
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9n3Tnt/NTV-Rede-Minas-16x-D-M-D-white-188x188.png" group-title="VARIEDADES", NTV (Rede Minas)  -twitch.tv-erro-
+https://player.twitch.tv/?channel=ntvvivo&parent=www.olhosnatv.com.br
 
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="VARIEDADES", TV ENCONTRO DAS ÁGUAS (TV Brasil)  -manotv- erro
 https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
@@ -8838,7 +8844,7 @@ https://alanza.iptv2022.com/HispanTV/index.m3u8?logo-jp02-tvbr
 https://barbara.iptv2022.com/RTDOC-eng/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/njG5h00/CNA-25x-D-M-D-white-cxtv-200x200.png" group-title="TV AO VIVO", CNA Ásia (Eng) - =saiu do site=
-https://helga.iptv2022.com/CNA_eng/index.m3u8?logo-jp01-cxtv-tvbr
+https://helga.iptv2022.com/CNA_eng/mono.m3u8?logo-jp01-cxtv-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSGN8z0/NASA-TV-5x-M-M-D-white-256x256.png" group-title="TV AO VIVO", NASA TV - =Limex=
 https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8?logo-jp01-tvbr
@@ -8868,7 +8874,7 @@ https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo1-logo-erro
 https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo2-logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16878/logo_256_1678859066.jpg" group-title="TV AO VIVO", WORDING TV
-https://alanza.iptv2022.com/Wording_TV/index.m3u8
+https://alanza.iptv2022.com/Wording_TV/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="TV AO VIVO", RECORD NEWS
 https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=limex?

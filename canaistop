@@ -5064,7 +5064,6 @@ https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?Play
 #EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="", Bem vindos sua lista IPTV
 https://0.0.0.41
 
-
 LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
 
 
@@ -5448,10 +5447,10 @@ https://node2.ecast.site:3428/live/imperiallive.m3u8?olhosnatv-atual
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4MQsctn/IMPERIAL-TV-10x-M-black-223x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV  . -erro-
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Nh9Bj/REDE-CLONE-TV-25x-M-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  . -site-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Nh9Bj/REDE-CLONE-TV-25x-M-256x256.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  . -site-
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Nh9Bj/REDE-CLONE-TV-25x-M-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  ..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cnVBWf/REDE-CLONE-TV-90x-D-D-D-black-80x80.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV (Clouding' TV)  ..
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8?olhosnatv-atual
 
 #EXTINF:-1 tvg-logo="https://tvrbc.com.br/wp-content/uploads/2022/03/LOGO-TV-RBC-Portal.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV RBC
@@ -5961,7 +5960,7 @@ https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8?cxtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFNTr55/TV-CONFIEGO-GOSPEL-120x100.jpg" group-title="DESENHOS/ FILMES", TV CONFIEGO
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13742/thumb_LASS_TV.png" group-title="FILMES/ VARIEDADES", LASS TV  .?.
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13742/thumb_LASS_TV.png" group-title="FILMES/ VARIEDADES", LASS TV -?
 https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w1755884143.m3u8?olhosnatv
 
 
@@ -6442,6 +6441,42 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bn4Mgz/MJR-TV-16x-D-D-D-white-300x300.png" group-title="VARIEDADES", MJR TV (Miguel Júnior TV)
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/chunklist_w788564536.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="AGRONEGÓCIOS", Terra Viva  -site-
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?listaiptv-site
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="AGRONEGÓCIOS", AGROBRASIL TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1655824251.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="AGRONEGÓCIOS", AGROBRASIL TV  -site-
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?Site
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="AGRONEGÓCIOS", CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1992280707.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vcv4xN/CANAL-DO-CRIADOR-72x-D-D-D-black-384x384.png" group-title="AGRONEGÓCIOS", CANAL DO CRIADOR
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1144566184_b2596000_sleng.m3u8?logo-1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frDX2XM/CANAL-DO-CRIADOR-16x-D-D-D-white-200x200.png" group-title="AGRONEGÓCIOS", CANAL DO CRIADOR
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1144566184_b2596000_sleng.m3u8?logo-2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bvw0tui.png" group-title="AGRONEGÓCIOS", NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w612440962.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cyFQnfM/TV-COOP-SC-27x-D-black-112x98.png" group-title="AGRONEGÓCIOS", TV COOP SC
+https://stream01-tvcoopsc.netpointcdn.com.br/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="AGRONEGÓCIOS", AGRO MAIS
+http://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?olhosnatv-site
+
+#EXTINF:-1 tvg-logo="https://milagroagrobrasil.com.br/wp-content/uploads/elementor/thumbs/Logo-TV-Milagro-e1648938138387-pmsju8r6ljhlw3fm1dp26wf26p0szavox90ooe78we.png" group-title="AGRONEGÓCIOS", TV MILAGRO BRASIL  -erro site fora do ar-
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyydPx4/PLAYING-TV-12x-M-M-D-white-100x88.png" group-title="SERIADOS/ VARIEDADES", PLAYING TV
+https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//playlist.m3u8?logo-1-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVdYpPj/PLAYING-TV-16x-D-M-D-white-100x88.png" group-title="SERIADOS/ VARIEDADES", PLAYING TV
+https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//playlist.m3u8?logo-2-jp
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f184cbN/TV-DESCALVADO-rgba-0-0x-500x421.png" group-title="FILMES/ SERIADOS/ VARIEDADES", TV DESCALVADO
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/chunklist_w1150472665.m3u8
 
@@ -6595,14 +6630,14 @@ https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w402512286.m3u88
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r7HYWc4/TV-EMPIRE-NO-AR-262x78.png" group-title="VARIEDADES", TV EMPIRE NO AR (Tv Vitoriosa - SBT)
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
 
+
+=== Página 06 ===
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XC0Wr7J/TV-Cordeiro-11x-M-200x118.png" group-title="MÚSICAS/ VARIEDADES", TV CORDEIRO
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/chunklist_w277516646.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NxfdNMC/OESC-TV-17x-D-D-D-black-260x62.png" group-title="VARIEDADES", OESC TV  -erro saiu do site-
 https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
-
-
-=== Página 06 ===
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWd3wHS.png" group-title="VARIEDADES", TV PASSO FUNDO
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
@@ -6705,35 +6740,6 @@ https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spaceks.net/sites/tvcidadenews.com.br/images/logo/logo_590945566.png" group-title="VARIEDADES", TV CIDADE Guarulhos (SP)  -site-
 https://video01.kshost.com.br/jaime1363/jaime1363/playlist.m3u8?t=1680311612
 
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="AGRONEGÓCIOS", Terra Viva  -listaiptv-
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?listaiptv
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="AGRONEGÓCIOS", CANAL RURAL
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1992280707.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vcv4xN/CANAL-DO-CRIADOR-72x-D-D-D-black-384x384.png" group-title="AGRONEGÓCIOS", CANAL DO CRIADOR
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1144566184_b2596000_sleng.m3u8?logo-1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/frDX2XM/CANAL-DO-CRIADOR-16x-D-D-D-white-200x200.png" group-title="AGRONEGÓCIOS", CANAL DO CRIADOR
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1144566184_b2596000_sleng.m3u8?logo-2
-
-#EXTINF:-1 tvg-logo="https://milagroagrobrasil.com.br/wp-content/uploads/elementor/thumbs/Logo-TV-Milagro-e1648938138387-pmsju8r6ljhlw3fm1dp26wf26p0szavox90ooe78we.png" group-title="AGRONEGÓCIOS", TV MILAGRO BRASIL
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="AGRONEGÓCIOS", AGROBRASIL TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?Site
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cyFQnfM/TV-COOP-SC-27x-D-black-112x98.png" group-title="AGRONEGÓCIOS", TV COOP SC
-https://stream01-tvcoopsc.netpointcdn.com.br/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bvw0tui.png" group-title="AGRONEGÓCIOS", NOVA TV AGROTOUR
-https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w612440962.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="AGRONEGÓCIOS", AGRO MAIS
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tC01kgR/TV-ITAPE-8x-M-M-D-white-200x188.png" group-title="VARIEDADES", TV ITAPÊ
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 
@@ -6803,11 +6809,11 @@ https://hls.showfer.com/stream/63e7ca2d6e33cf5f07659f36/airy.m3u8?Site
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMnWPJy/ACOISONA-TV-26x-M-M-D-white-168x118.png" group-title="VARIEDADES", ACOISONA TV
 https://5cf4a2c2512a2.streamlock.net/acoisona/acoisona/chunklist_w2093196155.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vkn3RjZ/PHILLY-USA-TV-0x-D-D-D-black-162x64.png" group-title="VARIEDADES", PHILLY USA TV
-https://tv02.zas.media:1936/phillyusa/phillyusa/chunklist_w1182562521.m3u8
-
 
 === Página 07 ===
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkn3RjZ/PHILLY-USA-TV-0x-D-D-D-black-162x64.png" group-title="VARIEDADES", PHILLY USA TV
+https://tv02.zas.media:1936/phillyusa/phillyusa/chunklist_w1182562521.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Srg7Qcd/ALTERNATIVA-WEB-TV-IVA-12x-D-D-D-white-320x188.png" group-title="MÚSICAS", ALTERNATIVA WEB TV IVAÍ
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
@@ -6823,6 +6829,8 @@ https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vYxc8cw/TV-PAJEU-1x-M-black-jp-256x256.png" group-title="VARIEDADES", TV PAJEÚ
 https://59f2354c05961.streamlock.net:1443/tvpajeu/_definst_/tvpajeu/chunklist_w57617694.m3u8
+
+PAREI AQUI
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="MÚSICAS", RADIO CAPITAL TIVÙ
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_21064000.m3u8
@@ -6983,10 +6991,9 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/14673/thumb_GUIA_TV2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL 2 (Guia TV - PB)
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w672085632.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMYjwxR/TV-Ceara-88x-D-blue-200x200.png" group-title="VARIEDADES", TVC - TV CEARÁ (TV Brasil 2 - CE)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMYjwxR/TV-Ceara-88x-D-blue-200x200.png" group-title="VARIEDADES", TV Brasil 2 (TV CEARÁ - TVC - CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8?olhosnatv
 
-PAREI AQUI ---
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN8Bm4M/REDE-SUL-AMERICA-TV-2x-M-M-D-black-167x144.png" group-title="VARIEDADES", REDE SUL AMÉRICA TV
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/chunklist_w1108619950.m3u8
@@ -8957,7 +8964,7 @@ https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo1-logo-erro
 https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo2-logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16878/logo_256_1678859066.jpg" group-title="TV AO VIVO", WORDING TV
-https://alanza.iptv2022.com/Wording_TV/mono.m3u8
+https://alanza.iptv2022.com/Wording_TV/MONO.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="TV AO VIVO", RECORD NEWS
 https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=limex?

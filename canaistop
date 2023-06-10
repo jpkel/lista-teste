@@ -5109,6 +5109,9 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Logotipo_da_TV_Antena_10.png" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (TV Antena 10 - PI) Local
 https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8?olhosnatv-variedades
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3frm24p/TV-ANTENA-10-30x-M-M-D-white-98x96.png" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (TV Antena 10 - PI) Local
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8?olhosnatv-variedades-logo-novo-jp
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Logotipo_da_SIC_TV.png" group-title="CANAIS ABERTOS/ VARIEDADES", RECORD TV (SIC TV - RO) Local
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=9344098597268136000?olhosnatv-variedades
 
@@ -5772,15 +5775,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME ROMANCE (BRA)
-https://stream.ads.ottera.tv/cl/230509chd8oktpcsv1artk2nn0/960x540_1927200_1_f.m3u8?i=475_4866?atual
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME ROMANCE (BRA)  -erro-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME ROMANCE (BRA)  -erro-2
+https://stream.ads.ottera.tv/cl/230509chd8oktpcsv1artk2nn0/960x540_1927200_1_f.m3u8?i=475_4866?atual-erro
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME ROMANCE (BRA)  -erro-1
 https://stream.ads.ottera.tv/cl/230407cgnnbo86lgde0l93o5ig/960x540_1927200_1_f.m3u8?i=475_4866?erro
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME CRIME (BRA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME CRIME (BRA)  -erro-
 https://stream.ads.ottera.tv/cl/230407cgnnb2eqvijh1a070ad0/960x540_1927200_1_f.m3u8?i=475_4864
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME CINE ESPANTO (BRA)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbNWNb/RUNTIME-32x-D-D-D-black-164x46.png" group-title="FILMES", RUNTIME CINE ESPANTO (BRA)  -erro-
 https://stream.ads.ottera.tv/cl/230407cgnncrrtj8dghtsp9s30/960x540_1927200_1_f.m3u8?i=475_4865
 
 #EXTINF:-1 tvg-logo="https://bstv.com.br/wp-content/uploads/2021/11/LOGO-SITE.png" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", CANAL BS TV (SP)
@@ -6298,6 +6310,9 @@ https://stmv1.painelvideo.top/jetsontv/jetsontv/chunklist_w1561929312.m3u8?olhos
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/meionorte.png" group-title="VARIEDADES", TV Meio Norte (PI)  -ListaIPTV-
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPXTxpS/REDE-MEIO-NORTE-12x-D-D-D-white-122x80.png" group-title="VARIEDADES", TV Meio Norte (PI)  -ListaIPTV-
+http://streaming.jornalmn.com.br/live/tvmn.m3u8?logo-novo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9nGb6C/REDE-METROPOLE-5x-M-M-D-white-200x188.png" group-title="VARIEDADES", REDE METRÓPOLE (Rede Meio Norte - SP)
 https://acesso.ecast.site:3456/hybrid/play.m3u8
@@ -7064,6 +7079,9 @@ https://stmv2.samcast.com.br/lidrdovale/lidrdovale/chunklist_w1969949897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPXwC9p.png" group-title="VARIEDADES", TV CHROMA
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8LZy8y/TV-CHROMA-11x-D-D-D-white-168x42.png" group-title="VARIEDADES", TV CHROMA
+https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8?logo-novo-jp
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWmqM71/TV-PAJEU-27x-M-M-D-white-90x90.png" group-title="VARIEDADES", TV PAJEÚ
 https://59f2354c05961.streamlock.net:1443/tvpajeu/_definst_/tvpajeu/chunklist_w57617694.m3u8?logo-novo-jp
 
@@ -7156,6 +7174,9 @@ https://stream.urbantv.com.br/urbantv/video.m3u8?cxtv-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJVQjPN/URBAN-TV-LIVE-14x-M-white-256x256.png" group-title="VARIEDADES", URBAN TV LIVE (SC)
 https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYvX6yT/EVEONTV-17x-D-M-D-white-128x88.png" group-title="VARIEDADES", EVEONTV  -novo-
+https://video05.logicahost.com.br/eveontv/eveontv/chunklist_w510880387.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HBQNMfL/TV-ESTADO-rgba-0-0x-D-D-D-175x126.png" group-title="VARIEDADES", TV ESTADO  -jmvstream.com-erro-
 https://player.jmvstream.com/avj/quhX0eToowhXovB5DrPtu4IWcIvnJM
@@ -7307,7 +7328,7 @@ https://cdn.jmvstream.com/w/AVJ-12972/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1ytyRZ/TV-Ere-News-5x-D-D-D-black-1080x1080.png" group-title="VARIEDADES", TV ERENEWS
 https://stmv1.samcast.com.br/erenews/erenews/chunklist_w1571167484.m3u8
 
-#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="VARIEDADES", UNI TV (TV Cultura - SC)
+#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="VARIEDADES", TV CULTURA (UNI TV - SC)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 
 #EXTINF:-1 tvg-logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-7%2F367%2F1415367%2FDBjyCxzq%2F802c52051b9444c588ab8106f393b07c&methods=resize%2C500%2C5000.png" group-title="VARIEDADES", TV METROPOLITANA RIO
@@ -7315,6 +7336,12 @@ https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w828800384.m3u8?olhosnatv-m
 
 #EXTINF:-1 tvg-logo="https://canalpromessas.com.br/wp-content/uploads/2020/04/canal-promessas-retina.png" group-title="EVANGÉLICOS/ VARIEDADES", CANAL PROMESSAS - TV Mundial (GO)
 https://video01.kshost.com.br:4443/gente8322/gente8322/chunklist_w274648668.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9pGn4Cw/CANAL-PROMESSAS-15x-D-M-D-white-90x90.png" group-title="EVANGÉLICOS/ VARIEDADES", CANAL PROMESSAS - TV Mundial (GO)
+https://video01.kshost.com.br:4443/gente8322/gente8322/chunklist_w274648668.m3u8?logo-novo-jp01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxJHxGy/CANAL-PROMESSAS-14x-D-M-D-white-90x90.png" group-title="EVANGÉLICOS/ VARIEDADES", CANAL PROMESSAS - TV Mundial (GO)
+https://video01.kshost.com.br:4443/gente8322/gente8322/chunklist_w274648668.m3u8?logo-novo-jp02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nbD57Fr/WEB-TV-METROPOLITANA-19x-M-M-D-green-242x188.png" group-title="VARIEDADES", WEB TV METROPOLITANA (Rádio Web)
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8?olhosnatv--saiu-do-site-01
@@ -7555,6 +7582,9 @@ https://stmv1.voxtvhd.com.br/8000/8000/chunklist_w460641440.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bWQCszy/MDG-TV-49x-D-D-D-black-162x78.png" group-title="EVANGÉLICOS", MDG TV (TV Gideões)
 https://tv02.zas.media:1936/mdgtv/mdgtv/chunklist_w1027308776.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3Whhhc/MDG-TV-63x-D-D-D-black-154x72.png" group-title="EVANGÉLICOS", MDG TV (TV Gideões)
+https://tv02.zas.media:1936/mdgtv/mdgtv/chunklist_w1027308776.m3u8?logo-azul-novo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KSt7yQ/W1-Web-TV-16x-D-M-D-black-225x225.png" group-title="VARIEDADES", W1 WEB TV (TV Brasil)
 https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/chunklist_w1762225096.m3u8

@@ -5873,6 +5873,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf8886100076
 #EXTINF:-1 tvg-logo="https://i.ibb.co/306L1vf/Just-For-Laughs-16x-D-M-D-white-526x526.png" group-title="PEGADINHAS", PEGADINHAS (Just for laughs)  .. -Pluto tv-
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdSSpNc/ULB-TV-162x63.jpg" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", ULB TV (RJ)  -novo-
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8?olhosnatv-atual
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdSSpNc/ULB-TV-162x63.jpg" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", ULB TV (RJ)
 https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8?olhosnatv
 
@@ -5897,7 +5900,7 @@ https://www.radios.com.br/play/playlist/30921/listen-radio.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dknXjCF/ESTACAO-FM-104-9-SC-3x-M-M-D-white-400x364.png" group-title="VARIEDADES", Rádio Estação 104.9 FM (SC)  -?logo-jp-02-=.m3u?=
 https://www.radios.com.br/play/playlist/30921/listen-radio.m3u?
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/db0rhqj/ESTACAO-FM-104-9-SC-rgba-0-0x-D-D-D-1280x1166.png" group-title="VARIEDADES", Rádio Estação 104.9 FM (SC)  =teste-https://stream.splug.com.br/Radio74=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/db0rhqj/ESTACAO-FM-104-9-SC-rgba-0-0x-D-D-D-1280x1166.png" group-title="VARIEDADES", Rádio Estação 104.9 FM (SC)  OK =teste-https://stream.splug.com.br/Radio74= ok
 https://stream.splug.com.br/Radio74
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/db0rhqj/ESTACAO-FM-104-9-SC-rgba-0-0x-D-D-D-1280x1166.png" group-title="VARIEDADES", Rádio Estação 104.9 FM (SC)  =teste-https://www.radios.com.br/play/playlist/30921/listen-radio.asx=
@@ -8414,7 +8417,19 @@ https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8?olhosnatv-cxtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vkszZXW/TWG-TV-WEB-GUAREI-18x-M-M-D-white-242x188.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV WEB GUAREI  -fora do ar-
 https://cdnhd.iblups.com/hls/RPrdrU2Ikr.m3u8?site-iblups
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO  -dailymotion-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO  =link novo-apenas site-tvcoins.com=
+https://us-east-1.prod.tvcoins.com/player/player.html?tvdiario/938fd71f-19a5-4755-b678-b998d816784d&autoplay&hide-app-store-buttons
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO  =link novo-teste-apagar-depois=
+https://us-east-1.prod.tvcoins.com/player/player.html?tvdiario/938fd71f-19a5-4755-b678-b998d816784d&autoplay&hide-app-store-buttons.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO  =link novo-teste-apagar-depois=
+https://us-east-1.prod.tvcoins.com/player/player.html?tvdiario/938fd71f-19a5-4755-b678-b998d816784d&autoplay&hide.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO  =link novo-teste-apagar-depois-Não-pega=
+https://us-east-1.prod.tvcoins.com/player/player.html?tvdiario/938fd71f-19a5-4755-b678-b998d816784d.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO  -dailymotion-mundou link-
 https://www.dailymotion.com/embed/video/x7txn7q
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="FILMES/ SERIADOS/ VARIEDADES", GHOST TV  -fora do ar-
@@ -9402,7 +9417,7 @@ https://alanza.iptv2022.com/Virtual_TV/index.m3u8
 https://alanza.iptv2022.com/Virtual_TV/mono.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qDCQf6n/LOADING-TV-50x-D-D-D-white-256x61.png" group-title="TV AO VIVO", LOADING TV -
-https://alanza.iptv2022.com/LOADING_TV/index.m3u8?logo-jp02-tvbr
+https://alanza.iptv2022.com/LOADING_TV/mono.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYs1HRC/GHOST-TV-12x-D-M-D-white-256x242.png" group-title="TV AO VIVO", GHOST TV -
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?logo-jp02-tvbr
@@ -9429,7 +9444,7 @@ https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8?logo-jp01-tvbr
 https://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8?logo-jp-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16332/logo_256_1673852887.png" group-title="TV AO VIVO", Telemilênio 
-https://alanza.iptv2022.com/Telemilenio/index.m3u8
+https://alanza.iptv2022.com/Telemilenio/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16451/logo_256_1674131735.jpg" group-title="TV AO VIVO", TV CORDEIRO
 https://alanza.iptv2022.com/Tv_cordeiro/index.m3u8
@@ -9450,7 +9465,7 @@ https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo1-logo-erro
 https://alanza.iptv2022.com/EXCELSIOR_TV/index.m3u8?tvbr-novo2-logo-jp
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16878/logo_256_1678859066.jpg" group-title="TV AO VIVO", WORDING TV
-https://alanza.iptv2022.com/Wording_TV/index.m3u8
+https://alanza.iptv2022.com/Wording_TV/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16941/logo_256_1679646852.png" group-title="TV AO VIVO", RECORD NEWS
 https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1709&partner=limex?

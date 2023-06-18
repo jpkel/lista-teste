@@ -8147,11 +8147,23 @@ https://tvchapada.proxy.tokplay.com.br/main.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7SFT7zW/SUL-BRASIL-TV-11x-M-M-D-white-168x104.png" group-title="VARIEDADES", SUL BRASIL TV
 https://5a57bda70564a.streamlock.net/dozetribostv/dozetribostv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6LwvQh/RSB-TV-112x90.jpg" group-title="VARIEDADES", SUL BRASIL TV - RSB TV  .
+https://5a57bda70564a.streamlock.net/dozetribostv/dozetribostv.sdp/playlist.m3u8?logo-novo-jp-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jbHBzJH/RSB-TV-edit-56x-D-M-D-yellow-112x90.png" group-title="VARIEDADES", SUL BRASIL TV - RSB TV  ..
+https://5a57bda70564a.streamlock.net/dozetribostv/dozetribostv.sdp/playlist.m3u8?logo-novo-jp-02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Njcv6m6/RSB-TV-edit-56x-D-D-D-yellow-112x90.png" group-title="VARIEDADES", SUL BRASIL TV - RSB TV  ...-logo ruim-
+https://5a57bda70564a.streamlock.net/dozetribostv/dozetribostv.sdp/playlist.m3u8?logo-novo-jp-03
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="VARIEDADES", TV COM SANTOS
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uo24jMo.png" group-title="VARIEDADES", VALE TV
 https://cdn.jmvstream.com/w/AVJ-12938/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCHLDG9/VALE-TV-154x56.jpg" group-title="VARIEDADES", VALE TV
+https://cdn.jmvstream.com/w/AVJ-12938/playlist/playlist.m3u8?logo-jp-novo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rFdC0G0/TV-Indaiatuba-rgba-0-0x-D-D-D-512x512.png" group-title="VARIEDADES", TV INDAIATUBA
 https://stmv1.srvif.com/tvindaiatuba/tvindaiatuba/chunklist_w279274413.m3u8
@@ -8446,6 +8458,9 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sistemamaior.com.br/midias/static/logos/sertao_tv.png" group-title="VARIEDADES", SERTÃO TV - Quixeramobim (CE)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w309197978.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMDz9dB/SERTAO-TV-Quixeramobim-11x-M-M-D-white-174x127.png" group-title="VARIEDADES", SERTÃO TV - Quixeramobim (CE)
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w309197978.m3u8?olhosnatv-logo-jp
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4823/cabecalho-4823-20190801074559.png" group-title="VARIEDADES", TV CENTRO SUL - Iguatu (CE)
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8?cxtv
@@ -9405,19 +9420,19 @@ https://alanza.iptv2022.com/REDE_IBTV/index.m3u8?logo-jp01-tvbr
 https://alanza.iptv2022.com/TV_WA/index.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15394/thumb_TV_ROCK.png" group-title="TV AO VIVO", TV ROCK
-https://alanza.iptv2022.com/TV_Rock/index.m3u8
+https://alanza.iptv2022.com/TV_Rock/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15401/thumb_BRASIL_TV.png" group-title="TV AO VIVO", BRASIL TV =erro servidor=
-https://alanza.iptv2022.com/Brasil_TV/index.m3u8?tvbr
+https://alanza.iptv2022.com/Brasil_TV/mono.m3u8?tvbr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72Y02qy/BRASIL-TV-4x-D-M-D-white-cxtv-200x185.png" group-title="TV AO VIVO", BRASIL TV -
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w841718697.m3u8?tvbr-olhosnatv-logo-cxtv-jp
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15408/thumb_REDE_MUNDO_TV.png" group-title="TV AO VIVO", REDE MUNDO TV
-https://alanza.iptv2022.com/Rede_Mundo_TV/index.m3u8
+https://alanza.iptv2022.com/Rede_Mundo_TV/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15415/thumb_VIRTUAL_TV.png" group-title="TV AO VIVO", VIRTUAL TV
-https://alanza.iptv2022.com/Virtual_TV/index.m3u8
+https://alanza.iptv2022.com/Virtual_TV/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0JMry3/VIRTUAL-TV-rgba-0-0x-D-D-D-256x256.png" group-title="TV AO VIVO", VIRTUAL TV
 https://alanza.iptv2022.com/Virtual_TV/mono.m3u8?logo-jp-tvbr
@@ -9435,7 +9450,7 @@ https://helga.iptv2022.com/TV_BOAS_NOVAS/index.m3u8
 https://alanza.iptv2022.com/CARAVANA_PLAY/index.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLGsJ/Hispan-TV-22x-D-D-D-green-edit-jp-256x256.png" group-title="TV AO VIVO", HispanTV -
-https://alanza.iptv2022.com/HispanTV/index.m3u8?logo-jp02-tvbr
+https://alanza.iptv2022.com/HispanTV/mono.m3u8?logo-jp02-tvbr
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/10651/thumb_RTD_LOGO_b.png" group-title="TV AO VIVO", RT Documentary
 https://barbara.iptv2022.com/RTDOC-eng/index.m3u8

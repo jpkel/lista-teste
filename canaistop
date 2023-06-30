@@ -596,10 +596,10 @@ https://596639ebdd89b.streamlock.net/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza) -cx-logo- ok= -link-cxtv-site-
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza) -logo-site/link-site-
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza) -logo-site/link-site- -logo erro-
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza) -logo-oficial-site/link-velho-erro-
+#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="Filmes/ Desenhos/ Seriados", Tv Aracati (Fortaleza) -logo-oficial-site/link-velho-erro- -logo erro-
 https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio142273_1587144188.png" group-title="Variedades", Web Tv Olho D'água - CE - Horizonte - ok= -cxtv-logo-site-
@@ -5505,8 +5505,11 @@ https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8?olhosna
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", ISTV 1 HD  .-erro saiu do site-
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?olhosnatv-erro-saiu-do-site
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4MQsctn/IMPERIAL-TV-10x-M-black-223x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV (SP)  .
-https://node2.ecast.site:3428/live/imperiallive.m3u8?olhosnatv-atual
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MQsctn/IMPERIAL-TV-10x-M-black-223x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV (SP)  
+https://acesso.ecast.site:3630/live/imperiallive.m3u8?olhosnatv-atual-02
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MQsctn/IMPERIAL-TV-10x-M-black-223x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV (SP)  .-erro-
+https://node2.ecast.site:3428/live/imperiallive.m3u8?olhosnatv-atual-01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4MQsctn/IMPERIAL-TV-10x-M-black-223x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", IMPERIAL TV (SP)  ..-erro-
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/playlist.m3u8?olhosnatv-velho
@@ -5516,6 +5519,9 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5cnVBWf/REDE-CLONE-TV-90x-D-D-D-black-80x80.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV - Clouding' TV (PA)  ..
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPzS02q/REDE-CLOUDING-TV-7x-D-M-D-white-104x93.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", REDE CLONE TV - Clouding' TV (PA)  ...
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8?olhosnatv-atual-logo-novo
 
 #EXTINF:-1 tvg-logo="https://tvrbc.com.br/wp-content/uploads/2022/03/LOGO-TV-RBC-Portal.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV RBC (SP)
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?olhosnatv-logo-site
@@ -5553,26 +5559,32 @@ https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8?olhosnatv-velho-correto
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6Cny4k/TV-MAIS-BRASIL-1x-D-M-D-grey-256x256.png" group-title="FILMES/ FILMES CLÁSSICOS/ SERIADOS/ VARIEDADES", TV MAIS BRASIL (SP)
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?olhosnatv-site
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS (PI)  .-site-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS (PI)  .-site-erro-
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS (PI)  ..
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS (PI)  ..-erro-
 https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w2011427906.m3u8?olhosnatv-atual-logo-novo
 
-#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI (CE)
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1348023690.m3u8?olhosnatv-atual
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS (PI)  ...-atual-
+https://stmv4.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w2011427906.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI (CE)  -erro-1-
-https://livefocamundo.com:8081/tvaracati/index.m3u8?olhosnatv-velho-1
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI (CE)
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1348023690.m3u8?olhosnatv-atual-logo-listaiptv
 
-#EXTINF:-1 tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI (CE)  -erro-2-
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?olhosnatv-velho-2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wf7btN7/TV-ARACATI-14x-M-D-D-white-80x80.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI (CE)  -erro-1-
+https://livefocamundo.com:8081/tvaracati/index.m3u8?olhosnatv-velho-1-logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV ARACATI (CE)  -erro-2-
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?olhosnatv-velho-2-logo-cxtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bjqf2wg/CHANNEL-1-12x-M-M-D-white-256x256.png" group-title="CLÁSSICOS/ FILMES", CHANNEL 1 (SP)  .-site-
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?site-olhosnatv-atual
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bjqf2wg/CHANNEL-1-12x-M-M-D-white-256x256.png" group-title="CLÁSSICOS/ FILMES", CHANNEL 1 (SP)  ..-erro-
 https://stmv1.painelvideo.top/channel1/channel1/chunklist_w872431715.m3u8?olhosnatv-velho
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fF5VjTy/CINE-TV-HITS-2-11x-D-D-D-black-86x80.png" group-title="CLÁSSICOS/ FILMES", CINE TV HITS ()
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7yh2QWg/HITS-TV-WEB-13x-M-M-D-118x118.png" group-title="FILMES/ SERIADOS", HITS TV WEB (RS)
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8?olhosnatv-site
@@ -5611,9 +5623,12 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1495874316.m3u8?logo-
 https://tv02.zas.media:1936/murilotv/murilotv/playlist.m3u8?olhosnatv-saiu-do-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C59QFHm/OTAKU-SIGN-TV-116x100.jpg" group-title="ANIMES", OTAKU SIGN TV (RJ)
+https://stmv1.srvif.com/otaku/otaku/chunklist_w1095969292.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C59QFHm/OTAKU-SIGN-TV-116x100.jpg" group-title="ANIMES", OTAKU SIGN TV (RJ)  -erro-
 https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1911371551.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.vidks.net/v2x/l/anime-tv.webp" group-title="ANIMES", ANIME TV (SP)  . -site- 
+#EXTINF:-1 tvg-logo="https://img.vidks.net/v2x/l/anime-tv.webp" group-title="ANIMES", ANIME TV (SP)  .-site- 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?site-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XJryxgY/ANIME-TV-280x98.jpg" group-title="ANIMES", ANIME TV (SP)  ..
@@ -7885,8 +7900,11 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?olhosnatv-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/640px-Rede_Mundial_logo.png" group-title="EVANGÉLICOS", REDE MUNDIAL INTERTEVE (PR)
 https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="EVANGÉLICOS", TV UNIVERSAL (SP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="EVANGÉLICOS", TV UNIVERSAL (SP)  .
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y34CMLR/TV-UNIVERSAL-26x-M-M-D-white-200x200.png" group-title="EVANGÉLICOS", TV UNIVERSAL (SP)  ..
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?logo-cxtv-jp
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QaXVtCL.png" group-title="VARIEDADES", TV WEB PARANÁ (PR)
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist.m3u8
@@ -7933,8 +7951,11 @@ https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/chunklist_w556475419.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yNXAB3p.png" group-title="VARIEDADES", CANAL TV RIO (RJ)
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VTdLdP/CRISTO-VIVE-18x-M-D-D-black-410x364.png" group-title="EVANGÉLICOS", TV CRISTO VIVE (RJ)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VTdLdP/CRISTO-VIVE-18x-M-D-D-black-410x364.png" group-title="EVANGÉLICOS", TV CRISTO VIVE (RJ)  .
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgByS3m/TV-CRISTO-VIVE-22x-M-M-D-white-200x200.png" group-title="EVANGÉLICOS", TV CRISTO VIVE (RJ)  ..
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8?logo-cxtv-jp
 
 #EXTINF:-1 tvg-logo="https://www.redetvgospel.com.br/wp-content/uploads/2019/11/logo@2x.png" group-title="FILMES/ FILMES 24H/ FILMES GOSPEL", Rádio. REDE TV GOSPEL BRASIL (SP) -YouTube-
 https://www.redetvgospel.com.br/live/livestream.mp3?Site-radio

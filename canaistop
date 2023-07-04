@@ -5475,7 +5475,7 @@ https://www.dailymotion.com/embed/video/x8egnb8?autoPlay=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g6xZjKN/CANAL-29-12x-M-D-D-white-136x104.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", CANAL 29 (SP)
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X5d4P5z/TV-CLASSICOS-1x-M-black-300x128.png" group-title="CLÁSSICOS/ DESENHOS/ SERIADOS", TV CLÁSSICOS (SP)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5d4P5z/TV-CLASSICOS-1x-M-black-300x128.png" group-title="CLÁSSICOS/ DESENHOS/ SERIADOS", TV CLÁSSICOS (SP)  -erro-
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiUk40Y.png" group-title="FILMES/ SERIADOS", TV NOVA PLAY (RJ)
@@ -6527,19 +6527,19 @@ https://stmv2.srvsh.com.br/euroone/euroone/chunklist_w775945889.m3u8?olhosnatv-v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMdyqLf/FLOU-CINE-TV-30x-D-D-D-black-200x200.png" group-title="FILMES", FLOU CINE TV (EUA)  -site-
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8?ipgotv.net.br
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="VARIEDADES", TV PERÚ (PER)  -site-
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="VARIEDADES", TV PERÚ (Perú)  -site-
 https://cdnh79.iblups.com/hls/R9WtilpKKB.m3u8?ipgotv.net.br
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NOTÍCIAS", TV PERÚ NOTÍCIAS (PER)  -site-
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="NOTÍCIAS", TV PERÚ NOTÍCIAS (Perú)  -site-
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?ipgotv.net.br
 
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="NOTÍCIAS", TV PERÚ INTERNACIONAL (PER)  -site-
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="NOTÍCIAS", TV PERÚ INTERNACIONAL (Perú)  -site-
 https://cdnh74.iblups.com/hls/irtp.m3u8?ipgotv.net.br
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/37g5WYV/PERU-CHANNEL-14x-D-D-D-black-154x78.png" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (PER)  .
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37g5WYV/PERU-CHANNEL-14x-D-D-D-black-154x78.png" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (RJ)  .
 https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/chunklist_w1809422224.m3u8?logo-novo-jp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7WV8cKf/PERU-CHANNEL-162x85.jpg" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (PER)  -erro-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WV8cKf/PERU-CHANNEL-162x85.jpg" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (RJ)  -erro-
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8?olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0rzR7S/REPLAY-TV-164x81.jpg" group-title="ANIMES/ DESENHOS/ FILMES/ GAMERS/ TOKUSATSUS/ VARIEDADES", REPLAY TV (?)  -twitch.tv-saiu do site-
@@ -6930,7 +6930,10 @@ https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 https://cdn-rede-4672-1.ciclano.io:1443/rede-4672-1/rede-4672-1/playlist.m3u8?olhosnatv-saiu-do-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rY6n7P/RCTV-8x-M-M-D-white-154x56.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", REDE RC TV (BA)
-https://video05.logicahost.com.br/rederc/rederc/chunklist_w1740148855.m3u8?olhosnatv-logo-jp
+https://video05.logicahost.com.br/rederc/rederc/chunklist_w1740148855.m3u8?olhosnatv-logo-jp-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgSBpZd/RCTV-154x56.jpg" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", REDE RC TV (BA)
+https://video05.logicahost.com.br/rederc/rederc/chunklist_w1740148855.m3u8?olhosnatv-logo-jp-02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jkhBTz/REDE-RC-6x-D-M-D-white-449x315.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", REDE RC (BA)  -erro-
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8?olhosnatv-logo-jp
@@ -7797,6 +7800,9 @@ https://5cf4a2c2512a2.streamlock.net/globenewsusatv/globenewsusatv/chunklist_w36
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zADpkDP.png" group-title="DESENHOS/ VARIEDADES", TV CONTROLES (?)  -erro saiu do site-
 https://livefocamundo.com:8081/tvcontroles/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmxhkXoEqW_SHP46oYfyfIaux2umo6ct6LIHj4xdaJ2_8DyjypnRwGSrSSbmuhR8vAtHTR-EbxPxoaZoYI9STR3qQBeUDxa6gsSQ4CRlgHR02Kk4lPk4tS3l2vesIrxtl3B-NcmZAOXBhba7BGSKVDpBVjbxRVk0HYukpl2qi5RlNLc9Un-95TNVp5fc/s200/WEB%20TV%20NACIONAL.jpg" group-title="VARIEDADES", WEB TV NACIONAL
+https://5d82644094cc0.streamlock.net/webtvnacional/webtvnacional/chunklist_w1880694242.m3u8?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqhZT87/TV-SINTE-PI-18x-M-M-D-white-164x38.png" group-title="VARIEDADES", TV SINTE (PI)
 https://5c483b9d1019c.streamlock.net/8216/8216/chunklist_w1140044267.m3u8

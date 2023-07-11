@@ -5466,8 +5466,11 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="VARIEDADES", SIC PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X3HnmXT/TDM-4x-D-M-D-white-200x188.png" group-title="VARIEDADES", TDM - Teledifusão de Macau Portugal (RTP)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3HnmXT/TDM-4x-D-M-D-white-200x188.png" group-title="VARIEDADES", TDM de Macau - Portugal (RTP)
 https://live4.tdm.com.mo/ch2/ch2.live/chunklist_w1787872766.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtD6Ly0/TDM-Macau-cxtv-36x-D-D-D-white-200x200.png" group-title="VARIEDADES", TDM Macau - Taipa
+https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8?cxtv
 
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="VARIEDADES", RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -5489,9 +5492,6 @@ https://www.dailymotion.com/embed/video/x8egnb8?autoPlay=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g6xZjKN/CANAL-29-12x-M-D-D-white-136x104.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", CANAL 29 (SP)
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?olhosnatv-velho
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X5d4P5z/TV-CLASSICOS-1x-M-black-300x128.png" group-title="CLÁSSICOS/ DESENHOS/ SERIADOS", TV CLÁSSICOS (SP)  -erro-
-https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiUk40Y.png" group-title="FILMES/ SERIADOS", TV NOVA PLAY (RJ)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8.m3u8?olhosnatv
@@ -5899,12 +5899,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1185340284.m3u8?o
 
 
 === Página 02 ===
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQC0LNX/FORA-TEDIO-TV-65x-M-D-D-black-164x97.png" group-title="PEGADINHAS", FORA TÉDIO TV (SP)  -erro atual-
-https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w145463067.m3u8?olhosnatv-atual-logo-jp
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2PTYFL/FORA-TEDIO-TV-164x97.jpg" group-title="PEGADINHAS", FORA TÉDIO TV (SP)  -erro velho-
-https://video03.logicahost.com.br/foratedio/foratedio/playlist.m3u8?olhosnatv-velho-logo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgY0W5K/Just-For-Laughs-16x-M-M-D-white-526x526.png" group-title="PEGADINHAS", PEGADINHAS (Just for laughs)  . -Pluto tv-
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
@@ -7108,6 +7102,9 @@ https://video01.kshost.com.br/jaime1363/jaime1363/playlist.m3u8?t=1680311612?olh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tC01kgR/TV-ITAPE-8x-M-M-D-white-200x188.png" group-title="VARIEDADES", TV ITAPÊ (SP)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0pV7vS/TV-ITAPE-18x-M-M-D-white-100x88.png" group-title="VARIEDADES", TV ITAPÊ (SP)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?logo-novo-jp
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8pjvR5/TRI-TV-8x-D-D-D-white-118x118.png" group-title="VARIEDADES", TRI TV (RS)  .
 https://5c483b9d1019c.streamlock.net/tritv/tritv/chunklist_w2067737757.m3u8
 
@@ -7538,9 +7535,15 @@ https://stmv2.voxtvhd.com.br/8090/8090/playlist.m3u8?olhosnatv-cxtv
 https://stmv1.liveplushd.com.br/tvolhodaguaweb/tvolhodaguaweb/chunklist_w1466364208.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RcMpN3V/TV-Adorando-Jesus-site-240x134.png" group-title="EVANGÉLICOS", TV ADORANDO JESUS (RJ)
+https://stmv1.srvif.com/adorando/adorando/chunklist_w1712921753.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RcMpN3V/TV-Adorando-Jesus-site-240x134.png" group-title="EVANGÉLICOS", TV ADORANDO JESUS (RJ)  -erro-
 https://stmv.srvvox.com.br/anderson/anderson/chunklist_w587415246.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3T87zyK/TV-GRANDE-ABC-164x50.jpg" group-title="VARIEDADES", TV GRANDE ABC (SP)
+https://cdn.jmvstream.com/w/AVJ-14200/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T87zyK/TV-GRANDE-ABC-164x50.jpg" group-title="VARIEDADES", TV GRANDE ABC (SP)  -erro-
 https://cdn.jmvstream.com/w/AVJ-12996/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41NN5d3/CANAL-TVR-6x-M-M-D-white-152x115.png" group-title="VARIEDADES", CANAL TVR - TV Regional Paulista (SP)
@@ -8832,6 +8835,15 @@ https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowi
 
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="VARIEDADES", TV ENCONTRO DAS ÁGUAS (TV Brasil - AM)  -manotv- erro
 https://manoweb.ip.tv/iframe/tvencontrodasaguas-p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQC0LNX/FORA-TEDIO-TV-65x-M-D-D-black-164x97.png" group-title="PEGADINHAS", FORA TÉDIO TV (SP)  -erro atual-
+https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w145463067.m3u8?olhosnatv-atual-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2PTYFL/FORA-TEDIO-TV-164x97.jpg" group-title="PEGADINHAS", FORA TÉDIO TV (SP)  -erro velho-
+https://video03.logicahost.com.br/foratedio/foratedio/playlist.m3u8?olhosnatv-velho-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5d4P5z/TV-CLASSICOS-1x-M-black-300x128.png" group-title="CLÁSSICOS/ DESENHOS/ SERIADOS", TV CLÁSSICOS (SP)  -erro-
+https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPMS8M/TV-Interativa-231x64.png" group-title="VARIEDADES", TV INTERATIVA (PB)  -erro-saiu do site-
 https://srv2.zcast.com.br/tvinterativa/tvinterativa/chunklist_w438852339.m3u8?olhosnatv-saiu-do-site

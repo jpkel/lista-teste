@@ -6839,6 +6839,12 @@ https://tv02.zas.media:1936/unimidia/unimidia/chunklist_w771448448.m3u8?olhosnat
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_TV_Feliz.png" group-title="EVANGÉLICOS", TV FELIZ (RN)-
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1243364630.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO (CE)  -olhosnatv-=link novo-apenas site-tvcoins.com=
+https://us-east-1.prod.tvcoins.com/player/player.html?tvdiario/938fd71f-19a5-4755-b678-b998d816784d&autoplay&hide-app-store-buttons
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO (CE)  -dailymotion-mundou link-
+https://www.dailymotion.com/embed/video/x7txn7q
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YNKFv1/Rede-Sul-de-Televisao-8x-M-M-D-white-118x118.png" group-title="FILMES/ SERIADOS/ VARIEDADES", REDE SUL DE TELEVISÃO -tv urbana- (RS)
 https://video05.logicahost.com.br/tvurbana/tvurbana/chunklist_w1649337523.m3u8?olhosnatv-logo-jp
 
@@ -8884,6 +8890,9 @@ https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8?ol
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QHC5zfX/UTV-LONDRINA-40x-D-D-D-black-106x80.png" group-title="VARIEDADES", UTV LONDRINA (PR)  -erro-
 https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8?olhosnatv-logo-novo-jp
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QHC5zfX/UTV-LONDRINA-40x-D-D-D-black-106x80.png" group-title="VARIEDADES", UTV LONDRINA (PR)
+https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w1750991251.m3u8?olhosnatv-atual-logo-novo-jp
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd13ec29c83df6ab5098f93661346760.jpg" group-title="VARIEDADES", UTV LONDRINA (PR)  -cxtv-
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8?cxtv
 
@@ -8931,12 +8940,6 @@ https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8?olhosnatv-cxtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vkszZXW/TWG-TV-WEB-GUAREI-18x-M-M-D-white-242x188.png" group-title="DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", TV WEB GUAREI (SP)  -fora do ar-
 https://cdnhd.iblups.com/hls/RPrdrU2Ikr.m3u8?site-iblups
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO (CE)  =link novo-apenas site-tvcoins.com=
-https://us-east-1.prod.tvcoins.com/player/player.html?tvdiario/938fd71f-19a5-4755-b678-b998d816784d&autoplay&hide-app-store-buttons
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV DIÁRIO (CE)  -dailymotion-mundou link-
-https://www.dailymotion.com/embed/video/x7txn7q
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="FILMES/ SERIADOS/ VARIEDADES", GHOST TV (BRA)  -fora do ar-
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?site-olhosnatv-atual

@@ -7032,11 +7032,26 @@ https://skyfire.vimeocdn.com/1686288578-0xb4ffa5f61855295874e3bfe619bcfb772f86b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJHw9ft/Pompeia-TV-rgba-0-0x-D-D-D-421x74.png" group-title="VARIEDADES", POMPÉIA TV - TV Evangelizar (SP)  -site-
 http://stmv1.painelvideo.top/pompeiatv/pompeiatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CbBBGxs/TV-TEENNET-6x-D-D-D-black-500x111.png" group-title="VARIEDADES", TV TEEN NET - Geekdot (SP)  -erro-
-https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47CDxQ6/POMPEIA-TV-26x-D-D-D-black-154x26.png" group-title="VARIEDADES", POMPÉIA TV (SP)  -olhosnatv-
+https://stmv1.painelvideo.top/pompeiatv/pompeiatv/playlist.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4g5ftfP/WEB-TV-ZERO-41x-D-D-D-black-154x32.png" group-title="DESENHOS/ VARIEDADES", WEB TV ZERO
+https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8?olhosnatv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cg03T0v/TV-TEENNET-18x-D-D-D-black-154x36.png" group-title="VARIEDADES", TV TEEN NET (SP)  -olhosnatv-
+https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?olhosnatv-atual-logo-novo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbBBGxs/TV-TEENNET-6x-D-D-D-black-500x111.png" group-title="VARIEDADES", TV TEEN NET - Geekdot (SP)  -erro-olhosnatv-
+https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?olhosnatv-velho
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYYvbPq/POLIDORO-TV-15x-M-D-M-white-160x48.png" group-title="VARIEDADES", POLIDORO TV (SP)  -olhosnatv-
+https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w883275269.m3u8?olhosnatv-logo-novo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpfS4X3/Polidoro-TV-rgba-0-0x-D-M-D-320x81.png" group-title="VARIEDADES", POLIDORO TV - Yeeaah TV (SP)
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w883275269.m3u8?olhosnatv-logo-jp
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/YEEAAH.png" group-title="VARIEDADES", YEEAAH TV (SP)  -olhosnatv teste apagar depois-(https://stmv2.painelvideo.top)
+https://stmv2.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?olhosnatv-teste-apagar-depois
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/YEEAAH.png" group-title="VARIEDADES", YEEAAH TV (SP)  -erro M3U.CL-
 https://stmv1.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?WebM3UCL
@@ -7870,8 +7885,11 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portalsertao.com/img/1775569f59157ca4c42a2b77c5d54344.png" group-title="VARIEDADES", TV SERTÃO (PB)  -site-
 https://stmv.jnbhost.com.br/tvsertao/tvsertao/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XHmjRJ/TV-SERTAO-PB-11x-M-M-D-white-104x90.png" group-title="VARIEDADES", TV SERTÃO (PB)  
+https://stmv.jnbhost.com.br/tvsertao/tvsertao/chunklist_w966277213.m3u8??olhosnatv-atual
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mH4pHx/TV-SERTAO-PB-109-X98.jpg" group-title="VARIEDADES", TV SERTÃO (PB)  -erro-
-https://5ffab78b24f94.streamlock.net/tvsertao/tvsertao/chunklist_w1579907985.m3u8
+https://5ffab78b24f94.streamlock.net/tvsertao/tvsertao/chunklist_w1579907985.m3u8?olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Epxr8DX.png" group-title="VARIEDADES", TV DAS ARTES (SP)
 https://stmv7.samcast.com.br/luca8510/luca8510/chunklist_w1080602193.m3u8?olhosnatv-atual
@@ -8716,6 +8734,9 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8?cxtv-site
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bd4CKsZ/RADIO-DIFUSORA-FM-95-3-168x76.jpg" group-title="ESTÚDIOS DE RÁDIO", RÁDIO DIFUSORA FM 95.3 (MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=8008263445440608000?logo-novo-jp-01
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SK4g3Wh/RADIO-DIFUSORA-FM-95-3-10x-M-M-D-white-168x76.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO DIFUSORA FM 95.3 (MG)
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=8008263445440608000?logo-novo-jp-01-1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwtWyCk/RADIO-DIFUSORA-FM-95-3-16x-D-M-D-white-168x76-Ruim.png" group-title="ESTÚDIOS DE RÁDIO", RÁDIO DIFUSORA FM 95.3 (MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=8008263445440608000?logo-novo-jp-02

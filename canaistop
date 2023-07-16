@@ -5394,6 +5394,12 @@ https://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvj43ZM.png" group-title="EDUCATIVOS", CANAL FUTURA (Canal FDR - CE)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8?olhosnatv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDPvGR5/Canal-FDR-TV-O-Povo-18x-M-M-D-white-300x300.png" group-title="EDUCATIVOS", FUTURA (Canal FDR - CE)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?cxtv-site-logo-jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggyVNyv/Canal-FDR-TV-O-Povo-88x-D-D-D-red-300x300.png" group-title="EDUCATIVOS", FUTURA (Canal FDR - CE)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?cxtv-site-logo-jp
+
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="EDUCATIVOS", CANAL FUTURA (UNISC TV - RS)  -site-
 https://tv.unisc.br/hls/test.m3u8?cxtv-site
 
@@ -5457,7 +5463,10 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVrz1f3/CNN-BRASIL-53x-D-D-D-black-230x160.png" group-title="NOTÍCIAS", CNN BRASIL  -Soultv-
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?Soultv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZfbV8L/EURONEWS-Portugues-45x-D-D-D-red-200x200.png" group-title="NOTÍCIAS", EURONEWS Português  -Ottera-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZfbV8L/EURONEWS-Portugues-45x-D-D-D-red-200x200.png" group-title="NOTÍCIAS", EURONEWS Português  -cxtv-samsung-
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZfbV8L/EURONEWS-Portugues-45x-D-D-D-red-200x200.png" group-title="NOTÍCIAS", EURONEWS Português  -erro-Ottera-
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 
 #EXTINF:-1 tvg-logo="https://odotv.com.ng/uploads/tv_image/sm/bbc-world-news.png" group-title="NOTÍCIAS", BBC World News  -site-
@@ -6097,6 +6106,9 @@ https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8?olhosnatv-cxtv-site
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title="FILMES/ SERIADOS", Rede TV Geniall (RJ)  -cxtv-site-
 https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KtsScK/TV-RECORDACOES-7x-M-M-D-white-340x304.png" group-title="FILMES/ FILMES 24H", TV RECORDAÇÕES WEB (CE)  -site-
+https://srv3.zcast.com.br/tvrecordacoes/tvrecordacoes/playlist.m3u8?site-logo-jp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8X0xBNd/Tv-Recordacoes-Web-CE-0x-M-black-200x200.png" group-title="FILMES/ FILMES 24H", TV RECORDAÇÕES WEB (CE)  -fora do ar saiu do site-
 https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/playlist.m3u8?olhosnatv-saiu-do-site
@@ -7050,9 +7062,6 @@ https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w883275269.m3u8?ol
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpfS4X3/Polidoro-TV-rgba-0-0x-D-M-D-320x81.png" group-title="VARIEDADES", POLIDORO TV - Yeeaah TV (SP)
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w883275269.m3u8?olhosnatv-logo-jp
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/YEEAAH.png" group-title="VARIEDADES", YEEAAH TV (SP)  -olhosnatv teste apagar depois-(https://stmv2.painelvideo.top)
-https://stmv2.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?olhosnatv-teste-apagar-depois
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/YEEAAH.png" group-title="VARIEDADES", YEEAAH TV (SP)  -erro M3U.CL-
 https://stmv1.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?WebM3UCL
 
@@ -7064,7 +7073,7 @@ https://video1.earthcam.com//myearthcam//535638654b85727ae1cb10838215d406.flv//p
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kvWX9J/TV-SHOW-DE-BOLA-10x-M-M-D-white-120x118.png" group-title="VARIEDADES", TV SHOW DE BOLA (RS)
-https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/chunklist_w682837868.m3u8
+https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/chunklist_w682837868.m3u8?logo-esse
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R0Ws6RP/TV-SHOW-DE-BOLA-10x-D-M-D-white-104x96.png" group-title="VARIEDADES", TV SHOW DE BOLA (RS)
 https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/chunklist_w682837868.m3u8?certo-M-M-D-logo-novo-jp
@@ -7863,6 +7872,9 @@ https://5cf4a2c2512a2.streamlock.net/globenewsusatv/globenewsusatv/chunklist_w36
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zADpkDP.png" group-title="DESENHOS/ VARIEDADES", TV CONTROLES (?)  -erro saiu do site-
 https://livefocamundo.com:8081/tvcontroles/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM6fpzR/TV-FOLHA-DO-CAMPO-55x-D-D-D-black-92x80.png" group-title="AGRONEGÓCIOS", TV FOLHA DO CAMPO (SP)
+https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w492114406.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0ZPcxv/TV-CIRCUITO-88x88.jpg" group-title="VARIEDADES", TV CIRCUITO (SP)
 https://cdn.jmvstream.com/w/AVJ-12968/playlist/chunklist.m3u8

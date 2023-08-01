@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="INICIO", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
 
 LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
@@ -395,8 +395,11 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8?olhosnatv-atu
 #EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="EDUCATIVOS", CANAL SAÚDE  -erro-
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/faap-logo-DFB7B16DA0-seeklogo.com.png" group-title="EDUCATIVOS", TV FAAP.
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/faap-logo-DFB7B16DA0-seeklogo.com.png" group-title="EDUCATIVOS", TV FAAP  .
 https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8?olhosnatv-saiu-do-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5s2fp5H/TV-Faap-235x57.png" group-title="CULTURAS/ EDUCATIVOS", TV Faap  ..
+https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8?olhosnatv-logo-jp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/72/Logo_da_TV_Unisantos.png" group-title="EDUCATIVOS", TV UNISANTOS (SP) TV Brasil Web  -novo-
 https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8?c3520df77b0fc2b7d4b994c949e54bdb?olhosnatv-atual
@@ -1707,10 +1710,13 @@ https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w508058631.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1BGtGc/ABBA-RTV-15x-M-M-D-blue-256x256.png" group-title="VARIEDADES", ABBA RTV (RS)  ..
 https://video01.kshost.com.br/adilson8953/adilson8953/chunklist_w1470767162.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DVqym6y/REDE-FENIX-104x84.jpg" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE FÊNIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DVqym6y/REDE-FENIX-104x84.jpg" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE FÊNIX (RJ)  -site-
+https://a.cdni.live/celenir3869/celenir3869/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DVqym6y/REDE-FENIX-104x84.jpg" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE FÊNIX (RJ)
 https://a.cdni.live/celenir3869/celenir3869/chunklist_w386513281.m3u8?olhosnatv-logo-jp-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N21Rnwq/REDE-FENIX-14x-D-D-D-white-104x84.png" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE FÊNIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N21Rnwq/REDE-FENIX-14x-D-D-D-white-104x84.png" group-title="DESENHOS/ FILMES/ VARIEDADES", REDE FÊNIX (RJ)
 https://a.cdni.live/celenir3869/celenir3869/chunklist_w386513281.m3u8?olhosnatv-logo-jp-02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YXvJ0pg/REDE-NEWS-TV-104x88.jpg" group-title="DESENHOS/ VARIEDADES", REDE NEWS TV (MA)
@@ -2114,6 +2120,9 @@ https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/chunklist_w179365615
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh0gmQ3/TV-ALLEGRO-18x-D-D-D-white-104x104.png" group-title="VARIEDADES", ALLEGRO WEB TV (MG)  -erro-
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.jpg" group-title="VARIEDADES", TV DIÁRIO DO SERTÃO (PB)  -cxtv-
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5YYF4w7/TV-DIARIO-DO-SERTAO-65x-D-D-D-blue-154x60.png" group-title="VARIEDADES", TV DIÁRIO DO SERTÃO (PB)  -site novo-=Site-atual-logo-novo-jp=
 https://wz3.dnip.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
@@ -2775,8 +2784,11 @@ https://stmv1.liveplushd.com.br/chdtv/chdtv/chunklist_w2016427704.m3u8?logo-jp-0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYM6Rh2/CHD-TV-20x-D-D-D-black-154x80.png" group-title="EVANGÉLICOS", CHD TV (CE)
 https://stmv1.liveplushd.com.br/chdtv/chdtv/chunklist_w2016427704.m3u8?logo-jp-02
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1szgzXS/TV-Alagoinha-18x-M-M-D-white-118x118.png" group-title="FILMES/ VARIEDADES", TV Alagoinha (TV evangelizar - PB)  -Diário do Sertão-
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w2078204777.m3u8?logo-jp-novo-link-velho
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1szgzXS/TV-Alagoinha-18x-M-M-D-white-118x118.png" group-title="VARIEDADES", TV ALAGOINHA - TV evangelizar (PB)
-https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w553589409.m3u8
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w553589409.m3u8?olhosnatv-atual
 
 #EXTINF:-1 tvg-logo="https://tvalagoinha.com.br/sistema/arquivos/imagens/jp-news-logo-removebg-preview-1-[01-06-23][12-51-10].png" group-title="VARIEDADES", TV ALAGOINHA IPAUMIRIM - TV evangelizar (CE)  -site-
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8?site
@@ -2877,10 +2889,13 @@ https://5cf4a2c2512a2.streamlock.net/globenewsusatv/globenewsusatv/chunklist_w36
 #EXTINF:-1 tvg-logo="https://imgur.com/zADpkDP.png" group-title="DESENHOS/ VARIEDADES", TV CONTROLES (?)  -erro saiu do site-
 https://livefocamundo.com:8081/tvcontroles/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ2ggG6/WEB-TV-STTATTUS-96x88.jpg" group-title="VARIEDADES", WEB TV STTATTUS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bbae3b_a04b16f7b9a74c958974fd1cfd62e708~mv2.png" group-title="VARIEDADES", WEB TV STTATTUS (RS)  -site-
+https://stmv1.transmissaodigital.com/sttattus/sttattus/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ2ggG6/WEB-TV-STTATTUS-96x88.jpg" group-title="VARIEDADES", WEB TV STTATTUS (RS)
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1334357876.m3u8?olhosnatv-logo-jp-01
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6B7kzhg/WEB-TV-STTATTUS-21x-D-D-D-white-96x88.png" group-title="VARIEDADES", WEB TV STTATTUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6B7kzhg/WEB-TV-STTATTUS-21x-D-D-D-white-96x88.png" group-title="VARIEDADES", WEB TV STTATTUS (RS)
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1334357876.m3u8?olhosnatv-logo-jp-02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzdFKNs/MOTORVISION-TV-18x-M-M-D-white-94x94.png" group-title="AUTOMÓVEIS", MOTORVISION TV (Alemanha)  -ottera.tv-
@@ -3887,11 +3902,33 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL-site
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMluWZHO33RmKWq8sbwuaKqjH-sX_bnI90CX0VyYmeqbsTJULcUB4bYitojF2PsOUeGeVzOrvCN0NwtZ69q0A_vv0EdwUgzZ2pQP5NALc-_EoBtnKr_6-Mo2Lmgry1KNG_1Ybr0Vn-eb7czBi6PDKJDGB55zwgC9bu3BMrJfIMMJRRU1Epe6EVNCJ0fU8/s200/UNBTV.jpg" group-title="EDUCATIVOS", UNBTV  =novo=
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMluWZHO33RmKWq8sbwuaKqjH-sX_bnI90CX0VyYmeqbsTJULcUB4bYitojF2PsOUeGeVzOrvCN0NwtZ69q0A_vv0EdwUgzZ2pQP5NALc-_EoBtnKr_6-Mo2Lmgry1KNG_1Ybr0Vn-eb7czBi6PDKJDGB55zwgC9bu3BMrJfIMMJRRU1Epe6EVNCJ0fU8/s200/UNBTV.jpg" group-title="EDUCATIVOS", UNBTV (Canal Universitário de Brasília - DF)  =olhosnatv=novo=site=
 https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWeR7WSI/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZVI3V1NJL2luZGV4Lm0zdTg_eD0xJm09N3h2SzE0c19ad3ZlUTdMaC1xOXd1UQ&x=1&p=0&m=yUXcXk1vfNyu4ioRhvTJQg
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_R8Z9mCU1PusMGKAzd4aR60An-Dn-iNRzKKaohPIdF7ZKlLCNsw2c7b7QAYoK0WPqZUdYjzbeUIM7XhZRwnTKf8gm3PQpID1p6iIP6OPv7g7qlJdnpnq0Pj8q2YI4wUIuV8GCcWgxM1gjZM_LATJD3BcNp0M9zA7mObERoRsNbvv694Qex6XLPYRqiRo/s200/TV%20UFOP.jpg" group-title="EDUCATIVOS", TV UFOP  =novo= .?.
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_R8Z9mCU1PusMGKAzd4aR60An-Dn-iNRzKKaohPIdF7ZKlLCNsw2c7b7QAYoK0WPqZUdYjzbeUIM7XhZRwnTKf8gm3PQpID1p6iIP6OPv7g7qlJdnpnq0Pj8q2YI4wUIuV8GCcWgxM1gjZM_LATJD3BcNp0M9zA7mObERoRsNbvv694Qex6XLPYRqiRo/s200/TV%20UFOP.jpg" group-title="EDUCATIVOS", TV UFOP (Universidade Federal de Ouro Preto - MG)  =olhosnatv=novo=site=
 https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWdcMzXY/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZGNNelhZL2luZGV4Lm0zdTg_eD0xJm09MVEzeHFLTW9YUE9wRXdzQWhoRWtDQQ&x=1&p=0&m=-vU7Au4NkLFrLeA0hdgsFA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKR1ggF/Unicruz-Play-30x-D-406x179.png" group-title="EDUCATIVOS", Unicruz Play (Canal Universitário da Região Noroeste do Rio Grande do Sul - RS)  =novo=site=.?.
+https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWdm7Z5w/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZG03WjV3L2luZGV4Lm0zdTg_eD0xJm09cTF6blRrSHpiRU1qOGoyY3pwMlpsZw&x=1&p=0&m=RyyWAuW-p2kLvwIAgQUvnw
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q_PgEmCqKW8/YTD0TXMFwgI/AAAAAAAAFQ4/YArBTVaG5e8AYh3QYtz7QQe2mQZ_HNIiwCLcBGAsYHQ/s200/TV%2BBRASIL.png" group-title="EDUCATIVOS", TV Brasil (DF)  =novo=site=.?.
+https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWeHe-90/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZUhlLTkwL2luZGV4Lm0zdTg_eD0xJm09bzBDMnE0UVhvZlotSU5zSWhLOVAtZw&x=1&p=1&m=fHA0Djw05QvtK3aYCT3rqA
+
+#EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="EDUCATIVOS", Canal Saúde (RJ)  =novo=site=
+https://maestro-prd-nh.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvQ0Z3YXBXZHNXQ1lRL2luZGV4Lm0zdTg_eD0xJm09aHFFQXU3SHpxVDJUVmpuRU5TZjZmUQ&x=1&p=0&m=5SsUm1zcekFQtIe6KyRb-A
+
+#EXTINF:-1 tvg-logo="http://www.tvuniversitaria.ufu.br/sites/tvuniversitaria.ufu.br/files/styles/large/public/tvu-original.png?itok=26d9kKJF" group-title="EDUCATIVOS", TV CULTURA (MG) TVU Uberlândia .eduplay. ok- ===
+https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDMzMzA5L2luZGV4Lm0zdTg_eD0xJm09bFl0WHFTb252RThCTWdIQjFRdVRvUQ&x=1&p=0&m=NQZ4NSVHgGFYosmSsiqS6w
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="EDUCATIVOS", TV UFG (Universidade Federal de Goiás) . ok- .olhosnatv. ===
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1868854318.m3u8?olhosnatv-logo-wikimedia
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="EDUCATIVOS", UFG TV - ok -cxtv.site- ===
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?cxtv-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SB7p4hB/UPF-TV-130x129.png" group-title="EDUCATIVOS", UPF TV (Universidade de Passo Fundo) .eduplay. ok- .logo-jp. ===
+https://maestro-prd-nh.eduplay.rnp.br/route/channel51214/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDUxMjE0L2luZGV4Lm0zdTg_eD0xJm09Q0w4NXVXNjlRSEFsdDZIQjN3M0tRZw&x=1&p=0&m=OLv4DvyIcNog1Qvypp5gag
+
 
 #EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2019/02/logo-tveradio-encontro-das-aguas.png" group-title="VARIEDADES", TV ENCONTRO DAS ÁGUAS (TV Brasil - AM)  -manotv- erro
 https://manoweb.ip.tv/iframe/tvencontrodasaguas-p

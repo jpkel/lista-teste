@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="INICIO", Bem vindos sua lista IPTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="-", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
 
 LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
@@ -969,6 +969,9 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYJvh5h/CANELA-SPORTS-45x-D-D-D-black-162x52.png" group-title="ESPORTES", CANELA SPORTS (EUA)  -ottera.tv-
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gb0ts/MASL-cxtv-202x202.jpg" group-title="ESPORTES", MASL - Major Arena Soccer League (EUA)  -ottera.tv-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/real-madrid-logo-77A97A4A0E-seeklogo.com.png" group-title="ESPORTES", REAL MADRID TV (Espanha)  -cxtv-ottera.tv-
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
@@ -1071,8 +1074,8 @@ https://acesso.ecast.site:3922/live/redengtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0c4xg1S/TV-GENIALL-3x-M-M-D-white-500x400.png" group-title="FILMES/ SERIADOS", GENIALL STUDIO TV - Rede TV Geniall (RJ)  -só pega no site-
 https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8?olhosnatv-cxtv-site
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title="FILMES/ SERIADOS", Rede TV Geniall (RJ)  -cxtv-site-
-https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/0f114ef4dc002fb161280d2f87b5edd7.jpg" group-title="FILMES/ SERIADOS", Rede TV Geniall (RJ)  -cxtv-site- !Sem?S?
+http://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1KtsScK/TV-RECORDACOES-7x-M-M-D-white-340x304.png" group-title="FILMES/ FILMES 24H", TV RECORDAÇÕES WEB (CE)  -site-
 https://srv3.zcast.com.br/tvrecordacoes/tvrecordacoes/playlist.m3u8?site-logo-jp
@@ -1574,6 +1577,9 @@ https://cdnh74.iblups.com/hls/irtp.m3u8?ipgotv.net.br
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37g5WYV/PERU-CHANNEL-14x-D-D-D-black-154x78.png" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (RJ)  -cxtv-
 https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37g5WYV/PERU-CHANNEL-14x-D-D-D-black-154x78.png" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (RJ)  -novo-
+https://stmv3.duvoxtv.com.br/peruchanel/peruchanel/chunklist_1809422224.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37g5WYV/PERU-CHANNEL-14x-D-D-D-black-154x78.png" group-title="FILMES/ SERIADOS/ VARIEDADES", PERÚ CHANNEL (RJ)  .-erro-
 https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/chunklist_w1809422224.m3u8?logo-novo-jp
@@ -4031,6 +4037,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/76c1f7bf76617738201aa7ad7ca01972.jpg" group-title="DOCUMENTÁRIOS", Nature Time (Espanha)  -cxtv-
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89902ad1c93745ba04306321089fd39d.jpg" group-title="DOCUMENTÁRIOS", Love Nature (Canadá)
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8?cxtv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDL0DrX/Love-Nature-rgba-255-0x-D-D-D-600x340.png" group-title="DOCUMENTÁRIOS", Love Nature (Canadá)
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8?cxtv-logo-jp
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20200709_232814.png" group-title="MÚSICAS", NATURE SCAPE (Canadá)  -ottera.tv-
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041

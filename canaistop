@@ -176,28 +176,31 @@ http://177.137.208.46:9080/hls/brsupertv.m3u8?site
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMXt81n/TV-BRUSQUE-1x-D-D-D-grey-130x130-2.png" group-title="VARIEDADES", TV BRUSQUE (SC) Rede Brasil
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w1000216306.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="VARIEDADES", Rede Brasil - TV Marajoara (PA)  -listaiptv-
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?listaiptv
+#EXTINF:-1 tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2023/06/logotipo.png" group-title="VARIEDADES", Rede Brasil - TV Marajoara (PA)  -site-
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?site
 
-#EXTINF:-1 tvg-logo="https://www.grupomarajoara.com.br/wp-content/uploads/sites/21/2022/12/Design-sem-nome-2.png" group-title="VARIEDADES", TV MARAJOARA (PA) Rede Brasil
-https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://www.grupomarajoara.com.br/wp-content/uploads/sites/21/2022/12/Design-sem-nome-2.png" group-title="VARIEDADES", TV MARAJOARA (PA) Rede Brasil  -tela colorida-
+https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8?olhosnatv-tela-colorida
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r33wDxW/TV-MARAJOARA-7x-D-M-D-white-100x100.png" group-title="VARIEDADES", TV MARAJOARA (PA) Rede Brasil
-https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8?olhosnatv-logo-novo-jp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r33wDxW/TV-MARAJOARA-7x-D-M-D-white-100x100.png" group-title="VARIEDADES", TV MARAJOARA (PA) Rede Brasil  -tela colorida
+https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w584742636.m3u8?olhosnatv-logo-novo-jp-tela-colorida
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftXjn14/TV-Radio-Super-Marajoara-70x-M-M-D-blue-870x720.png" group-title="VARIEDADES", TV Rádio Super Marajoara (PA)  -:site:-logo-jp-site-
 https://streaming03.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ftXjn14/TV-Radio-Super-Marajoara-70x-M-M-D-blue-870x720.png" group-title="VARIEDADES", TV Rádio Super Marajoara (PA)  =TESTE-JP-apagar depois=-:site:-logo-jp-site-
-https://streaming03.zas.media:1936/supermarajoara/supermarajoara/chunklist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftXjn14/TV-Radio-Super-Marajoara-70x-M-M-D-blue-870x720.png" group-title="VARIEDADES", TV Rádio Super Marajoara (PA)  -site-
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g46CbgX/Radio-Mix-FM-100-9-21x-M-D-D-white-150x150.png" group-title="VARIEDADES", Rádio Mix FM 100.9 (PA)  -site-
+https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8?site
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Logotipo_da_TV_V%C3%A1rzea_Grande.png" group-title="VARIEDADES", TVG TV VÁRZEA GRANDE (MT) Rede Brasil 
 https://video01.kshost.com.br/adauton7191/adauton7191/chunklist_w733001414.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFyz4FS/TV-Ecovale-TVG-24x-M-300-X220.png" group-title="VARIEDADES", TV ECOVALE TVG (MT) Rede Brasil  ..-novo-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFyz4FS/TV-Ecovale-TVG-24x-M-300-X220.png" group-title="VARIEDADES", TV ECOVALE TVG (MT) Rede Brasil  -novo-
 https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/chunklist_w1656396537.m3u8?olhosnatv-atual
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gFyz4FS/TV-Ecovale-TVG-24x-M-300-X220.png" group-title="VARIEDADES", TV ECOVALE TVG (MT) Rede Brasil  .-erro-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFyz4FS/TV-Ecovale-TVG-24x-M-300-X220.png" group-title="VARIEDADES", TV ECOVALE TVG (MT) Rede Brasil  -erro-
 https://livefocamundo.com:8081/tvecovale/tracks-v1a1/mono.m3u8?olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NYq9G3h/TBO-TV-Brasil-Oeste-92x-D-D-D-black-164x92.png" group-title="VARIEDADES", TBO TV BRASIL OESTE (MT) RBTV
@@ -227,17 +230,20 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?olhosnatv-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="EDUCATIVOS", TV BRASIL (TVE - RS)
 https://streaming.procergs.com.br:8443/tve/stve/chunklist_w282027462.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="VARIEDADES", TV Brasil (TVE Cultura - MS)  -Listaiptv-
+#EXTINF:-1 tvg-logo="http://www.portaldaeducativa.ms.gov.br/wp-content/uploads/elementor/thumbs/logo-2023-tv-q2n136splldiuk149cfr4vfbgw89z6smv17k63tvk0.png" group-title="VARIEDADES", Rede Educativa MS
+http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8?site
+
+#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="VARIEDADES", TVE MS (Rede Educativa - MS)  -Listaiptv-
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8?Listaiptv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vXCJbv/Rede-Minas.png" group-title="EDUCATIVOS/ VARIEDADES", REDE MINAS (MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KX8wvcG/TV-Diversa-33x-D-D-D-black-120x120.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Diversa - MG)
-https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=2061839296005232600?olhosnatv
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d24Vmxt/TV-Diversa-52x-edit-D-D-D-green-300x300.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Diversa - MG)  -cxtv-
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KX8wvcG/TV-Diversa-33x-D-D-D-black-120x120.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Diversa - MG)  -olhosnatv-
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=2061839296005232600?olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqOAIgT.png" group-title="VARIEDADES", TV PLAN (TV Brasil - MG)
 https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w721471161.m3u8?d67cf29eac3f8f975173338afaa008d1?olhosnatv
@@ -296,11 +302,11 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?Listaiptv
 #EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  . -site-
 https://5c483b9d1019c.streamlock.net:443/8022/8022/playlist.m3u8?site
 
+#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  .. -olhosnatv-atual-
+https://5c483b9d1019c.streamlock.net/8022/8022/chunklist_w268730325.m3u8?olhosnatv-atual
+
 #EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  . -site-olhosnatv-velho-
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?site-olhosnatv-velho
-
-#EXTINF:-1 tvg-logo="https://www.tvbejoinville.com.br/wp-content/uploads/sites/1301/2022/11/ok-2.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TVBE Joinville - SC)  .. -olhosnatv-atual-
-https://5c483b9d1019c.streamlock.net/8022/8022/chunklist_w268730325.m3u8?olhosnatv-novo
 
 #EXTINF:-1 tvg-logo="https://www.band.fm.br/wp-content/uploads/2020/03/LOGO-TV-300x242.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Guarapari - ES).
 https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/chunklist_w1975377509.m3u8?olhosnatv-logo-band-fm-br
@@ -413,7 +419,7 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8?olhosnatv-velho
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/faap-logo-DFB7B16DA0-seeklogo.com.png" group-title="EDUCATIVOS", TV FAAP  .
 https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8?olhosnatv-saiu-do-site
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5s2fp5H/TV-Faap-235x57.png" group-title="EDUCATIVOS", TV Faap  ..
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="EDUCATIVOS", TV Faap  ..
 https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w386799166.m3u8?olhosnatv-logo-jp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/72/Logo_da_TV_Unisantos.png" group-title="EDUCATIVOS", TV UNISANTOS (SP) TV Brasil Web  -novo-
@@ -1503,6 +1509,12 @@ https://streaming01.zas.media/gideoes/programacao/chunklist_w1634695127.m3u8?log
 
 #EXTINF:-1 tvg-logo="https://www.adcamboriu.com.br/wp-content/uploads/sites/3/2021/12/vozmissionaria.png" group-title="EVANGÉLICOS", Rádio Gideões (SC)  -site-
 https://streaming01.zas.media:443/vozmissionaria/radio/playlist.m3u8?site-radioGideoes
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93qhHcs/Dunas-TV-4x-D-D-D-black-512x512.png" group-title="VARIEDADES", Dunas TV (RN)  -saiu do site-
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8?olhosnatv-logo-jp
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tGo2hG1.png" group-title="VARIEDADES", DUNAS TV (RN)  -listaiptv-
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6KHGXbM.png" group-title="VARIEDADES", TCM 10 HD (RN)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8

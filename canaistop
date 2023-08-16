@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="ínicio", Bem vindos sua lista IPTV
+#EXTINF:-1 tvg-logo="https://archive.org/download/IconLogo_201903/icon%20logo.png" group-title="ÍNICIO", Bem vindos sua lista IPTV
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
 
 LISTA IPTV 2023 ATUALIZADA - João Paulo - 22/01/2023 - OLHOS NA TV -
@@ -751,7 +751,10 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w432289428.m3u8?olhosnatv-atua
 http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8?boytvcanais-com-br
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jy3dy74/Locomotion-TV-12x-D-black-260x66.png" group-title="ANIMES", Locomotion TV (Argentina)
-http://51.222.85.85:81/hls/loco/index.m3u8?logo-jp03-olhos-na-tv-saiu-do-site
+http://51.222.85.85:81/hls/loco/index.m3u8?logo-jp03-olhosnatv-saiu-do-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HNMvWym/Locomotion-TV-cxtv-72x-M-D-D-black-200x200.png" group-title="ANIMES", Locomotion TV (Argentina)
+http://51.222.85.85:81/hls/loco/index.m3u8?olhosnatv-saiu-do-site-logo-cxtv
 
 #EXTINF:-1 tvg-logo="https://azxtv.com/aztv.png" group-title="ANIMES", AZTV - Anime Zone TV (Espanha)  -cxtv-
 http://azxtv.com/hls/stream.m3u8?Site-cxtv
@@ -1810,6 +1813,9 @@ https://Stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cwsRPqD/Rede-Uniao-Brasilia.png" group-title="VARIEDADES", TV União Fortaleza (CE)  -cxtv-site-mundou link-
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8?site-logo-jp-brasilia-mundou-link
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVm9j4C/TVM-Para-cxtv-6x-D-D-D-black-500x500.png" group-title="VARIEDADES", TVM Pará (Rede União - PA)  -cxtv-
+https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?cxtv-logo-cxtv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA8UGax.png" group-title="VARIEDADES", TV SERTÃO PETROLINA (PE)
 https://video01.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8
@@ -4237,6 +4243,9 @@ https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkPcdZL/Tv-Assembleia-CE-18x-M-white-527x414.png" group-title="GOVERNAMENTAIS", Tv Assembléia Ceará (CE)
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8?site-logo-jp
+
+#EXTINF:-1 tvg-logo="https://www.maracanau.ce.gov.br/wp-content/uploads/2021/08/tv-potiguara-site.png" group-title="GOVERNAMENTAIS", Tv Potiguara Maracanaú (CE)
+https://stmv1.samcast.com.br/francisco1875/francisco1875/playlist.m3u8?cxtv-logo-site
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9aa5f47971ce95210c0259adae957ab8.jpg" group-title="VARIEDADES", Tv Ibiapabana IBITV - São Benedito (CE)
 https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8?cxtv

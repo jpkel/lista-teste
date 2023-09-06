@@ -548,10 +548,13 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72mGJvk/RETRO-CARTOON-0x-M-256x256-2.png" group-title="DESENHOS", RETRÔ CARTOON 2 (SP)  -fora do ar-
 https://stmv3.voxtvhd.com.br/retroncartoon/retroncartoon/playlist.m3u8?olhosnatv-saiu-do-site
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV (SP)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV (SP)  -novo-
+https://video01.kshost.com.br/rogerio7271/rogerio7271/playlist.m3u8?t=1693185514?olhosnatv
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV (SP)  -erro-
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8?olhosnatv-logo-listaiptv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwV1RY2/VINTAGE-TV-5x-D-M-D-white-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV (SP)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwV1RY2/VINTAGE-TV-5x-D-M-D-white-256x256.png" group-title="DESENHOS/ FILMES/ SERIADOS", VINTAGE TV (SP)  -erro-
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8?olhosnatv-logo-jp-tvbr-ruim
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPGLQGb/BONS-TEMPOS-TV-57x-D-D-D-blue-520x420.png" group-title="DESENHOS/ FILMES/ SERIADOS", BONS TEMPOS TV (BA)  -fora do ar-saiu do site-
@@ -589,6 +592,15 @@ https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8?olhosnatv-velho-correto
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6Cny4k/TV-MAIS-BRASIL-1x-D-M-D-grey-256x256.png" group-title="FILMES/ FILMES CLÁSSICOS/ SERIADOS/ VARIEDADES", TV MAIS BRASIL (SP)
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?olhosnatv-site
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8P6RvhV/LASSTV-14x-D-M-D-white-168x52.png" group-title="FILMES/ VARIEDADES", LASS TV (RJ)  ...-ok- 2 saiu do site- -Voltou Site-Atual-Olhos na TV
+https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8?olhosnatv-atual-logo-jp-mais-novo
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/650325d9001515de8d0f9fc5ae126c70.jpg" group-title="FILMES/ VARIEDADES", LASS TV (RJ)  ..-ok- 2 saiu do site- -Voltou Site-
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w1755884143.m3u8?olhosnatv-velho-logo-cxtv
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/650325d9001515de8d0f9fc5ae126c70.jpg" group-title="FILMES/ VARIEDADES", LASS TV (RJ)  .-erro- 1 saiu do site- -Voltou Site-
+https://stmv1.srvstm.com/luiz1776/luiz1776/chunklist_w612183159.m3u8?olhosnatv-atual-logo-cxtv-erro
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fSbpCw/TV-LAGOA-DANTAS-28x-D-D-D-black-102x101.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ TOKUSATSUS", TV LAGOA DANTAS (PI)  ...-atual-
 https://stmv4.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w2011427906.m3u8?olhosnatv-atual-2
@@ -930,6 +942,9 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?site-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://varioscanais.com/wp-content/uploads/2021/09/Gospel-Cartoon.png" group-title="DESENHOS/ EVANGÉLICOS", GOSPEL CARTOON (SP)  .
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1185340284.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7CFDN6h/GOSPEL-CARTOON-1x-D-256x63.png" group-title="DESENHOS/ EVANGÉLICOS", GOSPEL CARTOON (SP)  ..
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1185340284.m3u8?olhosnatv-atual-logo-tvbr-jp
 
 
 === Página 02 ===
@@ -4365,12 +4380,6 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ps-str.srvsite.com/arquivos/7779/cabecalho-7779-20211110211949.png" group-title="FILMES/ VARIEDADES", Tv Tremembé - Itarema (CE)
 https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8?cxtv
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/650325d9001515de8d0f9fc5ae126c70.jpg" group-title="FILMES/ VARIEDADES", LASS TV (RJ)  .-erro- 1 saiu do site- -Voltou Site-
-https://stmv1.srvstm.com/luiz1776/luiz1776/chunklist_w612183159.m3u8?olhosnatv-atual-logo-cxtv
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/650325d9001515de8d0f9fc5ae126c70.jpg" group-title="FILMES/ VARIEDADES", LASS TV (RJ)  ..-ok- 2 saiu do site- -Voltou Site-
-https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w1755884143.m3u8?olhosnatv-velho-logo-cxtv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t41bXLp/ALPHA-CHANNEL-TV-rgba-0-0x-D-D-D-440x464.png" group-title="VARIEDADES", ALPHA CHANNEL TV (SP)
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8

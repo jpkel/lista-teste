@@ -84,7 +84,7 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?olhosnatv-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Cidade Verde - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png" group-title="FILMES/ SERIADOS/ TOKUSATSUS/ VARIEDADES", SBT (SERRA DOURADA - GO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (SERRA DOURADA - GO)
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/playlist.m3u8?olhosnatv-site-velho-entorno-sul-web-tv-sbt-serra-dourada
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-jornal-2010-logo-639E1B9674-seeklogo.com.png" group-title="CANAIS ABERTOS/ VARIEDADES", SBT (TV Jornal Recife - PE)  -listaiptv-
@@ -138,7 +138,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logotipo_da_TV_Pampa_%282021%29.png/200px-Logotipo_da_TV_Pampa_%282021%29.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Pampa - RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VM9Z8FJ/Rede-TV-ES-12x-M-500x500.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (Espírito Santo - ES)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VM9Z8FJ/Rede-TV-ES-12x-M-500x500.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (Espírito Santo - ES)  .?.
 https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8?olhosnatv-Variedades
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhGz8b2/ESFLIX-TV-18x-D-D-D-black-154x36.png" group-title="VARIEDADES", ES FLIX TV (Rede TV! - ES)
@@ -150,11 +150,17 @@ https://livefocamundo.com:8081/redetvbelem/index.m3u8?olhosnatv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV O Dia - PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8?olhosnatv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1GJ8FPb/REDE-TV-Parana-rgba-0-0x-D-D-D-286x173.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (Paraná - PR)
-https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w2134087726.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GJ8FPb/REDE-TV-Parana-rgba-0-0x-D-D-D-286x173.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (Paraná - PR)  .ok.velho.
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w2134087726.m3u8?olhosnatv-velho
 
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9077/cabecalho-9077-20220921180821.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Mais - PR)
-https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?olhosnatv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GJ8FPb/REDE-TV-Parana-rgba-0-0x-D-D-D-286x173.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (Paraná - PR)  .ok.atual.+++
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1700162686.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9077/cabecalho-9077-20220921180821.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (Mais Umuarama - PR)  -novo-+++
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8?olhosnatv-atual
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9077/cabecalho-9077-20220921180821.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Mais - PR)  -erro-
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?olhosnatv-velho-erro
 
 #EXTINF:-1 tvg-logo="http://www.tvpantanalcba.com.br/imagens/logopng.png" group-title="CANAIS ABERTOS/ VARIEDADES", REDE TV! (TV Pantanal - MS)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist-480p.m3u8?olhosnatv-Variedades
@@ -312,6 +318,9 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8?site-olhosnatv-velh
 #EXTINF:-1 tvg-logo="https://www.band.fm.br/wp-content/uploads/2020/03/LOGO-TV-300x242.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Guarapari - ES).
 https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/chunklist_w1975377509.m3u8?olhosnatv-logo-band-fm-br
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JpXKSD/TV-SIM-ES-200x200-removebg-preview.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Linhares - ES)  +++
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?olhosnatv-logo-cxtv-jp
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/652df97e161ddc78f689cf89457d389b.png" group-title="CANAIS ABERTOS/ VARIEDADES", TV BRASIL (TV Sim Linhares - ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist-480p.m3u8?olhosnatv
 
@@ -447,8 +456,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS (TV Sim - ES)  -olhosnatv atual-
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w744795613.m3u8?olhosnatv-atual
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS (TV Sim - ES)  -site-
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?site-olhosnatv-velho
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Twm0SSZ/RECORD-NEWS-TV-Sim-ES-i-Vl-D2q-P-removebg-preview.png" group-title="CANAIS ABERTOS/ NOTÍCIAS", RECORD NEWS (TV Sim - ES)  -site-
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?site-olhosnatv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwN1Pp2/JOVEM-PAN-NEWS-32x-M-D-D-white-165x33.png" group-title="NOTÍCIAS", TV JOVEM PAN NEWS  -site-
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?Site
@@ -1268,6 +1277,12 @@ https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8?olhosnatv-velho
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV MON HD (RS)
 https://srv1.zcast.com.br/tvmon/tvmon/chunklist_w1603955057.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1CMQ0s/VIVAX-TV-156x56-removebg-preview.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", VIVAX TV (SP)  -novo-+++
+https://cdn.jmvstream.com/w/LVW-14375/ngrp:LVW14375_v81W7a1VHm_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_236,h_190,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", VIVAX TV (SP)  -site-novo-+++
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8?site
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b1121864a0ef786aa912933fa709b6ab.jpg" group-title="EVANGÉLICOS/ VARIEDADES", Rede CNT PR (Londrina)  -erro-
 https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina.m3u8?cxtv
@@ -1329,10 +1344,10 @@ https://cdn.jmvstream.com/w/AVJ-13064/playlist/playlist.m3u8?olhosnatv-Serra-Ver
 #EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="FILMES/ VARIEDADES", TV NORDESTE (CE)
 https://cdn.jmvstream.com/w/AVJ-13064/playlist/chunklist.m3u8?olhosnatv-tv-nordeste
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV CARIOCA NET - Tv Carioca Internacional (RJ)  ...ok-olhosnatv-novo3 ===
+#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV CARIOCA NET - Tv Carioca Internacional (RJ)  ...ok-olhosnatv-novo3 ===
 https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8?olhosnatv-novo3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nbf2bYT/TV-Carioca-Internacional-01-200x200-Photo-Room-png-Photo-Room.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV CARIOCA NET - Tv Carioca Internacional (RJ)  ..erro-olhosnatv-novo2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbf2bYT/TV-Carioca-Internacional-01-200x200-Photo-Room-png-Photo-Room.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV CARIOCA NET - Tv Carioca Internacional (RJ)  ..erro-olhosnatv-novo2
 https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w522912978.m3u8?olhosnatv-novo2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVHb4B1/TV-Carioca-Internacional-02-200x200-removebg-preview.png" group-title="CLÁSSICOS/ FILMES/ SERIADOS/ VARIEDADES", TV CARIOCA NET  .erro-olhosnatv-novo1
@@ -1463,11 +1478,14 @@ https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="DESENHOS/ KIDS", TOON GOGGLES BRASIL (BRA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vhkS4dg/ABC-BRASIL-28x-M-M-D-white-120x118.png" group-title="FILMES/ SERIADOS/ VARIEDADES", ABC BRASIL (SP)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vhkS4dg/ABC-BRASIL-28x-M-M-D-white-120x118.png" group-title="CLÁSSICOS/ DESENHOS/ FILMES/ SERIADOS/ VARIEDADES", ABC BRASIL (SP)
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", KPOP TV PLAY (SP)
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", KPOP TV PLAY (SP)  -novo-+++
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?olhosnatv-novo
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL", KPOP TV PLAY (SP)  -erro-
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8?olhosnatv-velho
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/thekpop.jpg" group-title="MÚSICAS/ VIDEOCLIPES MUSICAL",The K-pop (Coréia do Sul) (Youtube)  -listaiptv-
 https://ythlsgo.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8?listaiptv
